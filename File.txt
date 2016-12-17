@@ -1,0 +1,314 @@
+---
+layout: default
+title: Microservices auf Commodity Hardware Teil 1 - Provisionierung mit Ansible
+shortTitle: Microservices und Commodity Hardware - Teil 1
+documentationExpanded: false
+comments: true
+postsExpanded: true
+categories: microservices spring-boot distributed-systems
+excerpt: excerpt
+root: ../../
+---
+
+# Scaling out Microservices - Verteilte Systeme auf einfachster Hardware - Teil 1
+
+## Das Projekt
+
+Verteilte Systeme sind aus der Sicht eines IT Experten unglaublich interessant. Man kann hier so ziemlich alles
+praktisch anwenden, was man während des Studiums gelernt hat.
+
+- Netzwerk Know How
+- Verteilte Systeme
+- Data Sharding
+- Betriebssysteme
+- Konfigurationsmanagement
+- Modulare Software
+- Ausfallsicherheit
+- ... vieles mehr...
+
+Und... verteilte Systeme sind gerade sehr gefragt. Von einem IT Experten wird erwartet, dass sich dieser mit
+verteilten Systemen beschäftigt. Heutzutage nennt man verteilte Systeme grundsätzlich _Microservices_, denn dies ist
+das Marketing-taugliche Buzzword was sich mehr als gut verkaufen lässt.
+Auch dieser _Hype_ wird vorbeigehen und genauso wie _SOA_ verbrannte Erde zurücklassen soweit das Auge reicht. Nichts
+ desto trotz sind die Ideen und Konzepte hinter dem Begriff _Microservice_ alles andere als neu.
+
+Was ist denn jetzt das große Verkaufsargument für ein verteiltes System im Gegenteil zu dem _momentan_ verhassten
+Monlithen? Das Verkaufsargument Nummer 1 lautet _Time to Market_. Microservices lassen sich schnell entwickeln,
+schnell ändern und schnell neu schreiben. Faustregel, die ich für realistisch halte - ein _Microservice_ sollte
+innerhalb von 2-3 Wochen _from scratch_ neu geschrieben werden können.
+
+Wir unterteilen unser System also in kleine, leicht wartbare, verständliche Bausteine und Einheiten und sorgen dafür,
+dass diese Bausteine miteinander kommunizieren können. So wird das System ganz automatisch sehr modular und wir haben
+ gar keine Möglichkeit, Dinge miteinander zu vermischen, die nicht zusammen gehören.
+
+Warum aber muss das so kompliziert sein? Wenn wir mit verteilten Systemen arbeiten haben wir eine ganze Menge an
+ zusätzlicher _accidential complexity_, also Komplexität die nicht inhärent aus der Fachdomäne kommt, sondern die
+ direkt der eingesetzten Technik zuzuschreiben ist.
+ Das ist ein Tradeoff - wir tauschen Modularität (und natürlich alle weiteren Vorteile) gegen Komplexität im Betrieb
+ und der Entwicklung (und natürlich alle weiteren Nachteile).
+
+Warum muss das aber ein verteiltes System sein? Ich (und ihr hoffentlicha auch...) habe modulare Systeme geschrieben,
+die in einem einzigen Deployable geliefert wurden - ein Monolith! *Sakrileg!*
+Das funktioniert wunderbar, wenn man alleine ist oder in einem sehr kleinen Team - ich persönlich würde niemals,
+niemals, niemals ein verteiltes System entwickeln, wenn ich nur 2-3 Entwickler habe, die sich um dieses System
+kümmern. Der Mehraufwand steht in keinem Verhältnis zu den Vorteilen, die uns _Microservices_ in diesem Fall bieten.
+Das Verteilen macht dann Sinn, wenn wir es mit großen Teams zu tun haben, die an vielen verschiedenen Baustellen
+eines Systems gleichzeitig arbeiten.
+Sobald es unmöglich wird, den Gesamtüberblick über das System zu behalten könnte man darüber nachdenken, die sowieso schon implizite Aufteilung (einige Entwickler arbeiten hauptsächlich an Komponente A, andere Entwickler arbeiten hauptsächlich an Komponente B) explizit zu machen und das System in funktionale (und verteilte) Blöcke zu zerlegen.
+
+Man kann natürlich auch auf die Möglichkeiten der Sprache zurückgreifen. Wenn wir uns das Beispiel *Java*
+herauspicken, dann bietet uns die Sprache einige Möglichkeiten, Software zu modularisieren.
+Beispielsweise haben wir die Möglichkeit, *Klassen* zu schreiben, diese *Klassen* in *packages* abzulegen, und
+*packages* über das Build-Tool in *Jars* zu verpacken.
+
+Soweit so gut..  was ist das Problem? Die Module bieten uns nicht die notwendige Kapselung.
+Wenn wir beispielsweise annehmen, dass wir ein *WAR*-File in einen Tomcat deployen, dann beinhaltet dieses War-File
+alle unsere Jar-Archive, die wir so mühsam getrennt und gepackt haben.
+Zur Laufzeit haben wir nur einen flachen Classpath, alles ist prinzipiell verfügbar und kann von jedem verwendet
+werden. Die Hürden, auf Funktionalität und Interna eines Modules zuzugreifen ist sehr gering.
+
+
+[quote, Unbekannter Autor]
+____
+Ist es möglich, etwas zu verwenden, dann wird es verwendet.
+____
+
+Verteilen wir die Komponenten von vornherein, ist die Hürde beinahe unbezwingbar, denn wenn ich eine Funktionalität
+nur über deren explizit bereitgestellte API aufrufen kann (beispielsweise einen *REST*-Endpoints einer *Spring Boot*
+Anwendung), dann sehe ich nichts von deren Interna.
+Ich sehe nur die API dieses Services. Wie das System intern funktioniert bleibt vor mir verborgen.
+Selbst wenn sich das Team dass sich für diesen Service verantworlich zeigt dazu entschliesst, den Service fortan
+nicht mehr mit Java und Spring Boot, sondern mit *Go* zu implementieren bekomme ich davon nicht das geringste mit, solange sich die API nicht ändert.
+ Versuchen Sie mal einen Service innerhalb einer Java basierten Webanwendung plötzlch mit Go zu schreiben... Ungläubige Blicke  ihrer Teamkollegen sind Ihnen gewiss. Und ich bin mehr als gespannt, wie Sie das gegenüber dem Management verargumentieren, geschweige denn dem Betrieb der das irgendwie dann deployen muss...
+
+Gehen wir also im folgenden davon aus, dass wir Requirements für ein genügend komplexes System erhalten haben, und
+wir uns dazu entscheiden, ein verteiltes System zu entwickeln.
+Im folgenden geht es darum, wie dieses verteilte System aufgebaut werden kann und zwar mit möglichst geringen
+laufenden Kosten.
+
+Was verursacht denn laufende Kosten?
+Nüchtern betrachtet, dieses Projekt ist ein Hobby-Projekt, dass aber 24/7 erreichbar sein soll. Also brauchen wir
+einen Server. Cloud-Anbieter wie Amazon AWS, Google Cloud Platform etc. sind zwar realtiv billig im Vergleich würde
+man die Hardware selber kaufen und hosten, dennoch sind die laufenden Kosten für ein Hobby-Projekt zu hoch.
+
+Es muss eine bessere Möglicheit geben.
+
+## Welche Hardware?
+
+Wir brauchen möglichst billige, strom- und platzsparende Hardware, die leicht skaliert werden kann.
+Wie es der Zufall will gibt es mit dem https://www.raspberrypi.org/products/raspberry-pi-2-model-b[Raspberry PI 2,
+window="_blank"] ein System, dass sich ganz hervorragend für unseren Use-Case eignet.
+
+Der Raspberry PI 2 besitzt folgende Merkmale, die für uns interessant sind.
+
+- 900MHz quad-core ARM Cortex-A7 CPU
+- 1 GB Ram
+- Ethernet Port
+
+Mit einem knappen GHz an Rechenpower, 4 Kernen und einem Gigabyte RAM lässt sich damit in der Theorie arbeiten.
+
+Mit welchem Setup können wir also starten?
+
+Natürlich brauchen wir einige http://www.amazon.de/gp/product/B01CEFWQFA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B01CEFWQFA&linkCode=as2&tag=splitshadewor-21[Raspberries, window="_blank"]
+
+Zusätzliche http://www.amazon.de/gp/product/B009E763CO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B009E763CO&linkCode=as2&tag=splitshadewor-21[SD-Karten, window="_blank"]
+
+Wir brauchen einen USB-Hub für die Stomversorgung. Beispielsweise http://www.amazon.de/gp/product/B0000B0DL7/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B0000B0DL7&linkCode=as2&tag=splitshadewor-21[diesen, window="_blank"].
+
+Einen einfachen http://www.amazon.de/gp/product/B000MGBOHA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B000MGBOHA&linkCode=as2&tag=splitshadewor-21[Ethernet-Switch, window="_blank"]
+
+Einige http://www.amazon.de/gp/product/B004VL8XAI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B004VL8XAI&linkCode=as2&tag=splitshadewor-21[Ethernet-Patchkabel, window="_blank"]
+
+Ich habe mit zwei Raspberries angefangen, mittlerweilse stehen hier 8.
+
+TODO image
+
+### Wo kaufen und Betriebskosten
+
+Die obigen Links verweisen auf Amazon, wenn ihr mir etwas guten tun wollt. Ansonsten findet ihr Raspberries und
+Zubehör natürlich in allen größeren Online-Elektro-Händlern wie http://www.reichelt.de[Reichelt], http://www.conrad.de[Conrad].
+
+Raspberriy-Pis sind günstig in der Anschaffung - inkl. Zubehör bekommt man ein lauffähiges System mit Gehäuse schon
+für unter 50 €. Noch beeindrucker als der geringe Anschaffungspreis sind die laufenden Kosten.
+Einige Tests[https://developer-blog.net/raspberry-pi-2-stromverbrauch/] für den Raspberry sind sehr vielversprechend,
+ auch wenn ich die Ergebnisse nicht selbst nachgerechnet und kontrolliert habe.
+
+Rechnet man das zusammen (beispielsweise mit einem einfachen http://www.stromverbrauchinfo.de/stromverbrauchsrechner.php[Online-Tool, window="_blank"] kommt man auf knapp 1.5 Cent, die ein Raspberry PI unter Last am Tag kostet.
+Multiplizieren wir das Ganze mit der Anzahl der Geräte, beispielsweise wenn wir 5 Raspberries im Cluster betreiben kostet uns das 5 * 1.5 Cent = 7.5 Cent am Tag. Mal Dauerbetrieb 24 / 7 in 365 Tagen sind 2737 Cent. Den Cluster ein
+Jahr lang unter Volllast laufen zu lassen kostet also bei einem durchschnittlichen Strompreis von 0,28 Cent / KwH sage und schreibe gut 28 Euro.
+
+## Das System aufsetzen
+
+Realistisch betrachtet, was wollen wir auf unseren Cluster Knoten eigentlich betreiben? +
+Wissen wir Stand heute einfach nicht. +
+
+Mit Sicherheit einige Services, vielleich mit verschiedenen Technologien (Spring Boot, DropWizard etc.)
+Wir werden auch einiges an Infrastruktur brauchen, Monitoring, Metriken, Messaging etc. - Stand heute nicht absehbar,
+ auf welchen Knoten welche Systeme betrieben werden.
+Wir werden mit Sicherheit die eine oder andere Datenkbank brauchen. Für den Anfang reicht mit Sicherheit
+beispielsweise eine PostgreSQL. Später brauchen wir vielleicht zusätzlich eine NoSQL Datenbank, einen Key-Value-Store
+ wir Redis und so weiter und so fort.
+
+Kurz gesagt, es ist nicht genau vorhersehbar, auf welchem Knoten welches System läuft. Sicher ist aber, wir wollen
+uns so viel Freiraum und Flexibilität erhalten wie nur irgend möglich. Der _Ops_-Anteil sollte einen möglichst
+kleinen Teil unserer tagtäglichen Arbeit ausmachen. Das erreicht man *nur* über Automatisierung.
+
+In einer idealen Welt machen wir uns gar keine Gedanken, auch welchem Knoten was läuft. In einer idealen Welt sagen
+wir dem System nur, was wir benötigen und das System kümmert sich selbst darum, die ideale Auslastung für alle
+verfügbaren Knoten herzustellen.
+
+Um den _Ops_-Anteil möglichst gering zu halten wollen wir die einzelnen Knoten austauschbar machen.
+
+[quote, Adrian Cockroft]
+____
+Treat your Server like Cattle, not like Pets
+____
+
+Sobald wir damit beginnen, auf bestimmten Knoten bestimmte Software zu installieren, beispielsweise eine Datenbank
+sind die einzelnen Knoten nicht mehr austauschbar.
+Die Knoten sind fortan fest mit einem bestimmten System verbunden, beispielsweise Node4 ist die Datenbank, und alle
+anderen Knoten _wissen_, dass die Datenbank auf _Node4_ erreichbar ist.
+
+Das muss besser gehen..
+
+### Docker
+
+Ich gehe davon aus, da Sie sich dieses Buch _gekauft_ haben beschäftigen Sie sich schon länger mit dem Thema
+_DevOps_, _Pipelines_, _Verteilte Systeme_ und den Technologien dahinter.
+Ich bin sicher, Sie haben von Docker gehört und gelesen. Man kann sich eigentlich gar nicht so tief in einer Höhle
+vergraben um nicht von _Docker_ gehört zu haben.
+
+Diese Buch setzt ein gewisses Grundverständnis zu Docker voraus. Sie müssen sich hierfür nicht gleich ein Buch zu dem
+ Thema kaufen. Es reicht die einschlägige Online-Lektüre beispielsweise auf http://www.docker.com
+
+Docker könnte uns eine Lösung für das Dilemma bieten.
+
+Wir werden in diesem Buch nicht auf die Details hinter Docker eingehen. Hierfür gibt es mit Sicherheit schon genügend
+ Literatur, Blogs, Artikel und Meinungen, so dass ich hier nicht auch noch beitragen muss.
+Wieso aber ist Docker für unseren Use-Case mehr als interessant?
+
+Docker abstrahiert von der zugrundeliegenden Hardware und arbeitet vom Prinzip her ähnlich wie eine virtuelle Maschine
+nur viel einfacher. Docker erlaubt es uns, Prozesse (wie beispielseweise Services oder Datenbanken) isoliert
+auszuführen so als wären Sie ganz allein auf einem Knoten. Zusätzlich erlaubt uns Docker, Services über Host-Grenzen
+hinweg miteinander kommunizieren zu lassen.
+
+Unsere Knoten sind mit Docker wirklich nur noch _Vieh_, denn ausser einer IP und ggf. einem Hostnamen _wissen_ wir
+nichts von diesem Knoten.
+Über eine API (die Docker-API) instruieren wir einen Knoten, dass ein bestimmter Service auf diesem laufen soll.
+Um den Service zu starten müssen wir weder manuell auf dem Knoten irgendwelche Software installieren noch müssen wir
+den Knoten speziell konfigurieren. Alles was wir brauchen ist ein _leeres_ System und einen laufenden Docker-Daemon.
+
+### Hypriot Image
+
+Docker auf dem Raspberry PI zu konfigurieren ist nicht ganz trivial. Ich bin sehr sehr dankbar, dass es Firmen gibt,
+die sich mit diesen komplexen Themen beschäftigen und uns die Lösung auf einem Silbertablett präsentieren.
+
+Die Firma http://blog.hypriot.com/[Hypriot] stellt ein fertiges SD-Karten-Image für den Raspberry PI zur Verfügung,
+auf dem bereits alles notwendige vorinstalliert ist. Einfach SD Karte mit dem Image bespielen und los gehts.
+
+Sollten Sie die Raspberries noch nicht bestellt haben machen Sie das bitte jetzt und lassen Sie den Artikel einige
+Tage ruhen bis die Lieferung kommt. Glauben Sie mir, es macht mehr Spaß mitzumachen als nur zuzuschauen.
+
+In der Zwischenzeit empfehle ich Ihnen, das jeweils aktuellste http://blog.hypriot.com/downloads/[Hypriot-Image] herunterzuladen.
+Zusätzlich laden Sie sich bitte das https://github.com/hypriot/flash[Hypriot Flash Tool], mit dem es kinderleicht
+ist, eine SD-Karte mit einem neuen Image zu flashen.
+
+*Jetzt warten wir.....*
+
+Ich hoffe, Sie halten Ihren Raspberry-PI mittlerweile in Händen und haben die notwendige Verkabelung vorgenommen.
+Höchste Zeit die entsprechenden SD Karten zu bespielen.
+
+Sie werden sehen, es ist kinderleicht dank es Flash-Tools von Hypriot.
+
+'''bash
+flash --hostname pi23 hypriotos-rpi-v1.0.0.img.zip <1>
+Uncompressing hypriotos-rpi-v1.0.0.img.zip ...
+
+Is /dev/disk2 correct? y
+ 377MiB 0:00:26 [14.4MiB/s] [======================================>                                                                                                ] 29% ETA 0:01:03
+'''
+<1> Der Parameter --hostname gibt dem bespielten Knoten direkt einen Hostname. Ich nenne die Knoten nach dem Muster
+pi<IP-Segment>. Also ein Knoten der die IP 192.168.178.23 erhält hat den Hostnamen pi23. Die Einstellung im Router
+legt fest, dass Knoten mit derselben MAC-Adresse immer auch die gleiche IP Adresse erhalten.
+
+TIP: Mein kompletter Cluster mit 8 Raspberries lässt mit dem _flash_-Tool in 15 Minuten bespielen.
+
+Sobald das Image eingespielt ist können Sie den Raspberry zum ersten mal starten.
+
+Wir können getrost auf das Anschliessen eines Bildschirms verzichten, *Cattles haben kein Gesicht*. Uns reicht, wenn
+wir den Raspberry über eine SSH-Konsole erreichen und selbst das sollte bald nicht mehr nötig sein.
+
+Für eine einzelne Maschine ist es problemlos möglich, alles _per Hand_ zu machen. Wir loggen uns auf der Maschine
+ein, installieren eventuell notwendige Pakete und starten dann die ersten Container.
+
+
+TIP: Wie lässt sich elegant feststellen, mit welcher IP ein Node im Netzwerk angeschlossen ist? Eine Möglichkeit
+hierfür ist nmap.
+'''bash
+nmap -sP 192.168.178.1/24 <1>
+Nmap scan report for pi23 (192.168.178.23)
+Host is up (0.013s latency).
+Nmap scan report for pi24 (192.168.178.24)
+Host is up (0.0087s latency).
+...
+----
+<1> pingt alle hosts und überprüft nur deren online status. Sie sollten alle angeschlossenen Raspberries in dieser
+Liste sehen.
+
+Zunächst verbinden wir uns auf einen der Knoten und überprüfen die _Docker_-Version.
+
+[source, bash]
+----
+ssh pirate@192.168.178.24 docker --version<1>
+Docker version 1.11.1, build 5604cbe <2>
+----
+<1> Zugangsdaten für den Login sind pirate / hypriot
+<2> Sehr wahrscheinlich haben Sie eine höhere Version.
+
+Höchste Zeit, den ersten Container testweise zu starten.
+
+[source, bash]
+----
+ssh pirate@192.168.178.24 docker run dilgerm/rpi-alpine-scratch echo 'hello, from a container'
+Unable to find image 'dilgerm/rpi-alpine-scratch:latest' locally
+latest: Pulling from dilgerm/rpi-alpine-scratch
+Status: Downloaded newer image for dilgerm/rpi-alpine-scratch:latest
+hello, from a container <1>
+----
+<1> Output aus dem laufenden Container
+
+Herzlichen Glückwunsch, damit haben Sie wahrscheinlich das erste Mal einen _Docker Container_ auf ihrer eigenen
+Hardware gestartet und ausgeführt.
+Es hat meiner Meinung nach schon etwas ursprüngliches - Services direkt auf echter Hardware zu starten statt
+wie bei allen Tutorials im Netz mit einer VirtualBox..
+
+Wir haben also jetzt unseren Cluster.
+
+Zum Abschluss dieses Artikels werden wir tatsächlich einen funktonierenden Service deployen der auf HTTP-Anfragen
+reagiert.
+
+'''bash
+ssh pirate@192.168.178.24 docker run -d -p 80:80 akkerman/rpi-nginx
+f26bbc7e1c333f676754c06f41abdd5627fe0088758f2828a0eecf10596f817d
+'''
+
+Greifen wir jetzt auf den Host zu sollten wir die NGINX-Standardseite sehen.
+Damit haben wir unseren ersten Service deployed.
+
+
+## Fazit
+
+Was haben einiges geschafft. Wir haben einen arbeitenden Cluster, in meinem Fall mit 8 Knoten neu aufgesetzt und
+hochgefahren.
+Eigentlich ist das noch kein Cluster, denn die Knoten stehen aktuell alle für sich selbst.
+Wir haben aber eigenständige Rechner, die nur darauf warten, unsere Aufgaben für uns zu erledigen.
+
+Im nächsten Schritt kümmern wir uns um das wichtigste Problem - Monitoring der einzelnen Knoten. Da wir mit verteilten
+Systemen arbeiten ist es ungemein wichtig, von anfang an einen genauen Überblick über den Gesundheitsstatus unseres Systems zu erhalten.
+Was bringen uns die Vorteile von verteilten Systemen, wenn diese die Hälfte der Zeit gar nicht erreichbar sind und
+wir das nicht mal mitbekommen.
+
+Hierfür werden wir uns direkt in die Welt der Open-Source Tools begeben und uns eine Toolchain aus https://influxdb
+.com/[InfluxDB], http://grafana.org[Grafana] und https://collectd.org/[CollectD] konfigurieren. Noch bevor wir den
+ersten Microservice deployen ist das unsere höchste Prioriät.
+
