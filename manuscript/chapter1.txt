@@ -68,10 +68,8 @@ Zur Laufzeit haben wir nur einen flachen Classpath, alles ist prinzipiell verfü
 werden. Die Hürden, auf Funktionalität und Interna eines Modules zuzugreifen ist sehr gering.
 
 
-[quote, Unbekannter Autor]
-____
-Ist es möglich, etwas zu verwenden, dann wird es verwendet.
-____
+> Ist es möglich, etwas zu verwenden, dann wird es verwendet.
+>> Unbekannter Autor
 
 Verteilen wir die Komponenten von vornherein, ist die Hürde beinahe unbezwingbar, denn wenn ich eine Funktionalität
 nur über deren explizit bereitgestellte API aufrufen kann (beispielsweise einen *REST*-Endpoints einer *Spring Boot*
@@ -96,8 +94,8 @@ Es muss eine bessere Möglicheit geben.
 ## Welche Hardware?
 
 Wir brauchen möglichst billige, strom- und platzsparende Hardware, die leicht skaliert werden kann.
-Wie es der Zufall will gibt es mit dem https://www.raspberrypi.org/products/raspberry-pi-2-model-b[Raspberry PI 2,
-window="_blank"] ein System, dass sich ganz hervorragend für unseren Use-Case eignet.
+Wie es der Zufall will gibt es mit dem [https://www.raspberrypi.org/products/raspberry-pi-2-model-b](Raspberry PI 2,
+window="_blank") ein System, dass sich ganz hervorragend für unseren Use-Case eignet.
 
 Der Raspberry PI 2 besitzt folgende Merkmale, die für uns interessant sind.
 
@@ -109,15 +107,15 @@ Mit einem knappen GHz an Rechenpower, 4 Kernen und einem Gigabyte RAM lässt sic
 
 Mit welchem Setup können wir also starten?
 
-Natürlich brauchen wir einige http://www.amazon.de/gp/product/B01CEFWQFA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B01CEFWQFA&linkCode=as2&tag=splitshadewor-21[Raspberries, window="_blank"]
+Natürlich brauchen wir einige [http://www.amazon.de/gp/product/B01CEFWQFA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B01CEFWQFA&linkCode=as2&tag=splitshadewor-21](Raspberries, window="_blank")
 
-Zusätzliche http://www.amazon.de/gp/product/B009E763CO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B009E763CO&linkCode=as2&tag=splitshadewor-21[SD-Karten, window="_blank"]
+Zusätzliche [http://www.amazon.de/gp/product/B009E763CO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B009E763CO&linkCode=as2&tag=splitshadewor-21](SD-Karten, window="_blank")
 
-Wir brauchen einen USB-Hub für die Stomversorgung. Beispielsweise http://www.amazon.de/gp/product/B0000B0DL7/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B0000B0DL7&linkCode=as2&tag=splitshadewor-21[diesen, window="_blank"].
+Wir brauchen einen USB-Hub für die Stomversorgung. Beispielsweise [http://www.amazon.de/gp/product/B0000B0DL7/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B0000B0DL7&linkCode=as2&tag=splitshadewor-21](diesen).
 
-Einen einfachen http://www.amazon.de/gp/product/B000MGBOHA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B000MGBOHA&linkCode=as2&tag=splitshadewor-21[Ethernet-Switch, window="_blank"]
+Einen einfachen [http://www.amazon.de/gp/product/B000MGBOHA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B000MGBOHA&linkCode=as2&tag=splitshadewor-21](Ethernet-Switch)
 
-Einige http://www.amazon.de/gp/product/B004VL8XAI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B004VL8XAI&linkCode=as2&tag=splitshadewor-21[Ethernet-Patchkabel, window="_blank"]
+Einige [http://www.amazon.de/gp/product/B004VL8XAI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B004VL8XAI&linkCode=as2&tag=splitshadewor-21](Ethernet-Patchkabel)
 
 Ich habe mit zwei Raspberries angefangen, mittlerweilse stehen hier 8.
 
@@ -126,14 +124,14 @@ TODO image
 ### Wo kaufen und Betriebskosten
 
 Die obigen Links verweisen auf Amazon, wenn ihr mir etwas guten tun wollt. Ansonsten findet ihr Raspberries und
-Zubehör natürlich in allen größeren Online-Elektro-Händlern wie http://www.reichelt.de[Reichelt], http://www.conrad.de[Conrad].
+Zubehör natürlich in allen größeren Online-Elektro-Händlern wie [http://www.reichelt.de](Reichelt), [http://www.conrad.de](Conrad).
 
 Raspberriy-Pis sind günstig in der Anschaffung - inkl. Zubehör bekommt man ein lauffähiges System mit Gehäuse schon
 für unter 50 €. Noch beeindrucker als der geringe Anschaffungspreis sind die laufenden Kosten.
-Einige Tests[https://developer-blog.net/raspberry-pi-2-stromverbrauch/] für den Raspberry sind sehr vielversprechend,
+Einige [https://developer-blog.net/raspberry-pi-2-stromverbrauch/](Tests) für den Raspberry sind sehr vielversprechend,
  auch wenn ich die Ergebnisse nicht selbst nachgerechnet und kontrolliert habe.
 
-Rechnet man das zusammen (beispielsweise mit einem einfachen http://www.stromverbrauchinfo.de/stromverbrauchsrechner.php[Online-Tool, window="_blank"] kommt man auf knapp 1.5 Cent, die ein Raspberry PI unter Last am Tag kostet.
+Rechnet man das zusammen beispielsweise mit einem einfachen [http://www.stromverbrauchinfo.de/stromverbrauchsrechner.php](Online-Tool, window="_blank") kommt man auf knapp 1.5 Cent, die ein Raspberry PI unter Last am Tag kostet.
 Multiplizieren wir das Ganze mit der Anzahl der Geräte, beispielsweise wenn wir 5 Raspberries im Cluster betreiben kostet uns das 5 * 1.5 Cent = 7.5 Cent am Tag. Mal Dauerbetrieb 24 / 7 in 365 Tagen sind 2737 Cent. Den Cluster ein
 Jahr lang unter Volllast laufen zu lassen kostet also bei einem durchschnittlichen Strompreis von 0,28 Cent / KwH sage und schreibe gut 28 Euro.
 
@@ -159,10 +157,8 @@ verfügbaren Knoten herzustellen.
 
 Um den _Ops_-Anteil möglichst gering zu halten wollen wir die einzelnen Knoten austauschbar machen.
 
-[quote, Adrian Cockroft]
-____
-Treat your Server like Cattle, not like Pets
-____
+> Treat your Server like Cattle, not like Pets
+>> Adrian Cockroft
 
 Sobald wir damit beginnen, auf bestimmten Knoten bestimmte Software zu installieren, beispielsweise eine Datenbank
 sind die einzelnen Knoten nicht mehr austauschbar.
@@ -203,14 +199,14 @@ den Knoten speziell konfigurieren. Alles was wir brauchen ist ein _leeres_ Syste
 Docker auf dem Raspberry PI zu konfigurieren ist nicht ganz trivial. Ich bin sehr sehr dankbar, dass es Firmen gibt,
 die sich mit diesen komplexen Themen beschäftigen und uns die Lösung auf einem Silbertablett präsentieren.
 
-Die Firma http://blog.hypriot.com/[Hypriot] stellt ein fertiges SD-Karten-Image für den Raspberry PI zur Verfügung,
+Die Firma [http://blog.hypriot.com/](Hypriot) stellt ein fertiges SD-Karten-Image für den Raspberry PI zur Verfügung,
 auf dem bereits alles notwendige vorinstalliert ist. Einfach SD Karte mit dem Image bespielen und los gehts.
 
 Sollten Sie die Raspberries noch nicht bestellt haben machen Sie das bitte jetzt und lassen Sie den Artikel einige
 Tage ruhen bis die Lieferung kommt. Glauben Sie mir, es macht mehr Spaß mitzumachen als nur zuzuschauen.
 
-In der Zwischenzeit empfehle ich Ihnen, das jeweils aktuellste http://blog.hypriot.com/downloads/[Hypriot-Image] herunterzuladen.
-Zusätzlich laden Sie sich bitte das https://github.com/hypriot/flash[Hypriot Flash Tool], mit dem es kinderleicht
+In der Zwischenzeit empfehle ich Ihnen, das jeweils aktuellste [http://blog.hypriot.com/downloads/](Hypriot-Image) herunterzuladen.
+Zusätzlich laden Sie sich bitte das [https://github.com/hypriot/flash](Hypriot Flash Tool), mit dem es kinderleicht
 ist, eine SD-Karte mit einem neuen Image zu flashen.
 
 *Jetzt warten wir.....*
@@ -220,14 +216,13 @@ Höchste Zeit die entsprechenden SD Karten zu bespielen.
 
 Sie werden sehen, es ist kinderleicht dank es Flash-Tools von Hypriot.
 
-'''bash
-flash --hostname pi23 hypriotos-rpi-v1.0.0.img.zip <1>
-Uncompressing hypriotos-rpi-v1.0.0.img.zip ...
+    flash --hostname pi23 hypriotos-rpi-v1.0.0.img.zip <1>
+    Uncompressing hypriotos-rpi-v1.0.0.img.zip ...
 
-Is /dev/disk2 correct? y
- 377MiB 0:00:26 [14.4MiB/s] [======================================>                                                                                                ] 29% ETA 0:01:03
-'''
-<1> Der Parameter --hostname gibt dem bespielten Knoten direkt einen Hostname. Ich nenne die Knoten nach dem Muster
+    Is /dev/disk2 correct? y
+     377MiB 0:00:26 [14.4MiB/s] [======================================>                                                                                                ] 29% ETA 0:01:03
+---
+Der Parameter --hostname gibt dem bespielten Knoten direkt einen Hostname. Ich nenne die Knoten nach dem Muster
 pi<IP-Segment>. Also ein Knoten der die IP 192.168.178.23 erhält hat den Hostnamen pi23. Die Einstellung im Router
 legt fest, dass Knoten mit derselben MAC-Adresse immer auch die gleiche IP Adresse erhalten.
 
@@ -244,38 +239,30 @@ ein, installieren eventuell notwendige Pakete und starten dann die ersten Contai
 
 TIP: Wie lässt sich elegant feststellen, mit welcher IP ein Node im Netzwerk angeschlossen ist? Eine Möglichkeit
 hierfür ist nmap.
-'''bash
-nmap -sP 192.168.178.1/24 <1>
-Nmap scan report for pi23 (192.168.178.23)
-Host is up (0.013s latency).
-Nmap scan report for pi24 (192.168.178.24)
-Host is up (0.0087s latency).
-...
-----
-<1> pingt alle hosts und überprüft nur deren online status. Sie sollten alle angeschlossenen Raspberries in dieser
-Liste sehen.
+
+    nmap -sP 192.168.178.1/24 <1>
+    Nmap scan report for pi23 (192.168.178.23)
+    Host is up (0.013s latency).
+    Nmap scan report for pi24 (192.168.178.24)
+    Host is up (0.0087s latency).
+    ...
 
 Zunächst verbinden wir uns auf einen der Knoten und überprüfen die _Docker_-Version.
 
-[source, bash]
-----
-ssh pirate@192.168.178.24 docker --version<1>
-Docker version 1.11.1, build 5604cbe <2>
-----
-<1> Zugangsdaten für den Login sind pirate / hypriot
-<2> Sehr wahrscheinlich haben Sie eine höhere Version.
+
+    ssh pirate@192.168.178.24 docker --version
+    Docker version 1.11.1, build 5604cbe
+
 
 Höchste Zeit, den ersten Container testweise zu starten.
 
-[source, bash]
-----
-ssh pirate@192.168.178.24 docker run dilgerm/rpi-alpine-scratch echo 'hello, from a container'
-Unable to find image 'dilgerm/rpi-alpine-scratch:latest' locally
-latest: Pulling from dilgerm/rpi-alpine-scratch
-Status: Downloaded newer image for dilgerm/rpi-alpine-scratch:latest
-hello, from a container <1>
-----
-<1> Output aus dem laufenden Container
+
+    ssh pirate@192.168.178.24 docker run dilgerm/rpi-alpine-scratch echo 'hello, from a container'
+    Unable to find image 'dilgerm/rpi-alpine-scratch:latest' locally
+    latest: Pulling from dilgerm/rpi-alpine-scratch
+    Status: Downloaded newer image for dilgerm/rpi-alpine-scratch:latest
+    hello, from a container
+
 
 Herzlichen Glückwunsch, damit haben Sie wahrscheinlich das erste Mal einen _Docker Container_ auf ihrer eigenen
 Hardware gestartet und ausgeführt.
@@ -287,10 +274,9 @@ Wir haben also jetzt unseren Cluster.
 Zum Abschluss dieses Artikels werden wir tatsächlich einen funktonierenden Service deployen der auf HTTP-Anfragen
 reagiert.
 
-'''bash
-ssh pirate@192.168.178.24 docker run -d -p 80:80 akkerman/rpi-nginx
-f26bbc7e1c333f676754c06f41abdd5627fe0088758f2828a0eecf10596f817d
-'''
+
+    ssh pirate@192.168.178.24 docker run -d -p 80:80 akkerman/rpi-nginx
+    f26bbc7e1c333f676754c06f41abdd5627fe0088758f2828a0eecf10596f817d
 
 Greifen wir jetzt auf den Host zu sollten wir die NGINX-Standardseite sehen.
 Damit haben wir unseren ersten Service deployed.
@@ -308,7 +294,7 @@ Systemen arbeiten ist es ungemein wichtig, von anfang an einen genauen Überblic
 Was bringen uns die Vorteile von verteilten Systemen, wenn diese die Hälfte der Zeit gar nicht erreichbar sind und
 wir das nicht mal mitbekommen.
 
-Hierfür werden wir uns direkt in die Welt der Open-Source Tools begeben und uns eine Toolchain aus https://influxdb
-.com/[InfluxDB], http://grafana.org[Grafana] und https://collectd.org/[CollectD] konfigurieren. Noch bevor wir den
+Hierfür werden wir uns direkt in die Welt der Open-Source Tools begeben und uns eine Toolchain aus [https://influxdb
+.com/](InfluxDB), [http://grafana.org](Grafana) und [https://collectd.org/](CollectD) konfigurieren. Noch bevor wir den
 ersten Microservice deployen ist das unsere höchste Prioriät.
 
