@@ -1,3 +1,0 @@
-- name: reload systemd
-  become: yes
-  command: systemctl restart telegraf

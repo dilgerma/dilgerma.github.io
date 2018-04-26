@@ -1,0 +1,53 @@
+---
+layout: default
+title: Wie wir Spring Cloud Netflix verwenden
+shortTitle: Spring Cloud Netflix in Action
+documentationExpanded: false
+comments: true
+postsExpanded: true
+categories: microservices spring-boot distributed-systems
+excerpt: excerpt
+root: ../../
+---
+
+= Real Life Spring Cloud
+
+== Der Context
+
+
+[quote, Unbekannter Autor]
+____
+Ist es möglich, etwas zu verwenden, dann wird es verwendet.
+____
+
+Links:
+Wie es der Zufall will gibt es mit dem https://www.raspberrypi.org/products/raspberry-pi-2-model-b[Raspberry PI 2,
+window="_blank"] ein System, dass sich ganz hervorragend für unseren Use-Case eignet.
+
+[source]
+----
+flash --hostname pi23 hypriotos-rpi-v1.0.0.img.zip <1>
+Uncompressing hypriotos-rpi-v1.0.0.img.zip ...
+
+Is /dev/disk2 correct? y
+ 377MiB 0:00:26 [14.4MiB/s] [======================================>                                                                                                ] 29% ETA 0:01:03
+----
+<1> Der Parameter --hostname gibt dem bespielten Knoten direkt einen Hostname. Ich nenne die Knoten nach dem Muster
+pi<IP-Segment>. Also ein Knoten der die IP 192.168.178.23 erhält hat den Hostnamen pi23. Die Einstellung im Router
+legt fest, dass Knoten mit derselben MAC-Adresse immer auch die gleiche IP Adresse erhalten.
+
+TIP: Mein kompletter Cluster mit 8 Raspberries lässt mit dem _flash_-Tool in 15 Minuten bespielen
+
+
+[source, bash]
+----
+ssh pirate@192.168.178.24 docker --version<1>
+Docker version 1.11.1, build 5604cbe <2>
+----
+<1> Zugangsdaten für den Login sind pirate / hypriot
+<2> Sehr wahrscheinlich haben Sie eine höhere Version.
+
+
+Image
+
+image::/assets/images/chaos_testing/rest-cascade.png[Swarm Nodes, 800]

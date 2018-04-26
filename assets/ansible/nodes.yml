@@ -1,8 +1,0 @@
----
-- hosts: nodes
-  become: yes
-  #only one node at a time
-  #serial: 1
-  roles:
-  - {role: metered-node, tags: ['metered']}
-#  - {role: docker-host, tags: ['docker']}

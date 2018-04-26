@@ -1,7 +1,0 @@
----
-- name: get docker
-  get_url: url={{docker_uri}} dest=/tmp/docker.deb  mode=0740 timeout=250
-- name: uninstall existing docker
-  apt: name=docker-hypriot purge=no state=absent
-- name: install docker
-  apt: deb=/tmp/docker.deb

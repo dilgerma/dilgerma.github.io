@@ -1,2 +1,0 @@
-telegraf_version: 1.0.0-beta1_armhf
-telegraf_uri: https://dl.influxdata.com/telegraf/releases/telegraf_{{telegraf_version}}.deb
