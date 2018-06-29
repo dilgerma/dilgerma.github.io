@@ -16,15 +16,18 @@ root: ../../
 
 In einem größeren agilen Team (ständig zwischen 15 und 25 Entwicklern, Testern, Projektmanagern) und einem Projekt auf der grünen Wiese hat man meist gleich zu Beginn einige wichtige Architektonische Entscheidungen zu treffen. Beispielsweise gilt es zu entscheiden, ob man von Beginn an auf ein verteiltes System und eine Microservice-Architektur setzt oder ob ein gut strukturierter Monolith für den Beginn auch ausreicht.
 Egal auf welches Architekturpferd man setzt, es gilt sehr bald auch auf technischer Ebene zu evaluieren, welche Technologien Sinn machen.
-Deployen wir auf Docker, Kubernetes oder setzen wir auf virtuelle Maschinen? Setzen wir auf den Spring Stack oder JEE und CDI? Kommunizieren die einzelnen Module des Systems via RPC, REST oder Events? Nutzen wir verschiedene Datenbanken, einen verteilten KV-Store oder schreiben wir alles in die eine Oracle, für die wir schließlich Lizenzgebühren bezahlen?
+Deployen wir auf Docker, Kubernetes oder setzen wir auf virtuelle Maschinen? Setzen wir auf den Spring Stack oder JEE und CDI?
+Kommunizieren die einzelnen Module des Systems via RPC, REST oder Events? Nutzen wir verschiedene Datenbanken, einen verteilten KV-Store oder schreiben wir alles in die eine Oracle, für die wir schließlich Lizenzgebühren bezahlen?
 Bauen wir die Frontends mit Angular, React oder VueJS?
 
 Fast jede dieser technischen Entscheidungen muss als langfristiges Investment betrachtet werden, da speziell grundlegende Entscheidungen wie die Wahl einer Datenbank auch mit der besten Abstraktion meist nicht einfach revidiert werden kann.
 
-Neben der frühzeitigen Technologiewahl müssen auch *zum Start* grundlegende Entwicklungsleitlinien festgelegt werden. Bauen wir gemeinsame Infrastruktur (und setzen damit auf shared code) oder duplizieren wir generell? Gibt es einen Blueprint für die Architektur eines Services oder lassen wir das absichtlich offen?
+Neben der frühzeitigen Technologiewahl müssen auch *zum Start* grundlegende Entwicklungsleitlinien festgelegt werden. Bauen wir gemeinsame Infrastruktur (und setzen damit auf shared code) oder duplizieren wir generell? Gibt es einen Blueprint für die Architektur eines Services oder lassen wir das absichtlich offen? Werden Services grundsätzlich einheitlich gebaut oder erlauben wir absolute Freiheit (und begrüßen den Wartungsalptraum).
 Dokumentieren wir im Code, als Markdown oder in externen Dokumenten?
 
 Was passiert, wenn wir _aus Versehen_ falsche Entscheidungen treffen? Welche Auswirkungen hat das? Was funktioniert, was funktioniert nicht?
+
+Ein Einblick in das Architektendasein.
 
 == Spring Boot / Spring Cloud Netflix
 
@@ -47,8 +50,13 @@ Mit Spring Boot alleine lassen sich aber nur schwer Enterprise Projekte speziell
 
 _http://projects.spring.io/spring-cloud/[Spring Cloud]_ und die Spezialisierung für den Netflix-Stack _https://cloud.spring.io/spring-cloud-netflix/[Spring Cloud Netflix]_ bieten für viele dieser Probleme _vermeintlich_ einfache Lösungen.
 
+Gehen wir von einer einfachen Service-Architektur für eine ECommere-Plattform aus.
+
 image::/assets/images/spring_cloud/components.png[Komponenten, 800]
 
+Im Katalog können Produkte gewählt und in den Warenkorb gelegt werden. Die gesammelten Produkte können über den Order-Service bestellt werden.
+
+Die erste technische Entscheidung die wir treffen betrifft die Service-Plattform.
 
 
 
