@@ -1,0 +1,45 @@
+---
+layout: default
+title: Git 2.18 released
+shortTitle: Git 2.18 released
+documentationExpanded: false
+comments: true
+postsExpanded: true
+categories: git
+excerpt: excerpt
+root: ../../
+---
+
+= Git Tip of the Day
+== Git Configs per Command Line
+
+Git erlaubt es, pro Befehl Konfigurationen (_git configs_) auf der Command Line zu überschreiben.
+
+[source]
+----
+git log
+
+
+commit 9e2daf7108a70e33ef386e12e0f7b437cff1969a (HEAD -> master)
+Author: test <martin@effectivetrainings.de>
+Date:   Fri Jun 29 22:19:00 2018 +0200
+
+    test
+----
+
+Mit Command Line Config.
+
+[source]
+----
+git -c "format.pretty=%aN %aE %h" log
+
+test martin@effectivetrainings.de 9e2daf7
+----
+
+==== Git Training
+
+*Wollen Sie mehr erfahren?*
+Ich arbeite seit mehr als 10 Jahren mit Git und habe mehr als 1000 Entwickler geschult.
+Ich biete http://effectivetrainings.de/html/workshops/effective_git_workshop.php[Consulting / Training] für Git. Schauen Sie doch mal vorbei!
+
+
