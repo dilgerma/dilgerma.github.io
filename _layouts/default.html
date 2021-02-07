@@ -80,19 +80,29 @@
                   </div>
                </div>
               <div class="column is-one-quarter">
-                <div class="card">
-                  <header class="card-header">
-                    <p class="card-header-title has-text-centered">Daily Tradie</p><a class="card-header-icon"
-                      href="#"><span class="icon"><i aria-hidden="true" class="fas fa-tv"></i></span></a>
-                  </header>
-                  <div class="card-image"></div>
-                  <div class="card-content">
-                    <div class="content">
-                      Freili
-                    </div>
-                  </div>
-                  <footer class="card-footer"></footer>
-                </div>
+                
+                <ul>
+                  {% for post in site.posts %}
+                    <li>
+                      <a href="{{ post.url }}">
+                        <div class="card">
+                          <header class="card-header">
+                            <p class="card-header-title has-text-centered">{{ post.title }}</p><a class="card-header-icon"
+                              href="#"><span class="icon"><i aria-hidden="true" class="fas fa-tv"></i></span></a>
+                          </header>
+                          <div class="card-image"></div>
+                          <div class="card-content">
+                            <div class="content">
+                              Freili
+                            </div>
+                          </div>
+                          <footer class="card-footer"></footer>
+                        </div>
+                        </a>
+                    </li>
+                  {% endfor %}
+                </ul>
+                
               </div>
             
             </div>
@@ -111,10 +121,10 @@
             Effective Trainings & Consulting © 2021
           </p>
           <div>
-            <a href="https://www.effectivetrainings.de  ">Zurück zu effectivetrainings</a>
+            <a href="https://www.effectivetrainings.de">Zurück zu effectivetrainings</a>
           </div>
           <div>
-            <a href="https://www.effectivetrainings.de/impressum">Impressum</a>
+            <a href="https://www.effectivetrainings.de/impressum.html">Impressum</a>
           </div>
         </div>
       </div>
