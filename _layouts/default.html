@@ -1,65 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
 
-    <meta name="theme-color" content="#000000" />
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:400,300,700' rel='stylesheet' type='text/css'>
+<head>
+  <meta charset="utf-8" />
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  
-  
-      <!-- Facebook and Twitter integration -->
-    <meta property="og:title" content=""/>
-    <meta property="og:image" content=""/>
-    <meta property="og:url" content=""/>
-    <meta property="og:site_name" content=""/>
-    <meta property="og:description" content=""/>
-    <meta name="twitter:title" content="" />
-    <meta name="twitter:image" content="" />
-    <meta name="twitter:url" content="" />
-    <meta name="twitter:card" content="" />
+  <meta name="theme-color" content="#000000" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+  <meta name="description" content="Web site created using create-react-app" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:400,300,700' rel='stylesheet'
+    type='text/css'>
 
-    <title>Effective Trainings & Consulting Blog - Jeden Tag ein bisschen produktiver.</title>
-  </head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <meta name="author" content="" />
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-  <body>
-    <section class="hero effective-header">
-      <div class="lucida">Effective Trainings & Consulting</div> <div class="dark">Jeden Tag ein bisschen smarter.</div>
-    </section>
 
-    <section class="section">
-      {{content}}
-    </section>
-    
-    <div class="sticky-footer"></div>
-        
-    <footer class="effective-header">
-      <div class="container">
-        
-         <div class="level-item has-text-centered">
-            <div class="content">
-              <p>
-               Effective Trainings & Consulting © 2021
-              </p>
+  <!-- Facebook and Twitter integration -->
+  <meta property="og:title" content="" />
+  <meta property="og:image" content="" />
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="" />
+  <meta property="og:description" content="" />
+  <meta name="twitter:title" content="" />
+  <meta name="twitter:image" content="" />
+  <meta name="twitter:url" content="" />
+  <meta name="twitter:card" content="" />
+
+  <title>Effective Trainings & Consulting Blog - Jeden Tag ein bisschen produktiver.</title>
+</head>
+
+<body>
+  <section class="hero effective-header">
+    <div class="lucida">Effective Trainings & Consulting</div>
+    <div class="dark">Jeden Tag ein bisschen smarter.</div>
+  </section>
+
+  <section class="section">
+        <div class="container">
+          <h1 class="title is-1 has-text-centered" id="challenges">Effective Trainings & Consulting Blog - Jeden Tag ein bisschen <i>smarter.</i></h1>
+          <div>
+            <div class="columns">
+              <div class="column">
+                  <div class="card">
+                    <div class="card-content">
+                      <div class="content has-text-centered">
+                        <p>Wir Tradies sind eine <b>Kraft des Guten.</b> <br>Wir sind <b>Superhelden</b> mit speziellen
+                          Fähigkeiten. <br>Wir nutzen unsere Kräfte für <b>das Gute</b>. <br></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+            <div class="columns">
+              <div class="column is-3-quarters">
+                  <div class="card">
+                    <header class="card-header">
+                      <p class="card-header-title has-text-centered">Tradies</p><a class="card-header-icon"
+                        href="#"><span class="icon"><i aria-hidden="true" class="fas fa-book"></i></span></a>
+                    </header>
+                    <div class="card-image">
+                      <figure class="image"><img alt="Root Me" src="tradies.png"></figure>
+                    </div>
+                    <div class="card-content">
+                      <div class="content">
+                        {{content}}
+                      </div>
+                    </div>
+                    <footer class="card-footer"><a class="card-footer-item" rel="noopener noreferrer"
+                        href="/tradies">Tradies</a></footer>
+                  </div>
+               </div>
+              <div class="column is-one-quarter">
+                <div class="card">
+                  <header class="card-header">
+                    <p class="card-header-title has-text-centered">Daily Tradie</p><a class="card-header-icon"
+                      href="#"><span class="icon"><i aria-hidden="true" class="fas fa-tv"></i></span></a>
+                  </header>
+                  <div class="card-image"></div>
+                  <div class="card-content">
+                    <div class="content">
+                      Freili
+                    </div>
+                  </div>
+                  <footer class="card-footer"></footer>
+                </div>
+              </div>
+            
             </div>
           </div>
-          <!-- <div class="level-item has-text-centered">
+        </div>
+  </section>
+
+  <div class="sticky-footer"></div>
+
+  <footer class="effective-header">
+    <div class="container">
+
+      <div class="level-item has-text-centered">
+        <div class="content">
+          <p>
+            Effective Trainings & Consulting © 2021
+          </p>
+        </div>
+      </div>
+      <!-- <div class="level-item has-text-centered">
             <div class="content">
               <p class="heading">
                 social
@@ -71,9 +123,9 @@
               </p>
             </div>
           </div> -->
-        
-      </div>
-    </footer>
+
+    </div>
+  </footer>
 
 </body>
 
