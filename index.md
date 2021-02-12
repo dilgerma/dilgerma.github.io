@@ -1,5 +1,11 @@
 # Der Effective Trainings Blog
 
+_gute_ Entwickler_ arbeiten effektiv. Sie arbeiten mit den richtigen Werkzeugen und Tools.
+_gute Entwickler_ arbeiten effizient. Sie erreichen das Ziel mit möglichst einfachen Mitteln (KISS).
+_gute Entwickler_ sind produktiv. Sie erreichen am Standard gemessen viel in der gegebenen Zeit.
+
+Dieser Blob erzählt von dem Weg dorthin.
+
 ## Effektivität
 
 Effektivität ist hier ein Kriterium zur Beurteilung, ob eine Maßnahme geeignet ist, ein bestimmtes Ziel zu erreichen. (Wikipedia)
