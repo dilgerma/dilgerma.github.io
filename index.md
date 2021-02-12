@@ -1,4 +1,4 @@
-# Der <span class="lucinda">Effective</div> Trainings Blog
+# Der <span class="lucinda">Effective</span> Trainings Blog
 
 _gute Entwickler_ arbeiten effektiv. Sie arbeiten mit den richtigen Werkzeugen und Tools.#
 
