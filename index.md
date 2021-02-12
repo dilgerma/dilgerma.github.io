@@ -1,10 +1,12 @@
-# Der Effective Trainings Blog
+# Der <span class="lucinda">Effective</div> Trainings Blog
 
-_gute_ Entwickler_ arbeiten effektiv. Sie arbeiten mit den richtigen Werkzeugen und Tools.
+_gute Entwickler_ arbeiten effektiv. Sie arbeiten mit den richtigen Werkzeugen und Tools.#
+
 _gute Entwickler_ arbeiten effizient. Sie erreichen das Ziel mit möglichst einfachen Mitteln (KISS).
+
 _gute Entwickler_ sind produktiv. Sie erreichen am Standard gemessen viel in der gegebenen Zeit.
 
-Dieser Blob erzählt von dem Weg dorthin.
+Dieser Blog erzählt vom Weg dorthin.
 
 ## Effektivität
 
