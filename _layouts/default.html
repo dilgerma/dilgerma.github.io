@@ -64,19 +64,16 @@
               <div class="column is-3-quarters">
                   <div class="card">
                     <header class="card-header">
-                      <p class="card-header-title has-text-centered">Tradies</p><a class="card-header-icon"
+                      <p class="card-header-title has-text-centered">Worum gehts?</p><a class="card-header-icon"
                         href="#"><span class="icon"><i aria-hidden="true" class="fas fa-book"></i></span></a>
                     </header>
-                    <div class="card-image">
-                      <figure class="image"><img alt="Root Me" src="tradies.png"></figure>
-                    </div>
+                  
                     <div class="card-content">
                       <div class="content">
                         {{content}}
                       </div>
                     </div>
-                    <footer class="card-footer"><a class="card-footer-item" rel="noopener noreferrer"
-                        href="/tradies">Tradies</a></footer>
+                   
                   </div>
                </div>
               <div class="column is-one-quarter">
@@ -87,7 +84,7 @@
                       <a href="{{ post.url }}">
                         <div class="card">
                           <header class="card-header">
-                            <p class="card-header-title has-text-centered">{{ post.title }}</p><a class="card-header-icon"
+                            <p class="card-header-title has-text-centered">{{ post.title }} ({{ post.date | date: "%m/%Y" }})</p><a class="card-header-icon"
                               href="#"><span class="icon"><i aria-hidden="true" class="fas fa-tv"></i></span></a>
                           </header>
                           <div class="card-image"></div>
