@@ -1,5 +1,5 @@
 ---
-title: "Ein Tag als Daytrader"
+title: "Der Gewohnheitstrader"
 date: 2021-04-20 10:00:00 -0000
 categories: personal
 image: hiking.jpg
