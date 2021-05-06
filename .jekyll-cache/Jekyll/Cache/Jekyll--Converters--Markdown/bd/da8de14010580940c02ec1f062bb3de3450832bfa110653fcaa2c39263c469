@@ -1,0 +1,119 @@
+I"�<h1 id="riskomanagement">Riskomanagement</h1>
+
+<p>Egal was wir machen in unserem Leben - jede Aktion birgt gewisse Risiken. Ein Fallschirmsprung ist riskanter als ein DVD Abend.
+Ein Sprung vom 10m Turm riskanter als eine Bahn Brust zu schwimmen.
+Ein Trip mit dem Motorrad riskanter wie ein Ausflug mit der Bahn.</p>
+
+<p>Trading ist hier keine Ausnahme - Trading ohne Risikomanagement ist wie ein Fallschirmsprung ohne Fallschirm. 
+Kann funktionieren, ziemlich sicher aber nicht - Adrenalin ist garantiert.</p>
+
+<p>Was ist das richtige Maß an Risiko für einen Trade?
+Gehen wir zu viel Risiko ein? Wo ist die Grenze?</p>
+
+<p>Ich habe für mich ein sehr einfaches System entwickelt, um Risiken in einem Trade abzuwägen.
+Wenn ich einen Trade aufsetze und mein Puls fängt an zu rasen und ich werde nervös, ist das ein ziemlich 
+sicheres Zeichen, dass ein Trade falsch kalkuliert ist.
+Bin ich dagegen extrem ruhig und entspannt, dann ist der Trade normalerweise korrekt aufgesetzt.</p>
+
+<p>Manche Trader sind es gewohnt, Adrenalinschübe zu bekommen sobald ein Trade aufgesetzt ist.
+Für mich ist das nicht der Fall - ich möchte keine Adrenalinschübe.
+Trading ist langweilig, und ich mag das.</p>
+
+<h2 id="risiko">Risiko</h2>
+
+<p>Wie bemessen wir aber nun das Risiko in einem Trade?</p>
+
+<p><img src="/assets/images/r_unit/mountains.jpg" alt="Risiko" width="50%" /></p>
+
+<p>Das Risiko ist normalerweise in einem gewissen Maß relativ zur Größe des Trading Accounts.
+Ein Account mit 2500 € muss weniger Risiko eingehen als ein Account mit 150.000 €.
+Eine gute Größe ist normalerweise ein fixer Prozentsatz des Accounts.</p>
+
+<p>Beispielsweise 1% des Accounts pro Trade.</p>
+
+<p>Bei einer Accountgröße von 2.500 € wäre das ein Risiko pro Trade von 25 €.
+Eine Accountgröße von 150.000 würde 1.500 € riskieren.</p>
+
+<p>Das Risiko pro Trade ist dasselbe für <em>jeden</em> Trade.</p>
+
+<p>Mit jedem Trade riskieren wir denselben Betrag - unsere Risiko-Einheit.
+Oder unsere R-Einheit.</p>
+
+<p>R-Einheit ist normalerweise 1% des Accounts (kann abweichen je nach Erfahrung), auch ein 150.000 € Account kann (und sollte) mit einer Risk Unit von 25 € anfangen.</p>
+
+<p>150.000 € Account hat eine R-Einheit von 1.500 €</p>
+
+<p>2.500 € Account hat eine R-Einheit von 25 €</p>
+
+<h2 id="r-system">R System</h2>
+
+<p>Ein Trade besteht aus 4 Komponenten.</p>
+
+<p>Entry Preis</p>
+
+<p>Stop Preis</p>
+
+<p>Target Preis</p>
+
+<p>Risk Unit</p>
+
+<p>Daraus lässt sich ermitteln, wieviele Aktion (oder auch Optionen) gekauft werden müssen.</p>
+
+<p>Beispiel:</p>
+
+<p>AMD am 23.02.2021 zeigt nach einem 15% Rücksetzer eine wunderschöne und sehr bullische Hammer Candle.
+Ein Trade hat ein ausgewogenes Chance / Risiko Verhältnis, daher probieren wir es.</p>
+
+<p><img src="/assets/images/r_unit/amd_01.png" alt="R Unit Beispiel AMD" width="50%" /></p>
+
+<p>Entry ist direkt oberhalb der Candle als Stop / Limit Order bei 85.35 $</p>
+
+<p>Stop ist direkt unterhalb der Hammer Candle bei 78.96 $</p>
+
+<p>Als Ziel definieren wir zunächst 96.16 $ (neues Hoch)</p>
+
+<p>Unser Risiko pro Aktie beträgt somit 6,47 (85.35 - 78.96)</p>
+
+<p>Bei einer Risiko Einheit von 100$ können wir somit gerundet 16 Aktien kaufen.</p>
+
+<p>Bei einer Risiko Einheit von 20 $ können wir somit 3 Aktien kaufen.</p>
+
+<p><img src="/assets/images/r_unit/amd_02.png" alt="R Unit Beispiel AMD" width="50%" /></p>
+
+<p>Nach 7 Tagen werden wir ausgestoppt und verlieren 1R (eine Risiko Einheit).</p>
+
+<p><img src="/assets/images/r_unit/amd_03.png" alt="R Unit Beispiel AMD" width="50%" /></p>
+
+<p>Das kann jetzt 100 $ sein, oder 20 $, je nachdem wir wir unsere Risikobereitschaft definiert haben.
+Aber eben niemals (viel) mehr.</p>
+
+<p>Ein einfacher Risk Unit Rechner als Google Spreadsheet ist hier zu finden.
+https://docs.google.com/spreadsheets/d/1gK75VOXOJGRjouN_ZOi1bsDgo3g1bEq_nd4xqCeH0y8/edit?usp=sharing</p>
+
+<iframe width="50%" height="300px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpZRNLrP0OqkzRts54oB8T9p_l9Wa8taUF_InJMKln43N4luxHE6b26ab7_D52XfMCb5hgNau4l0p5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<h3 id="fragen">Fragen</h3>
+
+<h4 id="wie-groß-sollte-mein-r-sein">Wie groß sollte mein R sein?</h4>
+
+<p>Wenn du gerade erst anfängst - 10$.
+Für mindestens einen Monat.</p>
+
+<p>Danach musst du das für dich selbst entscheiden. 
+0.5% des Accounts für größere Accounts, 1-2% für kleinere Accounts.
+Das lässt sich aber pauschal nicht sagen.</p>
+
+<h4 id="wann-ändere-ich-mein-r">Wann ändere ich mein R?</h4>
+
+<p>Wenn du gerade erst anfängst wäre meine Empfehlung, nicht vor 3 Monaten.</p>
+
+<h4 id="wann-passe-ich-meinen-stop-an">Wann passe ich meinen Stop an</h4>
+
+<p>Eiserne Regel - das Risiko darf nie größer sein als 1R, man kann den Stop also nicht verschieben und <em>mehr</em> 
+Risiko eingehen. Man kann den Stop aber sehr wohl verschieben und <em>weniger</em> Risiko eingehen, beispielsweise
+wenn wir bereits das erste Profit Ziel erreicht haben.</p>
+
+<p><a href="https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ">Slack</a>
+<a href="https://twitter.com/tradies4good">Twitter</a>
+<a href="https://www.youtube.com/channel/UCC8gKMvl_C45G82SuAyb4Yw">YouTube</a></p>
+:ET

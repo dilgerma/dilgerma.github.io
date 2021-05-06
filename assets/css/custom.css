@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "lucida_hand";
+  font-family: "lucida_hand";
+  src: url("../fonts/lucida_handwriting-webfont.eot");
+  src: url("../fonts/lucida_handwriting-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/lucida_handwriting-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.lucida {
+  font-family: lucida_hand;
+}
+
+.navbar-container {
+  text-align: center;
+  margin-top: 15 px;
+}
+
+.effective-header {
+  color: white;
+  background-color: #6aad2e;
+  padding: 10px
+}
+
+.dark {
+  color: rgb(48, 44, 44);
+}
+
+.effective-green {
+  color: #6aad2e;
+}
+
+.slideInDown .lucida {
+  color: #6aad2e;
+}
+
+.lucida-padding {
+  margin-right: 5px;
+}
+
+.small {
+  font-size: 0.5em;
+}
+
+#fh5co-header.header-impressum {
+  background: #6aad2e;
+}
+
+@font-face {
+  font-family: "lucida_hand";
+  font-family: "lucida_hand";
+  src: url("../fonts/lucida_handwriting-webfont.eot");
+  src: url("../fonts/lucida_handwriting-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/lucida_handwriting-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.lucida {
+  font-family: lucida_hand;
+}
+
+.footer {
+  padding: 1em im !important;
+}
+
+.effective-green {
+  color: #6aad2e;
+}
+
+@font-face {
+  font-family: "icomoon";
+  src: url("../fonts/icomoon/icomoon.eot?srf3rx");
+  src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix")
+      format("embedded-opentype"),
+    url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"),
+    url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"),
+    url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  background: #f7f7f7;
+  font-family: "Roboto";
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  line-height: 1.5;
+  color: #7a7e89;
+  background: #6aad2e;
+  margin: 0;
+  background: url(../backgrounds/fog.jpg);
+  min-height: 100%;
+  background-size: cover;
+  zoom: 1;
+}
+
+::-webkit-selection {
+  color: #fff;
+  background: #6aad2e;
+}
+
+::-moz-selection {
+  color: #fff;
+  background: #6aad2e;
+}
+
+::selection {
+  color: #fff;
+  background: #6aad2e;
+}
