@@ -6,6 +6,10 @@ image: display.jpg
 excerpt: "Auszug aus dem Buch 'Familientrader' - wie man Cashflow an der Börse generiert."
 layout: post
 ---
+
+## Wie ich zum Trader wurde
+
+
 Ich würde niemals jemandem erzählen, dass ich ein Day Trader bin.
 Ich *bin* ein Day Trader. Was bedeutet das? Die meisten Menschen in meinem Bekanntenkreis können mit dem Begriff “Trader” nicht wirklich etwas anfangen. Genau betrachtet kenne ich nicht mal sehr viele Menschen die aktiv in Aktien investieren.
 Der Aktienmarkt bietet unendlich Potential, Geld zu verdienen und natürlich auch Geld zu verlieren. Die größte Angst der meisten Menschen ist es aber, Geld zu verlieren.
@@ -22,8 +26,11 @@ Dieser Tag war sowas wie mein finanzieller Geburtstag. Mein Leben hat sich seith
 
 Und tatsächlich habe ich mich stundenlang damit beschäftigt. Ich habe im Internet recherchiert und knappe 3 Monate lang ein Buch nach dem anderen über das Thema Optionen und Investitionen gelesen.
 
-Mein erster Optionstrade war am 07.03.2019, ein 53.50 Short PUT auf MO ( Altria ), wertlos verfallen mit einem Gewinn von 76,50 $.
+### Der erste Trade
+
+Mein erster Optionstrade war am *07.03.2019*, ein *53.50* Short PUT auf *MO* ( Altria ), wertlos verfallen mit einem Gewinn von *76,50* $.
 Beim Absetzen des ersten Trades hatte ich Herzklopfen, ich war wahnsinnig aufgeregt und hatte Angst, etwas falsch zu machen. Als das obligatorsiche “Ding” in der Trader Workstation erklang wusste ich, jemand hatte meinen verkauften PUT gekauft. Jemand wollte sehr wahrscheinlich seine Long Position absichern, und ich war bereit, diese Absicherung zu bieten. 
+
 Altria stand an diesem Tag bei 54,80 $ und ich war bereit, die Versicherung für 12 Tage anzubieten. Der Käufer des PUTs hatte also 12 Tage die Sicherheit, sollte Altria unter 53,50 $ fallen würde ich ihm die Aktien trotzdem zu 53,50 $ abkaufen, egal wieviel tiefer Altria stand. Diese Versicherung war dem Käufer offensichtlich 76,50 $ wert.
 Der PUT ist wertlos verfallen und ich hoffe, wir beide waren damit zufrieden.
 
@@ -38,6 +45,9 @@ Ich habe nie etwas getan, was sich mehr gelohnt hat als das.
 Dies ist ein Auszug aus dem Buch "Familientrader" (Working Title)
 
 [Tradies](https://www.meinetradies.de)
+
 [Slack](https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ)
+
 [Twitter](https://twitter.com/tradies4good)
+
 [YouTube](https://www.youtube.com/channel/UCC8gKMvl_C45G82SuAyb4Yw)
