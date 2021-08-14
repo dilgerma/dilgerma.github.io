@@ -3,7 +3,7 @@ title: "Wie ich Trader wurde.."
 date: 2021-08-14 10:00:00 -0000
 categories: trading
 image: display.jpg
-excerpt: "Wie ich zum Trader wurde"
+excerpt: "Auszug aus dem Buch 'Familientrader' - wie man Cashflow an der Börse generiert."
 layout: post
 ---
 Ich würde niemals jemandem erzählen, dass ich ein Day Trader bin.
