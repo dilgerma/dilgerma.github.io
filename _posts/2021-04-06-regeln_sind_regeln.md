@@ -243,10 +243,13 @@ Finde für jeden Punkt auf der Liste ein Beispiel in TradingView.
 
 Falls du Schwierigkeiten hast, deine Checkliste zu formulieren tritt der [Community](https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ) bei. Wir helfen uns gegenseitig.
 
-[Slack](https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ)
 
-Wir sind eine Community interessierter Trader, die sich gegenseitig helfen.
-
-[Twitter](https://twitter.com/tradies4good)
-
-[YouTube](https://www.youtube.com/channel/UCC8gKMvl_C45G82SuAyb4Yw)
+ <a class="button" href="https://twitter.com/tradies4good" rel="noopener noreferrer" target="_blank"><span
+                  class="icon"><i class="fab fa-twitter"></i></span></a>
+              <a class="button" href="https://www.youtube.com/channel/UCC8gKMvl_C45G82SuAyb4Yw"
+                rel="noopener noreferrer" target="_blank"><span class="icon"><i class="fab fa-youtube"></i></span></a>
+              <a class="button"
+                href="https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ"
+                rel="noopener noreferrer" target="_blank"><span class="icon"><i class="fab fa-slack"></i></span></a>
+              <a class="button" href="https://www.instagram.com/meinetradies/" rel="noopener noreferrer"
+                target="_blank"><span class="icon"><i class="fab fa-instagram"></i></span></a>
