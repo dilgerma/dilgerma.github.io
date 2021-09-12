@@ -1,5 +1,5 @@
 ---
-title: "Meine #1 Trading Strategie.."
+title: "Meine #1 Regeln für einen Trade.."
 date: 2021-09-10 10:00:00 -0000
 categories: trading
 image: erfolg.jpg
@@ -28,11 +28,11 @@ Hast du einen niedergeschriebenen Tradingplan?
 ![Ein Trading Plan muss aufgeschrieben sein](/assets/images/nummer1/plan.jpg){:width="50%"}
 
 
-Ich habe mehrere Trading Strategien die ich mehr oder weniger tagtäglich trade, eine aber ist meine Brot&Butter Strategie, und diese möchte ich hier im Post vorstellen - kostenlos, unverbindlich und frei zugänglich.
+Ich habe mehrere Trading Strategien die ich mehr oder weniger tagtäglich trade, grundsätzlich aber gilt für alle Strategien das selbe Basis Regelset, und diese möchte ich hier im Post vorstellen - kostenlos, unverbindlich und frei zugänglich.
 
 **Disclaimer:** Natürlich stelle ich die Strategie nur zu informativen Zwecken vor. Ich würde niemals jemandem empfehlen, Aktien oder Optionen zu kaufen. Diese Entscheidung trefft ihr selbstverständlich selbst und ihr seid selbst für jeden Trade verantwortlich. Handelt bitte entsprechend.
 
-### Meine Strategie
+### Meine Regeln
 
 #### Tools
 
