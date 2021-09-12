@@ -21,12 +21,12 @@ Meine Definition ist sehr einfach - *Ein Trading Plan ist ein niedergeschriebene
 
 Hast du einen niedergeschriebenen Tradingplan?
 
-![Ein Trading Plan muss aufgeschrieben sein](/assets/images/nummer-1-strategie/pencil.jpg){:width="50%"}
+![Ein Trading Plan muss aufgeschrieben sein](/assets/images/nummer1/pencil.jpg){:width="50%"}
 
 
 Ich habe mehrere Trading Strategien die ich mehr oder weniger tagtäglich trade, eine aber ist meine Brot&Butter Strategie, und diese möchte ich hier im Post vorstellen - kostenlos, unverbindlich und frei zugänglich.
 
-Dislaimer: Natürlich stelle ich die Strategie nur zu informativen Zwecken vor. Ich würde niemals jemandem empfehlen, Aktien oder Optionen zu kaufen. Diese Entscheidung trefft ihr selbstverständlich selbst und ihr seid selbst für jeden Trade verantwortlich. Handelt bitte entsprechend.
+**Disclaimer:** Natürlich stelle ich die Strategie nur zu informativen Zwecken vor. Ich würde niemals jemandem empfehlen, Aktien oder Optionen zu kaufen. Diese Entscheidung trefft ihr selbstverständlich selbst und ihr seid selbst für jeden Trade verantwortlich. Handelt bitte entsprechend.
 
 ### Meine Strategie
 
@@ -42,7 +42,7 @@ Volumen
 
 #### Time Frame
 
-2,3 und 5min (funktioniert aber auch auf allen anderen Timeframes)
+2, 3 und 5min (funktioniert aber auch auf allen anderen Timeframes)
 
 #### Regeln (bullisch)
 
@@ -92,24 +92,31 @@ Schöne Konsolidierung oberhalb vom 200SMA. Breakout mit bullischem MOMO. "Augen
 Double bottom.	
 
 ![Daily](https://www.tradingview.com/x/HZ1ik9A5){:width="50%"}
+
 Trade Setup	
 
 ![Daily](https://www.tradingview.com/x/HeciaZTR){:width="50%"}
+
 Trigger.	
 
 ![Daily](https://www.tradingview.com/x/MV80tuo0){:width="50%"}
+
 Close unterhalb 10EMA, leichter Stop Move.	
 
 ![Daily](https://www.tradingview.com/x/L1olAwim){:width="50%"}
+
 Close unterhalb vom 10ema.  Stop adjustieren.	
 
 ![Daily](https://www.tradingview.com/x/F1x5LrGV){:width="50%"}
+
 Target high. Ich verkaufe 80%. 	
 
 ![Daily](https://www.tradingview.com/x/ruS9OJml){:width="50%"}
+
 Profit Target - direkt unterhalb vom Day High. Sieht etwas extended aus, daher würde ich hier den Rest auflösen.	
 
 ![Daily](https://www.tradingview.com/x/IYfGOU5n){:width="50%"}
+
 Trade beendet.
 
 Die Strategie ist sehr einfach, aber effektiv. Bei Fragen meldet euch gerne. Zu jeder Strategie wird es bald auch einen Online Kurs geben.
@@ -118,11 +125,11 @@ Die Strategie ist sehr einfach, aber effektiv. Bei Fragen meldet euch gerne. Zu 
 
 Tradie Plays zeigen die Schritt für Schritt wie bestimmte Trades gemacht werden. Hier findest du 3 Tradie Plays für diese Strategie.
 
-![NVDA (09.09.2021)](https://www.meinetradies.de/tradies?symbol=NVDA&date=09.09.2021)
+[NVDA (09.09.2021)](https://www.meinetradies.de/tradies?symbol=NVDA&date=09.09.2021)
 
-![SNAP (09.09.2021)](https://www.meinetradies.de/tradies?symbol=SNAP&date=09.09.2021)
+[SNAP (09.09.2021)](https://www.meinetradies.de/tradies?symbol=SNAP&date=09.09.2021)
 
-![SQ (09.09.2021) ](https://www.meinetradies.de/tradies?symbol=SQ&date=09.09.2021)
+[SQ (09.09.2021) ](https://www.meinetradies.de/tradies?symbol=SQ&date=09.09.2021)
 
 
  <a class="button" href="https://twitter.com/tradies4good" rel="noopener noreferrer" target="_blank"><span
