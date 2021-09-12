@@ -70,6 +70,7 @@ Der NVDA Trade kann auch anhand eines Tradie Plays Schritt für Schritt nachvoll
 Hier findest du die grundsätzlichen Schritte für den Trade:
 
 Daily Chart 
+
 ![Daily](https://www.tradingview.com/x/NnxCIYzm/){:width="50%"}
 
 Starker Gap, mit Volumen. High Wave Candle auf dem 2m Chart.
