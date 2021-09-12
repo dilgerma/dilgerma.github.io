@@ -19,9 +19,13 @@ Was aber ist jetzt genau ein Trading Plan?
 
 Meine Definition ist sehr einfach - *Ein Trading Plan ist ein niedergeschriebenes striktes, wiederholbares und möglichst einfaches Set an Regeln für ein bestimmtes Trade Setup, die ausnahmslos befolgt werden.*
 
-Hast du einen niedergeschriebenen Tradingplan?
 
 ![Ein Trading Plan muss aufgeschrieben sein](/assets/images/nummer1/pencil.jpg){:width="50%"}
+
+Hast du einen niedergeschriebenen Tradingplan?
+
+
+![Ein Trading Plan muss aufgeschrieben sein](/assets/images/nummer1/plan.jpg){:width="50%"}
 
 
 Ich habe mehrere Trading Strategien die ich mehr oder weniger tagtäglich trade, eine aber ist meine Brot&Butter Strategie, und diese möchte ich hier im Post vorstellen - kostenlos, unverbindlich und frei zugänglich.
