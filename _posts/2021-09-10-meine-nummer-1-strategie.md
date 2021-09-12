@@ -65,7 +65,7 @@ Der Stop wird bei jedem Close unterhalb des 10ema auf das letzte "signifikante" 
 
 Der NVDA Trade kann auch anhand eines Tradie Plays Schritt für Schritt nachvollzogen werden: 
 
-![NVDA (09.09.2021)](https://www.meinetradies.de/tradies?symbol=NVDA&date=09.09.2021)
+[NVDA (09.09.2021)](https://www.meinetradies.de/tradies?symbol=NVDA&date=09.09.2021)
 
 Hier findest du die grundsätzlichen Schritte für den Trade:
 
