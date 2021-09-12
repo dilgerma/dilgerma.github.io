@@ -52,26 +52,35 @@ Wir befinden uns oberhalb dem 10ema.
 
 Das 10ema wurde mindestens einmal berührt.
 
-MOMO ist bullisch.
+MOMO ist bullisch (8EMA ist über dem 21EMA, das zeigt Momentum)
 
 Der Chart zeigt ein eindeutiges Setup, das du benennen kannst (Double Bottom, Hammer Candle, Morning Star Reversal, One White Soldier)
 
-Trade das Setup nach den Setup Regeln (Retest Hammer, Double Bottom Retest der Neckline, etc.). Lerne die Setups, es ist dein Handwerkszeug.
+Trade das Setup nach den Candle Setup Regeln (Retest Hammer, Double Bottom Retest der Neckline, etc.). Lerne die Setups, es ist dein Handwerkszeug.
 
 Der Stop wird bei jedem Close unterhalb des 10ema auf das letzte "signifikante" Pivot Low angepasst.
 
 
 #### Beispiel NVDA am 09.09.2021
 
+Der NVDA Trade kann auch anhand eines Tradie Plays Schritt für Schritt nachvollzogen werden: 
+
+![NVDA (09.09.2021)](https://www.meinetradies.de/tradies?symbol=NVDA&date=09.09.2021)
+
+Hier findest du die grundsätzlichen Schritte für den Trade:
+
 Daily Chart 
 ![Daily](https://www.tradingview.com/x/NnxCIYzm/){:width="50%"}
 
 Starker Gap, mit Volumen. High Wave Candle auf dem 2m Chart.
+
 ![Daily](https://www.tradingview.com/x/7qxROV4I){:width="50%"}
 
 Schöner Breakout, High Wave Candle. Ich trade erst, wenn wir das 10ema mindestens einmal gestreift haben.	
 
 ![Daily](https://www.tradingview.com/x/xnlYCOx5){:width="50%"}
+
+Wir warten hier geduldig.
 
 ![Daily](https://www.tradingview.com/x/6DIwjxa5){:width="50%"}
 
@@ -106,12 +115,14 @@ Die Strategie ist sehr einfach, aber effektiv. Bei Fragen meldet euch gerne. Zu 
 
 #### Tradie Plays
 
-NVDA (09.09.2021) - https://www.meinetradies.de/tradies?symbol=NVDA&date=09.09.2021
+Tradie Plays zeigen die Schritt für Schritt wie bestimmte Trades gemacht werden. Hier findest du 3 Tradie Plays für diese Strategie.
 
+![NVDA (09.09.2021)](https://www.meinetradies.de/tradies?symbol=NVDA&date=09.09.2021)
 
-SNAP (09.09.2021) - https://www.meinetradies.de/tradies?symbol=SNAP&date=09.09.2021
+![SNAP (09.09.2021)](https://www.meinetradies.de/tradies?symbol=SNAP&date=09.09.2021)
 
-SQ (09.09.2021) - https://www.meinetradies.de/tradies?symbol=SQ&date=09.09.2021
+![SQ (09.09.2021) ](https://www.meinetradies.de/tradies?symbol=SQ&date=09.09.2021)
+
 
 [Tradies](https://www.meinetradies.de)
 
