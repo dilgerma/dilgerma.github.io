@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="scanners">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/scanners/scanner_momentum.zip!/" />
+      <root url="jar://$PROJECT_DIR$/scanners/scanner_inside.zip!/" />
+      <root url="jar://$PROJECT_DIR$/scanners/scanner_put_sale.zip!/" />
+      <root url="jar://$PROJECT_DIR$/scanners/scanner_squeeze.zip!/" />
+      <root url="jar://$PROJECT_DIR$/scanners/scanner_pullback.zip!/" />
+      <root url="jar://$PROJECT_DIR$/scanners/scanner_doji.zip!/" />
+      <root url="jar://$PROJECT_DIR$/scanners/scanner_ema_cross.zip!/" />
+      <root url="jar://$PROJECT_DIR$/scanners/scanner_tweezers.zip!/" />
+      <root url="jar://$PROJECT_DIR$/scanners/scanner_hammer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

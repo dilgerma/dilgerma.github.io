@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ib_settings.xml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ib_settings.xml.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

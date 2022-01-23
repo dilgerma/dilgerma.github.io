@@ -10,7 +10,7 @@ layout: post
 ## Trading Plan
 
 Was ist die _eine_ Sache die einen erfolgreichen Trader ausmacht?
-Mehrere Faktoren tragen zum Erfolg bei, aber eine Sache ist mit Sicherheit absolut essentiell - einen Plan zu haben und den 
+Mehrere Faktoren tragen zum Erfolg bei, aber eine Sache ist mit Sicherheit absolut essentiell - einen Plan zu haben und den
 absoluten Willen, diesen Plan auszuführen, egal was kommt.
 
 (Weitere Fakoren sind Risikomanagement, Trade Management, Technische Expertise, Konzentration usw.)
@@ -67,13 +67,13 @@ Der Stop wird bei jedem Close unterhalb des 10ema auf das letzte "signifikante" 
 
 #### Beispiel NVDA am 09.09.2021
 
-Der NVDA Trade kann auch anhand eines Tradie Plays Schritt für Schritt nachvollzogen werden: 
+Der NVDA Trade kann auch anhand eines Tradie Plays Schritt für Schritt nachvollzogen werden:
 
 [NVDA (09.09.2021)](https://www.meinetradies.de/tradies?symbol=NVDA&date=09.09.2021)
 
 Hier findest du die grundsätzlichen Schritte für den Trade:
 
-Daily Chart 
+Daily Chart
 
 ![Daily](https://www.tradingview.com/x/NnxCIYzm/){:width="50%"}
 
@@ -81,7 +81,7 @@ Starker Gap, mit Volumen. High Wave Candle auf dem 2m Chart.
 
 ![Daily](https://www.tradingview.com/x/7qxROV4I){:width="50%"}
 
-Schöner Breakout, High Wave Candle. Ich trade erst, wenn wir das 10ema mindestens einmal gestreift haben.	
+Schöner Breakout, High Wave Candle. Ich trade erst, wenn wir das 10ema mindestens einmal gestreift haben.
 
 ![Daily](https://www.tradingview.com/x/xnlYCOx5){:width="50%"}
 
@@ -89,35 +89,35 @@ Wir warten hier geduldig.
 
 ![Daily](https://www.tradingview.com/x/6DIwjxa5){:width="50%"}
 
-Schöne Konsolidierung oberhalb vom 200SMA. Breakout mit bullischem MOMO. "Augen auf den Chart"	
+Schöne Konsolidierung oberhalb vom 200SMA. Breakout mit bullischem MOMO. "Augen auf den Chart"
 
 ![Daily](https://www.tradingview.com/x/k3gdNdSE){:width="50%"}
 
-Double bottom.	
+Double bottom.
 
 ![Daily](https://www.tradingview.com/x/HZ1ik9A5){:width="50%"}
 
-Trade Setup	
+Trade Setup
 
 ![Daily](https://www.tradingview.com/x/HeciaZTR){:width="50%"}
 
-Trigger.	
+Trigger.
 
 ![Daily](https://www.tradingview.com/x/MV80tuo0){:width="50%"}
 
-Close unterhalb 10EMA, leichter Stop Move.	
+Close unterhalb 10EMA, leichter Stop Move.
 
 ![Daily](https://www.tradingview.com/x/L1olAwim){:width="50%"}
 
-Close unterhalb vom 10ema.  Stop adjustieren.	
+Close unterhalb vom 10ema.  Stop adjustieren.
 
 ![Daily](https://www.tradingview.com/x/F1x5LrGV){:width="50%"}
 
-Target high. Ich verkaufe 80%. 	
+Target high. Ich verkaufe 80%.
 
 ![Daily](https://www.tradingview.com/x/ruS9OJml){:width="50%"}
 
-Profit Target - direkt unterhalb vom Day High. Sieht etwas extended aus, daher würde ich hier den Rest auflösen.	
+Profit Target - direkt unterhalb vom Day High. Sieht etwas extended aus, daher würde ich hier den Rest auflösen.
 
 ![Daily](https://www.tradingview.com/x/IYfGOU5n){:width="50%"}
 
