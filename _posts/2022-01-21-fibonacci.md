@@ -1,5 +1,5 @@
 ---
-title: Fibonacci.."
+title: Fibonacci..
 date: 2022-01-22 10:00:00 -0000
 categories: trading
 image: fib.jpg
@@ -33,9 +33,9 @@ Es ist unerlässlich für jeden Trader zu wissen, wo im Markt wir uns aktuell be
 Ohne diese Orientierung wäre es wie in einer fremden Stadt eine Adresse zu finden ohne Karte und ohne Navigation.
 Geht - ist aber äusserst umständlich.
 
-Es gibt jetzt unterschiedlichste Tools und Strategien, wie man sich orientieren kann.
+Es gibt unterschiedlichste Tools und Strategien, wie man sich orientieren kann.
 Moving Averages, Trendanalysen, Fibonacci Wellen etc. etc. etc.
-Viele dieser Wege sind Kontrovers. Fibonacci Analysen werden von vielen Tradern als bloße Scharlatanerie abgetan.
+Viele dieser Wege sind kontrovers. Fibonacci Analysen werden von vielen Tradern als bloße Scharlatanerie abgetan.
 Mein Tradingstyle basiert sehr stark auf der Verwendung von Fibonacci, weil es für mich funktioniert.
 Ich kann aber jeden verstehen, der sich lieber anderweitig orientiert.
 Ich finde alles gut.. solange es funktioniert.
@@ -75,7 +75,7 @@ Schaffen wir es also, eine 1-2 Wellenformation zu bestimmen, können wir den Res
 daraus ableiten und wissen relativ sicher, wie weit Welle 3 laufen wird. Von wo bis wo wir mit der
 Korrekturwelle 4 rechnen, und ab wann eine Welle 5 startet und wie weit.
 
-Nehmen wir beispielsweise NFLX (wurde gerade in Q1/2022 komplett zersört). Aber in Q1 2021 war
+Nehmen wir beispielsweise NFLX (wurde gerade in Q1/2022 komplett zerstört). Aber in Q1 2021 war
 NFLX einer der Sterne am Chart Himmel.
 
 ![NFLX](/assets/images/fibonacci/nflx01.png){:width="50%"}
