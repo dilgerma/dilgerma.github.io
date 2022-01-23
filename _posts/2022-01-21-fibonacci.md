@@ -143,7 +143,7 @@ Willst du ein wenig mehr einsteigen gibt es ein Ebook zum Thema, dass du dir dem
 
 ![Fibonacci Buch](/assets/images/fibonacci/fib_buch.png){:width="30%"}
 
-Bevor du das aber machst der Hinweis - es gibt unmengen an frei verfügbaren Ressourcen zum Thema Fibonacci und Elliot
+Bevor du das aber machst der Hinweis - es gibt Unmengen an frei verfügbaren Ressourcen zum Thema Fibonacci und Elliot
 Wave im Internet.
 Das Buch musst du nicht kaufen, um die Technik zu nutzen. Ich freue mich aber natürlich, wenn du es trotzdem tust.
 
