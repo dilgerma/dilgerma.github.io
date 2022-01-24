@@ -97,7 +97,7 @@ indem wir die Fibonacci Extension auf die Welle 1-2 legen.
 
 ![NFLX](/assets/images/fibonacci/nflx03.png){:width="50%"}
 
-Unter der Annahme dass wir in der Welle 5 sind können wir jetzt nach einem Pattern für einen Entry Long suchen.
+Unter der Annahme dass wir in der Welle 3 sind können wir jetzt nach einem Pattern für einen Entry Long suchen.
 Hier sehen wir beispielsweise einen Bull Flag Breakout.
 
 ![NFLX](/assets/images/fibonacci/nflx04.png){:width="50%"}
@@ -106,7 +106,7 @@ Ein Trade dafür könnte so aufgesetzt werden.
 
 ![NFLX](/assets/images/fibonacci/nflx05.png){:width="50%"}
 
-Ziel ist das Ende der Welle 5 bei 646.20 $. Erreichen wir dieses Ziel realisieren wir einen Profit von 3 R.
+Ziel ist das Ende der Welle 3 bei 646.20 $. Erreichen wir dieses Ziel realisieren wir einen Profit von 3 R.
 Riskieren wir also 100 $ verdienen wir 300 $.
 
 ![NFLX](/assets/images/fibonacci/nflx06.png){:width="50%"}
