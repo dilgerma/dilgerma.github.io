@@ -50,7 +50,7 @@ die eine oder andere Richtung. Hier wird das Geld verdient.
 Wir halten uns typischerweise fern von Korrekturwellen, da diese keinem einheitlichen Trend folgen und
 schwerer zu traden sind (allgemein formuliert, Ausnahmen bestätigen typischerweise die Regel).
 
-Wir sehen typischerweise 5 Wellen (1,2,3 sind Impulswellen, 2 und 4 Korrekturwellen) mit einer anschließenden
+Wir sehen typischerweise 5 Wellen (1,3,5 sind Impulswellen, 2 und 4 Korrekturwellen) mit einer anschließenden
 ABC-Korrektur.
 
 ![Fibonacci](/assets/images/fibonacci/welle.png){:width="50%"}
