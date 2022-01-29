@@ -10,7 +10,7 @@ layout: post
 
 ## Elliot Waves
 
-Im ![letzten Artikel](https://blogs.meinetradies.de/trading/2022/01/22/fibonacci.html) hatten wir uns Fibonacci und Elliot Waves angeschaut und wie wir diese
+Im [letzten Artikel](https://blogs.meinetradies.de/trading/2022/01/22/fibonacci.html) hatten wir uns Fibonacci und Elliot Waves angeschaut und wie wir diese
 Tools bei den Tradies verwenden.
 
 Viele Trader sind der Überzeugung, dass Elliot Waves und Fibonacci Unfug sind.
@@ -62,7 +62,7 @@ Fibonacci ungefähr wissen, wo wir die Profite realisieren müssen (1.618 Extens
 ![AAPL März 2021 - Wellenstruktur](/assets/images/elliot_waves/AAPL_4.png){:width="50%"}
 
 In diesem Post sind extrem viele Informationen in komprimierter Form.
-Der ![Elliot Wave / Fibonacci Artikel](https://blogs.meinetradies.de/trading/2022/01/22/fibonacci.html)
+Der [Elliot Wave / Fibonacci Artikel](https://blogs.meinetradies.de/trading/2022/01/22/fibonacci.html)
 sollte fürs Grundverständnis helfen.
 
 Solltet ihr weitere Fragen haben - schaut doch einfach im Chat vorbei.
