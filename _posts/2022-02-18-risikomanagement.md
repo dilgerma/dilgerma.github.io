@@ -1,9 +1,9 @@
 ---
-title: Warum funktionieren Double Bottoms..
+title: Multi Trade Management..
 date: 2022-01-28 10:00:00 -0000
 categories: trading
 image: trap.jpg
-excerpt: "... und warum du möglicherweise ein Elliot Wave Trader bist ohne es zu wissen?"
+excerpt: "... und warum das wichtiger ist als jede Trading Strategie?"
 layout: post
 ---
 
