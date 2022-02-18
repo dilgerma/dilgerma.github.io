@@ -46,12 +46,14 @@ Mindestens 0.5R realisierter Profit muss übrig bleiben.
 Ist der realisierte Profit kleiner als 0.5R ist kein weiterer Trade möglich.
 
 Hintergrund - sobald ich einmal einen Profit realisiert habe möchte ich um jeden Preis vermeiden,
-dass ich den Tag im Verlust schliesse.
+dass ich den Tag im Verlust schließe.
 
-Beispiel 1 - ein Long Trade in AAPL realisiert 1.5R
+Beispiel 1 - ein Long Trade in AAPL realisiert 1.5R.
+
 Für den restlichen Tag habe ich maximal noch 1R Risiko übrig.
 
 Beispiel 2 - ein Long Trade realisiert 0.2R.
+
 Da wir keine Möglichkeit haben, 0.5R realisiert zu lassen ist kein weiterer Trade möglich.
 
 ### 3 Verlierer für den Tag beenden den Tag
