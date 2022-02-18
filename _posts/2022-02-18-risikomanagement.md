@@ -3,7 +3,7 @@ title: Multi Trade Management..
 date: 2022-01-28 10:00:00 -0000
 categories: trading
 image: trap.jpg
-excerpt: "... und warum das wichtiger ist als jede Trading Strategie?"
+excerpt: "... und warum ich selten rote Tage habe?"
 layout: post
 ---
 
