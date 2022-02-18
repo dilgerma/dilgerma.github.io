@@ -65,6 +65,11 @@ schon realisiert haben.
 Wenn wir drei Trades verlieren stimmt etwas nicht, daher versuchen wir es einfach am nächsten Tag noch einmal.
 
 
+Die meisten Trader fokussieren sich viel zu sehr auf die Strategie und die Entries, übersehen dabei komplett
+wie wichtig das Risikomanagement ist.
+Dieser Artikel dient hoffentlich als kleine Erinnerung.
+
+
  <a class="button" href="https://twitter.com/tradies4good" rel="noopener noreferrer" target="_blank"><span
                   class="icon"><i class="fab fa-twitter"></i></span></a>
               <a class="button" href="https://www.youtube.com/channel/UCC8gKMvl_C45G82SuAyb4Yw"
