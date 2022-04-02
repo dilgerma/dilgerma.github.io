@@ -1,5 +1,5 @@
 ---
-title: Wie man reversals erkennt..
+title: Wie man Reversals erkennt..
 date: 2022-01-28 10:00:00 -0000
 categories: trading
 image: reversal.jpg
