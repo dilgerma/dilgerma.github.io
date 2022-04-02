@@ -83,11 +83,15 @@ Weitere Beispiele vom 01.04.2022
 ![AMZN 01.04.2022](https://www.tradingview.com/x/RDJoAi2r/){:width="50%"}
 ![MU 01.04.2022](https://www.tradingview.com/x/A9G5YhMk/){:width="50%"}
 
-![Worum gehts](https://www.meinetradies.de/about)
-![Meine Tradies](https://www.meinetradies.de)
-![Meine Tradies / Ebooks & Shop ](https://www.meinetradies.de/ebooks)
-![Newsletter ](https://www.meinetradies.de/newsletter)
-![Trading View Onlinekurs](https://www.meinetradies.de/kurse/tradingview)
+[Worum gehts](https://www.meinetradies.de/about)
+
+[Meine Tradies](https://www.meinetradies.de)
+
+[Meine Tradies / Ebooks & Shop ](https://www.meinetradies.de/ebooks)
+
+[Newsletter ](https://www.meinetradies.de/newsletter)
+
+[Trading View Onlinekurs](https://www.meinetradies.de/kurse/tradingview)
 
 
 
