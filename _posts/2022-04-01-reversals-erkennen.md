@@ -83,6 +83,8 @@ Weitere Beispiele vom 01.04.2022
 ![AMZN 01.04.2022](https://www.tradingview.com/x/RDJoAi2r/){:width="50%"}
 ![MU 01.04.2022](https://www.tradingview.com/x/A9G5YhMk/){:width="50%"}
 
+## Falls du mehr von den Tradies möchtest...
+
 [Worum gehts](https://www.meinetradies.de/about)
 
 [Meine Tradies](https://www.meinetradies.de)
