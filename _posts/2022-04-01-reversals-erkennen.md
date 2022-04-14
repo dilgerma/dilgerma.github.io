@@ -98,8 +98,6 @@ Weitere Beispiele vom 01.04.2022
 
 
 
-
-
  <a class="button" href="https://twitter.com/tradies4good" rel="noopener noreferrer" target="_blank"><span
                   class="icon"><i class="fab fa-twitter"></i></span></a>
               <a class="button" href="https://www.youtube.com/channel/UCC8gKMvl_C45G82SuAyb4Yw"
