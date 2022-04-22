@@ -3,7 +3,7 @@ title: Warum funktionieren Double Bottoms..
 date: 2022-01-28 10:00:00 -0000
 categories: trading
 image: waves.jpg
-excerpt: "... und warum du möglicherweise ein Elliot Wave Trader bist ohne es zu wissen?"
+excerpt: "Wie Double Bottoms wirklich funktionieren und warum."
 layout: post
 
 ---

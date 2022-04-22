@@ -3,7 +3,7 @@ title: Fibonacci..
 date: 2022-01-22 10:00:00 -0000
 categories: trading
 image: fib.jpg
-excerpt: "Fibonacci Secrets - wie ich den Markt lese"
+excerpt: "Fibonacci Secrets - wie ich den Markt lese mit Fibonacci"
 layout: post
 
 ---

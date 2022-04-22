@@ -3,7 +3,7 @@ title: Wie man Reversals erkennt..
 date: 2022-01-28 10:00:00 -0000
 categories: trading
 image: reversal.jpg
-excerpt: "... und warum das nicht schwer ist.."
+excerpt: "Wie man Reversals im Markt erkennt und auch tradet."
 layout: post
 
 ---
