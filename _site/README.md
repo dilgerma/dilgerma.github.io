@@ -1,1 +1,0 @@
-# effectivetrainings.github.io
