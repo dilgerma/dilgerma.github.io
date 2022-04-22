@@ -1,1 +1,1 @@
-# effectivetrainings.github.io
+# blogs.meinetradies.de
