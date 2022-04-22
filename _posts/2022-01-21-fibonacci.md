@@ -5,6 +5,7 @@ categories: trading
 image: fib.jpg
 excerpt: "Fibonacci Secrets - wie ich den Markt lese"
 layout: post
+
 ---
 
 

@@ -5,6 +5,7 @@ categories: trading
 image: reversal.jpg
 excerpt: "... und warum das nicht schwer ist.."
 layout: post
+
 ---
 
 

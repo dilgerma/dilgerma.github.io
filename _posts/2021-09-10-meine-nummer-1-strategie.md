@@ -5,6 +5,7 @@ categories: trading
 image: erfolg.jpg
 excerpt: "Meine #1 Trading Strategie - Schritt für Schritt"
 layout: post
+
 ---
 
 ## Trading Plan

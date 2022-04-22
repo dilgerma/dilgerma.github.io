@@ -5,6 +5,7 @@ categories: trading
 image: display.jpg
 excerpt: "Auszug aus dem Buch 'Familientrader' - wie man Cashflow an der Börse generiert."
 layout: post
+
 ---
 
 ## Wie ich zum Trader wurde
@@ -30,7 +31,7 @@ Und tatsächlich habe ich mich stundenlang damit beschäftigt. Ich habe im Inter
 ### Der erste Trade
 
 Mein erster Optionstrade war am *07.03.2019*, ein *53.50* Short PUT auf *MO* ( Altria ), wertlos verfallen mit einem Gewinn von *76,50* $.
-Beim Absetzen des ersten Trades hatte ich Herzklopfen, ich war wahnsinnig aufgeregt und hatte Angst, etwas falsch zu machen. Als das obligatorsiche “Ding” in der Trader Workstation erklang wusste ich, jemand hatte meinen verkauften PUT gekauft. Jemand wollte sehr wahrscheinlich seine Long Position absichern, und ich war bereit, diese Absicherung zu bieten. 
+Beim Absetzen des ersten Trades hatte ich Herzklopfen, ich war wahnsinnig aufgeregt und hatte Angst, etwas falsch zu machen. Als das obligatorsiche “Ding” in der Trader Workstation erklang wusste ich, jemand hatte meinen verkauften PUT gekauft. Jemand wollte sehr wahrscheinlich seine Long Position absichern, und ich war bereit, diese Absicherung zu bieten.
 
 Altria stand an diesem Tag bei 54,80 $ und ich war bereit, die Versicherung für 12 Tage anzubieten. Der Käufer des PUTs hatte also 12 Tage die Sicherheit, sollte Altria unter 53,50 $ fallen würde ich ihm die Aktien trotzdem zu 53,50 $ abkaufen, egal wieviel tiefer Altria stand. Diese Versicherung war dem Käufer offensichtlich 76,50 $ wert.
 Der PUT ist wertlos verfallen und ich hoffe, wir beide waren damit zufrieden.
@@ -38,7 +39,7 @@ Der PUT ist wertlos verfallen und ich hoffe, wir beide waren damit zufrieden.
 Als der PUT dann tatsächlich wertlos verfallen ist konnte ich es kaum glauben. Das waren 80$ für das Drückenn eines Knopfes und ein bisschen abwarten.
 
 Seit diesem Trade bin ich Trader und ich bin auf einer Mission. Ich habe nie etwas schwierigeres gemacht als zu traden. Es ist eine Herausforderung in so vielen persönlichen Bereichen. Du benötigst das richtige Skillset, das richtige Mindset und das richtige Heartset. Du musst dich mit dir selber beschäftigen und deine inneren Barrieren überwinden. Du brauchst eine Vision und einen Plan. Du hat eiserne Regeln. Für jeden Regelbruch bezahlst du. Trader sind meist alleine und benötigen Disziplin, Ordnung und Routine. Es gibt niemanden, der dich überwacht, niemanden der dir den Weg zeigt. Du bist auf dich allein gestellt und musst dich deiner größten Angst stellen.
-Ohne Disziplin, ohne rigoroses Risikomanagement verlierst du alles und schlimmstenfalls mehr. Lohnt es sich? 
+Ohne Disziplin, ohne rigoroses Risikomanagement verlierst du alles und schlimmstenfalls mehr. Lohnt es sich?
 
 Ich habe nie etwas getan, was sich mehr gelohnt hat als das.
 

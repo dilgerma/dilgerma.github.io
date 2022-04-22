@@ -5,6 +5,7 @@ categories: trading
 image: entrepreneur.jpg
 excerpt: "Überblick TradingView Charting"
 layout: post
+
 ---
 
 
@@ -16,7 +17,7 @@ ist eine Charting Plattform mit einer sehr ergonomischen und smarten Benutzerobe
 Ich persönlich trade mehrere Interactive Brokers Accounts, nutze aber auschließlich TradingView
 für das Charting.
 
-Welche Einstellungen ich nutze, welche Abos ich dafür habe und welche Indikatoren ich für das Trading 
+Welche Einstellungen ich nutze, welche Abos ich dafür habe und welche Indikatoren ich für das Trading
 verwende findet ihr hier in diesem Artikel.
 
 ## Tradinv View Layout

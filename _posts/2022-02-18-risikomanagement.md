@@ -5,6 +5,7 @@ categories: trading
 image: trap.jpg
 excerpt: "... und warum ich selten rote Tage habe?"
 layout: post
+
 ---
 
 

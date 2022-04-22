@@ -5,6 +5,7 @@ categories: trading
 image: waves.jpg
 excerpt: "... und warum du möglicherweise ein Elliot Wave Trader bist ohne es zu wissen?"
 layout: post
+
 ---
 
 

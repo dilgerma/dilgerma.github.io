@@ -5,6 +5,7 @@ categories: personal
 image: hiking.jpg
 excerpt: "Der Gewohnheitstrader - gutes Trading kann eine Gewohnheit sein."
 layout: post
+
 ---
 
 ## Was macht einen guten Trader aus?
@@ -30,13 +31,13 @@ Angewohnheiten sind Dinge, die wir _immer und immer und immer und immer wieder_ 
 
 Fragen wir uns selbst, welche Angewohnheiten wir haben bekommen wir zunächst die offensichtlichen Antworten.
 
-Ich rauche nach dem Essen.. 
+Ich rauche nach dem Essen..
 
-Ich lese eine Stunde pro Tag.. 
+Ich lese eine Stunde pro Tag..
 
-Ich jogge 6km jeden morgen.. 
+Ich jogge 6km jeden morgen..
 
-Ich schaue abends fern.. 
+Ich schaue abends fern..
 
 Ich ...
 
@@ -46,7 +47,7 @@ Ich beende die Sätze meines Gegenübers...
 
 Ich ...
 
-Wie enstehen Angewohnheiten? 
+Wie enstehen Angewohnheiten?
 
 Angewohnheiten entstehen aus bestimmten Verhaltensmustern, die wir bewusst oder unbewusst so oft wiederholen und verinnerlicht haben, bis sie Teil unserer Persönlichkeit werden.
 Jeden morgen zu joggen ist genauso eine Angewohnheit wie nach dem Mittagessen zu rauchen.
@@ -61,14 +62,14 @@ Beispielsweise die Angwohnheit regelmäßig Sport zu treiben oder jeden Tag 100 
 
 Wie oft muss ein Vorhaben wiederholt werden bis es zur Angwohnheit wird und automatisch abläuft?
 Das ist sehr individuell.
-Und genau deswegen ist es so schwer, neue Angewohnheiten zu entwickeln. Wir müssen uns zwingen, die notwendigen 
+Und genau deswegen ist es so schwer, neue Angewohnheiten zu entwickeln. Wir müssen uns zwingen, die notwendigen
 Wiederholungen zu machen bis unser Gehirn diesen Prozess automatisiert.
 
 ### Absichtserklärung
 
 Eine Angwohnheit zu entwickeln fällt leichter mit einem konkreten Plan dafür.
 
-Möchte ich mir zum Beispiel angewöhnen, jeden Tag 100 Liegestütze zu machen muss ich mich regelmäßig daran erinnern, 
+Möchte ich mir zum Beispiel angewöhnen, jeden Tag 100 Liegestütze zu machen muss ich mich regelmäßig daran erinnern,
 das auch zu tun.
 Mache ich die Liegestütze morgens oder abends oder wann immer ich Zeit finde?
 
@@ -147,7 +148,7 @@ Das Buch "Atomic Habits" beschreibt genau das hier beschriebene Vorgehen.
 ### Hausaufgabe
 
 Schreibe deinen detaillierten Tradingplan für einen bestimmten Trade auf und schicke ihn an martin.dilger+tradingplan@googlemail.com.
-Der Tradingplan muss so beschrieben sein, dass er direkt ausführbar ist. 
+Der Tradingplan muss so beschrieben sein, dass er direkt ausführbar ist.
 Trading-Pläne werden auf Wunsch hier verlinkt.
 
 Falls du Schwierigkeiten hast, deinen Trade Plan zu formulieren tritt der [Community](https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ) bei. Ich kann dir helfen.

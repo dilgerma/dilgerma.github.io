@@ -5,6 +5,7 @@ categories: personal
 image: referee.jpg
 excerpt: "Regeln sind Regeln - und an die hat man sich zu halten. Das gilt im Leben, in jeder Beziehung und ganz besonders im Trading."
 layout: post
+
 ---
 
 ## Warum brauchen wir Regeln?
@@ -36,9 +37,9 @@ Es gibt keinen niedergeschriebenen TradingPlan und sobald Druck aufkommt, werden
 
 Hier sind meine Regeln für Day Trades.
 
-## Gap 
+## Gap
 
-In der Regel trade ich Gaps (Preissprünge über Nacht). 
+In der Regel trade ich Gaps (Preissprünge über Nacht).
 
 ![Gaps](/assets/images/regeln/trading01.png){:width="50%"}
 
@@ -48,23 +49,23 @@ mehrerer _Bearisher_ Tage.
 
 ![Gaps](/assets/images/regeln/trading02.png){:width="50%"}
 
-Dieser Preissprung über Nacht wurde durch die Earnings-Zahlen erzeugt. 
+Dieser Preissprung über Nacht wurde durch die Earnings-Zahlen erzeugt.
 Nach dem Market Close hat DraftKings die aktuellen Zahlen publiziert.
 Die Zahlen waren sehr gut und daher ist der Kurs sprichwörtlich sprunghaft angestiegen.
 Es gab allerdings auch Trader die mit schlechten Zahlen gerechnet haben.
 Und diese Trader waren aktiv genau an den mit den Pfeilen markierten Tagen.
-Viele dieser Trader sind Leerverkäufer. 
-Sie verkaufen Aktien, die sie gar nicht besitzen um die nach den Earnings wieder billiger 
+Viele dieser Trader sind Leerverkäufer.
+Sie verkaufen Aktien, die sie gar nicht besitzen um die nach den Earnings wieder billiger
 zurückzukaufen.
 Wenn die Zahlen schlechter sind als erwartet kann es genauso zu einem Preissprung nach unten kommen.
 Ein Traum für jeden Leerverkäufer.
 Springt DraftKings von 61.55 auf 55.10 ist das ein sagenhafter Gewinn von 6,45$ pro Aktie.
-Hat der Leerverkäufer 100 Aktien "verkauft", und er kauft die 100 Aktien für 55,10 $ zurück ist das 
+Hat der Leerverkäufer 100 Aktien "verkauft", und er kauft die 100 Aktien für 55,10 $ zurück ist das
 ein Gewinn von 645 $.
 Steigt der Preis aber, dann steigt auch der Verlust eines Leerverkäufers mit jedem Dollar den der Preis
 steigt.
 
-Üblicherweise setzt ein Trader daher einen Stop-Loss. Ein Kurs bei dessen Überschreiten eine Position 
+Üblicherweise setzt ein Trader daher einen Stop-Loss. Ein Kurs bei dessen Überschreiten eine Position
 automatisch geschlossen wird um einen zu hohen Verlust zu vermeiden.
 Stell dir selbst die Frage, wo du in diesem Fall deinen Stop setzen würdest?
 
@@ -76,13 +77,13 @@ Beim Gap über Nacht werden diese Stops getriggert sobald der Markt öffnet.
 Die Leerverkäufer schliessen ihre Position automatisch.
 Um eine leerverkaufte Position zu schliessen müssen Aktien zurückgekauft werden.
 Je mehr Aktien zurückgekauft werden, desto höher steigt der Kurs.
-Diese Positionen werden "am Markt" zurückgekauft. 
+Diese Positionen werden "am Markt" zurückgekauft.
 D.h wir sehen einen massiven Preisanstiegt und das sieht man auch in der Kerze für den Tag.
 Der Preis ist nur ganz kurz nach unten ausgebrochen und ist dann den restlichen Tag
 konstant gestiegen.
 Das ist Tradebar!
 
-An dem Tag hätte man DKNG einfach relativ bald nach Marktöffnung kaufen können und abends wieder verkaufen für 
+An dem Tag hätte man DKNG einfach relativ bald nach Marktöffnung kaufen können und abends wieder verkaufen für
 einen Gewinn von grob 6$ pro Aktie.
 Bei 100 Aktien hätte man so 600$ verdient.
 
@@ -98,7 +99,7 @@ Die einzigen Trades, die an Inside Days überhaupt für mich in Frage kommen sin
 
 ![Gaps](/assets/images/regeln/trading04.png){:width="50%"}
 
-Da meine Regel normalerweise besagt, dass ein Gap über das Hoch / Tief des Vortages springen soll komme ich nur sehr selten 
+Da meine Regel normalerweise besagt, dass ein Gap über das Hoch / Tief des Vortages springen soll komme ich nur sehr selten
 in die Versuchung überhaupt Inside Days zu traden.
 Wenn ich es aber mache, dann sehr vorsichtig.
 
@@ -106,7 +107,7 @@ Wenn ich es aber mache, dann sehr vorsichtig.
 ## Support / Resistance
 
 Support / Resistance ist wahrscheinlich das wichtigste Konzept, dass es zu verstehen gilt, wenn man sich mit Trading beschäftigt.
-Und dabei spielt es keine Rolle über welchen Zeitrahmen wir sprechen. 
+Und dabei spielt es keine Rolle über welchen Zeitrahmen wir sprechen.
 Support / Resistance gilt sowohl für Intraday Trades (sogenannte Day Trades) als auch Swing Trades (mehrere Tage oder Wochen)
 oder für Investments (Jahre).
 
@@ -115,7 +116,7 @@ einen Trendwechsel vollzogen hat.
 
 ![Gaps](/assets/images/regeln/trading05.png){:width="50%"}
 
-Für Support / Resistance gelten für mich folgende wichtige Regeln. 
+Für Support / Resistance gelten für mich folgende wichtige Regeln.
 
 ### Regel 1
 Ich kaufe niemals an einer Resistance Zone.
@@ -157,9 +158,9 @@ Beispiel für ROKU Intraday am 05.04.2021
 
 Nach einem längeren Bear-Move sehen wir einen massiven Volumenausbruch. Das zweithöchste Volumen des Tages.
 Viele Trader sehen sich nach der kurzen Konsolidierung im Bear-Move bestätigt und versuchen ROKU zu shorten.
-In vielen Fällen ist *dies* genau der Punkt, an dem der Trend sich ändert. Irgendwann sind alle Trader die 
+In vielen Fällen ist *dies* genau der Punkt, an dem der Trend sich ändert. Irgendwann sind alle Trader die
 _short_ traden bereits im Markt. Es gibt eine keine Verkäufer mehr und es bleiben nunmehr kurzfristig nur noch Käufer übrig.
-Sobald ich derartige Volumenausbrüche sehe bin ich direkt auf der Suche nach _Reversal Patterns_ die mir 
+Sobald ich derartige Volumenausbrüche sehe bin ich direkt auf der Suche nach _Reversal Patterns_ die mir
 den Einstieg in eine Gegenbewegung ermöglichen.
 
 ![ROKU 05.04.2021](/assets/images/regeln/trading08.png){:width="50%"}
@@ -179,7 +180,7 @@ Riskieren wir 20$ in diesem Trade verdienen wir knapp 40$ in 30 Minuten.
 
 Neben Support / Resistance ist eines der wichtigsten Werkzeuge eines Traders der Trend.
 Der Trend ist entweder bullish, bearish oder seitwärts, etwas anderes ist nicht möglich.
-Wie aber definiert sich technisch ein Trend? 
+Wie aber definiert sich technisch ein Trend?
 
 Jedes Kind erkennt normalerweise auf den ersten Blick ob ein Trend aufwärds, abwärts oder seitwärs verläuft.
 
@@ -220,7 +221,7 @@ Ein schönes Beispiel für eine Intra Day Divergenz ist AMD am 05.04.2021
 
 ![AMD RSI Divergenz](/assets/images/regeln/trading14.png){:width="50%"}
 
-Während AMD die erste Hälfte des Tages in einem klaren Abwärtstrend verläuft steigt der RSI stetig und 
+Während AMD die erste Hälfte des Tages in einem klaren Abwärtstrend verläuft steigt der RSI stetig und
 in einem klaren Aufwärtstrend.
 Wir bereiten uns daher auf einen Reversal Trade vor und warten trotz dem klaren Downtrend auf dem Chart auf ein bullishes Einstiegssignal.
 
