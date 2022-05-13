@@ -38,7 +38,7 @@ In diesem Video zeige ich euch direkt wie ich Supply & Demand im Daytrading nutz
 
 <div class="has-text-centered">
 <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube-nocookie.com/embed/yVSbCfWdf8s?autoplay=0" frameborder="0" allowFullScreen></iframe>
+  src="https://www.youtube-nocookie.com/embed/dkOcMhjex8g?autoplay=0" frameborder="0" allowFullScreen></iframe>
 </div>
 
 ### Folge dem Großen Geld
