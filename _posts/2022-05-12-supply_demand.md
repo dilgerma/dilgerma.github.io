@@ -11,7 +11,9 @@ layout: post
 
 ## Das Große Ganze
 
-Der Titel ist natürlich eine Anspielung auf das ![ fantastische Buch von Mark Douglas](https://amzn.to/3M6Zdt9).
+Achtung - es könnte sein, dass du Charts nie wieder so siehst wie zuvor, wenn du diesen Blog liest.
+
+Der Titel ist natürlich eine Anspielung auf das [fantastische Buch von Mark Douglas](https://amzn.to/3M6Zdt9).
 Es gibt einige Dinge, die sind so fundamental im Markt verankert und doch kennen sie
 selbst manche Trader nicht, die das seit Jahren mehr oder weniger erfolgreich machen.
 Üblicherweise ist die Erkenntnis wie ein Brett, dass einem vor den Kopf geknallt wird,
@@ -31,6 +33,13 @@ Das stimmt. Irgendwie weiß es jeder. Was das aber konkret bedeutet und wie man 
 in sein Trading einbeziehen kann kann mir kaum einer erklären.
 Ich habe es für mich durch stundenlanges Starren auf Charts herausgefunden. Für dich geht
 es hoffentlich schneller.
+
+In diesem Video zeige ich euch ohne großes Drumherum wie ich Supply & Demand im Daytrading nutze.
+
+<div class="has-text-centered">
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube-nocookie.com/embed/yVSbCfWdf8s?autoplay=0" frameborder="0" allowFullScreen></iframe>
+</div>
 
 ### Folge dem Großen Geld
 
@@ -144,7 +153,7 @@ Die Kanten der Angebots- und Nachfragezonen sind die Preislevel auf dem Chart di
 
 Ich habe euch im unteren Video einige weitere Beispiele bereitgestellt, wie Zonen auf beliebigen Timeframes markiert werden können.
 
-## Learning
+## Was lernen wir daraus?
 
 Der Preis bestimmt Angebot und Nachfrage, das gilt für Ebay und für Charts.
 
