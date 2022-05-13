@@ -173,6 +173,14 @@ Falls du mehr wissen möchtest zum Thema Supply & Demand - abonniere den ![Tradi
 
 Weiterhin gibt es den Online Workshop "Traden (fast) ohne Indikatoren - wie Angebot und Nachfrage mein Trading verändert hat"
 
+Eine kurze Zusammenfassung findest du im [Supply & Demand Trading Mini Ebook](https://www.meinetradies.de/assets/ebooks/Traden-ohne-Indikatoren.pdf)
+
+## Eine letzte Sache
+
+Du findest 101 Supply & Demand Trades in diesem kleinen Online Kurs - völlig kostenlos.
+
+[https://www.meinetradies.de/kurse/101-backtrades/banner-amd.png](https://www.meinetradies.de/kurse/101-backtrades/amd)
+
 ## Falls du mehr von den Tradies möchtest...
 
 [Worum gehts](https://www.meinetradies.de/about)
