@@ -9,7 +9,7 @@ layout: post
 ---
 
 
-## Das Große Ganze
+# Trading mit Supply & Demand
 
 Achtung - es könnte sein, dass du Charts nie wieder so siehst wie zuvor, wenn du diesen Blog liest.
 
