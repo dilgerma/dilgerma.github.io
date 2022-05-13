@@ -1,6 +1,6 @@
 ---
 title: Trading outside the Zone
-date: 2022-01-28 10:00:00 -0000
+date: 2022-05-11 10:00:00 -0000
 categories: trading
 image: stones.jpg
 excerpt: "Supply & Demand - Trading Outside the Zone."
