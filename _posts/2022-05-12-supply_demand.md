@@ -1,8 +1,8 @@
 ---
-title: Trading outside the Zone..
+title: Trading outside the Zone
 date: 2022-01-28 10:00:00 -0000
 categories: trading
-image: reversal.jpg
+image: stones.jpg
 excerpt: "Supply & Demand - Trading Outside the Zone."
 layout: post
 
@@ -13,7 +13,7 @@ layout: post
 
 Achtung - es könnte sein, dass du Charts nie wieder so siehst wie zuvor, wenn du diesen Blog liest.
 
-Der Titel ist natürlich eine Anspielung auf das [fantastische Buch von Mark Douglas](https://amzn.to/3M6Zdt9).
+Der Titel ist natürlich eine Anspielung auf das [fantastische Buch von Mark Douglas](https://amzn.to/3M6Zdt9)*.
 Es gibt einige Dinge, die sind so fundamental im Markt verankert und doch kennen sie
 selbst manche Trader nicht, die das seit Jahren mehr oder weniger erfolgreich machen.
 Üblicherweise ist die Erkenntnis wie ein Brett, dass einem vor den Kopf geknallt wird,
@@ -34,7 +34,7 @@ in sein Trading einbeziehen kann kann mir kaum einer erklären.
 Ich habe es für mich durch stundenlanges Starren auf Charts herausgefunden. Für dich geht
 es hoffentlich schneller.
 
-In diesem Video zeige ich euch ohne großes Drumherum wie ich Supply & Demand im Daytrading nutze.
+In diesem Video zeige ich euch direkt wie ich Supply & Demand im Daytrading nutze.
 
 <div class="has-text-centered">
 <iframe id="ytplayer" type="text/html" width="640" height="360"
@@ -185,7 +185,7 @@ Weiterhin gibt es den Online Workshop "Traden (fast) ohne Indikatoren - wie Ange
 
 [Trading View Onlinekurs](https://www.meinetradies.de/kurse/tradingview)
 
-
+<div class="small">Mit * markierte Links sind Affiliate Links</div>
 
 
  <a class="button" href="https://twitter.com/tradies4good" rel="noopener noreferrer" target="_blank"><span
