@@ -179,7 +179,7 @@ Eine kurze Zusammenfassung findest du im [Supply & Demand Trading Mini Ebook](ht
 
 Du findest 101 Supply & Demand Trades in diesem kleinen Online Kurs - völlig kostenlos.
 
-[https://www.meinetradies.de/kurse/101-backtrades/banner-amd.png](https://www.meinetradies.de/kurse/101-backtrades/amd)
+[101 Supply & Demand Backtrades](https://www.meinetradies.de/kurse/101-backtrades/amd)
 
 ## Falls du mehr von den Tradies möchtest...
 
