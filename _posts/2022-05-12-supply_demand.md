@@ -171,7 +171,7 @@ Diese Idee hat mein Trading revolutioniert.
 
 Falls du mehr wissen möchtest zum Thema Supply & Demand - abonniere den [Tradies Newsletter](https://seu2.cleverreach.com/f/317896-321512/). Du bekommst mehrmals die Woche die wichtigen Levels für Supply / Demand Zonen und weitere Informationen und Trade Beispiele dafür.
 
-Weiterhin gibt es den Online Workshop "Traden (fast) ohne Indikatoren - wie Angebot und Nachfrage mein Trading verändert hat"
+Weiterhin gibt es den Online Workshop [Traden (fast) ohne Indikatoren - wie Angebot und Nachfrage mein Trading verändert hat](https://www.meinetradies.de/kurse/supply-und-demand)
 
 Eine kurze Zusammenfassung findest du im [Supply & Demand Trading Mini Ebook](https://www.meinetradies.de/assets/ebooks/Traden-ohne-Indikatoren.pdf)
 
