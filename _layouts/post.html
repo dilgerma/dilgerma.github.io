@@ -4,7 +4,7 @@
 
 <head>
     <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="c458b478-4a38-4a31-8834-300cc3a796bf"
-           type="text/javascript"></script>
+            type="text/javascript"></script>
 
     <meta charset="utf-8"/>
     <meta name="theme-color" content="#000000"/>
@@ -29,78 +29,88 @@
             <div class="container">
                 <nav
                         aria-label="main navigation"
-                        class="navbar candles"
+                        className="navbar candles"
                         role="navigation"
                         data-bulma-attached="attached"
                 >
 
-                    <div class="navbar-brand">
-                        <a class="navbar-item" href="https://www.meinetradies.de">
-                            <img alt="tradies logo" src="/tradies_logo.png"/>
-                        </a>
-                        <span class="navbar-item has-text-primary has-text-orbitron">
-                  Kauf dir Zeit..
-                </span>
+                    {/*brand*/}
+                    <div className="navbar-brand">
+                        <div>
+
+                            <a className="navbar-item" href="/">
+                                <img src="/schrift2.png"></img><br/>
+
+                            </a>
+                        </div>
 
                     </div>
-                    <div class="navbar-menu">
-                        <div class="navbar-end">
+                    <div>
+                        <div className="navbar-end">
 
-                            <a class="navbar-item" href="https://www.meinetradies.de">
-                    <span class="icon">
-                      <i class="fas fa-home"></i>
-                    </span>
+                            <a className="navbar-item" href="/">
+                            <span className="icon">
+                              <i className="fas fa-home"></i>
+                            </span>
                                 <span>Home</span>
                             </a>
-                            <a class="navbar-item" href="https://www.meinetradies.de/about">
-                    <span class="icon">
-                      <i class="fas fa-heart"></i>
-                    </span>
-                                <span>Über Tradies</span>
+
+                            <a className="navbar-item" href="/tools">
+                            <span className="icon">
+                              <i className="fas fa-search"></i>
+                            </span>
+                                <span>Trading Tools</span>
                             </a>
-                            <a class="navbar-item" href="https://www.meinetradies.de/tradies"><span class="icon"><i
-                                    class="fas fa-book"></i></span><span>Tradies</span></a>
-                            <a class="navbar-item" href="https://www.meinetradies.de/backtrades">
-                    <span class="icon">
-                      <i class="fas fa-clock"></i>
-                    </span>
+                            <a className="navbar-item" href="https://www.meinetradies.de/backtrades">
+                                           <span className="icon">
+                                             <i className="fas fa-clock"></i>
+                                           </span>
                                 <span>Backtrades</span>
                             </a>
-                            <a class="navbar-item" href="https://www.meinetradies.de/tools">
-                    <span class="icon">
-                      <i class="fas fa-search"></i>
-                    </span>
-                                <span>Tools</span>
+                            <a className="navbar-item" href="https://www.meinetradies.de/ebooks">
+                                                          <span className="icon">
+                                                            <i className="fas fa-book"></i>
+                                                          </span>
+                                <span>Shop & Ebooks</span>
                             </a>
-                            <a className="navbar-item" href="/kurse">
-                                                                                                                <span className="icon">
-                           <i className="fas fa-chalkboard-teacher"></i>                                                                                     </span>
-                                                                                                      <span>Kurse</span>
-                                                                                                  </a>
-
-
-                            <!-- <a class="navbar-item" href="/academy"><span class="icon"><i class="fas fa-flag"></i></span><span>Tradies
-                            Academy</span></a>
-                        <a class="navbar-item" href="/coaching"><span class="icon"><i
-                                class="fas fa-heart"></i></span><span>Coaching</span></a> -->
-                            <a class="navbar-item" href="https://blogs.meinetradies.de">
-                    <span class="icon">
-                      <i class="fas fa-blog"></i>
-                    </span>
+                            <a className="navbar-item" href="https://www.meinetradies.de/kurse">
+                                                                                             <span className="icon">
+        <i className="fas fa-chalkboard-teacher"></i>                                                                                     </span>
+                                <span>Kurse</span>
+                            </a>
+                            <a className="navbar-item" href="https://blogs.meinetradies.de">
+                          <span className="icon">
+                          <i className="fas fa-blog"></i>
+                           </span>
                                 <span>Blog</span>
                             </a>
-                            <a class="navbar-item" href="https://www.meinetradies.de/chat" target="_blank">
-                  <span class="icon">
-                    <i class="fab fa-slack"></i>
-                  </span>
+                            <a className="navbar-item" href="https://www.meinetradies.de/coaching">
+                                                                <span className="icon">
+                                                                  <i className="fas fa-chalkboard-teacher"></i>
+                                                                </span>
+                                <span>Coaching</span>
+                            </a>
+                            <a className="navbar-item"
+                               href="https://www.meinetradies.de/chat">
+                          <span className="icon">
+                            <i className="fab fa-discord"></i>
+                          </span>
                                 <span>Chat</span>
                             </a>
-                            <a class="navbar-item" href="https://www.meinetradies.de/login">
-                  <span class="icon">
-                    <i class="fas fa-login"></i>
-                  </span>
-                                <span>Login</span>
+                            <a className="navbar-item" href="https://www.meinetradies.de/about">
+                                           <span className="icon">
+                                             <i className="fas fa-heart"></i>
+                                           </span>
+                                <span>Über Tradies</span>
                             </a>
+
+                            <a className="navbar-item" href="https://www.meinetradies.de/member">
+                          <span className="icon">
+                            <i className="fas fa-users"></i>
+                          </span>
+                                <span>Mitglieder</span>
+                            </a>
+
                         </div>
                     </div>
                 </nav>
@@ -119,24 +129,26 @@
 
                     <div class="columns noticication has-text-centered">
                         <div class="column is-one-third">
-                            <img class="shadow" style="width:50%" src="https://www.meinetradies.de/assets/ebooks/candlesticks.png"/>
+                            <img class="shadow" style="width:50%"
+                                 src="https://www.meinetradies.de/assets/ebooks/candlesticks.png"/>
                         </div>
                         <div class="column is-one-third">
-                                    <h3>7 Tage / 6 Strategien</h3>
-                                    <p>Wir haben 6 Strategien, die wir regelmäßig traden. Melde dich einfach zum Newsletter an, und du bekommst 6 Tage lang jeden Tag eine Strategie direkt in dein Postfach.</b></p>
+                            <h3>7 Tage / 6 Strategien</h3>
+                            <p>Wir haben 6 Strategien, die wir regelmäßig traden. Melde dich einfach zum Newsletter an,
+                                und du bekommst 6 Tage lang jeden Tag eine Strategie direkt in dein Postfach.</b></p>
                             <p>
                                 Jede Strategie wird kurz vorgestellt inkl. kurzem Tradeplan und Management.
                             </p>
-                                    <p>
-                                        Charts, Marktmeinung, Setups und jedesmal ein wenig &hearts;
+                            <p>
+                                Charts, Marktmeinung, Setups und jedesmal ein wenig &hearts;
 
-                                    </p>
-                                    <div class="padding">
-                                        <a href="/newsletter">
-                                            <a href="https://seu2.cleverreach.com/f/317896-321512/"
-                                               class="button is-primary">Anmelden zum Daily Tradie</a>
-                                        </a>
-                                    </div>
+                            </p>
+                            <div class="padding">
+                                <a href="/newsletter">
+                                    <a href="https://seu2.cleverreach.com/f/317896-321512/"
+                                       class="button is-primary">Anmelden zum Daily Tradie</a>
+                                </a>
+                            </div>
                         </div>
                         <div class="column is-one-third">
                             <img style="width:50%" src="/assets/images/banner.png"/>
