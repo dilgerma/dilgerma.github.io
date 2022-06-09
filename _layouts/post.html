@@ -22,21 +22,20 @@
 
     <title>Tradies Blog</title>
     <script>
-        document.addEventListener('DOMContentLoaded', function(){
+        $.ready(()=> {
             const images = document.querySelectorAll('.clickable-image')
-            images.forEach((image)=>{
-                image.addEventListener("click", () =>{
-                                                       if(image.classList.contains("image-open")) {
-                                                           image.classList.add("image-close")
-                                                           image.classList.remove("image-open")
-                                                       } else {
-                                                           image.classList.add("image-open")
-                                                           image.classList.remove("image-close")
-                                                       }
-                                                   })
-            })
-
-        }, false);
+                        images.forEach((image)=>{
+                            image.addEventListener("click", () =>{
+                                                                   if(image.classList.contains("image-open")) {
+                                                                       image.classList.add("image-close")
+                                                                       image.classList.remove("image-open")
+                                                                   } else {
+                                                                       image.classList.add("image-open")
+                                                                       image.classList.remove("image-close")
+                                                                   }
+                                                               })
+                        })
+        })
 
     </script>
 </head>
