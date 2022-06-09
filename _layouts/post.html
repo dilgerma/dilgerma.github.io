@@ -22,7 +22,7 @@
     <title>Tradies Blog</title>
     <script>
         document.addEventListener('DOMContentLoaded', function(){
-            const images = document.getElementsByClassName("clickable-image");
+            const images = document.querySelectorAll('.clickable-image')
             images.forEach((image)=>{
                 image.addEventListener("click", () =>{
                                                        if(image.classList.contains("image-open")) {
