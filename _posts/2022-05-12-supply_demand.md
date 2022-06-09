@@ -53,7 +53,9 @@ das Produkt in der Auktion haben möchten. Es gibt mehr Nachfrage als Angebot.
 Umgekehrt - möchte niemand das Produkt haben muss der Verkäufer üblicherweise im Preis herunter, um mehr
 Käufer anzulocken.
 
+<div class="text-align:center">
 <img alt="Angebot & Nachfrage" src="/assets/images/supply_demand/amd.png" width="50%" class="clickable-image">
+</div>
 
 Im Chart erkennen wir ein Überangebot (Preise sinken) wenn wir eine starke Bewegung auf dem Chart wie im obigen Bild von AMD erkennen.
 Wir interessieren uns im speziellen für und _schnelle_ Bewegungen mit großen Kerzen, wenig Dochten und einfach insgesamt eine _starke_ Bewegung.
@@ -64,12 +66,17 @@ Ein solches Überangebot kann üblicherweise nicht von uns einfachen Tradern ver
 Die einfachen (sogenannten Retail-Trader) werden durch solche Bewegungen üblicherweise zurückgelassen.
 Wir _hätten_ gerne von der Bewegung profitiert, die meisten von uns haben sie aber verpasst.
 
-![Angebot & Nachfrage - der Start der Bewegung](/assets/images/supply_demand/amd_02.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - der Start der Bewegung" src="/assets/images/supply_demand/amd_02.png" width="50%" class="clickable-image">
+</div>
 
 Der beste Zeitpunkt in den Trade zu springen wäre im oben markierten Bereich gewesen, kurz bevor die eigentliche Bewegung startet (die erste Wide Range Bar, die erste große Kerze)
 Aber dort war keineswegs absehbar, wie sich diese Bewegung entwickeln würde.
 
-![Angebot & Nachfrage - die Zone](/assets/images/supply_demand/amd_0301.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - die Zone" src="/assets/images/supply_demand/amd_0301.png" width="50%" class="clickable-image">
+</div>
+
 
 Markieren wir uns den Bereich im Chart, aus dem die Bewegung gestartet ist (grüner Bereich.)
 Die erste interessante Erkenntnis, der Markt scheint mit dieser _Zone_ zu interagieren (und so kam ich auch darauf).
@@ -80,17 +87,23 @@ Zumindest das obige Bild hätte uns mindestens zwei gute Möglichkeiten für Day
 
 Auf dem Chart sehen wir weitere Zonen, weitere _Startpunkte_ der nächsten größeren Bewegung.
 
-![Angebot & Nachfrage - weitere Zonen](/assets/images/supply_demand/amd_05.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - weitere Zonen" src="/assets/images/supply_demand/amd_05.png" width="50%" class="clickable-image">
+</div>
 
 Was wenn wir einfach warten, bis wir wieder in diese Zone kommen?
 
-![Angebot & Nachfrage - Retest](/assets/images/supply_demand/amd_06.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - Retest" src="/assets/images/supply_demand/amd_06.png" width="50%" class="clickable-image">
+</div>
 
 Wir sehen zunächst eine starke Bewegung hin zur _Supply_ Zone (die Zone an der das letzte mal der große Abverkauf)
 gestartet hat.
 Und nur eine Candle später sehen wir..
 
-![Angebot & Nachfrage - Retest & Reversal](/assets/images/supply_demand/amd_07.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - Retest & Reversal" src="/assets/images/supply_demand/amd_07.png" width="50%" class="clickable-image">
+</div>
 
 Einen _Inverted Hammer_ an den Kanten der Zone.
 
@@ -106,45 +119,58 @@ Und was wenn der festgelegte Preis genau der Preis ist, an dem zuletzt verkauft 
 Die logische Schlußfolgerung ist, dass wir hier erneut einen Angebotsüberschuss sehen, weil die Institution
 jetzt die nächste Charge in den Markt wirft.
 
-![Angebot & Nachfrage - Retest & Reversal](/assets/images/supply_demand/amd_08.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - Retest & Reversal" src="/assets/images/supply_demand/amd_08.png" width="50%" class="clickable-image">
+</div>
 
 Wie weit geht die Bewegung also?
 soweit bis wir auf den nächsten potentiellen Käufer treffen.
 Woran erkennen wir einen potentiellen Käufer?
 An der Nachfrage im Markt.
 
-![Angebot & Nachfrage - Demand Zone](/assets/images/supply_demand/amd_10.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - Demand Zone" src="/assets/images/supply_demand/amd_10.png" width="50%" class="clickable-image">
+</div>
 
 Im obigen Bild blau eingezeichnet die _starke_ bullische Bewegung und markiert die
 Candles im Chart die die Bewegung gestartet haben.
 Aufgrund dessen zeichnen wir die blaue Zone - unsere Demand Zone - der Ort im Chart an dem Nachfrage besteht.
 
-![Angebot & Nachfrage - Bounce aus der Demand Zone](/assets/images/supply_demand/amd_12.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - Bounce aus der Demand Zone" src="/assets/images/supply_demand/amd_12.png" width="50%" class="clickable-image">
+</div>
 
 Wir sehen einen Bounce aus der Demand Zone. Wie weit geht die Bewegung?
 Bis zur nächsten _Supply Zone_.
 Wo ist die nächste Supply Zone auf dem Chart?
 Mach dir kurz selber Gedanken.
 
-![Angebot & Nachfrage - Bounce aus der Demand Zone](/assets/images/supply_demand/amd_12.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - Bounce aus der Demand Zone" src="/assets/images/supply_demand/amd_12.png" width="50%" class="clickable-image">
+</div>
 
 Auch die rot markierte Candle markiert den Start einer starken Verkaufbewegung (Überangebot).
 Der Start der Bewegung markiert die Zone, an der _irgendeine_ Institution geplant hat zu verkaufen.
-
-![Angebot & Nachfrage - Trading outside the Zone](/assets/images/supply_demand/amd_14.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - Trading outside the Zone" src="/assets/images/supply_demand/amd_14.png" width="50%" class="clickable-image">
+</div>
 
 Die Candles die die Bewegung starten sind im Chart rot markiert, die neue Supply Zone ebenfalls.
 
-![Angebot & Nachfrage - Trading bis zur nächsten Zone](/assets/images/supply_demand/amd_15.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - Trading bis zur nächsten Zone" src="/assets/images/supply_demand/amd_15.png" width="50%" class="clickable-image">
+</div>
 
 Auch hier sehen wir erneut einen exakten Bounce aus der Supply Zone und ein zurücksetzen bis runter
 in die vorherige Demand Zone.
-
-![Angebot & Nachfrage - Trading bis zur nächsten Zone](/assets/images/supply_demand/amd_16.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - Trading bis zur nächsten Zone" src="/assets/images/supply_demand/amd_16.png" width="50%" class="clickable-image">
+</div>
 
 Das Spiel setzt sich unendlich fort.
-
-![Angebot & Nachfrage - Ping Pong](/assets/images/supply_demand/amd_17.png){:width="50%"}
+<div class="text-align:center">
+    <img alt="Angebot & Nachfrage - Ping Pong" src="/assets/images/supply_demand/amd_17.png" width="50%" class="clickable-image">
+</div>
 
 > Der Preis bestimmt sich durch Angebot und Nachfrage.
 > Auf dem Chart heißt das wir traden zwischen Angebotsüberschuss und Nachfrageüberschuss.

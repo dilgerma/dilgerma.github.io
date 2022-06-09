@@ -20,6 +20,19 @@
     <!-- <link rel="manifest" href="%PUBLIC_URL%/manifest.json" /> -->
 
     <title>Tradies Blog</title>
+    <script>
+        const image = document.querySelector(".clickable-image");
+
+                image.addEventListener("click", () =>{
+                    if(image.classList.contains("image-open")) {
+                        image.classList.add("image-close")
+                        image.classList.remove("image-open")
+                    } else {
+                        image.classList.add("image-open")
+                        image.classList.remove("image-close")
+                    }
+                })
+    </script>
 </head>
 
 <body>
