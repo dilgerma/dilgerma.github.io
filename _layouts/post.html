@@ -16,27 +16,16 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css"/>
     <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+    <script src="/assets/js/jquery.pan.min.js"></script>
     <link rel="stylesheet" href="/assets/css/custom.css">
 
     <!-- <link rel="manifest" href="%PUBLIC_URL%/manifest.json" /> -->
 
     <title>Tradies Blog</title>
     <script>
-        $.ready(()=> {
-            const images = document.querySelectorAll('.clickable-image')
-                        images.forEach((image)=>{
-                            image.addEventListener("click", () =>{
-                                                                   if(image.classList.contains("image-open")) {
-                                                                       image.classList.add("image-close")
-                                                                       image.classList.remove("image-open")
-                                                                   } else {
-                                                                       image.classList.add("image-open")
-                                                                       image.classList.remove("image-close")
-                                                                   }
-                                                               })
-                        })
-        })
-
+        $(function(){
+              $(".pan").pan();
+          })
     </script>
 </head>
 
