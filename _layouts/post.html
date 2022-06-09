@@ -21,19 +21,19 @@
 
     <title>Tradies Blog</title>
     <script>
-        document.ready(()=> {
+        document.addEventListener('DOMContentLoaded', function(){
             const image = document.querySelector(".clickable-image");
 
-                           image.addEventListener("click", () =>{
-                               if(image.classList.contains("image-open")) {
-                                   image.classList.add("image-close")
-                                   image.classList.remove("image-open")
-                               } else {
-                                   image.classList.add("image-open")
-                                   image.classList.remove("image-close")
-                               }
-                           })
-        })
+                                      image.addEventListener("click", () =>{
+                                          if(image.classList.contains("image-open")) {
+                                              image.classList.add("image-close")
+                                              image.classList.remove("image-open")
+                                          } else {
+                                              image.classList.add("image-open")
+                                              image.classList.remove("image-close")
+                                          }
+                                      })
+        }, false);
 
     </script>
 </head>

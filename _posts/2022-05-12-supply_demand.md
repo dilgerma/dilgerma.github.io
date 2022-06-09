@@ -75,7 +75,7 @@ Aber dort war keineswegs absehbar, wie sich diese Bewegung entwickeln würde.
 
 <div class="has-text-centered">
     <img alt="Angebot & Nachfrage - die Zone" src="/assets/images/supply_demand/amd_0301.png" width="50%" class="clickable-image">
-    <span class="small">Click um zu Vergrössern</span>
+
 </div>
 
 
