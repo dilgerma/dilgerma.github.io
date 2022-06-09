@@ -1,6 +1,6 @@
 ---
 title: Backtrading
-date: 2022-05-11 10:00:00 -0000
+date: 2023-05-11 10:00:00 -0000
 categories: trading
 image: stones.jpg
 excerpt: "Backtrading - kostenlos aus Fehlen lernen"
