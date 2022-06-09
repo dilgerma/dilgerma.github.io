@@ -53,7 +53,7 @@ das Produkt in der Auktion haben möchten. Es gibt mehr Nachfrage als Angebot.
 Umgekehrt - möchte niemand das Produkt haben muss der Verkäufer üblicherweise im Preis herunter, um mehr
 Käufer anzulocken.
 
-![Angebot & Nachfrage](/assets/images/supply_demand/amd.png){:width="50%"}
+![Angebot & Nachfrage](/assets/images/supply_demand/amd.png){:width="50%" :style="class=\"clickable-image\""}
 
 Im Chart erkennen wir ein Überangebot (Preise sinken) wenn wir eine starke Bewegung auf dem Chart wie im obigen Bild von AMD erkennen.
 Wir interessieren uns im speziellen für und _schnelle_ Bewegungen mit großen Kerzen, wenig Dochten und einfach insgesamt eine _starke_ Bewegung.

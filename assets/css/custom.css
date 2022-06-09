@@ -129,3 +129,36 @@ h1 h2 h3 h4 h5 {
 img {
   text-align: center;
 }
+
+.clickable-image{
+  width:50vw;
+}
+
+.image-open{
+  animation: scaleUp 1s forwards linear;
+}
+
+.image-close{
+  animation: scaleDown 1s forwards linear;
+}
+
+.clickable-image:hover{
+  cursor: pointer;
+}
+
+@keyframes scaleUp{
+  from{
+    width:50vw;
+  }to{
+    width:100vw;
+  }
+}
+
+
+@keyframes scaleDown{
+  from{
+    width:100vw;
+  }to{
+    width:50vw;
+  }
+}
