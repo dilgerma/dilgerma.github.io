@@ -225,8 +225,9 @@
 
             $trigger.addEventListener('click', () => {
                 document.getElementById('modal-image').innerHTML = ''
-
-                document.getElementById('modal-image').appendChild($trigger.cloneNode(true))
+                let node = $trigger.cloneNode(true)
+                node.setAttribute("style", "width:100%")
+                document.getElementById('modal-image').appendChild(node)
 
                 openModal($target);
             });
