@@ -41,7 +41,7 @@ In diesem Video zeige ich euch direkt wie ich Supply & Demand im Daytrading nutz
   src="https://www.youtube-nocookie.com/embed/dkOcMhjex8g?autoplay=0" frameborder="0" allowFullScreen></iframe>
 </div>
 
-### Folge dem Großen Geld
+### Folge dem großen Geld
 
 Woran erkennen wir Angebot und Nachfrage auf dem Chart?
 Das ist exakt die richtige Frage.
