@@ -23,16 +23,11 @@ Welche Indikatoren brauchen wir dafür?
 Nur RSI und Volumen.
 
 ![RBLX April 2022](/assets/images/reversal/rs.png){:width="50%"}
-<div class="has-text-centered">
-    <img alt="Angebot & Nachfrage - der Start der Bewegung" src="/assets/images/supply_demand/amd_02.png" style="max-width: 50%" class="pan">
-</div>
 
 Die Einstellungen für RSI passen wir nur leicht an. Wir arbeiten mit 35/50/70.
 
 ![RBLX April 2022](/assets/images/reversal/rs2.png){:width="50%"}
-<div class="has-text-centered">
-    <img alt="Angebot & Nachfrage - der Start der Bewegung" src="/assets/images/supply_demand/amd_02.png" style="max-width: 50%" class="pan">
-</div>
+
 
 Was wir suchen sind klare Divergences im RSI.
 
