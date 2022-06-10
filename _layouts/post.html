@@ -210,7 +210,8 @@
         }
 
         function closeModal($el) {
-            $el.classList.remove('is-active');
+            if($el)
+                $el.classList.remove('is-active');
         }
 
         function closeAllModals() {
