@@ -221,8 +221,7 @@
 
         // Add a click event on buttons to open a specific modal
         (document.querySelectorAll('.pan') || []).forEach(($trigger) => {
-            const modal = $trigger.dataset.target;
-            const $target = document.getElementById(modal);
+            const $target = document.getElementById("modal-js");
 
             $trigger.addEventListener('click', () => {
                 document.getElementById('modal-image').innerHTML = ''
