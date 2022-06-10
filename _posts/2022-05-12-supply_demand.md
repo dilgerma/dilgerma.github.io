@@ -22,7 +22,7 @@ Mein Trading hat sich vom Einen auf den Anderen Tag zu 80% gewandelt.
 
 Und beispielsweise auch bei Shep _(per Chat am 11.05.2022)_..
 
-![Sheps Kommentar](/assets/images/supply_demand/shep.png){:style="max-width: 50%"}
+![Sheps Kommentar](/assets/images/supply_demand/shep.png)
 
 Eines dieser fundamentalen Konzepte ist _Supply & Demand_ - Angebot und Nachfrage.
 
@@ -40,6 +40,13 @@ In diesem Video zeige ich euch direkt wie ich Supply & Demand im Daytrading nutz
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube-nocookie.com/embed/dkOcMhjex8g?autoplay=0" frameborder="0" allowFullScreen></iframe>
 </div>
+
+### Online Kurs
+
+
+Der Online Kurs [Traden mit Supply & Demand - (fast) ohne Indikatoren](https://www.meinetradies.de/kurse/supply-und-demand)
+geht ins Detail und erklärt Schritt für Schritt die Konzepte in diesem Artikel mit jeder Menge praktischer Beispiele.
+
 
 ### Folge dem Großen Geld
 
@@ -198,7 +205,7 @@ Diese Idee hat mein Trading revolutioniert.
 
 Falls du mehr wissen möchtest zum Thema Supply & Demand - abonniere den [Tradies Newsletter](https://seu2.cleverreach.com/f/317896-321512/). Du bekommst mehrmals die Woche die wichtigen Levels für Supply / Demand Zonen und weitere Informationen und Trade Beispiele dafür.
 
-Weiterhin gibt es den Online Workshop [Traden (fast) ohne Indikatoren - wie Angebot und Nachfrage mein Trading verändert hat](https://www.meinetradies.de/kurse/supply-und-demand)
+Weiterhin gibt es den Online Workshop [Traden mit Supply & Demand - (fast) ohne Indikatoren](https://www.meinetradies.de/kurse/supply-und-demand)
 
 Eine kurze Zusammenfassung findest du im [Supply & Demand Trading Mini Ebook](https://www.meinetradies.de/assets/ebooks/Traden-ohne-Indikatoren.pdf)
 
