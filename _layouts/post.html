@@ -214,13 +214,13 @@
         }
 
         function closeAllModals() {
-            (document.querySelectorAll('.content p img') || []).forEach(($modal) => {
+            (document.querySelectorAll('.image.pan') || []).forEach(($modal) => {
                 closeModal($modal);
             });
         }
 
         // Add a click event on buttons to open a specific modal
-        (document.querySelectorAll('.content p img') || []).forEach(($trigger) => {
+        (document.querySelectorAll('.image.pan') || []).forEach(($trigger) => {
             const $target = document.getElementById("modal-js");
 
             $trigger.addEventListener('click', () => {
