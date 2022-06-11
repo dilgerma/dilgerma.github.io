@@ -13,6 +13,9 @@ layout: post
 
 Achtung - es könnte sein, dass du Charts nie wieder so siehst wie zuvor, wenn du diesen Blog liest.
 
+Wenn du mehr zum Thema Supply & Demand Trading wissen möchtest schau doch einfach mal zum Online Kurs [Trading mit Supply & Demand - (fast) ohne Indikatoren](https://www.meinetradies.de/kurse/supply-und-demand). Hier findest du die komplette Strategie Schritt für Schritt
+in weniger als zwei Stunden detailliert erklärt.
+
 Der Titel ist natürlich eine Anspielung auf das [fantastische Buch von Mark Douglas](https://amzn.to/3M6Zdt9)*.
 Es gibt einige Dinge, die sind so fundamental im Markt verankert und doch kennen sie
 selbst manche Trader nicht, die das seit Jahren mehr oder weniger erfolgreich machen.
