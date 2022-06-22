@@ -44,8 +44,6 @@ Ohne Disziplin, ohne rigoroses Risikomanagement verlierst du alles und schlimmst
 Ich habe nie etwas getan, was sich mehr gelohnt hat als das.
 
 
-Dies ist ein Auszug aus dem Buch "Familientrader" (Working Title)
-
 
  <a class="button" href="https://twitter.com/tradies4good" rel="noopener noreferrer" target="_blank"><span
                   class="icon"><i class="fab fa-twitter"></i></span></a>
