@@ -8,10 +8,35 @@ layout: post
 
 ---
 
+## Dein Start ins Trading
 
-## Mein Start ins Trading
-## Was muss ich machen?
+Traden ist das mit Abstand schwerste, was ich jemals gestartet habe. Nichts hat mein Leben so grundlegend verändert, wie diese Reise hinunter in das Trading Labyrinth.
+Die meisten Trader sind auf der Suche nach dem schnellen Geld.
+Einmal den richtigen Button zur richtigen Zeit für das richtige Symbol gelickt und dann
+fein raus.
+_Traden, das ist Gambling_ - wird **jeder** irgendwann zu hören bekommen, der sich traut seiner Umgebung zu offenbaren, dass man mit Trading anfängt (besser nicht..)
+
+Aber angenommen, du bist komplett neu im Trading, hast keine Ahnung, was dich erwartet und du hast
+keine Ahnung, wo du anfangen sollst.
+Dieser Blogeintrag hilft dir dabei, den _ersten_ von vielen Schritten zu machen.
+Die Reise ist lange und manchmal beschwerlich, aber die Reise fängt mit diesem Schritt an...
+
+### Dein Warum
+### Dein Kapital
+### Dein Mindset
+
+## Dein Prozess?
+
+### Der Prozess
+### Candlesticks
+### Strategie
+### Backtrading
+
 ## Was brauch ich?
+
+### Trading View Subscription
+### Broker
+### Tradelog
 
 ## Eine letzte Sache
 
