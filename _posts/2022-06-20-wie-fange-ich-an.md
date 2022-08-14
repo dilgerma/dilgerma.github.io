@@ -81,7 +81,7 @@ Viel wichtiger als Candlesticks, Chart Patterns und alles andere.
 
 Lerne Trendlinien zu zeichnen.
 
-[Hier](https://www.youtube.com/watch?v=5snn-2tiY1Y) zeige ich euch das in 60 Sekunden.
+[Hier](https://www.youtube.com/watch?v=5snn-2tiY1Y) zeige ich dir das in 60 Sekunden.
 
 ### Volumen
 
@@ -153,6 +153,11 @@ Chart Bild beim Entry.
 **Wäre** ein Verlust vermeidbar gewesen?
 
 Chart Bild beim Exit.
+
+Ich habe nie ganz verstanden, warum man kostenpflichtige Angebote für dein Tradelog nutzen möchte.
+Ich nutze ein einfaches Excel Sheet.
+Willst du das Template haben? <a href="https://www.meinetradies.de/chat">Schreib mich im Chat an</a>, ist aber
+wirklich kein Hexenwerk.
 
 ## Eine letzte Sache
 
