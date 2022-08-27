@@ -157,7 +157,7 @@ Chart Bild beim Exit.
 Ich habe nie ganz verstanden, warum man kostenpflichtige Angebote für dein Tradelog nutzen möchte.
 Ich nutze ein einfaches Excel Sheet.
 Willst du das Template haben? <a href="https://www.meinetradies.de/chat">Schreib mich im Chat an</a>, ist aber
-wirklich kein Hexenwerk.
+wirklich kein Hexenwerk.git
 
 ## Eine letzte Sache
 
