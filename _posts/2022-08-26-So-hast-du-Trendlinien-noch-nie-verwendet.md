@@ -133,7 +133,7 @@ Ich nutze RSI Trendline Breaks zusammen mit Supply / Demand.
 
 Du findest alle Informationen in meinem <a href="https://www.meinetradies.de/kurse/supply-und-demand">Online Kurs</a>
 
-<a href="https://www.meinetradies.de/kurse/supply-und-demand" class="btn is-success">Jetzt sichern!</a>
+<a href="https://www.meinetradies.de/kurse/supply-und-demand" class="btn button is-success">Jetzt sichern!</a>
 
 
 
