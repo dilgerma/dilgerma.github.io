@@ -3,7 +3,7 @@ title: So hast du Trendlinien noch nie verwendet
 date: 2022-08-27 10:00:00 -0000
 categories: trading
 image: puzzle.jpg
-excerpt: "So hast du Trendlinien noch nie verwendet."
+excerpt: "Eine komplett andere Art Trendlinien in deinen Trades zu verwenden"
 layout: post
 
 ---
