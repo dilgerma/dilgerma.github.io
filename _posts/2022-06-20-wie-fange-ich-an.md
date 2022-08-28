@@ -130,7 +130,7 @@ Such dir eine Strategie und bleibe dabei. Verfeinere die Strategie ständig, abe
 Das machst du so lange bist du profitabel bist.
 
 Du willst eine Empfehlung für eine Strategie? Ich persönlich trade "Suppply & Demand", eine Beschreibung der Strategie
-findest du [hier](trading/2022/05/11/supply_demand.html).
+findest du [hier](/trading/2022/05/11/supply_demand.html).
 
 Alle Details zur Strategie auch im [Online Kurs Supply & Demand](https://www.meinetradies.de/kurse/supply-und-demand)
 
