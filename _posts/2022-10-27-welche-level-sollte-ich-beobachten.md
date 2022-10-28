@@ -133,7 +133,7 @@ Ich verwende für mein Trading:
 Auf Basis dieser Level (idealerweise kombiniert mit Supply / Demand Zonen) bist du dem Glück ein gutes Stück
 voraus.
 
-Die Wahrscheinlichkeit, dass du gute Setups an diesen Leveln bekommst.
+Die Wahrscheinlichkeit, dass du gute Setups an diesen Leveln bekommst ist hoch.
 Wenn du ein bisschen Erfahrung hast und
 den Markt eine ganze Zeit beobachtest und weißt, wie ein typisches Reversal Signal aussieht, dann reichen diese Level
 um gute Trades zu finden.
