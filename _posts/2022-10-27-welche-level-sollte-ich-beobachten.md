@@ -3,7 +3,7 @@ title: Warum Trading kein Gambling ist...
 date: 2022-08-27 10:00:00 -0000
 categories: trading
 image: man_mountain.png
-excerpt: "Warum Trading kein Gambling ist."
+excerpt: "Im Trading kannst du dir dein Glück erarbeiten."
 layout: post
 
 ---
