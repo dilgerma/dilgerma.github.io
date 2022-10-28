@@ -140,9 +140,9 @@ um gute Trades zu finden.
 
 Trading ist kein Gambling. Du erarbeitest dir dein Glück. Großer Unterschied.
 
-Du findest alle Informationen zu meiner Trading Strategie in meinem <a href="https://www.meinetradies.de/kurse/supply-und-demand">Online Kurs</a>
+Du findest alle Informationen zu meiner Trading Strategie in meinem <a href="https://www.tradies-online.de/kurse/supply-und-demand">Online Kurs</a>
 
-<a href="https://www.meinetradies.de/kurse/supply-und-demand" class="btn button is-success">Jetzt sichern!</a>
+<a href="https://www.tradies-online.de/kurse/supply-und-demand" class="btn button is-success">Jetzt sichern!</a>
 
 
 

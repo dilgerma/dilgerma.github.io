@@ -70,7 +70,7 @@ Der Stop wird bei jedem Close unterhalb des 10ema auf das letzte "signifikante" 
 
 Der NVDA Trade kann auch anhand eines Tradie Plays Schritt für Schritt nachvollzogen werden:
 
-[NVDA (09.09.2021)](https://www.meinetradies.de/tradies?symbol=NVDA&date=09.09.2021)
+[NVDA (09.09.2021)](https://www.tradies-online.de/tradies?symbol=NVDA&date=09.09.2021)
 
 Hier findest du die grundsätzlichen Schritte für den Trade:
 
@@ -130,11 +130,11 @@ Die Strategie ist sehr einfach, aber effektiv. Bei Fragen meldet euch gerne. Zu 
 
 Tradie Plays zeigen die Schritt für Schritt wie bestimmte Trades gemacht werden. Hier findest du 3 Tradie Plays für diese Strategie.
 
-[NVDA (09.09.2021)](https://www.meinetradies.de/tradies?symbol=NVDA&date=09.09.2021)
+[NVDA (09.09.2021)](https://www.tradies-online.de/tradies?symbol=NVDA&date=09.09.2021)
 
-[SNAP (09.09.2021)](https://www.meinetradies.de/tradies?symbol=SNAP&date=09.09.2021)
+[SNAP (09.09.2021)](https://www.tradies-online.de/tradies?symbol=SNAP&date=09.09.2021)
 
-[SQ (09.09.2021) ](https://www.meinetradies.de/tradies?symbol=SQ&date=09.09.2021)
+[SQ (09.09.2021) ](https://www.tradies-online.de/tradies?symbol=SQ&date=09.09.2021)
 
 
  <a class="button" href="https://twitter.com/tradies4good" rel="noopener noreferrer" target="_blank"><span

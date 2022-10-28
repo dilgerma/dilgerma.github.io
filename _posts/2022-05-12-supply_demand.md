@@ -13,7 +13,7 @@ layout: post
 
 Achtung - es könnte sein, dass du Charts nie wieder so siehst wie zuvor, wenn du diesen Blog liest.
 
-Wenn du mehr zum Thema Supply & Demand Trading wissen möchtest schau doch einfach mal zum Online Kurs [Trading mit Supply & Demand - (fast) ohne Indikatoren](https://www.meinetradies.de/kurse/supply-und-demand). Hier findest du die komplette Strategie Schritt für Schritt
+Wenn du mehr zum Thema Supply & Demand Trading wissen möchtest schau doch einfach mal zum Online Kurs [Trading mit Supply & Demand - (fast) ohne Indikatoren](https://www.tradies-online.de/kurse/supply-und-demand). Hier findest du die komplette Strategie Schritt für Schritt
 in weniger als zwei Stunden detailliert erklärt.
 
 Der Titel ist natürlich eine Anspielung auf das [fantastische Buch von Mark Douglas](https://amzn.to/3M6Zdt9)*.
@@ -174,27 +174,27 @@ Diese Idee hat mein Trading revolutioniert.
 
 Falls du mehr wissen möchtest zum Thema Supply & Demand - abonniere den [Tradies Newsletter](https://seu2.cleverreach.com/f/317896-321512/). Du bekommst mehrmals die Woche die wichtigen Levels für Supply / Demand Zonen und weitere Informationen und Trade Beispiele dafür.
 
-Weiterhin gibt es den Online Workshop [Traden (fast) ohne Indikatoren - wie Angebot und Nachfrage mein Trading verändert hat](https://www.meinetradies.de/kurse/supply-und-demand)
+Weiterhin gibt es den Online Workshop [Traden (fast) ohne Indikatoren - wie Angebot und Nachfrage mein Trading verändert hat](https://www.tradies-online.de/kurse/supply-und-demand)
 
-Eine kurze Zusammenfassung findest du im [Supply & Demand Trading Mini Ebook](https://www.meinetradies.de/assets/ebooks/Traden-ohne-Indikatoren.pdf)
+Eine kurze Zusammenfassung findest du im [Supply & Demand Trading Mini Ebook](https://www.tradies-online.de/assets/ebooks/Traden-ohne-Indikatoren.pdf)
 
 ## Eine letzte Sache
 
 Du findest 101 Supply & Demand Trades in diesem kleinen Online Kurs - völlig kostenlos.
 
-[101 Supply & Demand Backtrades](https://www.meinetradies.de/kurse/101-backtrades/amd)
+[101 Supply & Demand Backtrades](https://www.tradies-online.de/kurse/101-backtrades/amd)
 
 ## Falls du mehr von den Tradies möchtest...
 
-[Worum gehts](https://www.meinetradies.de/about)
+[Worum gehts](https://www.tradies-online.de/about)
 
-[Meine Tradies](https://www.meinetradies.de)
+[Meine Tradies](https://www.tradies-online.de)
 
-[Meine Tradies / Ebooks & Shop ](https://www.meinetradies.de/ebooks)
+[Meine Tradies / Ebooks & Shop ](https://www.tradies-online.de/ebooks)
 
-[Newsletter ](https://www.meinetradies.de/newsletter)
+[Newsletter ](https://www.tradies-online.de/newsletter)
 
-[Trading View Onlinekurs](https://www.meinetradies.de/kurse/tradingview)
+[Trading View Onlinekurs](https://www.tradies-online.de/kurse/tradingview)
 
 <div class="small">Mit * markierte Links sind Affiliate Links</div>
 

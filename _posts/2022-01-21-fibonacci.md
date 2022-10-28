@@ -140,7 +140,7 @@ Die Welle 3 erkennt man typischerweise an der massiven Wellenbewegung, Wide Rang
 ### Das Fibonacci Ebook
 
 Dieser Blogeintrag gibt einen generellen Einblick wie ich persönlich (und tausende Trader) Fibonacci Levels mit Elliot Waves verwende.
-Willst du ein wenig mehr einsteigen gibt es ein Ebook zum Thema, dass du dir demnächst [hier](https://www.meinetradies.de/ebooks) kaufen kannst.
+Willst du ein wenig mehr einsteigen gibt es ein Ebook zum Thema, dass du dir demnächst [hier](https://www.tradies-online.de/ebooks) kaufen kannst.
 
 ![Fibonacci Buch](/assets/images/fibonacci/fib_buch.png){:width="30%"}
 

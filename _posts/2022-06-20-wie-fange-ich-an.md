@@ -70,7 +70,7 @@ Das musst du lernen:
 ### Candlesticks lesen
 
 Das meiner Meinung nach beste Buch hierfür findest du [hier*](https://amzn.to/3PnxqW5).
-Kostenlos gehts auch - [melde dich zum Newsletter an](https://seu2.cleverreach.com/f/317896-321512/), und du bekommst mein [Candlestick Ebook](https://www.meinetradies.de/ebooks) sofort.
+Kostenlos gehts auch - [melde dich zum Newsletter an](https://seu2.cleverreach.com/f/317896-321512/), und du bekommst mein [Candlestick Ebook](https://www.tradies-online.de/ebooks) sofort.
 
 ### Trends erkennen
 
@@ -100,7 +100,7 @@ Es gibt unzähliche Bücher über Elliot Waves. Leider kann ich dir keines
 empfehlen, weil ich selber nie eines gelesen habe.
 Es gibt aber unendlich viel [kostenloses Onlinematerial](https://www.investopedia.com/terms/e/elliottwavetheory.asp).
 
-Wie ich persönlich Elliot Wave verwende findest du <a href="https://www.meinetradies.de/kurse/meine-6-geheimen-techniken-um-einen-chart-zu-lesen">hier im Kurs.</a> (Tipp.. ich mach es viel einfacher als die meisten
+Wie ich persönlich Elliot Wave verwende findest du <a href="https://www.tradies-online.de/kurse/meine-6-geheimen-techniken-um-einen-chart-zu-lesen">hier im Kurs.</a> (Tipp.. ich mach es viel einfacher als die meisten
 Trader die ich sonst so kenne).
 
 
@@ -132,7 +132,7 @@ Das machst du so lange bist du profitabel bist.
 Du willst eine Empfehlung für eine Strategie? Ich persönlich trade "Suppply & Demand", eine Beschreibung der Strategie
 findest du [hier](/trading/2022/05/11/supply_demand.html).
 
-Alle Details zur Strategie auch im [Online Kurs Supply & Demand](https://www.meinetradies.de/kurse/supply-und-demand)
+Alle Details zur Strategie auch im [Online Kurs Supply & Demand](https://www.tradies-online.de/kurse/supply-und-demand)
 
 ### Tradelog
 
@@ -156,28 +156,28 @@ Chart Bild beim Exit.
 
 Ich habe nie ganz verstanden, warum man kostenpflichtige Angebote für dein Tradelog nutzen möchte.
 Ich nutze ein einfaches Excel Sheet.
-Willst du das Template haben? <a href="https://www.meinetradies.de/chat">Schreib mich im Chat an</a>, ist aber
+Willst du das Template haben? <a href="https://www.tradies-online.de/chat">Schreib mich im Chat an</a>, ist aber
 wirklich kein Hexenwerk.git
 
 ## Eine letzte Sache
 
 Du findest 101 Supply & Demand Trades in diesem kleinen Online Kurs - völlig kostenlos.
 
-[101 Supply & Demand Backtrades](https://www.meinetradies.de/kurse/101-backtrades/amd)
+[101 Supply & Demand Backtrades](https://www.tradies-online.de/kurse/101-backtrades/amd)
 
 ## Falls du mehr von den Tradies möchtest...
 
-[Worum gehts](https://www.meinetradies.de/about)
+[Worum gehts](https://www.tradies-online.de/about)
 
-[Meine Tradies](https://www.meinetradies.de)
+[Meine Tradies](https://www.tradies-online.de)
 
-[Meine Tradies / Ebooks & Shop ](https://www.meinetradies.de/ebooks)
+[Meine Tradies / Ebooks & Shop ](https://www.tradies-online.de/ebooks)
 
-[Newsletter ](https://www.meinetradies.de/newsletter)
+[Newsletter ](https://www.tradies-online.de/newsletter)
 
-[Trading View Onlinekurs](https://www.meinetradies.de/kurse/tradingview)
+[Trading View Onlinekurs](https://www.tradies-online.de/kurse/tradingview)
 
-[Supply / Demand Onlinekurs](https://www.meinetradies.de/kurse/supply-und-demand)
+[Supply / Demand Onlinekurs](https://www.tradies-online.de/kurse/supply-und-demand)
 
 <div class="small">Mit * markierte Links sind Affiliate Links</div>
 

@@ -39,19 +39,19 @@ Es schien Sven enorm wichtig zu sein.
 
 ""
 
-[101 Supply & Demand Backtrades](https://www.meinetradies.de/kurse/101-backtrades/amd)
+[101 Supply & Demand Backtrades](https://www.tradies-online.de/kurse/101-backtrades/amd)
 
 ## Falls du mehr von den Tradies möchtest...
 
-[Worum gehts](https://www.meinetradies.de/about)
+[Worum gehts](https://www.tradies-online.de/about)
 
-[Meine Tradies](https://www.meinetradies.de)
+[Meine Tradies](https://www.tradies-online.de)
 
-[Meine Tradies / Ebooks & Shop ](https://www.meinetradies.de/ebooks)
+[Meine Tradies / Ebooks & Shop ](https://www.tradies-online.de/ebooks)
 
-[Newsletter ](https://www.meinetradies.de/newsletter)
+[Newsletter ](https://www.tradies-online.de/newsletter)
 
-[Trading View Onlinekurs](https://www.meinetradies.de/kurse/tradingview)
+[Trading View Onlinekurs](https://www.tradies-online.de/kurse/tradingview)
 
 <div class="small">Mit * markierte Links sind Affiliate Links</div>
 

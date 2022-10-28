@@ -27,7 +27,7 @@ Dieser Tag war sowas wie mein finanzieller Geburtstag. Mein Leben hat sich seith
 
 Und tatsächlich habe ich mich stundenlang damit beschäftigt. Ich habe im Internet recherchiert und knappe 3 Monate lang ein Buch nach dem anderen über das Thema Optionen und Investitionen gelesen.
 
-(Anmerkung: Viele der Bücher findest du [hier](https://www.meinetradies.de/buecherei) )
+(Anmerkung: Viele der Bücher findest du [hier](https://www.tradies-online.de/buecherei) )
 ### Der erste Trade
 
 Mein erster Optionstrade war am *07.03.2019*, ein *53.50* Short PUT auf *MO* ( Altria ), wertlos verfallen mit einem Gewinn von *76,50* $.
