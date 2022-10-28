@@ -12,7 +12,7 @@ layout: post
 ## Trading ist kein Gambling
 
 <p>
-<img alt="Gambling" src="/assets/images/man_mountain.png"  style="width: 50%">
+<img alt="Gambling" src="/assets/images/man_mountain.png">
 </p>
 
 Day Trader machen das schnelle Geld.
@@ -113,7 +113,13 @@ Hier plane ich mögliche Long Trades.
 </p>
 
 
-### Beispiel eines Live Trades
+### Beispiel eines Trading Tages
+
+<div class="has-text-centered">
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube-nocookie.com/embed/Gd95qpS5NVI?autoplay=0" frameborder="0" allowFullScreen></iframe>
+</div>
+</div>
 
 ## Zusammengefasst
 
