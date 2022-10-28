@@ -53,7 +53,7 @@ Du wartest nicht, dass es kommt. Du planst es.
 
 An diesen Leveln plane ich meine Trades.
 
-### High / Low des Vortrages
+### High / Low des Vortages
 
 Das High und Low des Vortages bestimmt grundsätzlich das _Sentiment_ des Tages.
 
