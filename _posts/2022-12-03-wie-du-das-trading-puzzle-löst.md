@@ -13,9 +13,11 @@ layout: post
 ![Puzzle Youtube](/assets/images/puzzle/puzzle-title.png){:width="50%"}
 
 Für mich war eigentlich immer klar ich
-bin kein Puzzler ich mag keine Puzzle
-und Puzzle waren für mich immer
-Zeitverschwendung bis ich angefangen
+bin kein Puzzler, ich mag keine Puzzles
+und Puzzles waren für mich immer
+Zeitverschwendung.
+
+Bis ich angefangen
 habe mich für Trading zu interessieren.
 
 Trading ist nichts anderes als ein riesengroßes
@@ -32,7 +34,7 @@ Einen Trade aufzusetzen wird viel einfacher, wenn du das Gesamtbild kennst.
 
 
 Wie sieht der perfekte Chart für dich aus?
-Und wie das perfekte Setup aus mit dem du arbeiten kannst?
+Und wie sieht das perfekte Setup aus mit dem du arbeiten kannst?
 
 Zunächst mal ist es wichtig dass Du
 genau weißt wo du anpacken musst und wo du die Teile deines Trades am besten
@@ -40,14 +42,14 @@ zusammen setzt.
 
 Die Lösung ist eigentlich klar, sowohl
 im Trading als auch im Puzzle.
-Du fängst in den Ecken an.
+Du fängst an den Ecken an.
 
 ![Du startest in den Ecken](/assets/images/puzzle/ecken.png){:width="50%"}
 
 
 Du brauchst einen Ort an
 dem du starten kannst.
-In den Ecken lassen sich die Teile eines Puzzles relativ einfach
+An den Ecken lassen sich die Teile eines Puzzles relativ einfach
 zusammensetzen.
 
 Das was beim Puzzle die Ecke ist sind auf dem
@@ -65,13 +67,13 @@ das Puzzle idealerweise nur an den Ecken startest,
 platzierst du deine Trades nur in diesen
 Zonen.
 
-Nur dort hast du einen echten
-Vorteil.
+**Nur dort hast du einen echten
+Vorteil.**
 
 Für den Moment vergessen wir
 auch mal die ganzen Indikatoren.
 
-Die für dich wichtigen Level sind es **High & Low** des letzten Trading Tages.
+Die für dich wichtigen Level sind das **High & Low** des letzten Trading Tages.
 
 Das **High & Low** der letzten Trading Woche
 
@@ -80,20 +82,22 @@ Das **High & Low** der letzten Trading Woche
 **Wichtige Support und Resistance Level auf den Daily Chart.**
 
 Zusätzlich prüfen wir im Pre-Market ob sich hier
-wichtige Level ergeben
+wichtige Level ergeben.
 
 
 Damit haben wir eine der wichtigsten
-Fragen bereits geklärt wann solltest du
-nach Trades Ausschau halten?
+Fragen bereits geklärt:
+
+_Wann solltest du
+nach Trades Ausschau halten?_
 
 Ganz einfach nur dann wenn der Preis eine deiner
 Zonen berührt oder in eine deiner zuvor
 gezeichneten Linien kommt.
 
-Wenn der Preis überhaupt nicht dorthin kommt?
+_Wenn der Preis überhaupt nicht dorthin kommt?_
 
-Dann machst du gar nichts..
+Dann machst du gar nichts.. Schnapp dir ein gutes Buch.
 
 ![Relax](/assets/images/puzzle/relax.png){:width="50%"}
 
@@ -112,26 +116,23 @@ kommt?
 Das kannst du nur für dich selber entscheiden und musst es selber
 rausfinden.
 
-Was aber klar ist du musst dein Setup in und auswendig
+Was aber klar ist du musst dein Setup in und auswendig kennen.
 Wenn dein Setup erscheint dann darfst du nicht zögern.
 Finde dein perfektes Setup durch Backtrading, durch Experimente und schau es Dir hunderte und tausende Male
 an.
 
 Druck dir deine Setups aus und blättere durch sie jeden Tag.
-
 Häng sie dir an die Wand, damit du sie immer vor Augen
 hast.
-
 Wenn du nicht mindestens einmal von deinem perfekten Setup geträumt hast
 dann bist du noch nicht so weit.
 
 Es gibt jede Menge Tools die du verwenden kannst
 um deine Trades zu verbessern.
-Du kannst mit Fibonacci arbeiten, du kannst mit
-Elliot Wave Arbeiten, du kannst mit
-Indikatoren arbeiten, du kannst mit price
-Action arbeiten und du kannst mit Volume
-arbeiten. Supply & Demand  sowieso um deine
+Du kannst mit Fibonacci,
+Elliot Wave oder Price
+Action arbeiten. Du kannst mit Volume
+arbeiten und Supply & Demand um deine
 Zonen zu finden
 
 Traden ist Übungssache genauso wie Puzzlen.
@@ -156,7 +157,7 @@ Du kannst es allein probieren.. schneller gehts mit Hilfe.
 [Tradies Kurse](https://www.tradies-online.de/kurse)
 
 
-Kommen die Trades Community.
+Komm in die Trades Community. Der Chat kostet rein gar nichts.
 
 Bei uns gibts Trader mit denen du
 diskutieren kannst.
