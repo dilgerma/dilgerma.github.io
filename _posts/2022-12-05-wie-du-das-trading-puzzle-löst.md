@@ -1,6 +1,6 @@
 ---
 title: Wie du das Trading Puzzle löst...
-date: 2022-12-12 10:00:00 -0000
+date: 2022-12-5 10:00:00 -0000
 categories: trading
 image: puzzle1.jpg
 excerpt: "Wie du das Trading Puzzle löst. "
