@@ -8,7 +8,7 @@ layout: post
 
 ---
 
-![Der Eintrag basiert auf einem YouTube Video](https://youtu.be/HUWjj9Iq3-g)
+[Der Eintrag basiert auf einem YouTube Video](https://youtu.be/HUWjj9Iq3-g)
 
 ![Puzzle Youtube](/assets/images/puzzle/puzzle-title.png){:width="50%"}
 
@@ -75,7 +75,7 @@ Die für dich wichtigen Level sind es **High & Low** des letzten Trading Tages.
 
 Das **High & Low** der letzten Trading Woche
 
-** Supply & Demand** auf dem 15 Minuten Chart.
+**Supply & Demand** auf dem 15 Minuten Chart.
 
 **Wichtige Support und Resistance Level auf den Daily Chart.**
 
@@ -113,9 +113,7 @@ Das kannst du nur für dich selber entscheiden und musst es selber
 rausfinden.
 
 Was aber klar ist du musst dein Setup in und auswendig
-
 Wenn dein Setup erscheint dann darfst du nicht zögern.
-
 Finde dein perfektes Setup durch Backtrading, durch Experimente und schau es Dir hunderte und tausende Male
 an.
 
@@ -160,6 +158,7 @@ diskutieren kannst.
 
 Egal was du tust fang endlich an und starte deine Trading
 Karriere .
+
 
 Du findest alle Informationen zu meiner Trading Strategie in meinem <a href="https://www.tradies-online.de/kurse/supply-und-demand">Online Kurs</a>
 
