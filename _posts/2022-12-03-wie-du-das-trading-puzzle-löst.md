@@ -148,8 +148,13 @@ Trader werden.
 Wenn du nicht weißt wo du
 starten sollst schnapp dir einen meiner
 Onlinekurse. Ich habe Kurse die dir zeigen wie man Charts richtig liest
-ich habe Kurse die dir zeigen wie die "Supply %& Demand" - Strategie
+ich habe Kurse die dir zeigen wie die "Supply & Demand" - Strategie
 funktioniert mit sehr vielen Beispielen.
+
+Du kannst es allein probieren.. schneller gehts mit Hilfe.
+
+[Tradies Kurse](https://www.tradies-online.de/kurse)
+
 
 Kommen die Trades Community.
 
