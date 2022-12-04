@@ -151,7 +151,7 @@ Schreibe deinen detaillierten Tradingplan für einen bestimmten Trade auf und sc
 Der Tradingplan muss so beschrieben sein, dass er direkt ausführbar ist.
 Trading-Pläne werden auf Wunsch hier verlinkt.
 
-Falls du Schwierigkeiten hast, deinen Trade Plan zu formulieren tritt der [Community](https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ) bei. Ich kann dir helfen.
+Falls du Schwierigkeiten hast, deinen Trade Plan zu formulieren tritt der [Community](https://www.tradies-online.de/chat) bei. Ich kann dir helfen.
 
 
 
@@ -160,7 +160,7 @@ Falls du Schwierigkeiten hast, deinen Trade Plan zu formulieren tritt der [Commu
               <a class="button" href="https://www.youtube.com/channel/UCC8gKMvl_C45G82SuAyb4Yw"
                 rel="noopener noreferrer" target="_blank"><span class="icon"><i class="fab fa-youtube"></i></span></a>
               <a class="button"
-                href="https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ"
+                href="https://www.tradies-online.de/chat"
                 rel="noopener noreferrer" target="_blank"><span class="icon"><i class="fab fa-slack"></i></span></a>
               <a class="button" href="https://www.instagram.com/meinetradies/" rel="noopener noreferrer"
                 target="_blank"><span class="icon"><i class="fab fa-instagram"></i></span></a>

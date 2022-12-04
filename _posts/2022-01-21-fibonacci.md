@@ -154,7 +154,7 @@ Das Buch musst du nicht kaufen, um die Technik zu nutzen. Ich freue mich aber na
               <a class="button" href="https://www.youtube.com/channel/UCC8gKMvl_C45G82SuAyb4Yw"
                 rel="noopener noreferrer" target="_blank"><span class="icon"><i class="fab fa-youtube"></i></span></a>
               <a class="button"
-                href="https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ"
+                href="https://www.tradies-online.de/chat"
                 rel="noopener noreferrer" target="_blank"><span class="icon"><i class="fab fa-slack"></i></span></a>
               <a class="button" href="https://www.instagram.com/meinetradies/" rel="noopener noreferrer"
                 target="_blank"><span class="icon"><i class="fab fa-instagram"></i></span></a>

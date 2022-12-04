@@ -242,7 +242,7 @@ Manchmal ist der Chart nicht eindeutig oder zeigt sogar falsche Informationen. R
 Definiere deine Checkliste für einen Trade und schicke sie an martin.dilger+checklist@googlemail.com
 Finde für jeden Punkt auf der Liste ein Beispiel in TradingView.
 
-Falls du Schwierigkeiten hast, deine Checkliste zu formulieren tritt der [Community](https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ) bei. Wir helfen uns gegenseitig.
+Falls du Schwierigkeiten hast, deine Checkliste zu formulieren tritt der [Community](https://www.tradies-online.de/chat) bei. Wir helfen uns gegenseitig.
 
 
  <a class="button" href="https://twitter.com/tradies4good" rel="noopener noreferrer" target="_blank"><span
@@ -250,7 +250,7 @@ Falls du Schwierigkeiten hast, deine Checkliste zu formulieren tritt der [Commun
               <a class="button" href="https://www.youtube.com/channel/UCC8gKMvl_C45G82SuAyb4Yw"
                 rel="noopener noreferrer" target="_blank"><span class="icon"><i class="fab fa-youtube"></i></span></a>
               <a class="button"
-                href="https://join.slack.com/t/tradies-workspace/shared_invite/zt-o2j62ikw-u~UrfFso2fkMj3Ewgff6eQ"
+                href="https://www.tradies-online.de/chat"
                 rel="noopener noreferrer" target="_blank"><span class="icon"><i class="fab fa-slack"></i></span></a>
               <a class="button" href="https://www.instagram.com/meinetradies/" rel="noopener noreferrer"
                 target="_blank"><span class="icon"><i class="fab fa-instagram"></i></span></a>
