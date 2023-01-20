@@ -1,5 +1,6 @@
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
 author: tradies4good
 tagline: Trading, Know How, finanzielle Freiheit. Wir lernen das gemeinsam.
 twitter:
