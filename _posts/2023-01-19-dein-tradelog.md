@@ -52,19 +52,9 @@ Ich protokolliere meine Trades gerne Schritt für Schritt.
 Ein Tradelog ist ein mächtiges Werkzeug, das Dir dabei helfen kann, Dein Trading zu verbessern. Indem Du ein effektives Tradelog erstellst, Deine vergangenen Trades reflektierst und daraus lernst, kannst Du ein besserer Trader werden. Am besten du perfektionierst dein Tradelog nach und nach für dich. So ensteht ein echtes Tagebuch mit deiner Geschichte.
 
 
-[101 Supply & Demand Backtrades](https://www.tradies-online.de/kurse/101-backtrades/amd)
-
 ## Falls du mehr von den Tradies möchtest...
 
-[Worum gehts](https://www.tradies-online.de/about)
-
-[Meine Tradies](https://www.tradies-online.de)
-
-[Meine Tradies / Ebooks & Shop ](https://www.tradies-online.de/ebooks)
-
-[Newsletter ](https://www.tradies-online.de/newsletter)
-
-[Trading View Onlinekurs](https://www.tradies-online.de/kurse/tradingview)
+[Hier gehts los](https://schneller-traden-lernen.carrd.co)
 
 <div class="small">Mit * markierte Links sind Affiliate Links</div>
 
