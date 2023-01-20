@@ -14,6 +14,13 @@ layout: post
 
 Ein Tradelog ist dein Tagebuch, in dem alle Deine Trades aufgezeichnet werden. Es ist ein Werkzeug, mit dem Du Deine Trades verfolgen kannst. Im Tradelog “siehst” du, was funktioniert und was nicht.
 
+Das Video zum Blogeintrag.
+
+<div class="has-text-centered">
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube-nocookie.com/embed/oC9U7kwZRr0?autoplay=0" frameborder="0" allowFullScreen></iframe>
+</div>
+
  Menschen erinnern sich nur schwer an Dinge, die länger zurückliegen, ob sie es wollen oder nicht. Wir tendieren dazu, Dinge sehr schnell zu vergessen, auch Dinge, die wichtig erscheinen. Aus diesem Grund ist ein Tradelog ein Muss für jeden Trader. Es hilft dir dich zu erinnern.
 
 ## Aufbau eines effektiven Tradelogs
