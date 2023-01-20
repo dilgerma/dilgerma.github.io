@@ -1,6 +1,6 @@
 ---
 title: Dein Tradingtagebuch
-date: 2023-05-11 10:00:00 -0000
+date: 2023-01-19 10:00:00 -0000
 categories: trading
 image: journal.jpg
 excerpt: "Wie du deine Trades sinnvoll protokollierst."
