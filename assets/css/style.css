@@ -177,6 +177,27 @@ body {
     font-weight: 600;
 }
 
+/* Nested navigation */
+.nav-menu .nav-submenu {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.nav-menu .nav-submenu li {
+    margin-bottom: 0;
+}
+
+.nav-menu .nav-submenu a {
+    padding-left: 35px;
+    font-size: 0.9em;
+    border-left-width: 2px;
+}
+
+.nav-menu .nav-submenu a:hover {
+    background-color: rgba(66, 98, 255, 0.08);
+}
+
 .content-wrapper {
     flex: 1;
     margin-left: var(--nav-width);
@@ -309,6 +330,63 @@ body {
     padding: 15px 20px;
     margin: 20px 0;
     border-radius: 4px;
+}
+
+/* Topic Tiles for Hub Pages */
+.topic-tiles {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+    margin: 40px 0;
+}
+
+.topic-tile {
+    background: var(--white);
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: 1px solid var(--border-color);
+    text-decoration: none;
+    display: block;
+    color: inherit;
+}
+
+.topic-tile:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+    border-color: var(--secondary-color);
+}
+
+.topic-tile-icon {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.topic-tile h3 {
+    color: var(--secondary-color);
+    margin: 0 0 10px 0;
+    font-size: 1.3rem;
+}
+
+.topic-tile p {
+    color: #666;
+    margin: 0;
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+.topic-intro {
+    background-color: var(--light-bg);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    border-left: 4px solid var(--secondary-color);
+}
+
+.topic-intro p {
+    margin-bottom: 0;
 }
 
 /* Footer */
