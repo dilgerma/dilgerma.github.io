@@ -119,5 +119,29 @@
         </li>
       </ul>
     </li>
+    <li>
+      <a href="{{ '/docs/training' | relative_url }}"
+         {% if page.url == '/docs/training/' or page.url == '/docs/training.html' %}class="active"{% endif %}>
+        Training
+      </a>
+    </li>
+    <li>
+      <a href="{{ '/docs/enterprise-support' | relative_url }}"
+         {% if page.url == '/docs/enterprise-support/' or page.url == '/docs/enterprise-support.html' %}class="active"{% endif %}>
+        Enterprise Support
+      </a>
+    </li>
+    <li>
+      <a href="{{ '/docs/blog' | relative_url }}"
+         {% if page.url == '/docs/blog/' or page.url == '/docs/blog.html' %}class="active"{% endif %}>
+        Blog
+      </a>
+    </li>
+    <li>
+      <a href="{{ '/docs/videos' | relative_url }}"
+         {% if page.url == '/docs/videos/' or page.url == '/docs/videos.html' %}class="active"{% endif %}>
+        Videos
+      </a>
+    </li>
   </ul>
 </nav>
