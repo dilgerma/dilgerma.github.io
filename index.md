@@ -1,0 +1,46 @@
+---
+layout: default
+title: Home
+---
+
+<div class="hero">
+  <h1>Miro Event Modeling Toolkit</h1>
+  <p>Build event-driven systems with visual modeling directly in Miro. Design, collaborate, and generate code from your event models.</p>
+  <a href="{{ '/docs/setup' | relative_url }}" class="cta-button">Get Started</a>
+</div>
+
+<section class="features">
+  <h2>Key Features</h2>
+
+  <div class="feature-grid">
+    <div class="feature-card">
+      <h3>Visual Event Modeling</h3>
+      <p>Create event models using intuitive visual tools directly within Miro. Collaborate with your team in real-time to design event-driven architectures.</p>
+    </div>
+
+    <div class="feature-card">
+      <h3>Code Generation</h3>
+      <p>Automatically generate boilerplate code from your event models. Support for multiple languages and frameworks to accelerate development.</p>
+    </div>
+
+    <div class="feature-card">
+      <h3>AI Integration</h3>
+      <p>Leverage AI to assist with model creation, validation, and optimization. Get intelligent suggestions to improve your event-driven designs.</p>
+    </div>
+
+    <div class="feature-card">
+      <h3>Team Collaboration</h3>
+      <p>Work together with stakeholders, developers, and domain experts. Share models, gather feedback, and iterate quickly.</p>
+    </div>
+
+    <div class="feature-card">
+      <h3>Standards Compliance</h3>
+      <p>Follow event modeling best practices with built-in templates and patterns. Ensure consistency across your organization.</p>
+    </div>
+
+    <div class="feature-card">
+      <h3>Easy Integration</h3>
+      <p>Seamlessly integrate with your existing tools and workflows. Export models in various formats for documentation and implementation.</p>
+    </div>
+  </div>
+</section>

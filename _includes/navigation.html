@@ -1,0 +1,45 @@
+<nav class="sidebar">
+  <div class="sidebar-header">
+    <h2>{{ site.title }}</h2>
+    <a href="{{ '/' | relative_url }}">← Back to Home</a>
+  </div>
+
+  <ul class="nav-menu">
+    <li>
+      <a href="{{ '/docs/setup' | relative_url }}"
+         {% if page.url == '/docs/setup/' or page.url == '/docs/setup.html' %}class="active"{% endif %}>
+        Setup
+      </a>
+    </li>
+    <li>
+      <a href="{{ '/docs/event-modeling' | relative_url }}"
+         {% if page.url == '/docs/event-modeling/' or page.url == '/docs/event-modeling.html' %}class="active"{% endif %}>
+        Event Modeling
+      </a>
+    </li>
+    <li>
+      <a href="{{ '/docs/basic-modeling' | relative_url }}"
+         {% if page.url == '/docs/basic-modeling/' or page.url == '/docs/basic-modeling.html' %}class="active"{% endif %}>
+        Basic Modeling
+      </a>
+    </li>
+    <li>
+      <a href="{{ '/docs/advanced-modeling' | relative_url }}"
+         {% if page.url == '/docs/advanced-modeling/' or page.url == '/docs/advanced-modeling.html' %}class="active"{% endif %}>
+        Advanced Modeling
+      </a>
+    </li>
+    <li>
+      <a href="{{ '/docs/code-generation' | relative_url }}"
+         {% if page.url == '/docs/code-generation/' or page.url == '/docs/code-generation.html' %}class="active"{% endif %}>
+        Code Generation
+      </a>
+    </li>
+    <li>
+      <a href="{{ '/docs/ai-integration' | relative_url }}"
+         {% if page.url == '/docs/ai-integration/' or page.url == '/docs/ai-integration.html' %}class="active"{% endif %}>
+        AI Integration
+      </a>
+    </li>
+  </ul>
+</nav>
