@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050038;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4262ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#grad5)"/>
+  <circle cx="300" cy="150" r="40" fill="#ffd02f" opacity="0.7"/>
+  <circle cx="400" cy="200" r="40" fill="#ffd02f" opacity="0.7"/>
+  <circle cx="500" cy="150" r="40" fill="#ffd02f" opacity="0.7"/>
+  <text x="400" y="290" font-family="Arial, sans-serif" font-size="42" fill="white" text-anchor="middle" font-weight="bold">Team Collaboration</text>
+</svg>
