@@ -22,6 +22,92 @@ body {
     color: var(--text-color);
 }
 
+/* Top Header Navigation */
+.top-header {
+    background-color: var(--white);
+    border-bottom: 2px solid var(--border-color);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.header-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
+
+.header-logo a {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.header-logo a:hover {
+    color: var(--secondary-color);
+}
+
+.header-nav {
+    display: flex;
+    align-items: center;
+}
+
+.header-menu {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.header-menu li {
+    margin: 0;
+}
+
+.header-menu a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.2s, color 0.2s;
+    display: block;
+}
+
+.header-menu a:hover {
+    background-color: rgba(66, 98, 255, 0.1);
+    color: var(--secondary-color);
+}
+
+.header-menu a.active {
+    background-color: var(--secondary-color);
+    color: var(--white);
+}
+
+.mobile-menu-toggle {
+    display: none;
+    flex-direction: column;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    gap: 5px;
+}
+
+.mobile-menu-toggle span {
+    width: 25px;
+    height: 3px;
+    background-color: var(--primary-color);
+    transition: all 0.3s;
+}
+
 /* Landing Page */
 .hero {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
@@ -423,6 +509,35 @@ body {
 
     .hero p {
         font-size: 1rem;
+    }
+
+    .header-menu {
+        display: none;
+        position: absolute;
+        top: 70px;
+        right: 0;
+        left: 0;
+        flex-direction: column;
+        background-color: var(--white);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        gap: 0;
+    }
+
+    .header-menu.open {
+        display: flex;
+    }
+
+    .header-menu li {
+        margin-bottom: 10px;
+    }
+
+    .header-menu a {
+        padding: 15px;
+    }
+
+    .mobile-menu-toggle {
+        display: flex;
     }
 
     .sidebar {

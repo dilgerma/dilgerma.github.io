@@ -1,0 +1,41 @@
+<header class="top-header">
+  <div class="header-container">
+    <div class="header-logo">
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    </div>
+
+    <nav class="header-nav">
+      <ul class="header-menu">
+        <li>
+          <a href="{{ '/docs/training' | relative_url }}"
+             {% if page.url == '/docs/training/' or page.url == '/docs/training.html' %}class="active"{% endif %}>
+            Training
+          </a>
+        </li>
+        <li>
+          <a href="{{ '/docs/enterprise-support' | relative_url }}"
+             {% if page.url == '/docs/enterprise-support/' or page.url == '/docs/enterprise-support.html' %}class="active"{% endif %}>
+            Enterprise Support
+          </a>
+        </li>
+        <li>
+          <a href="{{ '/docs/blog' | relative_url }}"
+             {% if page.url == '/docs/blog/' or page.url == '/docs/blog.html' %}class="active"{% endif %}>
+            Blog
+          </a>
+        </li>
+        <li>
+          <a href="{{ '/docs/videos' | relative_url }}"
+             {% if page.url == '/docs/videos/' or page.url == '/docs/videos.html' %}class="active"{% endif %}>
+            Videos
+          </a>
+        </li>
+      </ul>
+      <button class="mobile-menu-toggle" aria-label="Toggle menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </nav>
+  </div>
+</header>
