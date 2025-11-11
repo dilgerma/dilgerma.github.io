@@ -10,6 +10,17 @@ title: Blog
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/state-based-systems-doomed-to-fail' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/state-based-systems.jpg' | relative_url }}" alt="State-Based Systems Are Doomed to Fail">
+      </div>
+      <div class="blog-tile-content">
+        <h3>State-Based Systems Are Doomed to Fail</h3>
+        <p class="blog-tile-subtitle">Why adding features accelerates system decay and how understanding events changes everything</p>
+        <p class="blog-tile-meta">November 9, 2025 • 12 min read • Architecture</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/getting-started-event-modeling' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/event-modeling-intro.jpg' | relative_url }}" alt="Getting Started with Event Modeling">
