@@ -10,6 +10,17 @@ title: Blog
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/ai-agents-brooks-law-coupling' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/ai-agents-brooks-law.png' | relative_url }}" alt="AI Agents and Brooks' Law">
+      </div>
+      <div class="blog-tile-content">
+        <h3>If You Can't Add Developers and Go Faster, Adding AI Agents Won't Work Either</h3>
+        <p class="blog-tile-subtitle">The future of software isn't about coding speed - it's about solving the coupling problem we've ignored for decades</p>
+        <p class="blog-tile-meta">November 12, 2025 • 12 min read • AI & Architecture</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/state-based-systems-doomed-to-fail' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/state-based-systems.jpg' | relative_url }}" alt="State-Based Systems Are Doomed to Fail">
