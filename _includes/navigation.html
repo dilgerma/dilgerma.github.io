@@ -45,9 +45,23 @@
     </li>
     <li>
       <a href="{{ '/docs/basic-modeling' | relative_url }}"
-         {% if page.url == '/docs/basic-modeling/' or page.url == '/docs/basic-modeling.html' %}class="active"{% endif %}>
+         {% if page.url contains '/docs/basic-modeling' %}class="active"{% endif %}>
         Basic Modeling
       </a>
+      <ul class="nav-submenu">
+        <li>
+          <a href="{{ '/docs/basic-modeling-topics/overview' | relative_url }}"
+             {% if page.url contains '/docs/basic-modeling-topics/overview' %}class="active"{% endif %}>
+            Overview
+          </a>
+        </li>
+        <li>
+          <a href="{{ '/docs/basic-modeling-topics/elements-tab' | relative_url }}"
+             {% if page.url contains '/docs/basic-modeling-topics/elements-tab' %}class="active"{% endif %}>
+            Elements Tab
+          </a>
+        </li>
+      </ul>
     </li>
     <li>
       <a href="{{ '/docs/advanced-modeling' | relative_url }}"
