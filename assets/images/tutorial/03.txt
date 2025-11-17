@@ -1,0 +1,17 @@
+## Elements Tab
+
+This tab allows you to quickly place new elements on the Board, either be clicking them or by dragging them onto the board.
+
+1) Screen Drawer. This tools opens a popup and allows you to draw a screen.
+2) Place an empty Screen on the board.
+3) Place a Processor on the board.
+4) Place a Command on the board
+5) Place an Event on the board
+6) Place a Read Model on the board
+7) Place a Context. A Context is basically a "name" for a Model. All Slices get linked to a Context and this allows a grouping of slices.
+8) Place a Read Model on the board.
+9) Place a chapter on the board.You can edit the title directly.
+10) Put a slice no the board. You can either put in an empty slice, or select arbitrary elements, and then click the slice-button. The slice will automatically wrap all selected elements.
+11) Put a Swimlane on the Board. Swimlanes can be used to group Events and Actors.
+12) Here you can convert "regular" elements to elements that can be used by the Miro Toolkit.
+13) Here you can place additional elements. There are many more elements. Most of them will be discussed in detail ( see im 03b.png)

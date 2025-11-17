@@ -6,3 +6,5 @@ vendor
 Gemfile.lock
 .DS_Store
 temp
+.idea
+consul-template<_version_OS>.tgz
