@@ -5,43 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/101.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/101.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/105.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/011a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/01a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/03.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/03a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/03b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/04a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/05a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/06a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/07a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/08a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/09a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/1a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/100.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/101.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/101.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/101.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/102.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/102.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/102.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/102.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/103.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/103.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/103.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/103.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/104.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/104.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/105.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/105.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/105.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/105.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/106.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/106.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/106.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tutorial/model_view/106.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basic-modeling-topics/elements-tab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basic-modeling-topics/overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basic-modeling.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +95,9 @@
       <recent name="$PROJECT_DIR$/assets/images/tutorial" />
       <recent name="$PROJECT_DIR$/gartencafe" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/tutorial/model_view" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -166,7 +148,7 @@
       <workItem from="1642948191736" duration="1182000" />
       <workItem from="1666936524031" duration="641000" />
       <workItem from="1679556683520" duration="652000" />
-      <workItem from="1763896801100" duration="1182000" />
+      <workItem from="1763896801100" duration="1620000" />
     </task>
     <servers />
   </component>
