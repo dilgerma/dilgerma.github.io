@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="" />
+    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/105.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/011a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/01a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/03a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/03b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/04a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/05a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/06a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/07a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/08a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/09a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tutorial/1a.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +64,10 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="246PiVPyzwjhHDGXGP1r2HkvJ0t" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -38,8 +80,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ChatTagsLlmMigration": "true",
+    "RunOnceActivity.ClientConfigCleanupMigration": "true",
+    "RunOnceActivity.CodyAccountHistoryMigration": "true",
+    "RunOnceActivity.CodyAccountsIdsRefresh": "true",
+    "RunOnceActivity.CodyAssignOrphanedChatsToActiveAccount": "true",
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyMigrateChatHistory-v2": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.DeprecatedChatLlmMigration": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.ToggleCodyToolWindowAfterMigration": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
@@ -47,12 +102,18 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/gartencafe",
-    "nodejs_package_manager_path": "npm"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/assets/images/tutorial",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/tutorial" />
       <recent name="$PROJECT_DIR$/gartencafe" />
     </key>
   </component>
@@ -86,6 +147,14 @@
       </method>
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,6 +166,7 @@
       <workItem from="1642948191736" duration="1182000" />
       <workItem from="1666936524031" duration="641000" />
       <workItem from="1679556683520" duration="652000" />
+      <workItem from="1763896801100" duration="1182000" />
     </task>
     <servers />
   </component>

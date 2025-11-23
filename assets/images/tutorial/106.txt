@@ -1,0 +1,6 @@
+## Data Trail View
+
+Data Trail allows you to quickly find out where Information originates.
+
+2+3) Select an attribute in an Event
+4) see the data trail - in this case you can see that "description" in "Item added" originates from a screen and is passed through the "Add Item" Command

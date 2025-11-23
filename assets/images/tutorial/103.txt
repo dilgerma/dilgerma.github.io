@@ -1,0 +1,6 @@
+## Context View
+
+The Context View shows you a hierarchical view of all Contexts on the Board.
+Linked Contexts become sub-contexts. This allows you to build hierarchical context models on your board.
+
+[Context View](104.png)

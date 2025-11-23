@@ -1,0 +1,8 @@
+## AI View
+
+Here you can chat with your Model. For this to work, your model needs to be "sliced", and the slices
+be assigned to a context.
+
+1) Switch to AI Model
+2) Select your Context
+3) Start to chat with your model ( currently, context is not preserved between messages )

@@ -1,0 +1,8 @@
+## AI Overview
+
+Here you can configure your AI Model, Tokens and LLM.
+
+1) Provide your OpenAI or Antrophic Token
+2) Provide your endpoint here. For Antrophic, typically it´s https://api.anthropic.com/v1/
+3) Here you can choose your model, this is not possible for Antrophic
+4) For Antrophic, choose your model version manually here.
