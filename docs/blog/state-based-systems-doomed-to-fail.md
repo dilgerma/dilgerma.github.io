@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: docs
 title: State-Based Systems Are Doomed to Fail
 ---
 

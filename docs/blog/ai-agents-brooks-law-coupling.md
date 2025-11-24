@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: docs
 title: If You Can't Add Developers and Go Faster, Adding AI Agents Won't Work Either
 ---
 
