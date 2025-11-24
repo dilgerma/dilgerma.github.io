@@ -9,7 +9,9 @@ title: Basic Modeling
 <p>Learn how to navigate and use the core features of the Miro Event Modeling Toolkit. This guide covers the main interface tabs, views, and essential functionality you'll use every day.</p>
 </div>
 
-## Navigation and Interface
+## Tooling
+
+### Overview
 
 <div class="topic-tiles">
   <a href="/docs/basic-modeling-topics/overview/" class="topic-tile">
@@ -28,6 +30,16 @@ title: Basic Modeling
     <span class="topic-tile-icon">💬</span>
     <h3>AI Chat View</h3>
     <p>Chat with your model using AI. Query your requirements and get intelligent responses based on your event model.</p>
+  </a>
+</div>
+
+### Elements Tab
+
+<div class="topic-tiles">
+  <a href="/docs/basic-modeling-topics/elements-view/" class="topic-tile">
+    <span class="topic-tile-icon">🧩</span>
+    <h3>Elements View</h3>
+    <p>Place new elements on your canvas using drag-and-drop, AI generation, or multi-element mode. Access all element types for building your event model.</p>
   </a>
 </div>
 
