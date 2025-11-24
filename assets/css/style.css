@@ -284,6 +284,12 @@ body {
     background-color: rgba(66, 98, 255, 0.08);
 }
 
+/* Nested submenus (third level) */
+.nav-menu .nav-submenu .nav-submenu a {
+    padding-left: 55px;
+    font-size: 0.85em;
+}
+
 .content-wrapper {
     flex: 1;
     margin-left: var(--nav-width);
