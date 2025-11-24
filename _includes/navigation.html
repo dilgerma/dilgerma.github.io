@@ -46,7 +46,7 @@
     <li>
       <a href="{{ '/docs/basic-modeling' | relative_url }}"
          {% if page.url contains '/docs/basic-modeling' %}class="active"{% endif %}>
-        Basic Modeling
+        Tooling
       </a>
       <ul class="nav-submenu">
         <li>
@@ -54,35 +54,43 @@
              {% if page.url contains '/docs/basic-modeling-topics/overview' %}class="active"{% endif %}>
             Overview Tab
           </a>
+          <ul class="nav-submenu">
+            <li>
+              <a href="{{ '/docs/basic-modeling-topics/ai-overview' | relative_url }}"
+                 {% if page.url contains '/docs/basic-modeling-topics/ai-overview' %}class="active"{% endif %}>
+                AI Configuration
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/docs/basic-modeling-topics/ai-view' | relative_url }}"
+                 {% if page.url contains '/docs/basic-modeling-topics/ai-view' %}class="active"{% endif %}>
+                AI Chat View
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/docs/basic-modeling-topics/context-view' | relative_url }}"
+                 {% if page.url contains '/docs/basic-modeling-topics/context-view' %}class="active"{% endif %}>
+                Context View
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/docs/basic-modeling-topics/aggregate-view' | relative_url }}"
+                 {% if page.url contains '/docs/basic-modeling-topics/aggregate-view' %}class="active"{% endif %}>
+                Aggregate View
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/docs/basic-modeling-topics/data-trail-view' | relative_url }}"
+                 {% if page.url contains '/docs/basic-modeling-topics/data-trail-view' %}class="active"{% endif %}>
+                Data Trail View
+              </a>
+            </li>
+          </ul>
         </li>
         <li>
-          <a href="{{ '/docs/basic-modeling-topics/ai-overview' | relative_url }}"
-             {% if page.url contains '/docs/basic-modeling-topics/ai-overview' %}class="active"{% endif %}>
-            AI Configuration
-          </a>
-        </li>
-        <li>
-          <a href="{{ '/docs/basic-modeling-topics/ai-view' | relative_url }}"
-             {% if page.url contains '/docs/basic-modeling-topics/ai-view' %}class="active"{% endif %}>
-            AI Chat View
-          </a>
-        </li>
-        <li>
-          <a href="{{ '/docs/basic-modeling-topics/context-view' | relative_url }}"
-             {% if page.url contains '/docs/basic-modeling-topics/context-view' %}class="active"{% endif %}>
-            Context View
-          </a>
-        </li>
-        <li>
-          <a href="{{ '/docs/basic-modeling-topics/aggregate-view' | relative_url }}"
-             {% if page.url contains '/docs/basic-modeling-topics/aggregate-view' %}class="active"{% endif %}>
-            Aggregate View
-          </a>
-        </li>
-        <li>
-          <a href="{{ '/docs/basic-modeling-topics/data-trail-view' | relative_url }}"
-             {% if page.url contains '/docs/basic-modeling-topics/data-trail-view' %}class="active"{% endif %}>
-            Data Trail View
+          <a href="{{ '/docs/basic-modeling-topics/elements-view' | relative_url }}"
+             {% if page.url contains '/docs/basic-modeling-topics/elements-view' %}class="active"{% endif %}>
+            Elements View
           </a>
         </li>
       </ul>
