@@ -1,0 +1,46 @@
+## Elements View
+
+Use this View to place new Elements, either by clicking them in (2), by dragging them from (2) onto the Canvas or by
+selecting an element in (5) and placing it.
+
+1) Screen Drawer - use this to draw a new screen mockup
+2) Place elements by clicking or dragging
+3) Click here to enable multi elements. This will also allow you to place several elements just by writing them out.
+4) Use Conversion to convert plain Miro Sticky Notes to Event Model Elements
+5) Here you can select all elements to place on a canvas
+
+## AI View
+
+(AI View for Elements)[201.png]
+
+1) AI Prompt
+2) Build the timeline from prompt. You´ll get an ordered list of Events.
+3) Use the prompt to model an entire use case
+4) Skip fields if AI should just provide the sticky notes with names, but no fields
+5) Skip Given / When / Thens and focus on the elements alone
+6) The resulting JSON that can be applied
+
+## Supported Element Types
+
+ MODEL_CONTEXT = "MODEL_CONTEXT", - like a name for one model on the board. Allows for easy navigation
+    CHAPTER = "CHAPTER", - a grouping of Events
+    SLICE = "SLICE", - a border you can drag around elements to "slice" them together
+    ACTOR = "ACTOR", - an actor in the system
+    AGGREGATE = "AGGREGATE", - aggregates are placed in swimlanes
+    EXTERNAL_DATA = "EXTERNAL_DATA", - can be used to provide external information
+    AUTOMATION = "AUTOMATION", - places a "gear" symbol for an automation
+    API = "API", - allwos to define an additional API element ( not part of Event Modeling, but sometimes useful )
+    SCREEN = "SCREEN", - places a screen icon
+    COMMAND = "COMMAND", - places a command
+    SPEC_COMMAND = "SPEC_COMMAND", - places a command for a scenario
+    EVENT = "EVENT", - places an event
+    SPEC_EVENT = "SPEC_EVENT", - places an event for a scenario
+    SPEC_ERROR = "SPEC_ERROR", - places an error case for a scenario
+    TABLE = "TABLE", - places a table to get  into the details of how data maps to legacy system tables ( not part of Event Modeling )
+    READMODEL = "READMODEL", - places a read model
+    SPEC_READMODEL = "SPEC_READMODEL", - places a read model for a scenario
+    SPEC_COMMENT = "SPEC_COMMENT", - places a commend for a scenario
+    SCENARIO = "SCENARIO", - creates a new scenario
+    LANE = "LANE", - places a lane
+    SLICE_BORDER = "SLICE_BORDER", - places a new slice
+    SLICE_GROUP = "SLICE_GROUP", - place a slice group, which is just a grouping of slices.

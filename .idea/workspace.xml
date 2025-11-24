@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/elements_view/200.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dilgerma&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:dilgerma/dilgerma.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;9dfe5881-b6e2-407c-8136-9c397466249b&quot;
+  }
+}</component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -67,7 +80,7 @@
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/martindilger/development/git/sources/dilgerma.github.io/assets/images/tutorial&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/grunerjahr/Desktop/dilgerma.github.io/assets/images/tutorial/elements_view&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -77,6 +90,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/tutorial/elements_view" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial" />
       <recent name="$PROJECT_DIR$/gartencafe" />
     </key>
@@ -134,6 +148,8 @@
       <workItem from="1666936524031" duration="641000" />
       <workItem from="1679556683520" duration="652000" />
       <workItem from="1763896801100" duration="5613000" />
+      <workItem from="1763974503307" duration="1820000" />
+      <workItem from="1763978866861" duration="749000" />
     </task>
     <servers />
   </component>
