@@ -1,7 +1,5 @@
 # Miro Event Modeling Toolkit Documentation
 
-This is a GitHub Pages-ready documentation site for the Miro Event Modeling Toolkit, built with Jekyll.
-
 ## Structure
 
 ```

@@ -19,8 +19,13 @@
             </main>
 
             <footer class="footer">
-                <p>&copy; 2025 {{ site.title }}</p>
-                <p>Built with Jekyll and GitHub Pages</p>
+                <div class="footer-content">
+                    <p>&copy; 2025 {{ site.title }}</p>
+                    <nav class="footer-nav">
+                        <a href="{{ '/impressum' | relative_url }}">Impressum</a>
+                        <a href="{{ '/datenschutz' | relative_url }}">Datenschutz</a>
+                    </nav>
+                </div>
             </footer>
         </div>
     </div>
