@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/slice_view/400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/slice_view/400.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/grunerjahr/Desktop/dilgerma.github.io/assets/images/tutorial/data_view",
+    "last_opened_file_path": "/Users/grunerjahr/Desktop/dilgerma.github.io/assets/images/tutorial/slice_view",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -90,6 +91,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/tutorial/slice_view" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/elements_view" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial" />
@@ -150,7 +152,7 @@
       <workItem from="1679556683520" duration="652000" />
       <workItem from="1763896801100" duration="5613000" />
       <workItem from="1763974503307" duration="1820000" />
-      <workItem from="1763978866861" duration="17675000" />
+      <workItem from="1763978866861" duration="18352000" />
     </task>
     <servers />
   </component>

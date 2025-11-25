@@ -43,6 +43,16 @@ title: Basic Modeling
   </a>
 </div>
 
+### Slice Tab
+
+<div class="topic-tiles">
+  <a href="/docs/basic-modeling-topics/slice-view/" class="topic-tile">
+    <span class="topic-tile-icon">✂️</span>
+    <h3>Slice View</h3>
+    <p>Create and manage slices by grouping elements together. Track implementation progress with slice status and organize work by contexts.</p>
+  </a>
+</div>
+
 ## Model Views
 
 <div class="topic-tiles">
