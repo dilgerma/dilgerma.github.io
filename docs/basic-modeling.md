@@ -53,6 +53,16 @@ title: Basic Modeling
   </a>
 </div>
 
+### Spec Tab
+
+<div class="topic-tiles">
+  <a href="/docs/basic-modeling-topics/spec-view/" class="topic-tile">
+    <span class="topic-tile-icon">📝</span>
+    <h3>Spec View</h3>
+    <p>Define Given/When/Then specifications in the Scenario Editor. Create vertical specifications for read models and provide example data for test cases.</p>
+  </a>
+</div>
+
 ## Model Views
 
 <div class="topic-tiles">

@@ -1,0 +1,20 @@
+## Spec View
+
+Use this View to define Given / When / Thens in the Scenario Editor.
+You need to select a slice first.
+
+1) Slice Title
+2) [Select Given / When / Then and then just select the elements in the model](501.png)
+3) Provide an additional description for the text cases, business rules covered in the specification for example.
+
+For Given / Thens ( Specifications for Read Models - leaving out the When Part ), you can also provide so-called Vertical Specifications.
+
+[Vertical Specification](502.png)
+
+1) Selected Event as GIVEN
+2) Selected Read Model as THEN
+3) Added Steps in the Vertical Specification
+4) Apply the current Given / Then as new Vertical Specification Step
+
+After placing the Specification, you can select the elements and provide example data.
+[Example Data](504.png)
