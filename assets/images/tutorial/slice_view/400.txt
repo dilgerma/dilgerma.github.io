@@ -26,3 +26,6 @@ Planned - Slice is planned for a future iteration
 Created - Initial status when slice is created
 Informational - Slice is just for information, no implementation needed
 
+1) slice title
+2) Clickable Indicator that this slice is assigned to a Context
+3) Slice Border - everything within the border belongs to the slice

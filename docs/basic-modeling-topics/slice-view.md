@@ -42,6 +42,10 @@ The slice status helps you track the progress of implementation and planning:
 
 ![Example Slice]({{ '/assets/images/tutorial/slice_view/401.png' | relative_url }})
 
+1. **Slice title**
+2. **Clickable Indicator** - that this slice is assigned to a Context
+3. **Slice Border** - everything within the border belongs to the slice
+
 ## Next Steps
 
 - [Data View](/docs/basic-modeling-topics/data-view/) - Edit element schemas and configurations
