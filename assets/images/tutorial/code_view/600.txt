@@ -1,0 +1,36 @@
+## Code View
+
+Use this View to export an existing Model to JSON, Toon or Markdown
+
+1) Export all elements on the Board. Be careful with this, as this can use quite a lot of API Calls in Miro. For bigger Model, this might hit Rate Limits. I rarely use this.
+2) If you drew screens using the Screen Drawer, checking this will export the layouts within the JSON as well for usage by AI for example
+3) Export the config file as "config.json", if you uncheck, the file will be named after the Context. This is only relevant if you use the docker container to store the file locally.
+4) Select a Context. This will list all Contexts available on the Board
+5) Here you can just provide an additional comment or prompt, that can be used by AI. This prompt will be part of the JSON and also sent via the API Calls to Lovable and other systems.
+6) Creates the configuration
+7) Indicates if the local docker container is running. You can start it and refresh until the notification turns blue.
+8) Here you´ll find instructions on how to start the local docker container.
+9) [Model Import](602.png)
+
+After exporting the configuration, you can access the details in the "details" section.
+
+[Details Section](601.png)
+
+1) Details Section after export
+2) Copy or Download the JSON
+3) Validation Hints - typically you´d want to resolve them before starting any Code Generation
+4) Markdown View ( default if all unchecked is JSON )
+5) Toon View ( default if all unchecked is JSON )
+6) Removes all Specs
+7) Here you see the data to be used by AI or Code generation
+
+## Model Import
+
+[Model Import](602.png)
+
+Model Import allows you to import an existing Model from JSON back onto the Board.
+
+1) Upload an existing JSON Config
+2) Reference a JSON Config by URL
+3) JSON Specification ( editable )
+4) Skip Specifications from the Config File - only import Elements
