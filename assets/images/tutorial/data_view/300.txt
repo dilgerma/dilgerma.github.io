@@ -1,0 +1,80 @@
+## Data View
+
+This View allows you to adjust the schema for each element.
+Provide fields, change namings, types and more.
+This screen adjusts for each element type.
+
+1) Expert Mode - allows you to directly edit the JSON of the Element
+2) [Documentation](304.png) allows you to provide additional information and also see all dependencies directly
+3) [Settings](303.png) allows you to adjust the settings for displaying information on the sticky notes
+4) Re-Validate data - whenever an arrow shows red, revalidate makes sure, all data is up to date ( happens automatically most of the time, but sometimes, manual revalidation is necessary )
+5) Save element
+6) Adds an "aggregateId" field to the element
+7) Syncs all copies on the board. If you have duplicated elements, this makes sure, all copies have the same data.
+8) Opens the configuration in a pop up window for easier editing.
+
+## Field Definitions ( 301.png )
+
+This section allows you to define new fields and types on each element
+
+1) First select the field
+2) Edit fieldname
+3) Edit field type
+
+## Supported Data Types
+String
+UUID
+Boolean
+Double
+Decimal
+Date
+DateTime
+Long
+Int
+Custom
+
+4) Cardinality allows to set a type as a single element of a list of elements
+5) Marks field as "id"
+6) Marks field as "generated", the information completeness check won´t complain
+7) Marks field as optional
+8) Marks field as technical ( can be hidden from stakeholders )
+9) Defines the mapping for the information completeness check
+10) Allows to provide examples. Examples should be strings or valid JSON for custom types.
+
+## Expert Mode
+
+[Expert Mode](302.png) allows to edit the JSON of an element directly.
+
+## Configuration
+
+[Configuration](303.png) allows to adjust how information is displayed on sticky notes.
+
+1) always use wide sticky notes, not square ones
+2) compact display hides type information
+3) hides technical attributes like "ids" from stakeholders
+4) left-align sticky notes ( default is centered )
+
+## Documentation
+
+[Documentation](304.png) allows to provide additional information for an element.
+
+1) Provide Documentation
+2) See element details and also all dependencies.
+
+## [Command View](305.png)
+
+The Command View allows to define command specific information like API Endpoints.
+
+1) Define an alternative API Endpoint, by default it´s the slice name
+2) Opens the RTP ( Real Time Prototype Configuration )
+3) See the Element Details and also where information is coming from ( in this image, there is no mapping defined for the fields )
+4) Shows the events this command result in ( after succesful processing )
+
+
+## [Read Model View](306.png)
+
+The Read Model View allows to define Read Model specific information like API Endpoints.
+
+1) Opens the RTP ( Real Time Prototype Configuration )
+2+3) See the Element Details and also where information is coming from ( in this image, we see that both attributes in the Read Model are mapped from the "Customer registered" Event )
+4) Shows the events this Read Models depends on
