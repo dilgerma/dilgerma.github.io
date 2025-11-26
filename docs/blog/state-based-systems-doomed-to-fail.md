@@ -19,7 +19,7 @@ title: State-Based Systems Are Doomed to Fail
   </div>
 
   <div class="blog-post-featured-image">
-    <img src="{{ '/assets/images/blog/state-based-systems.jpg' | relative_url }}" alt="State-Based Systems Are Doomed to Fail">
+    <img src="{{ '/assets/images/blog/statebased.png' | relative_url }}" alt="State-Based Systems Are Doomed to Fail">
   </div>
 
   <div class="blog-post-content">
