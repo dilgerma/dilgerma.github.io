@@ -9,7 +9,8 @@ title: Home
   <a href="{{ '/docs/setup' | relative_url }}" class="cta-button">Get Started</a>
 </div>
 
-<section>
+<section class="has-text-centered">
+<h3>Live Event Modeling in 120min</h3>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6DqaNKxjvko?si=9I3wneDH9AFzjCPu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
