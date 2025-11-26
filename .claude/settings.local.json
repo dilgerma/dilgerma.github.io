@@ -5,7 +5,11 @@
       "Bash(cp:*)",
       "Bash(tree:*)",
       "Bash(find:*)",
-      "WebFetch(domain:www.nebulit.de)"
+      "WebFetch(domain:www.nebulit.de)",
+      "Bash(strings:*)",
+      "WebFetch(domain:www.linkedin.com)",
+      "Bash(textutil:*)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []

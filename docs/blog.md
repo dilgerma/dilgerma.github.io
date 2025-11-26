@@ -10,6 +10,17 @@ title: Blog
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/versioning-event-sourcing-elephant-room' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/versioning-event-sourcing.png' | relative_url }}" alt="Versioning in Event Sourcing">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Versioning in Event Sourcing: The Elephant in the Room</h3>
+        <p class="blog-tile-subtitle">Why event versioning isn't as scary as you think, and how to handle schema evolution with confidence</p>
+        <p class="blog-tile-meta">November 26, 2025 • 8 min read • Event Sourcing</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/ai-agents-brooks-law-coupling' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/ai-agents-brooks-law.png' | relative_url }}" alt="AI Agents and Brooks' Law">

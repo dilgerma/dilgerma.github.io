@@ -43,9 +43,10 @@ For OpenAI, you can choose your model directly from the dropdown:
 ### 4) Model Version (Anthropic)
 
 For Anthropic, choose your model version manually:
-- `claude-3-opus` (most capable)
-- `claude-3-sonnet` (balanced performance)
-- `claude-3-haiku` (fastest, most affordable)
+- `claude-sonnet-4-5-20250929` (latest, most capable)
+- `claude-3-5-sonnet-20241022` (highly capable, balanced)
+- `claude-3-opus-20240229` (very capable)
+- `claude-3-haiku-20240307` (fastest, most affordable)
 
 ## AI Features Enabled
 
@@ -79,8 +80,8 @@ Once configured, you can use:
 
 ### Model Selection
 - **For exploration and learning**: Use GPT-3.5 or Claude Haiku (lower cost)
-- **For production modeling**: Use GPT-4 or Claude Opus (better accuracy)
-- **For rapid iteration**: Use Claude Sonnet (balanced)
+- **For production modeling**: Use GPT-4 or Claude Sonnet 4.5/3.5 (best accuracy)
+- **For rapid iteration**: Use Claude 3.5 Sonnet (balanced performance and cost)
 
 ### Cost Management
 - Monitor your API usage in the provider dashboard
