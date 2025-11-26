@@ -123,6 +123,12 @@
             Code Generator Course
           </a>
         </li>
+        <li>
+          <a href="{{ '/docs/basic-modeling-topics/videos' | relative_url }}"
+             {% if page.url contains '/docs/basic-modeling-topics/videos' %}class="active"{% endif %}>
+            Videos
+          </a>
+        </li>
       </ul>
     </li>
     <li>
@@ -139,12 +145,6 @@
       <a href="{{ '/docs/blog' | relative_url }}"
          {% if page.url == '/docs/blog/' or page.url == '/docs/blog.html' %}class="active"{% endif %}>
         Blog
-      </a>
-    </li>
-    <li>
-      <a href="{{ '/docs/videos' | relative_url }}"
-         {% if page.url == '/docs/videos/' or page.url == '/docs/videos.html' %}class="active"{% endif %}>
-        Videos
       </a>
     </li>
   </ul>

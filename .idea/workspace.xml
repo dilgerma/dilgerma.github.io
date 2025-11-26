@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/code-generator/day-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/code-generator/day-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/code-generator/day-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/code-generator/day-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/code-generator/day-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/code-generator/day-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/code-generator/day-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/code-generator/day-4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/code-generator/day-5.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/code-generator/day-5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/code-generator/day-6.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/code-generator/day-6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/code-generator/day-7.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/code-generator/day-7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/code-generator/day-8.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/code-generator/day-8.md" afterDir="false" />
-    </list>
+    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
