@@ -31,6 +31,12 @@ title: Basic Modeling
     <h3>AI Chat View</h3>
     <p>Chat with your model using AI. Query your requirements and get intelligent responses based on your event model.</p>
   </a>
+
+  <a href="/docs/basic-modeling-topics/videos/" class="topic-tile">
+    <span class="topic-tile-icon">🎥</span>
+    <h3>Videos</h3>
+    <p>Watch tutorial videos to learn how to use the Miro Event Modeling Toolkit effectively.</p>
+  </a>
 </div>
 
 ### Elements Tab

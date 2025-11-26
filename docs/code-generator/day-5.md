@@ -127,7 +127,7 @@ By the way, I'm teaching Eventmodeling and Eventsourcing to Software Teams. If y
 
 - **Git**: [https://github.com/dilgerma/eventsourced-quiz](https://github.com/dilgerma/eventsourced-quiz)
 - **Accelerate Miro Toolkit**: [https://miro.com/marketplace/eventmodeling/](https://miro.com/marketplace/eventmodeling/)
-- **Miro Board**
+- **Miro Board**: [https://miro.com/app/board/uXjVLDkT_FA=/](https://miro.com/app/board/uXjVLDkT_FA=/)
 
 ## Things you should consider
 

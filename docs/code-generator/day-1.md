@@ -32,7 +32,7 @@ Make yourself familiar with the Toolkit and play a bit with it.
 
 The Miro-Board we will use in this course is found here. Feel free to make your own copy of it.
 
-**Miro Board**
+**Miro Board**: [https://miro.com/app/board/uXjVLDkT_FA=/](https://miro.com/app/board/uXjVLDkT_FA=/)
 
 ## Prepare Docker Image
 
@@ -46,7 +46,7 @@ docker pull nebulit/codegen
 
 - **Git**: [https://github.com/dilgerma/eventsourced-quiz](https://github.com/dilgerma/eventsourced-quiz)
 - **Accelerate Miro Toolkit**: [https://miro.com/marketplace/eventmodeling/](https://miro.com/marketplace/eventmodeling/)
-- **Miro Board**
+- **Miro Board**: [https://miro.com/app/board/uXjVLDkT_FA=/](https://miro.com/app/board/uXjVLDkT_FA=/)
 
 Make sure to checkout the Course to the book - which comes with a lifetime license for the Event Modeling Toolkit to use with your Code Generators.
 
