@@ -34,7 +34,7 @@ title: Blog
 
     <a href="{{ '/docs/blog/state-based-systems-doomed-to-fail' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
-        <img src="{{ '/assets/images/blog/state-based-systems.jpg' | relative_url }}" alt="State-Based Systems Are Doomed to Fail">
+        <img src="{{ '/assets/images/blog/statebased.png' | relative_url }}" alt="State-Based Systems Are Doomed to Fail">
       </div>
       <div class="blog-tile-content">
         <h3>State-Based Systems Are Doomed to Fail</h3>
