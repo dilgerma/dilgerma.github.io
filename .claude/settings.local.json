@@ -9,7 +9,8 @@
       "Bash(strings:*)",
       "WebFetch(domain:www.linkedin.com)",
       "Bash(textutil:*)",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:www.youtube.com)"
     ],
     "deny": [],
     "ask": []
