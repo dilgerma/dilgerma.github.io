@@ -92,4 +92,4 @@ I'm offering very flexible bookings packages, even on demand. Just answer to thi
 
 ---
 
-[Previous: Day 7 - Result Events](/docs/code-generator/day-7/) | [Back to Course Overview](/docs/code-generator/)
+[Previous: Day 7 - Result Events]({{ '/docs/code-generator/day-7' | relative_url }}) | [Back to Course Overview]({{ '/docs/code-generator' | relative_url }})

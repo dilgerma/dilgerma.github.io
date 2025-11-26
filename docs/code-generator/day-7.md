@@ -96,4 +96,4 @@ I'm offering very flexible bookings packages, even on demand. Just answer to thi
 
 ---
 
-[Previous: Day 6 - Command Handlers](/docs/code-generator/day-6/) | [Next: Day 8 - Putting It to Work](/docs/code-generator/day-8/)
+[Previous: Day 6 - Command Handlers]({{ '/docs/code-generator/day-6' | relative_url }}) | [Next: Day 8 - Putting It to Work]({{ '/docs/code-generator/day-8' | relative_url }})

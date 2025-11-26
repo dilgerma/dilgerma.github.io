@@ -49,4 +49,4 @@ See you tomorrow!
 
 ---
 
-[Previous: Day 1 - Setup](/docs/code-generator/day-1/) | [Next: Day 3 - JSON Structure](/docs/code-generator/day-3/)
+[Previous: Day 1 - Setup]({{ '/docs/code-generator/day-1' | relative_url }}) | [Next: Day 3 - JSON Structure]({{ '/docs/code-generator/day-3' | relative_url }})

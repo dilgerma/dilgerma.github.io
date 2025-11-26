@@ -107,4 +107,4 @@ See you tomorrow!
 
 ---
 
-[Previous: Day 3 - JSON Structure](/docs/code-generator/day-3/) | [Next: Day 5 - Custom Generators](/docs/code-generator/day-5/)
+[Previous: Day 3 - JSON Structure]({{ '/docs/code-generator/day-3' | relative_url }}) | [Next: Day 5 - Custom Generators]({{ '/docs/code-generator/day-5' | relative_url }})

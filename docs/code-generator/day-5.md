@@ -144,4 +144,4 @@ I'm offering very flexible bookings packages, even on demand. Just answer to thi
 
 ---
 
-[Previous: Day 4 - First Generation](/docs/code-generator/day-4/) | [Next: Day 6 - Command Handlers](/docs/code-generator/day-6/)
+[Previous: Day 4 - First Generation]({{ '/docs/code-generator/day-4' | relative_url }}) | [Next: Day 6 - Command Handlers]({{ '/docs/code-generator/day-6' | relative_url }})

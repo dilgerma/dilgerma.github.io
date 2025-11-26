@@ -151,4 +151,4 @@ If you already want to dive deeper into Eventmodeling and Eventsourcing - here a
 
 ---
 
-[Previous: Day 5 - Custom Generators](/docs/code-generator/day-5/) | [Next: Day 7 - Result Events](/docs/code-generator/day-7/)
+[Previous: Day 5 - Custom Generators]({{ '/docs/code-generator/day-5' | relative_url }}) | [Next: Day 7 - Result Events]({{ '/docs/code-generator/day-7' | relative_url }})

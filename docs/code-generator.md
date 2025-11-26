@@ -12,49 +12,49 @@ title: Build Your Own Code Generator
 ## 8-Day Course
 
 <div class="topic-tiles">
-  <a href="/docs/code-generator/day-1/" class="topic-tile">
+  <a href="{{ '/docs/code-generator/day-1' | relative_url }}" class="topic-tile">
     <span class="topic-tile-icon">1️⃣</span>
     <h3>Day 1: Setup</h3>
     <p>Set the stage for the course. Clone the repository, install the Miro Toolkit, and prepare your environment.</p>
   </a>
 
-  <a href="/docs/code-generator/day-2/" class="topic-tile">
+  <a href="{{ '/docs/code-generator/day-2' | relative_url }}" class="topic-tile">
     <span class="topic-tile-icon">2️⃣</span>
     <h3>Day 2: Event Modeling Basics</h3>
     <p>Learn the basics of Event Modeling and play around with your first generated prototype.</p>
   </a>
 
-  <a href="/docs/code-generator/day-3/" class="topic-tile">
+  <a href="{{ '/docs/code-generator/day-3' | relative_url }}" class="topic-tile">
     <span class="topic-tile-icon">3️⃣</span>
     <h3>Day 3: JSON Structure</h3>
     <p>Analyze the JSON structure that serves as the basis for code generation and learn how to export from Miro.</p>
   </a>
 
-  <a href="/docs/code-generator/day-4/" class="topic-tile">
+  <a href="{{ '/docs/code-generator/day-4' | relative_url }}" class="topic-tile">
     <span class="topic-tile-icon">4️⃣</span>
     <h3>Day 4: First Generation</h3>
     <p>Start your first code generation and generate an event directly from the Event Model in Miro.</p>
   </a>
 
-  <a href="/docs/code-generator/day-5/" class="topic-tile">
+  <a href="{{ '/docs/code-generator/day-5' | relative_url }}" class="topic-tile">
     <span class="topic-tile-icon">5️⃣</span>
     <h3>Day 5: Custom Generators</h3>
     <p>Implement your first custom code generator fragments and generate Events and Commands.</p>
   </a>
 
-  <a href="/docs/code-generator/day-6/" class="topic-tile">
+  <a href="{{ '/docs/code-generator/day-6' | relative_url }}" class="topic-tile">
     <span class="topic-tile-icon">6️⃣</span>
     <h3>Day 6: Command Handlers</h3>
     <p>Generate command handlers from your Event Model configuration.</p>
   </a>
 
-  <a href="/docs/code-generator/day-7/" class="topic-tile">
+  <a href="{{ '/docs/code-generator/day-7' | relative_url }}" class="topic-tile">
     <span class="topic-tile-icon">7️⃣</span>
     <h3>Day 7: Result Events</h3>
     <p>Generate resulting Events and complete your command handler implementation.</p>
   </a>
 
-  <a href="/docs/code-generator/day-8/" class="topic-tile">
+  <a href="{{ '/docs/code-generator/day-8' | relative_url }}" class="topic-tile">
     <span class="topic-tile-icon">8️⃣</span>
     <h3>Day 8: Putting It to Work</h3>
     <p>Put your generated code to work and implement projections for Read Models.</p>
@@ -92,4 +92,4 @@ To follow along with this course, you'll need:
 
 ## Next Steps
 
-Start with [Day 1: Setup](/docs/code-generator/day-1/) to begin your journey building your own code generator.
+Start with [Day 1: Setup]({{ '/docs/code-generator/day-1' | relative_url }}) to begin your journey building your own code generator.

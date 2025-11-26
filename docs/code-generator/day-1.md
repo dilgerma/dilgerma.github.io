@@ -67,4 +67,4 @@ See you tomorrow!
 
 ---
 
-[Next: Day 2 - Event Modeling Basics](/docs/code-generator/day-2/)
+[Next: Day 2 - Event Modeling Basics]({{ '/docs/code-generator/day-2' | relative_url }})
