@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/(7) Versioning in Event Sourcing_ The Elephant in the Room (And Why It's Not as Scary as You Think) _ LinkedIn.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/Bildschirmfoto 2025-11-26 um 22.34.43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/blog.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
