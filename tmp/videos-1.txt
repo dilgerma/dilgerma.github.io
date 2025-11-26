@@ -1,0 +1,12 @@
+Modeling your first slices
+Installing the Miro Tooling
+Miro Tooling Walkthrough
+Modeling Custom Types
+Compact Views
+Dynamic Context Maps	
+Modeling with AI Integration
+One Click Modeling
+Information Completeness
+Maintaining multiple Models
+Modeling Traditional Systems
+GDPR Enabled by default^
