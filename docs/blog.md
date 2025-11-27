@@ -10,6 +10,61 @@ title: Blog
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/300-column-database-legacy' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/300-column-table.png' | relative_url }}" alt="300-Column Database Table">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The 300-Column Database Table and How to Escape Legacy Hell</h3>
+        <p class="blog-tile-subtitle">How Event Modeling helps you unchain data from legacy systems and make organizations tick again</p>
+        <p class="blog-tile-meta">November 27, 2025 • 15 min read • Legacy Modernization</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/event-modeling-workshop-2am' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/workshop-2am-1.png' | relative_url }}" alt="Event Modeling Workshop">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Why People Get Up at 2 AM to Learn Event Modeling (And What Happened When They Did)</h3>
+        <p class="blog-tile-subtitle">Inside an Event Modeling workshop that changed how teams think about software</p>
+        <p class="blog-tile-meta">November 27, 2025 • 12 min read • Event Modeling & Workshops</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/show-me-the-coupling' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/show-me-coupling.png' | relative_url }}" alt="Show Me the Coupling">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Your wonderful microservice architecture? I don't care. Show me the coupling.</h3>
+        <p class="blog-tile-subtitle">The architecture diagram doesn't tell you anything - the coupling does</p>
+        <p class="blog-tile-meta">November 27, 2025 • 8 min read • Architecture & Coupling</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/cqrs-real-world-architecture' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/cqrs-in-action.png' | relative_url }}" alt="CQRS in Action">
+      </div>
+      <div class="blog-tile-content">
+        <h3>CQRS in Action - A Real World Simple Architecture</h3>
+        <p class="blog-tile-subtitle">How event sourcing and CQRS provide the flexibility to adapt and grow your system without mental tax</p>
+        <p class="blog-tile-meta">November 27, 2025 • 10 min read • CQRS & Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/80-percent-planning' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/planning-80-percent.png' | relative_url }}" alt="80% Planning">
+      </div>
+      <div class="blog-tile-content">
+        <h3>If you are in Software Engineering - 80% of your work should be planning</h3>
+        <p class="blog-tile-subtitle">Real planning means all questions are cleared and you only need to execute</p>
+        <p class="blog-tile-meta">November 27, 2025 • 10 min read • Planning & Execution</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/versioning-event-sourcing-elephant-room' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/versioning-event-sourcing.png' | relative_url }}" alt="Versioning in Event Sourcing">
