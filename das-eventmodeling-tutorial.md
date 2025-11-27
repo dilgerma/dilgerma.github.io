@@ -5,15 +5,15 @@ redirect_to: /docs/event-modeling-tutorial/
 sitemap: false
 ---
 
-<link rel="canonical" href="/docs/event-modeling-tutorial/" />
+<link rel="canonical" href="/docs/event-modeling-tutorial" />
 <meta name="robots" content="noindex, follow" />
 
 <script type="text/javascript">
-  window.location.replace("/docs/event-modeling-tutorial/");
+  window.location.replace("/docs/event-modeling-tutorial");
 </script>
 
 <noscript>
-  <meta http-equiv="refresh" content="0; url=/docs/event-modeling-tutorial/" />
+  <meta http-equiv="refresh" content="0; url=/docs/event-modeling-tutorial" />
 </noscript>
 
 # Redirecting...
