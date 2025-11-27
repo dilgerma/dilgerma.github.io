@@ -30,7 +30,7 @@ The model was defined by Adam Dymitruk and first described in [this blog](https:
 
 In this article, I'll explain what Event Modeling is and why I believe this approach is the right one for documenting and developing maintainable software systems of any size.
 
-### Event Modeling - Building Blocks
+## Event Modeling - Building Blocks
 
 Event Modeling is initially a very simple way to describe the functionality of a software system in detail and explicitly includes the factor "time" in the model.
 
@@ -44,13 +44,13 @@ Instead of trying to define a model that describes our business model as accurat
 
 The building blocks are _Commands_ (blue), _Events_ (orange), and _Read Models_ (green).
 
-### Commands
+## Commands
 
 Commands are actions that cause a change in the system. Every method of an API can in principle be considered a _Command_.
 
 Changes in the system can only occur through Commands.
 
-### Events
+## Events
 
 Events (business events) are _always_ the result of a _Command_ and are facts that have happened in the past in the system. We therefore formulate _Events_ in the past tense.
 
@@ -62,7 +62,7 @@ Examples are:
 
 **"Process Cancelled"**
 
-### Read Models / Projections
+## Read Models / Projections
 
 Read Models are simple and dynamic models that are generated from Events.
 
@@ -122,7 +122,7 @@ With this we create:
 
 **Documentation of all Business Rules**
 
-### What's Missing?
+## What's Missing?
 
 This article is not about the implementation of the system, but only about documenting the functionality.
 

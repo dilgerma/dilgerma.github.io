@@ -18,8 +18,6 @@ title: "Eventsourcing: Dynamic Consistency Boundary"
 
   <div class="blog-post-content">
 
-# Eventsourcing – Dynamic Consistency Boundary
-
 Last week in Episode #1 of the **"Eventmodeling & Eventsourcing" Podcast**, we briefly touched on the **"dynamic consistency boundary"** – which is Eventsourcing **without aggregates**.
 
 This sparked a bigger discussion in the community Discord.
@@ -31,8 +29,6 @@ When I first learned about this new concept, my first thought was:
 Well... I changed my mind. Will you?
 
 Let's dive deeper into this topic and find out what it's about.
-
----
 
 ## What is a Dynamic Consistency Boundary?
 
@@ -61,8 +57,6 @@ This design encourages encapsulation and consistency. But in eventsourcing, the 
 
 > A stream of events is typically accompanied by an aggregate to protect the consistency within this stream.
 
----
-
 ## Car Rental Example
 
 Let's take a simple and relatable domain: a car rental system.
@@ -76,8 +70,6 @@ The aggregate ensures consistency by applying **optimistic locking** on the even
 
 This is the same idea behind **git version control**:
 If git didn't check for team changes, every push would be a "force push." Good luck with that.
-
----
 
 ## The Problem with Multiple Streams
 
@@ -97,8 +89,6 @@ To reserve both atomically, both aggregates must be consistent. But what if:
 
 We now need to apply **two transactions** for one operation – and either could fail.
 
----
-
 ## A Dynamic Approach
 
 The idea behind **Dynamic Consistency Boundary (DCB)** is to get rid of the static "Car" and "Bike" aggregates and rely on **facts** in the system.
@@ -115,8 +105,6 @@ The problem? How do we enforce consistency *without* aggregates?
 
 > It's a **technical problem**, not a conceptual one.
 
----
-
 ## Conditional Append
 
 Sara Pellegrini's blog introduces the concept of **conditional append**.
@@ -125,8 +113,6 @@ It adds an index-like mechanism to the event store.
 Each **command handler defines its consistency boundaries dynamically**.
 
 I forked an example implementation and simplified it. You'll find the link below.
-
----
 
 ## Step-by-Step
 
@@ -146,8 +132,6 @@ Now we execute the logic:
 - Store the event using the DCB-enabled eventstore.
 - Apply indices (tags) as metadata to the event.
 
----
-
 ## Conflict Detection
 
 The **eventstore** plays a critical role now.
@@ -159,8 +143,6 @@ It defines a `consistencyCondition`, checking:
 
 If yes → **conflict**, reject write.
 If no → all good, apply the event.
-
----
 
 ## Benefits
 
@@ -176,21 +158,15 @@ Yes, you can mimic this with aggregates, but it takes extra steps.
 Will the final implementations look like this? I don't know.
 But I **can't wait** to try.
 
----
-
 ## What Do You Think?
 
 Let me know! Just reply to this email. One sentence is enough.
 
----
-
-### 🔗 Links
+### Links
 
 - 🎙️ Eventmodeling & Eventsourcing Podcast
 - 📘 [Understanding Eventsourcing Book](https://leanpub.com/eventmodeling-and-eventsourcing)
 - 📘 [Event Sourcing Online Course - finally understand it](https://www.eventsourcingcourse.com)
-
----
 
 👉 [Subscribe to the newsletter](#)
 👉 [Listen to the podcast](#)

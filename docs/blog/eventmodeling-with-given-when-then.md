@@ -18,13 +18,9 @@ title: "Eventmodeling: Describing Business Rules with Given/When/Then"
 
   <div class="blog-post-content">
 
-# Eventmodeling – Describing Business Rules with "Given / When / Then"
-
 ![Describing Business Rules with "Given / When / Then"](https://embed.filekitcdn.com/e/h7RHcHkpLUya1CpCdVZJez/ijv472UeDQC4cxwTpz9STq)
 
 In the last episode of the **"Eventmodeling & Eventsourcing"** Podcast, we mainly discussed **"Given / When / Then"** scenarios to describe business policies and touched on **slice-based architectures**, especially how they simplify concurrent development and version control.
-
----
 
 ## Why Different Types of "Given / When / Then"?
 
@@ -33,8 +29,6 @@ We use business rules in three places:
 1. When we **change** the system
 2. When we **query** the system
 3. When we perform **automated background tasks**
-
----
 
 ## 1. Rules to Change the System
 
@@ -60,8 +54,6 @@ This approach makes rules:
 - Understandable
 - Testable (e.g., Gherkin syntax)
 
----
-
 ### Example
 
 > When the `Submit Order` command is executed
@@ -76,8 +68,6 @@ Preventing duplicates:
 > → Then: error state is expected
 
 ![Example scenario with Error State](https://embed.filekitcdn.com/e/h7RHcHkpLUya1CpCdVZJez/oAQy3ersgMQ1JMAo2GMYZ1/email)
-
----
 
 ## 2. Rules for Read Models and Automations
 
@@ -103,8 +93,6 @@ In the podcast, Adam and I explained our different takes:
 
 ![Automations as State Changes](https://embed.filekitcdn.com/e/h7RHcHkpLUya1CpCdVZJez/idMfQz6uNKMMxQPYM9Btqq/email)
 
----
-
 ## Why "Given / When / Then" Matters
 
 They are:
@@ -113,15 +101,11 @@ They are:
 - Crucial for explaining **how your system works**
 - A natural way to **bridge business and technical understanding**
 
----
-
 ## What Else You Should Know
 
 - 🎓 Want hands-on learning? Join workshops on Event Modeling
 - 📘 *"Understanding Eventsourcing"* provides deep insights into these concepts
 - 🧩 Great workflow between **Figma & Miro** for Eventmodeling
-
----
 
 🎧 Follow the **Eventmodeling & Eventsourcing Podcast**
 👋 See you next week!
