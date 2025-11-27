@@ -124,6 +124,14 @@ That allows to survive when reality hits..
 
 The whole process is described in my book ["Understanding Eventsourcing"](https://www.nebulit.de)
 
+<div class="course-cta" markdown="1">
+### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+
+Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+
+[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+</div>
+
   </div>
 
 </div>

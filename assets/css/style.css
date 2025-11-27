@@ -919,3 +919,91 @@ body {
         box-shadow: 0 8px 30px rgba(102, 126, 234, 0.25);
     }
 }
+
+/* Course CTA Section */
+.course-cta {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 2.5rem;
+    border-radius: 12px;
+    margin: 3rem 0 2rem 0;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+    position: relative;
+    overflow: hidden;
+}
+
+.course-cta::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, transparent 70%);
+    animation: pulse 15s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); opacity: 0.5; }
+    50% { transform: scale(1.1); opacity: 0.8; }
+}
+
+.course-cta h3 {
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    position: relative;
+    z-index: 1;
+}
+
+.course-cta p {
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+    position: relative;
+    z-index: 1;
+}
+
+.course-cta .cta-button {
+    display: inline-block;
+    background: white;
+    color: #667eea;
+    padding: 1rem 2.5rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+    z-index: 1;
+}
+
+.course-cta .cta-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    background: #f8f9fa;
+}
+
+@media (max-width: 768px) {
+    .course-cta {
+        padding: 2rem 1.5rem;
+        margin: 2rem 0 1.5rem 0;
+    }
+
+    .course-cta h3 {
+        font-size: 1.25rem;
+    }
+
+    .course-cta p {
+        font-size: 1rem;
+    }
+
+    .course-cta .cta-button {
+        padding: 0.875rem 2rem;
+        font-size: 1rem;
+    }
+}

@@ -177,5 +177,14 @@ title: State-Based Systems Are Doomed to Fail
 
     <h2>Next Steps</h2>
     <p>Ready to explore an alternative approach? Learn how <a href="{{ '/docs/event-modeling' | relative_url }}">Event Modeling</a> provides the flexibility to serve multiple use cases without the trade-offs inherent in state-based design.</p>
+
+<div class="course-cta" markdown="1">
+### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+
+Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+
+[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+</div>
+
   </div>
 </div>

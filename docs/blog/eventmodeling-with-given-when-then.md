@@ -104,3 +104,13 @@ They are:
 
 🎧 Follow the **Eventmodeling & Eventsourcing Podcast**
 👋 See you next week!
+
+---
+
+<div class="course-cta" markdown="1">
+### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+
+Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+
+[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+</div>

@@ -156,3 +156,13 @@ In the next article, we'll look at integration with the UI and how the asynchron
 - [Learn Event Modeling](https://eventmodelers.de/)
 - [Event Modeling Tooling](https://eventmodelers.de/eventmodeling-tooling)
 - [Event Modeling Community](https://eventmodeling.org/)
+
+---
+
+<div class="course-cta" markdown="1">
+### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+
+Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+
+[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+</div>

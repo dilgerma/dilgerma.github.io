@@ -150,3 +150,13 @@ Want someone who knows how to break walls in your next project?
 Book a free Call.. let´s find where your wall is.
 
 https://outlook.office365.com/book/NebulitGmbH@nebulit.de/s/SchaAYI1q02_E0rbpW5Xhw2?ismsaljsauthenabled=true
+
+---
+
+<div class="course-cta" markdown="1">
+### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+
+Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+
+[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+</div>

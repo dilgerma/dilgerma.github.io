@@ -126,3 +126,13 @@ Some patterns are missing that are already described in relatively detail in [Ad
 The implementation of such a system works most easily with **Event Sourcing**, the flow is based most easily on **CQRS** (Command Query Responsibility Segregation).
 
 These concepts mesh seamlessly.
+
+---
+
+<div class="course-cta" markdown="1">
+### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+
+Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+
+[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+</div>

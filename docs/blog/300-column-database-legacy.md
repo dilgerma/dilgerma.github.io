@@ -291,6 +291,14 @@ Martin Dilger is the founder of [Nebulit](https://www.nebulit.de) and a recogniz
 
 **P.S.** Wondering if Event Modeling can work for your specific legacy nightmare? Send me your gnarliest table schema (just the column names, no data). I'll record a short video showing you which workflows are probably hiding in there. First 5 people only.
 
+<div class="course-cta" markdown="1">
+### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+
+Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+
+[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+</div>
+
   </div>
 
 </div>

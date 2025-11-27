@@ -133,3 +133,13 @@ Need help adopting Event Sourcing and tackling some of these typical problems in
 Want to dive deeper? Check my Book "Understanding Eventsourcing"
 
 Want to apply the principles of Event Sourcing in practice? Read the Book and do the companion Online Course.
+
+---
+
+<div class="course-cta" markdown="1">
+### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+
+Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+
+[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+</div>

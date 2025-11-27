@@ -209,6 +209,14 @@ But when you plan properly - when all questions are cleared, when every team mem
 
 My Book [Understanding Eventsourcing](https://www.nebulit.de) describes this process. And the companion course Implementing Eventsourcing gives you a head start. Want your Team to feel the focus? Let's talk - I'm specialized in training teams on exactly that.
 
+<div class="course-cta" markdown="1">
+### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+
+Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+
+[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+</div>
+
   </div>
 
 </div>
