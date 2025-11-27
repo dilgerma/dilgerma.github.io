@@ -10,8 +10,7 @@
       <change afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/posts/eventmodeling-with-given-when-then.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/posts/eventsourcing-dynamic-consistency-boundary.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/eventsourcing-dynamic-consistency-boundary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/event-modeling-tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/event-modeling-tutorial.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/eventmodelers.de/components/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/components/navigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/eventmodelers.de/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/pages/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/eventmodelers.de/posts/posts.json" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/posts/posts.json" afterDir="false" />

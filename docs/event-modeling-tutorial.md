@@ -3,28 +3,19 @@ layout: docs
 title: "The Step by Step Tutorial"
 ---
 
-<div class="hero">
-  <h1>The Complete Event Modeling Tutorial</h1>
-  <p>This is how we develop software systems today. Simple, maintainable, and without the typical microservice overhead.</p>
-</div>
+# The Complete Event Modeling Tutorial
 
-<section class="features">
+> **Note:** Right now most videos are in German, but will be translated to English in the upcoming days.
+
+This is how we develop software systems today. Simple, maintainable, and without the typical microservice overhead.
 
 ## In This Tutorial
 
 You'll learn for free how to model and develop complex information systems.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/PAKQYyMJmmI?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Event Modeling Introduction](https://img.youtube.com/vi/PAKQYyMJmmI/0.jpg)](https://www.youtube-nocookie.com/embed/PAKQYyMJmmI)
 
-<div class="has-text-centered">
-"I would never start a new system or microservice without Event Modeling. The time savings and the quality of requirements was previously not possible." - Martin Dilger
-</div>
+*"I would never start a new system or microservice without Event Modeling. The time savings and the quality of requirements was previously not possible." - Martin Dilger*
 
 ---
 
@@ -34,9 +25,7 @@ In this tutorial, we follow a fictional Scrum team during the planning & develop
 
 The challenge in development is (as always) the integration into the surrounding systems. We have an existing system (backoffice) that provides the product configurations. Additionally, integration of a payment provider is planned. The customer should ideally pay digitally. But first, we look at the requirements for our system in isolation.
 
-<div class="has-text-centered">
-<img src="{{ '/assets/images/tutorial/architektur.png' | relative_url }}" width="50%" alt="Architecture"/>
-</div>
+![Architecture]({{ '/assets/images/tutorial/architektur.png' | relative_url }})
 
 To better understand the requirements and the system, Markus, the Scrum Master, suggests an **Event Modeling Workshop**. None of the developers have heard of this technique before. Markus heard about it from a well-known architect and only heard good things about it.
 
@@ -52,35 +41,19 @@ In the workshop, they work with a simple Miro board. In the first step, the team
 
 *In the video, you see the first part of the workshop*
 
-<div class="has-text-centered">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/4qCG6K65Es4?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Creating the Event Model](https://img.youtube.com/vi/4qCG6K65Es4/0.jpg)](https://www.youtube-nocookie.com/embed/4qCG6K65Es4)
 
-<div class="has-text-centered">
-"Creating the Event Model."
-</div>
+*Creating the Event Model.*
 
 Through **Event Modeling**, the team divides the software into the smallest possible vertical functional blocks. We call these blocks "Slices".
 
-<img src="{{ '/assets/images/blog/eventmodelling/eventmodell_time.png' | relative_url }}" alt="Event Model Timeline"/>
+![Event Model Timeline]({{ '/assets/images/blog/eventmodelling/eventmodell_time.png' | relative_url }})
 
 Slices consist of Commands (Blue), Events (Yellow), and Read Models (Reports) (Green). The team brings the first events into a rough order and directly defines the first slice for **user registration**.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/-Mz5ETZ1tNg?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![The first slice](https://img.youtube.com/vi/-Mz5ETZ1tNg/0.jpg)](https://www.youtube-nocookie.com/embed/-Mz5ETZ1tNg)
 
-<div class="has-text-centered">
-"The first slice."
-</div>
+*The first slice.*
 
 What amazes everyone - the workshop is extremely productive and exactly the right discussions are being held between the participants.
 
@@ -97,33 +70,17 @@ The team only needs 5 minutes to work productively. *The format is almost self-e
 
 What helps the team extremely is the real-time validation of the model. Erroneous or missing data is immediately marked in red. So it's immediately clear which slice is finished and where more work needs to be done.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/W5T2_zlzn4g?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Model Validation](https://img.youtube.com/vi/W5T2_zlzn4g/0.jpg)](https://www.youtube-nocookie.com/embed/W5T2_zlzn4g)
 
-<div class="has-text-centered">
-"Model Validation."
-</div>
+*Model Validation.*
 
 In the workshop itself, questions keep coming up that the consultant answers briefly and concisely. Otherwise, they usually stay in the background and only ask questions when discussions stall.
 
 One question that was asked several times, for example, is "How do we deal with generated values such as a *SessionId*?" You can see the consultant's suggestion in the video.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/oUiW05yAhso?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Generated Values](https://img.youtube.com/vi/oUiW05yAhso/0.jpg)](https://www.youtube-nocookie.com/embed/oUiW05yAhso)
 
-<div class="has-text-centered">
-"Generated Values."
-</div>
+*Generated Values.*
 
 ---
 
@@ -139,31 +96,15 @@ The team has defined clear **input** and **output parameters** for this feature.
 
 Through the modeling, the team has a built-in **data completeness check**. It cannot happen that data is accessed that is not available. There are no assumptions, only facts.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/xOAsVWB5hzE?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Read Model (Report)](https://img.youtube.com/vi/xOAsVWB5hzE/0.jpg)](https://www.youtube-nocookie.com/embed/xOAsVWB5hzE)
 
-<div class="has-text-centered">
-"Read Model (Report)."
-</div>
+*Read Model (Report).*
 
 The consultant repeatedly explains that every dynamic value must actually be visible from the screens in the slices. It should be clear to a developer at first glance where the dynamics in the screen are.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/5CXPIT2h2Uc?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Dynamic Screens](https://img.youtube.com/vi/5CXPIT2h2Uc/0.jpg)](https://www.youtube-nocookie.com/embed/5CXPIT2h2Uc)
 
-<div class="has-text-centered">
-"Dynamic Screens."
-</div>
+*Dynamic Screens.*
 
 ---
 
@@ -177,33 +118,17 @@ Everyone is briefly puzzled. In fact, no one has noticed this before. The model 
 
 The change is usually limited to *one* slice. The team only has to ensure that the necessary data is available. The model validation helps enormously.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/J2Ss4l7O28I?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Screen Extension](https://img.youtube.com/vi/J2Ss4l7O28I/0.jpg)](https://www.youtube-nocookie.com/embed/J2Ss4l7O28I)
 
-<div class="has-text-centered">
-"Screen Extension."
-</div>
+*Screen Extension.*
 
 The team now goes through the individual slices step by step. Important discussions take place. Step by step, it becomes clear which data is needed at which step of the software.
 
 The team never makes assumptions, but works solely on facts and data.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/5C1Z8IqR21s?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Commands & Events](https://img.youtube.com/vi/5C1Z8IqR21s/0.jpg)](https://www.youtube-nocookie.com/embed/5C1Z8IqR21s)
 
-<div class="has-text-centered">
-"Commands & Events."
-</div>
+*Commands & Events.*
 
 ---
 
@@ -213,17 +138,9 @@ While part of the team is still defining the data for the events and commands, a
 
 The work is completely parallelizable (here in the modeling, but also later in the implementation).
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/ypMkMdjnnjw?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Order Screen](https://img.youtube.com/vi/ypMkMdjnnjw/0.jpg)](https://www.youtube-nocookie.com/embed/ypMkMdjnnjw)
 
-<div class="has-text-centered">
-"Order Screen."
-</div>
+*Order Screen.*
 
 ---
 
@@ -233,17 +150,9 @@ For each slice, the team examines where the data is defined that is needed for i
 
 The model can easily be populated from different events. The data validation of the model ensures at all times that the slices are implementable. *If the team has done everything right, the data for each slice is **always** available.*
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/N3Yvod05eBk?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Order Page](https://img.youtube.com/vi/N3Yvod05eBk/0.jpg)](https://www.youtube-nocookie.com/embed/N3Yvod05eBk)
 
-<div class="has-text-centered">
-"Order Page."
-</div>
+*Order Page.*
 
 ---
 
@@ -253,17 +162,9 @@ Slices can be put together like Lego bricks. The team decides not to model the e
 
 The team can continue with the modeling at any time without losing information.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/CE3ygvkCf3w?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Order Submit](https://img.youtube.com/vi/CE3ygvkCf3w/0.jpg)](https://www.youtube-nocookie.com/embed/CE3ygvkCf3w)
 
-<div class="has-text-centered">
-"Order Submit."
-</div>
+*Order Submit.*
 
 ---
 
@@ -271,17 +172,9 @@ The team can continue with the modeling at any time without losing information.
 
 In the last step, the team defines the first **Swimlanes**. Through Swimlanes, we get an assignment of events and data to the contexts of our software. Swimlanes correspond in *Domain Driven Design* roughly to the Bounded Contexts. A swimlane can represent its own service, a module, or just an independent business area.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/50U0aozbZQ0?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Swimlanes](https://img.youtube.com/vi/50U0aozbZQ0/0.jpg)](https://www.youtube-nocookie.com/embed/50U0aozbZQ0)
 
-<div class="has-text-centered">
-"Swimlanes."
-</div>
+*Swimlanes.*
 
 ---
 
@@ -291,17 +184,9 @@ Before we go into implementation, we now break down the slices into _State View_
 
 This defines independent work packages that can be implemented in any order.
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/n_89JZHaqVM?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![State View / State Change](https://img.youtube.com/vi/n_89JZHaqVM/0.jpg)](https://www.youtube-nocookie.com/embed/n_89JZHaqVM)
 
-<div class="has-text-centered">
-"State View / State Change."
-</div>
+*State View / State Change.*
 
 ---
 
@@ -309,13 +194,7 @@ This defines independent work packages that can be implemented in any order.
 
 You can learn about the background in this video:
 
-<div class="has-text-centered top-margin">
-  <p class="has-text-centered">
-    <iframe id="ytplayer" width="640" height="360"
-            src="https://www.youtube-nocookie.com/embed/OA64piP1vCw?autoplay=0"
-            frameBorder="0" allowFullScreen></iframe>
-  </p>
-</div>
+[![Why Does This Work So Well](https://img.youtube.com/vi/OA64piP1vCw/0.jpg)](https://www.youtube-nocookie.com/embed/OA64piP1vCw)
 
 ---
 
@@ -343,5 +222,3 @@ We offer trainings for your team:
 - Git Professional Status for entire development teams
 
 I would be happy if we could support your team with our expertise.
-
-</section>
