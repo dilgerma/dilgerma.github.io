@@ -8,3 +8,4 @@ Gemfile.lock
 temp
 .idea
 consul-template<_version_OS>.tgz
+tmp

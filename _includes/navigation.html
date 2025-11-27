@@ -18,6 +18,12 @@
       </a>
     </li>
     <li>
+      <a href="{{ '/docs/event-modeling-tutorial' | relative_url }}"
+         {% if page.url == '/docs/event-modeling-tutorial/' or page.url == '/docs/event-modeling-tutorial.html' %}class="active"{% endif %}>
+        The Step by Step Tutorial
+      </a>
+    </li>
+    <li>
       <a href="{{ '/docs/visual-modeling' | relative_url }}"
          {% if page.url contains '/docs/visual-modeling' %}class="active"{% endif %}>
         Visual Event Modeling

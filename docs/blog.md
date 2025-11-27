@@ -43,5 +43,37 @@ title: Blog
       </div>
     </a>
 
+    <a href="{{ '/docs/blog/documenting-software-with-event-modeling' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Documenting Software with Event Modeling</h3>
+        <p class="blog-tile-subtitle">One of the most important tools for documenting and developing complex software systems</p>
+        <p class="blog-tile-meta">October 2023 • 12 min read • Event Modeling</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/eventmodeling-with-given-when-then' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Eventmodeling: Describing Business Rules with Given/When/Then</h3>
+        <p class="blog-tile-subtitle">How to make business rules visual, understandable, and testable</p>
+        <p class="blog-tile-meta">October 2023 • 8 min read • Event Modeling</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/eventsourcing-dynamic-consistency-boundary' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Eventsourcing: Dynamic Consistency Boundary</h3>
+        <p class="blog-tile-subtitle">Understanding eventsourcing without aggregates</p>
+        <p class="blog-tile-meta">October 2023 • 10 min read • Event Sourcing</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/modeling-asynchronous-processes-with-event-modeling' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Modeling and Implementing Asynchronous Background Processes with Event Modeling</h3>
+        <p class="blog-tile-subtitle">From theory to practice: modeling and implementing automated background processes</p>
+        <p class="blog-tile-meta">October 2023 • 15 min read • Event Modeling & Implementation</p>
+      </div>
+    </a>
+
   </div>
 </section>

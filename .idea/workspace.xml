@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="" />
+    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/.idea/.sourcegraph/cody_settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/posts/eventmodeling-with-given-when-then.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/posts/eventsourcing-dynamic-consistency-boundary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/eventmodelers.de/components/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/components/navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/eventmodelers.de/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/eventmodelers.de/posts/posts.json" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/eventmodelers.de/posts/posts.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
