@@ -59,14 +59,6 @@ title: Blog
       </div>
     </a>
 
-    <a href="{{ '/docs/blog/eventsourcing-dynamic-consistency-boundary' | relative_url }}" class="blog-tile">
-      <div class="blog-tile-content">
-        <h3>Eventsourcing: Dynamic Consistency Boundary</h3>
-        <p class="blog-tile-subtitle">Understanding eventsourcing without aggregates</p>
-        <p class="blog-tile-meta">October 2023 • 10 min read • Event Sourcing</p>
-      </div>
-    </a>
-
     <a href="{{ '/docs/blog/modeling-asynchronous-processes-with-event-modeling' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Modeling and Implementing Asynchronous Background Processes with Event Modeling</h3>
