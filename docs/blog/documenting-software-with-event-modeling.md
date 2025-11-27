@@ -3,24 +3,17 @@ layout: docs
 title: "Documenting Software with Event Modeling"
 ---
 
-<div class="blog-post">
-  <a href="{{ '/docs/blog' | relative_url }}" class="blog-back-link">&larr; Back to Blog</a>
+# Documenting Software with Event Modeling
 
-  <div class="blog-post-header">
-    <h1>Documenting Software with Event Modeling</h1>
-    <p class="blog-post-subtitle">One of the most important tools for documenting and developing complex software systems</p>
-    <div class="blog-post-meta">
-      <span>October 2023</span>
-      <span>12 min read</span>
-      <span>Event Modeling</span>
-    </div>
-  </div>
+**One of the most important tools for documenting and developing complex software systems**
 
-  <div class="blog-post-featured-image">
-    <img src="{{ '/assets/images/blog/eventmodelling/banner.png' | relative_url }}" alt="Event Modeling Documentation">
-  </div>
+*October 2023 • 12 min read • Event Modeling*
 
-  <div class="blog-post-content">
+[&larr; Back to Blog]({{ '/docs/blog' | relative_url }})
+
+---
+
+![Event Modeling Documentation]({{ '/assets/images/blog/eventmodelling/banner.png' | relative_url }})
 
 I personally believe that with _Event Modeling_, we have one of the most important tools in our hands for documenting and developing complex software systems in recent years.
 
@@ -133,6 +126,3 @@ Some patterns are missing that are already described in relatively detail in [Ad
 The implementation of such a system works most easily with **Event Sourcing**, the flow is based most easily on **CQRS** (Command Query Responsibility Segregation).
 
 These concepts mesh seamlessly.
-
-  </div>
-</div>

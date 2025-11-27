@@ -3,8 +3,9 @@ layout: docs
 title: If You Can't Add Developers and Go Faster, Adding AI Agents Won't Work Either
 ---
 
-<div class="blog-post">
-  <a href="{{ '/docs/blog' | relative_url }}" class="blog-back-link">&larr; Back to Blog</a>
+<div class="blog-post" markdown="1">
+
+[&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
 
   <div class="blog-post-header">
     <h1>If You Can't Add Developers and Go Faster, Adding AI Agents Won't Work Either</h1>
@@ -20,8 +21,10 @@ title: If You Can't Add Developers and Go Faster, Adding AI Agents Won't Work Ei
     <img src="{{ '/assets/images/blog/ai-agents-brooks-law.png' | relative_url }}" alt="AI Agents and Brooks' Law">
   </div>
 
-  <div class="blog-post-content">
-    <p class="lead">I stayed up late reading <strong>Adam Dymitruk</strong>'s original article on Event Modeling. The first time through, it didn't fully click. But the next day, something shifted. I couldn't stop thinking about it. By evening, it hit me:</p>
+  <div class="blog-post-content" markdown="1">
+
+I stayed up late reading **Adam Dymitruk**'s original article on Event Modeling. The first time through, it didn't fully click. But the next day, something shifted. I couldn't stop thinking about it. By evening, it hit me:
+{: .lead}
 
     <blockquote>
       <p>If slicing the system is done using these diagrams, if we cut it down correctly, and if the slices are truly independent, this solves most of the problems we face on a fundamental level. Can this actually work?</p>

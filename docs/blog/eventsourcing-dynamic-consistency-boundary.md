@@ -3,20 +3,15 @@ layout: docs
 title: "Eventsourcing: Dynamic Consistency Boundary"
 ---
 
-<div class="blog-post">
-  <a href="{{ '/docs/blog' | relative_url }}" class="blog-back-link">&larr; Back to Blog</a>
+# Eventsourcing: Dynamic Consistency Boundary
 
-  <div class="blog-post-header">
-    <h1>Eventsourcing: Dynamic Consistency Boundary</h1>
-    <p class="blog-post-subtitle">Understanding eventsourcing without aggregates</p>
-    <div class="blog-post-meta">
-      <span>October 2023</span>
-      <span>10 min read</span>
-      <span>Event Sourcing</span>
-    </div>
-  </div>
+**Understanding eventsourcing without aggregates**
 
-  <div class="blog-post-content">
+*October 2023 • 10 min read • Event Sourcing*
+
+[&larr; Back to Blog]({{ '/docs/blog' | relative_url }})
+
+---
 
 Last week in Episode #1 of the **"Eventmodeling & Eventsourcing" Podcast**, we briefly touched on the **"dynamic consistency boundary"** – which is Eventsourcing **without aggregates**.
 
@@ -170,6 +165,3 @@ Let me know! Just reply to this email. One sentence is enough.
 
 👉 [Subscribe to the newsletter](#)
 👉 [Listen to the podcast](#)
-
-  </div>
-</div>

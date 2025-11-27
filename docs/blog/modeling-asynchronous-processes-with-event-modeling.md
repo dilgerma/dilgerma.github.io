@@ -3,20 +3,15 @@ layout: docs
 title: "Modeling and Implementing Asynchronous Background Processes with Event Modeling"
 ---
 
-<div class="blog-post">
-  <a href="{{ '/docs/blog' | relative_url }}" class="blog-back-link">&larr; Back to Blog</a>
+# Modeling and Implementing Asynchronous Background Processes with Event Modeling
 
-  <div class="blog-post-header">
-    <h1>Modeling and Implementing Asynchronous Background Processes with Event Modeling</h1>
-    <p class="blog-post-subtitle">From theory to practice: modeling and implementing automated background processes</p>
-    <div class="blog-post-meta">
-      <span>October 2023</span>
-      <span>15 min read</span>
-      <span>Event Modeling & Implementation</span>
-    </div>
-  </div>
+**From theory to practice: modeling and implementing automated background processes**
 
-  <div class="blog-post-content">
+*October 2023 • 15 min read • Event Modeling & Implementation*
+
+[&larr; Back to Blog]({{ '/docs/blog' | relative_url }})
+
+---
 
 ## Background
 
@@ -161,6 +156,3 @@ In the next article, we'll look at integration with the UI and how the asynchron
 - [Learn Event Modeling](https://eventmodelers.de/)
 - [Event Modeling Tooling](https://eventmodelers.de/eventmodeling-tooling)
 - [Event Modeling Community](https://eventmodeling.org/)
-
-  </div>
-</div>

@@ -3,20 +3,15 @@ layout: docs
 title: "Eventmodeling: Describing Business Rules with Given/When/Then"
 ---
 
-<div class="blog-post">
-  <a href="{{ '/docs/blog' | relative_url }}" class="blog-back-link">&larr; Back to Blog</a>
+# Eventmodeling: Describing Business Rules with Given/When/Then
 
-  <div class="blog-post-header">
-    <h1>Eventmodeling: Describing Business Rules with Given/When/Then</h1>
-    <p class="blog-post-subtitle">How to make business rules visual, understandable, and testable</p>
-    <div class="blog-post-meta">
-      <span>October 2023</span>
-      <span>8 min read</span>
-      <span>Event Modeling</span>
-    </div>
-  </div>
+**How to make business rules visual, understandable, and testable**
 
-  <div class="blog-post-content">
+*October 2023 • 8 min read • Event Modeling*
+
+[&larr; Back to Blog]({{ '/docs/blog' | relative_url }})
+
+---
 
 ![Describing Business Rules with "Given / When / Then"](https://embed.filekitcdn.com/e/h7RHcHkpLUya1CpCdVZJez/ijv472UeDQC4cxwTpz9STq)
 
@@ -109,6 +104,3 @@ They are:
 
 🎧 Follow the **Eventmodeling & Eventsourcing Podcast**
 👋 See you next week!
-
-  </div>
-</div>
