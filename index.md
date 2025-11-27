@@ -4,8 +4,9 @@ title: Home
 ---
 
 <div class="hero">
-  <h1>Event Modeling Toolkit</h1>
-  <p>Build event-driven systems with visual modeling directly in Miro. Design, collaborate, and generate code from your event models.</p>
+  <h1>The Future of Software Engineering</h1>
+  <p>Build event-driven systems with visual Event Modeling directly in Miro. Design, collaborate, and generate code from your event models.</p>
+<p>Seamlessly integrate AI into your Workflows and Processes.</p>
   <a href="{{ '/docs/setup' | relative_url }}" class="cta-button">Get Started</a>
 </div>
 
