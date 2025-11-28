@@ -5,53 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Claude.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/ai-event-modeling-enabler-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/ai-event-modeling-enabler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-adoption.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-anti-patterns-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-anti-patterns-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-anti-patterns-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-anti-patterns-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-anti-patterns-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-anti-patterns-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-anti-patterns-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-anti-patterns-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-anti-patterns.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-14.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-16.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-17.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-19.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference-9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-modeling-conference.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/event-sourcing-simple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/red-sticky-notes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/ai-event-modeling-enabler.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/event-modeling-adoption.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/event-modeling-anti-patterns.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/event-modeling-conference-munich.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/event-sourcing-simple.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/red-sticky-notes-knowledge-gaps.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
