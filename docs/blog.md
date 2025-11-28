@@ -199,5 +199,60 @@ title: Blog
       </div>
     </a>
 
+    <a href="{{ '/docs/blog/event-sourcing-misconceptions' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/event-sourcing-misconceptions.png' | relative_url }}" alt="Event Sourcing Misconceptions">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Event Sourcing Doesn't Mean Everything Must Be Event Sourced</h3>
+        <p class="blog-tile-subtitle">Clearing up one of the biggest misconceptions about Event Sourcing</p>
+        <p class="blog-tile-meta">November 29, 2025 • 7 min read • Event Sourcing</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/the-wall-pattern-that-kills-projects' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/the-wall.png' | relative_url }}" alt="The Wall Pattern">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Wall: The Simple Pattern That Kills 90% of Projects (And How to Break It)</h3>
+        <p class="blog-tile-subtitle">Recognizing and breaking through the invisible barrier that stops most projects</p>
+        <p class="blog-tile-meta">November 29, 2025 • 10 min read • Project Management</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/aggregates-sagas-concurrency' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/aggregates-sagas-concurrency.png' | relative_url }}" alt="Aggregates and Sagas">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Aggregates, Sagas and an unresolved concurrency issue</h3>
+        <p class="blog-tile-subtitle">How to model the Bank Account example - simplified without unnecessary complexity</p>
+        <p class="blog-tile-meta">November 29, 2025 • 8 min read • Event Sourcing</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/event-modeling-library-example' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/event-modeling-library.png' | relative_url }}" alt="Library Example">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Event Modeling a Library System Step by Step</h3>
+        <p class="blog-tile-subtitle">A complete example showing how to visualize and understand any system using Event Modeling</p>
+        <p class="blog-tile-meta">November 29, 2025 • 10 min read • Event Modeling</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/what-is-aggregate' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/what-is-aggregate.png' | relative_url }}" alt="What is an Aggregate">
+      </div>
+      <div class="blog-tile-content">
+        <h3>What is an Aggregate - and why I hate this question</h3>
+        <p class="blog-tile-subtitle">Understanding Aggregates through the lens of consistency and use cases, not objects</p>
+        <p class="blog-tile-meta">November 29, 2025 • 9 min read • Event Sourcing</p>
+      </div>
+    </a>
+
   </div>
 </section>
