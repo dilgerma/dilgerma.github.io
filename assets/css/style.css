@@ -216,12 +216,17 @@ body {
     position: relative;
     max-width: 900px;
     margin: 0 auto;
-    height: 0;
-    overflow: hidden;
+    min-height: 400px;
+    padding: 40px;
+    overflow: visible;
     border-radius: 16px;
     box-shadow: 0 12px 40px rgba(102, 126, 234, 0.3);
     background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .video-container {
