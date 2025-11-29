@@ -11,7 +11,6 @@ title: Documenting Software with Event Modeling
     <h1>Documenting Software with Event Modeling</h1>
     <p class="blog-post-subtitle">I personally think that with Event Modeling we have one of the most important tools for documenting and developing complex software systems of recent years in our hands. Why? Because it's so simple and yet it works.</p>
     <div class="blog-post-meta">
-      <span>October 2023</span>
       <span>15 min read</span>
       <span>Software Documentation & Event Modeling</span>
     </div>
