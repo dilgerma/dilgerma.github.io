@@ -23,7 +23,9 @@
       "Bash(! grep -q \"course-cta\" \"$file\")",
       "Bash(then echo \"$file\")",
       "Bash(fi)",
-      "Bash(done)"
+      "Bash(done)",
+      "Bash(iconv:*)",
+      "Bash(mv:*)"
     ],
     "deny": [],
     "ask": []

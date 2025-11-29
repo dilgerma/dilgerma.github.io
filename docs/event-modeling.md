@@ -17,10 +17,6 @@ title: Documenting Software with Event Modeling
     </div>
   </div>
 
-  <div class="blog-post-featured-image">
-    <img src="{{ '/assets/images/blog/event-modeling-banner.png' | relative_url }}" alt="Documenting Software with Event Modeling">
-  </div>
-
   <div class="blog-post-content" markdown="1">
 
 I personally think that with _Event Modeling_ we have one of the most important tools for documenting and developing complex software systems of recent years in our hands.
