@@ -53,7 +53,7 @@ After installation, you'll need to authorize the app:
    - Read and write board content
    - Create and modify shapes
    - Access user information
-   - 
+
 
 ## 🔒 Privacy First - Your Data Stays Yours
          
