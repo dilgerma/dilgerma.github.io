@@ -53,13 +53,20 @@ After installation, you'll need to authorize the app:
    - Read and write board content
    - Create and modify shapes
    - Access user information
-3. Important to understand
-   - The Miro Toolkit is built for Privacy First!
-   - No data is ever sent to any other system
-   - We will never use your Intellecutal property ( because we never see it )
-   - No data leaves the Miro Board
-   - No AI is used without you actively enabling it
-   - Only Members on your Miro Team can access the data
+   - 
+## 🔒 Privacy First - Your Data Stays Yours
+         
+ **The Miro Event Modeling Toolkit is built with Privacy First principles:**
+ 
+ - ✅ **No data is ever sent to any external system**
+ - ✅ **We will never use your Intellectual Property (because we never see it)**
+ - ✅ **No data leaves your Miro Board**
+ - ✅ **No AI is used without you actively enabling it**
+ - ✅ **Only members on your Miro Team can access the data**
+ 
+ Your event models, business processes, and all board content remain completely private and secure within Miro.
+ 
+       
 
 ## Next Steps
 
