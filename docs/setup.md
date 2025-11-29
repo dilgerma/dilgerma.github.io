@@ -61,7 +61,7 @@ After installation, you'll need to authorize the app:
  
  - ✅ **No data is ever sent to any external system**
  - ✅ **We will never use your Intellectual Property (because we never see it)**
- - ✅ **No data leaves your Miro Board**
+ - ✅ **No data ever leaves your Miro Board without you knowing ( for example by using our local running codegen container )**
  - ✅ **No AI is used without you actively enabling it**
  - ✅ **Only members on your Miro Team can access the data**
  
