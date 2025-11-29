@@ -13,9 +13,11 @@ Welcome to the Miro Event Modeling Toolkit setup guide. This page will walk you 
 
 - ✅ **No data is ever sent to any external system**
 - ✅ **We will never use your Intellectual Property (because we never see it)**
-- ✅ **No data leaves your Miro Board**
+- ✅ **No data ever leaves your Miro Board without you knowing ( for example by manually using our local running codegen container )**
 - ✅ **No AI is used without you actively enabling it**
 - ✅ **Only members on your Miro Team can access the data**
+
+Your event models, business processes, and all board content remain completely private and secure within Miro.
 
 Your event models, business processes, and all board content remain completely private and secure within Miro.
 
@@ -54,19 +56,7 @@ After installation, you'll need to authorize the app:
    - Create and modify shapes
    - Access user information
 
-
-## 🔒 Privacy First - Your Data Stays Yours
-         
- **The Miro Event Modeling Toolkit is built with Privacy First principles:**
- 
- - ✅ **No data is ever sent to any external system**
- - ✅ **We will never use your Intellectual Property (because we never see it)**
- - ✅ **No data ever leaves your Miro Board without you knowing ( for example by manually using our local running codegen container )**
- - ✅ **No AI is used without you actively enabling it**
- - ✅ **Only members on your Miro Team can access the data**
- 
- Your event models, business processes, and all board content remain completely private and secure within Miro.
- 
+   
        
 
 ## Next Steps
