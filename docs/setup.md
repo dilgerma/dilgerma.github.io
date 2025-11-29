@@ -33,61 +33,13 @@ After installation, you'll need to authorize the app:
    - Read and write board content
    - Create and modify shapes
    - Access user information
-
-### Step 3: Initial Configuration
-
-Once installed, configure the toolkit:
-
-1. Open the Event Modeling Toolkit from the apps panel
-2. Complete the initial setup wizard:
-   - **Project Name**: Enter your project name
-   - **Template Selection**: Choose a starter template (optional)
-   - **Color Scheme**: Select your preferred color scheme for events
-
-## Configuration Options
-
-### General Settings
-
-- **Auto-save**: Automatically save your work (recommended)
-- **Grid Snap**: Enable snapping to grid for alignment
-- **Collaboration Mode**: Enable real-time collaboration features
-
-### Code Generation Settings
-
-- **Target Language**: Select your preferred programming language
-- **Framework**: Choose your framework (e.g., Spring Boot, Node.js)
-- **Output Format**: Configure code output preferences
-
-### AI Integration
-
-To enable AI features:
-
-1. Navigate to **Settings** → **AI Integration**
-2. Enter your API key (OpenAI, Azure OpenAI, or compatible)
-3. Configure AI assistance preferences
-
-## Verification
-
-To verify your installation:
-
-1. Create a new event on the board
-2. Check that the event appears in the toolkit panel
-3. Try generating code from a simple model
-
-If everything works correctly, you're ready to start event modeling!
-
-## Troubleshooting
-
-### Common Issues
-
-**Problem**: App doesn't appear in the apps panel
-- **Solution**: Refresh the page and check that installation completed successfully
-
-**Problem**: Unable to create events
-- **Solution**: Verify you have edit permissions on the board
-
-**Problem**: Code generation not working
-- **Solution**: Check that you've configured the target language and framework in settings
+3. Important to understand
+   - The Miro Toolkit is built for Privacy First!
+   - No data is ever sent to any other system
+   - We will never use your Intellecutal property ( because we never see it )
+   - No data leaves the Miro Board
+   - No AI is used without you actively enabling it
+   - Only Members on your Miro Team can access the data
 
 ## Next Steps
 
