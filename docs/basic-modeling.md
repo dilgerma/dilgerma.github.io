@@ -107,6 +107,5 @@ Through these guides, you'll master:
 
 Once you're comfortable with basic modeling, explore:
 
-- [Visual Event Modeling](/docs/visual-modeling/) - Create your first event model slices
 - [AI Integration](/docs/ai-integration/) - Use AI to accelerate your modeling workflow
 - [Advanced Modeling](/docs/advanced-modeling/) - Learn advanced modeling techniques

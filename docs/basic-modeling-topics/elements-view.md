@@ -179,4 +179,3 @@ The Miro Event Modeling Toolkit supports a comprehensive set of element types fo
 
 - [AI Chat View](/docs/basic-modeling-topics/ai-view/) - Chat with your model using AI
 - [Context View](/docs/basic-modeling-topics/context-view/) - Navigate hierarchical contexts
-- [Visual Event Modeling](/docs/visual-modeling/) - Create your first event model
