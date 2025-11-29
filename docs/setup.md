@@ -7,6 +7,19 @@ title: Setup
 
 Welcome to the Miro Event Modeling Toolkit setup guide. This page will walk you through the installation and initial configuration process.
 
+## 🔒 Privacy First - Your Data Stays Yours
+
+**The Miro Event Modeling Toolkit is built with Privacy First principles:**
+
+- ✅ **No data is ever sent to any external system**
+- ✅ **We will never use your Intellectual Property (because we never see it)**
+- ✅ **No data leaves your Miro Board**
+- ✅ **No AI is used without you actively enabling it**
+- ✅ **Only members on your Miro Team can access the data**
+
+Your event models, business processes, and all board content remain completely private and secure within Miro.
+
+---
 
 <div class="video-container">
     <iframe src="https://www.youtube-nocookie.com/embed/1Ntnye1Lo7k" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -26,7 +39,7 @@ Before you begin, ensure you have the following:
 
 1. Open your Miro board
 2. Click on the **Apps** icon in the left sidebar
-3. Search for "Event Modeling Toolkit"
+3. Search for "Eventmodeling"
 4. Click **Install** to add the app to your board
 
 [You can also directly install it from here](https://miro.com/marketplace/eventmodeling/)
