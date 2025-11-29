@@ -93,4 +93,4 @@ If everything works correctly, you're ready to start event modeling!
 
 Now that you've completed the setup, proceed to:
 
-- [Tooling](visual-modeling) - Learn the fundamentals of event modeling toolkit
+- [Tooling](../visual-modeling) - Learn the fundamentals of event modeling toolkit
