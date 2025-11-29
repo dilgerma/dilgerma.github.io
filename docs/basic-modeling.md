@@ -5,8 +5,6 @@ title: Basic Modeling
 
 # Basic Modeling
 
-https://youtu.be/1Ntnye1Lo7k
-
 <div class="topic-intro">
 <p>Learn how to navigate and use the core features of the Miro Event Modeling Toolkit. This guide covers the main interface tabs, views, and essential functionality you'll use every day.</p>
 </div>
