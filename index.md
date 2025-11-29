@@ -8,7 +8,7 @@ title: Home
 <p>How to close the Gap between Business and Engineering</p>
   <p>Build event-driven systems with visual Event Modeling directly in Miro. Design, collaborate, and generate code from your event models.</p>
 <p>Seamlessly integrate AI into your Workflows and Processes.</p>
-  <a href="{{ '/docs/setup' | relative_url }}" class="cta-button">Get Started</a>
+  <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Get Started</a>
 </div>
 
 <section class="video-section">
@@ -53,6 +53,9 @@ title: Home
       <p>Seamlessly integrate with your existing tools and workflows. Export models in various formats for documentation and implementation.</p>
     </div>
   </div>
-  <script async data-uid="548f1eb492" src="https://nebulit-gmbh.kit.com/548f1eb492/index.js"></script>
 
+</section>
+
+<section class="newsletter-section" style="text-align: center;">
+  <script async data-uid="548f1eb492" src="https://nebulit-gmbh.kit.com/548f1eb492/index.js"></script>
 </section>
