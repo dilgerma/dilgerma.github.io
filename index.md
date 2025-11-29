@@ -9,6 +9,7 @@ title: Home
   <p>Build event-driven systems with visual Event Modeling directly in Miro. Design, collaborate, and generate code from your event models.</p>
 <p>Seamlessly integrate AI into your Workflows and Processes.</p>
   <a href="{{ '/docs/setup' | relative_url }}" class="cta-button">Get Started</a>
+  <script async data-uid="548f1eb492" src="https://nebulit-gmbh.kit.com/548f1eb492/index.js"></script>
 </div>
 
 <section class="video-section">
