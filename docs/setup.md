@@ -22,6 +22,8 @@ Before you begin, ensure you have the following:
 3. Search for "Event Modeling Toolkit"
 4. Click **Install** to add the app to your board
 
+[You can also directly install it from here](https://miro.com/marketplace/eventmodeling/)
+
 ### Step 2: Authorize the App
 
 After installation, you'll need to authorize the app:
@@ -91,5 +93,4 @@ If everything works correctly, you're ready to start event modeling!
 
 Now that you've completed the setup, proceed to:
 
-- [Event Modeling](event-modeling) - Learn the fundamentals of event modeling
-- [Basic Modeling](basic-modeling) - Start creating your first event models
+- [Tooling](visual-modeling) - Learn the fundamentals of event modeling toolkit
