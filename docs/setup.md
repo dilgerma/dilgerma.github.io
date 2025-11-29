@@ -45,4 +45,4 @@ After installation, you'll need to authorize the app:
 
 Now that you've completed the setup, proceed to:
 
-- [Tooling](../visual-modeling) - Learn the fundamentals of event modeling toolkit
+- [Tooling](../basic-modeling) - Learn the fundamentals of event modeling toolkit
