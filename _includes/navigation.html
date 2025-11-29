@@ -6,12 +6,6 @@
 
   <ul class="nav-menu">
     <li>
-      <a href="{{ '/docs/setup' | relative_url }}"
-         {% if page.url == '/docs/setup/' or page.url == '/docs/setup.html' %}class="active"{% endif %}>
-        Setup
-      </a>
-    </li>
-    <li>
       <a href="{{ '/docs/event-modeling' | relative_url }}"
          {% if page.url == '/docs/event-modeling/' or page.url == '/docs/event-modeling.html' %}class="active"{% endif %}>
         Event Modeling
@@ -23,6 +17,12 @@
         The Step by Step Tutorial
       </a>
     </li>
+      <li>
+          <a href="{{ '/docs/setup' | relative_url }}"
+             {% if page.url == '/docs/setup/' or page.url == '/docs/setup.html' %}class="active"{% endif %}>
+          Setup
+          </a>
+      </li>
     <li>
       <a href="{{ '/docs/visual-modeling' | relative_url }}"
          {% if page.url contains '/docs/visual-modeling' %}class="active"{% endif %}>
