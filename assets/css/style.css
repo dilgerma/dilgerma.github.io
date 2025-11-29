@@ -965,16 +965,6 @@ body {
     line-height: 1.6;
 }
 
-/* Optional: Add an icon */
-.privacy::before {
-    content: "⚠️";
-    font-size: 1.5rem;
-    position: absolute;
-    top: 1.2rem;
-    right: 1.5rem;
-    opacity: 0.8;
-}
-
 /* Course CTA Section */
 .course-cta {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
