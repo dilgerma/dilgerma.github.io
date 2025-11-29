@@ -124,8 +124,8 @@ The price of the piece of furniture is determined by this simple formula:
 
 The price results from the time invested and the hourly rate + the material. At the end, the carpenter multiplies this by a factor to get their price.
 
-So if the carpenter needs 10h and works for ¬75 per hour, the time cost is ¬750.
-Material costs of ¬300 and a factor of 1.3 gives a total price of ¬1365 for the piece of furniture.
+So if the carpenter needs 10h and works for Â¬75 per hour, the time cost is Â¬750.
+Material costs of Â¬300 and a factor of 1.3 gives a total price of Â¬1365 for the piece of furniture.
 
 Why doesn't this work for software projects?
 
@@ -310,7 +310,7 @@ I can teach your team how to build these blueprints faster and skip the whole tr
 
 Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
 
-[Start Learning ’](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+[Start Learning Â’](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
   </div>
