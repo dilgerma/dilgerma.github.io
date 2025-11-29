@@ -6,6 +6,7 @@ title: Home
 <div class="hero">
   <h1>The Future of Software Engineering</h1>
 <p>How to close the Gap between Business and Engineering</p>
+<p>&quot;Event Modeling makes people talk to each other&quot;</p>
   <p>Build event-driven systems with visual Event Modeling directly in Miro. Design, collaborate, and generate code from your event models.</p>
 <p>Seamlessly integrate AI into your Workflows and Processes.</p>
   <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Get Started</a>
