@@ -5,11 +5,12 @@ title: Setup
 
 # Setting up the Miro Event Modeling Toolkit
 
+Welcome to the Miro Event Modeling Toolkit setup guide. This page will walk you through the installation and initial configuration process.
+
+
 <div class="video-container">
     <iframe src="https://www.youtube-nocookie.com/embed/1Ntnye1Lo7k" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
-Welcome to the Miro Event Modeling Toolkit setup guide. This page will walk you through the installation and initial configuration process.
 
 ## Prerequisites
 
