@@ -7,6 +7,8 @@ title: Setup
 
 Welcome to the Miro Event Modeling Toolkit setup guide. This page will walk you through the installation and initial configuration process.
 
+<div class="privacy" markdown="1">
+
 ## 🔒 Privacy First - Your Data Stays Yours
 
 **The Miro Event Modeling Toolkit is built with Privacy First principles:**
@@ -17,7 +19,7 @@ Welcome to the Miro Event Modeling Toolkit setup guide. This page will walk you 
 - ✅ **No AI is used without you actively enabling it**
 - ✅ **Only members on your Miro Team can access the data**
 
-Your event models, business processes, and all board content remain completely private and secure within Miro.
+</div>
 
 Your event models, business processes, and all board content remain completely private and secure within Miro.
 

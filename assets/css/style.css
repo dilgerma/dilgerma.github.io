@@ -920,6 +920,32 @@ body {
     }
 }
 
+/* Important Privacy Notice */
+.privacy {
+    background: #f8f9fa;
+    color: #1a1a1a;
+    padding: 2rem;
+    border-left: 6px solid #d63384; /* strong highlight color */
+    border-radius: 8px;
+    margin: 3rem 0 2rem 0;
+    text-align: left;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    position: relative;
+    overflow: hidden;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+/* Optional: Add an icon */
+.privacy::before {
+    content: "⚠️";
+    font-size: 1.5rem;
+    position: absolute;
+    top: 1.2rem;
+    right: 1.5rem;
+    opacity: 0.8;
+}
+
 /* Course CTA Section */
 .course-cta {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
