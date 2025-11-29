@@ -195,8 +195,6 @@ I can help document your IT system in a modern way.
 - The documentation accelerates every onboarding
 - We document BEFORE development, not after.
 
-Want to know how this works? Book a [free call](https://outlook.office365.com/owa/calendar/NebulitGmbH@nebulit.de/bookings/s/SchaAYI1q02_E0rbpW5Xhw2).
-
 <div class="info-box" markdown="1">
 ### Ready to Learn More?
 
@@ -204,7 +202,6 @@ My book [**"Understanding Eventsourcing"**](https://leanpub.com/eventmodeling-an
 
 I can teach your team how to build these blueprints faster and skip the whole trial-and-error phase. Let's have a [chat](https://outlook.office365.com/book/NebulitGmbH@nebulit.de/){:target="_blank"} about how this applies to your project.
 
-**Still 2 Team-Spots left for the [Event Modeling Workshop](https://training.nebulit.de/eventmodeling-workshop/){:target="_blank"} this month.**
 </div>
 
 <div class="course-cta" markdown="1">
