@@ -353,5 +353,49 @@ title: Blog
       </div>
     </a>
 
+    <a href="{{ '/docs/blog/10-learnings-from-10-years-microservice-development' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/10-learnings-banner.png' | relative_url }}" alt="10 Learnings from 10 Years of Microservice Development">
+      </div>
+      <div class="blog-tile-content">
+        <h3>10 Learnings from 10 Years of Microservice Development</h3>
+        <p class="blog-tile-subtitle">Fundamental principles that have proven themselves time and time again - and none of them have anything to do with specific frameworks or technologies</p>
+        <p class="blog-tile-meta">October 2023 • 12 min read • Software Architecture & Microservices</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/software-hard-to-estimate-easy-to-plan' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/planning-stream2.jpg' | relative_url }}" alt="Software is Hard to Estimate But Easy to Plan">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Software is Hard to Estimate But Easy to Plan</h3>
+        <p class="blog-tile-subtitle">Learn from the carpenter: how Event Modeling breaks down software into predictable slices for accurate planning without abstract estimates</p>
+        <p class="blog-tile-meta">December 2023 • 15 min read • Event Modeling & Planning</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/perfect-software-model-for-startups' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/startups-banner.png' | relative_url }}" alt="The Perfect Software Model for Startups">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Perfect Software Model for Startups</h3>
+        <p class="blog-tile-subtitle">Why fact-based software architecture is ideal for dynamic startup environments where requirements constantly change</p>
+        <p class="blog-tile-meta">October 2023 • 10 min read • Event Sourcing & Startups</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/documenting-legacy-systems-event-modeling' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/legacy-banner.png' | relative_url }}" alt="Documenting Legacy Systems with Event Modeling">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Documenting Legacy Systems with Event Modeling</h3>
+        <p class="blog-tile-subtitle">How to document existing systems using Event Modeling patterns - understand data flow, dependencies, and accelerate onboarding</p>
+        <p class="blog-tile-meta">October 2023 • 12 min read • Event Modeling & Legacy Systems</p>
+      </div>
+    </a>
+
   </div>
 </section>
