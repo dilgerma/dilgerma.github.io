@@ -54,6 +54,7 @@ After installation, you'll need to authorize the app:
    - Create and modify shapes
    - Access user information
    - 
+
 ## 🔒 Privacy First - Your Data Stays Yours
          
  **The Miro Event Modeling Toolkit is built with Privacy First principles:**
