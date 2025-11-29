@@ -56,6 +56,6 @@ title: Home
 
 </section>
 
-<section class="newsletter-section" style="text-align: center;">
+  <div class="video-container">
   <script async data-uid="548f1eb492" src="https://nebulit-gmbh.kit.com/548f1eb492/index.js"></script>
-</section>
+</div>
