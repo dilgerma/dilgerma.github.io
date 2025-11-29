@@ -141,6 +141,16 @@ And of course, we'll address some of the questions in the QA scheduled 14 days a
 
 Want to be part of the next Workshop? Just comment "Me" and I'll put you on the Wait List, so you'll be notified. The next Workshop is scheduled for North American Timezone, so your chance to get up at 2 a.m. if you are in Europe.
 
+<div class="info-box" markdown="1">
+### Ready to Learn More?
+
+My book [**"Understanding Eventsourcing"**](https://leanpub.com/eventmodeling-and-eventsourcing){:target="_blank"} gives you the blueprint. But reading alone will take your team too long.
+
+I can teach your team how to build these blueprints faster and skip the whole trial-and-error phase. Let's have a [chat](https://outlook.office365.com/book/NebulitGmbH@nebulit.de/){:target="_blank"} about how this applies to your project.
+
+**Still 2 Team-Spots left for the [Event Modeling Workshop](https://training.nebulit.de/eventmodeling-workshop/){:target="_blank"} this month.**
+</div>
+
 <div class="course-cta" markdown="1">
 ### Want to learn how to apply Event Modeling and Event Sourcing in practice?
 

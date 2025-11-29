@@ -7,6 +7,16 @@
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.claude/settings.local.json" beforeDir="false" afterPath="$PROJECT_DIR$/.claude/settings.local.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/300-column-database-legacy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/300-column-database-legacy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/80-percent-planning.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/80-percent-planning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/aggregates-sagas-concurrency.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/aggregates-sagas-concurrency.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/cqrs-real-world-architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/cqrs-real-world-architecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/documenting-software-with-event-modeling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/documenting-software-with-event-modeling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-library-example.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-library-example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-workshop-2am.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-workshop-2am.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-sourcing-misconceptions.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-sourcing-misconceptions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/eventmodeling-with-given-when-then.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/eventmodeling-with-given-when-then.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/modeling-asynchronous-processes-with-event-modeling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/modeling-asynchronous-processes-with-event-modeling.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
