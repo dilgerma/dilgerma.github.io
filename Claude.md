@@ -9,4 +9,7 @@ one by one replace them with the images in the right order.
 
 First "Artikelinhalte" - image-1.png, second "Artikelinhalte" - image-2.png
 
-make these articles available on the blog.
+Make sure to adjust the structure according to the extising blog entries. 
+Add the same teasers at the end.
+
+make these articles available on the blog page as well, so please make sure to properly link them

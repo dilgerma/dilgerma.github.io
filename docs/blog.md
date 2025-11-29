@@ -10,6 +10,105 @@ title: Blog
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/messaging-lesson-history' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/messaging-lesson-history.png' | relative_url }}" alt="An important lesson in history">
+      </div>
+      <div class="blog-tile-content">
+        <h3>An important lesson in history</h3>
+        <p class="blog-tile-subtitle">Messaging, not Objects: Alan Kay's wisdom and why Event Modeling follows this recipe to the letter</p>
+        <p class="blog-tile-meta">November 29, 2025 • 10 min read • Event Modeling & System Design</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/planning-software-slices' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/planning-software-slices.png' | relative_url }}" alt="Reliably planning software with slices">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Reliably planning software with slices</h3>
+        <p class="blog-tile-subtitle">How Event Modeling and Slices provide transparent, data-driven roadmap planning</p>
+        <p class="blog-tile-meta">November 29, 2025 • 15 min read • Event Modeling & Planning</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/integrating-legacy-systems-cdc' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/system-design-architecture.png' | relative_url }}" alt="Integrating with Legacy Systems">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Integrating with Legacy Systems</h3>
+        <p class="blog-tile-subtitle">How Change Data Capture (CDC) unchains data from legacy systems</p>
+        <p class="blog-tile-meta">November 29, 2025 • 8 min read • Legacy Integration & CDC</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/protecting-systems-seismic-shifts' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/software-engineering-planning.png' | relative_url }}" alt="How to protect your system against seismic shifts">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How to protect your system against seismic shifts</h3>
+        <p class="blog-tile-subtitle">Building adaptable systems with Event Sourcing and isolated slices</p>
+        <p class="blog-tile-meta">November 29, 2025 • 20 min read • Event Sourcing & Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/internal-fixprice-model' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/internal-fixprice-model.png' | relative_url }}" alt="The Internal Fix Price Model">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Internal Fix Price Model</h3>
+        <p class="blog-tile-subtitle">Why assuming the risk makes you a better developer and how Event Modeling enables predictable delivery</p>
+        <p class="blog-tile-meta">November 29, 2025 • 12 min read • Planning & Project Management</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/bring-event-modeling-company' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/bring-event-modeling-company.png' | relative_url }}" alt="How to bring Event Modeling to your company">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How to bring Event Modeling to your company</h3>
+        <p class="blog-tile-subtitle">Start small, win big: Practical ways to introduce Event Modeling without overwhelming your team</p>
+        <p class="blog-tile-meta">November 29, 2025 • 10 min read • Event Modeling & Adoption</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/modeling-external-systems' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/modeling-external-systems.png' | relative_url }}" alt="How to model external systems">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How to model external systems with Event Modeling</h3>
+        <p class="blog-tile-subtitle">Understanding information flow vs implementation when modeling external APIs and services</p>
+        <p class="blog-tile-meta">November 29, 2025 • 8 min read • Event Modeling & Integration</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/modeling-branches' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/modeling-branches.png' | relative_url }}" alt="How to model branches in Event Modeling">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How to model branches in Event Modeling</h3>
+        <p class="blog-tile-subtitle">Linearize your conditional flows using Given/When/Then and maintain clear, readable models</p>
+        <p class="blog-tile-meta">November 29, 2025 • 8 min read • Event Modeling & Patterns</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/code-reuse-problem' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/code-reuse-problem.png' | relative_url }}" alt="The problem with code reuse">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The problem with code reuse</h3>
+        <p class="blog-tile-subtitle">Why DRY isn't always the answer and preventing coupling is more important than code reuse</p>
+        <p class="blog-tile-meta">November 29, 2025 • 10 min read • Architecture & Design</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/collaborative-modeling-ai' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/collaborative-modeling-ai.png' | relative_url }}" alt="Collaborative Modeling in the Age of AI">
