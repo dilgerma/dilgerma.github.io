@@ -7,6 +7,9 @@ title: Slice View
 
 ATTENTION: Manuel Editing requires Opt-In. You need to activate it per configuration.
 
+![Conversion View]({{ '/assets/images/tutorial/data_view/manual_edit/manual_edit00.png' | relative_url }})
+
+
 the Miro Tooling allows you to edit Sticky Notes directly. 
 
 ![Conversion View]({{ '/assets/images/tutorial/data_view/manual_edit/manual_edit01.png' | relative_url }})
