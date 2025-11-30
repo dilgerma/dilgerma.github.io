@@ -131,17 +131,6 @@ title: Blog
       </div>
     </a>
 
-    <a href="{{ '/docs/blog/modeling-external-systems' | relative_url }}" class="blog-tile">
-      <div class="blog-tile-image">
-        <img src="{{ '/assets/images/blog/modeling-external-systems.png' | relative_url }}" alt="How to model external systems">
-      </div>
-      <div class="blog-tile-content">
-        <h3>How to model external systems with Event Modeling</h3>
-        <p class="blog-tile-subtitle">Understanding information flow vs implementation when modeling external APIs and services</p>
-        <p class="blog-tile-meta">November 29, 2025 • 8 min read • Event Modeling & Integration</p>
-      </div>
-    </a>
-
     <a href="{{ '/docs/blog/modeling-branches' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/modeling-branches.png' | relative_url }}" alt="How to model branches in Event Modeling">
