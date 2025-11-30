@@ -60,5 +60,4 @@ If you select multiple Elements ( 2 or more ), the Conversion View becomes visib
 
 ## Next Steps
 
-- [AI Chat View](/docs/basic-modeling-topics/ai-view/) - Chat with your model using AI
-- [Context View](/docs/basic-modeling-topics/context-view/) - Navigate hierarchical contexts
+- [Slice View](docs/basic-modeling-topics/slice-view/) - Slice View
