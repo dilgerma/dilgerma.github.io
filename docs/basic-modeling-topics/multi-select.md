@@ -46,7 +46,7 @@ is in the boundary becomes the first selected element.
 
 ## Multi Elements Selected
 
-![Conversion View]({{ '/assets/images/tutorial/data_view/copying/copying-01.png' | relative_url }})
+![Conversion View]({{ '/assets/images/tutorial/data_view/copying/copying-03.png' | relative_url }})
 
 If you select multiple Elements ( 2 or more ), the Conversion View becomes visible. This view allows you to convert simple Sticky Notes to Tooling Elements ( with proper formatting and data )
     
