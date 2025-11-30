@@ -46,6 +46,26 @@ The slice status helps you track the progress of implementation and planning:
 2. **Clickable Indicator** - that this slice is assigned to a Context
 3. **Slice Border** - everything within the border belongs to the slice
 
+## One Click Modeling
+
+If you select just an Event ( and nothing else ), the one click modeling View becomes active. 
+From here you can model the 4 known Patterns with just one click.
+
+![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-01.png' | relative_url }})
+
+
+1) Create a State Change Slice 
+![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-01.png' | relative_url }})
+
+2) Create a State View Slice
+![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-02.png' | relative_url }})
+
+3) Create an Automation
+![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-03.png' | relative_url }})
+
+4) Create a Translation
+![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-04.png' | relative_url }})
+
 ## Next Steps
 
 - [Data View](/docs/basic-modeling-topics/data-view/) - Edit element schemas and configurations
