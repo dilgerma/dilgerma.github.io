@@ -102,6 +102,4 @@ The Read Model View allows to define Read Model specific information like API En
 
 ## Next Steps
 
-- [Elements Tab](/docs/basic-modeling-topics/elements-view/) - Working with elements
-- [Aggregate View](/docs/basic-modeling-topics/aggregate-view/) - View aggregates
-- [Context View](/docs/basic-modeling-topics/context-view/) - View context hierarchies
+- [Copying Data](/docs/basic-modeling-topics/multi-select) - Selecting and Copying elements

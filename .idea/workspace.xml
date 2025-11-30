@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/basic-modeling-topics/multi-select.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/temp",
+    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/assets/images/tutorial/data_view/copying",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -89,11 +90,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view/copying" />
       <recent name="$PROJECT_DIR$/temp" />
       <recent name="$PROJECT_DIR$/assets/images/blog" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/code_view" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/spec_view" />
-      <recent name="$PROJECT_DIR$/assets/images/tutorial/slice_view" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/tutorial/model_view" />
