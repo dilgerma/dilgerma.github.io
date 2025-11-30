@@ -10,6 +10,39 @@ title: Blog
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/command-handler-simplicity' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/command-handler-simplicity.png' | relative_url }}" alt="Command Handler Simplicity">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How Simple Should a Command Handler Be?</h3>
+        <p class="blog-tile-subtitle">Understanding Command Handler simplicity, purity, and practical rules for structuring your Event Sourcing code</p>
+        <p class="blog-tile-meta">November 2024 • 10 min read • Event Sourcing & Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/seven-event-modeling-insights' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/seven-event-modeling-insights.png' | relative_url }}" alt="Seven Event Modeling Insights">
+      </div>
+      <div class="blog-tile-content">
+        <h3>7 Insights I Learned Building Event Models Since 2021</h3>
+        <p class="blog-tile-subtitle">Practical "tricks" to help you build better Event Models - from hands-on experience modeling real systems</p>
+        <p class="blog-tile-meta">November 2024 • 12 min read • Event Modeling & Best Practices</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/aggregate-state-projections' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/aggregate-state-projections.png' | relative_url }}" alt="Aggregate State and Projections">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Should You Reuse Aggregate-State in Your Projections?</h3>
+        <p class="blog-tile-subtitle">Finding the right Aggregate Boundaries and understanding the role of state in Event Sourcing</p>
+        <p class="blog-tile-meta">November 2024 • 8 min read • Event Sourcing & DDD</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/choreography-orchestration-newsletter' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/choreography-orchestration-newsletter.png' | relative_url }}" alt="Choreography or Orchestration">
