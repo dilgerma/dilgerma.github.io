@@ -7,6 +7,8 @@ title: Slice View
 
 ATTENTION: Manuel Editing requires Opt-In. You need to activate it per configuration.
 
+Select any Element and open the configuration. Activate "Sticky notes can be edited"
+
 ![Conversion View]({{ '/assets/images/tutorial/data_view/manual_edit/manual_edit00.png' | relative_url }})
 
 
