@@ -58,6 +58,8 @@ If you select multiple Elements ( 2 or more ), the Conversion View becomes visib
 
 4) Convert elements automatically. Takes the color into account. Any blue stick notes becomes a Command automatically, any orange an Event and so on. ( Works only on Sticky Notes )
 
+5) Connect all elements. Positioning is crucial, elements are only connected to elements further right. Never backwards.
+
 ## Next Steps
 
 - [Slice View](docs/basic-modeling-topics/slice-view/) - Slice View
