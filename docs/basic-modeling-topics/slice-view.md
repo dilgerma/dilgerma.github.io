@@ -55,10 +55,10 @@ From here you can model the 4 known Patterns with just one click.
 
 
 1) Create a State Change Slice 
-![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-01.png' | relative_url }})
+![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-02.png' | relative_url }})
 
 2) Create a State View Slice
-![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-02.png' | relative_url }})
+![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-011.png' | relative_url }})
 
 3) Create an Automation
 ![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-03.png' | relative_url }})
