@@ -10,6 +10,61 @@ title: Blog
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/choreography-orchestration-newsletter' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/choreography-orchestration-newsletter.png' | relative_url }}" alt="Choreography or Orchestration">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Choreography or Orchestration? The TODO List Pattern Alternative</h3>
+        <p class="blog-tile-subtitle">A simpler third option for coordinating distributed processes that's easier to debug and maintain</p>
+        <p class="blog-tile-meta">November 30, 2025 • 15 min read • Event Modeling & Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/maintainable-models-newsletter' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/maintainable-models-newsletter.png' | relative_url }}" alt="Maintaining Event Models">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How to Keep Your Models Maintainable Over Time</h3>
+        <p class="blog-tile-subtitle">Practical strategies to keep Event Models stable and manageable as they grow and evolve</p>
+        <p class="blog-tile-meta">November 30, 2025 • 12 min read • Event Modeling & Maintenance</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/code-reuse-newsletter' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/code-reuse-newsletter.png' | relative_url }}" alt="The Problem with Code Reuse">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Problem with Code Reuse - Why DRY Isn't Always the Answer</h3>
+        <p class="blog-tile-subtitle">Why DRY isn't always the answer and preventing coupling is more important than code reuse</p>
+        <p class="blog-tile-meta">November 30, 2025 • 10 min read • Architecture & Design</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/modeling-branches-newsletter' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/modeling-branches-newsletter.png' | relative_url }}" alt="Modeling Branches">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How to Model Branches in Event Modeling - Linearize Your Conditional Flows</h3>
+        <p class="blog-tile-subtitle">Linearize your conditional flows using Given/When/Then and maintain clear, readable models</p>
+        <p class="blog-tile-meta">November 30, 2025 • 8 min read • Event Modeling & Patterns</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/modeling-external-systems-newsletter' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/external-systems-newsletter.png' | relative_url }}" alt="Modeling External Systems">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How to Model External Systems - Information Flow vs Implementation</h3>
+        <p class="blog-tile-subtitle">Understanding information flow vs implementation when modeling external APIs and services in Event Modeling</p>
+        <p class="blog-tile-meta">November 30, 2025 • 8 min read • Event Modeling & Integration</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/messaging-lesson-history' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/messaging-lesson-history.png' | relative_url }}" alt="An important lesson in history">
