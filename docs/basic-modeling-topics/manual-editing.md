@@ -16,7 +16,7 @@ Select any Element ( Command, Event or Read Model )
 ![Conversion View]({{ '/assets/images/tutorial/data_view/manual_edit/manual_edit00.png' | relative_url }})
 
 
-the Miro Tooling allows you to edit Sticky Notes directly. 
+Using the Miro Toolkit, you can edit Sticky Notes directly. 
 
 ![Conversion View]({{ '/assets/images/tutorial/data_view/manual_edit/manual_edit01.png' | relative_url }})
 

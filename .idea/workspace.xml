@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="" />
+    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basic-modeling-topics/manual-editing.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/basic-modeling-topics/manual-editing.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,10 +91,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view/manual_edit" />
+      <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view" />
       <recent name="$PROJECT_DIR$/docs/basic-modeling-topics" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/slice_view" />
       <recent name="$PROJECT_DIR$/temp" />
-      <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view/copying" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/tutorial/model_view" />
