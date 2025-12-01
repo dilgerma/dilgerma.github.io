@@ -7,6 +7,11 @@ title: Slice View
 
 ATTENTION: Manuel Editing requires Opt-In. You need to activate it per configuration.
 
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CCi5F5xj670" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Select any Element ( Command, Event or Read Model )
 
 1) Open the configuration
