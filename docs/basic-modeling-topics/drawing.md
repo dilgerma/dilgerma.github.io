@@ -41,7 +41,7 @@ You can use AI to draw screens.
 
 2) Open the configuration in the Editor
 
-![Screen Drawer]({{ '/assets/images/tutorial/elements_view/drawing/draw005.png' | relative_url }})
+![Screen Drawer]({{ '/assets/images/tutorial/elements_view/drawing/draw006.png' | relative_url }})
 
 Die AI-generated Screen can be edited manually now.
 
