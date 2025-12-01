@@ -42,7 +42,7 @@ Typical example is a status-Field and a "Customer activated" Event that is used 
 
 In this case the Read Model defines a new Field "active", again not directly mapped from an incoming element.
 
-In this case we also need to define the mapping, in this case using the name of the field that is used to map the data.
+In this case we also need to define the mapping, using the name of the field that is used to map the data.
 Since in this case we know the "active" flag is mapped from the status, we can just put in the status field as a mapping.
 
 ### Information Completeness Overview
