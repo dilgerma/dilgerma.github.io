@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/data_view/information_completeness/arrows01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/data_view/information_completeness/arrows02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/data_view/information_completeness/arrows03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/data_view/information_completeness/arrows04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/data_view/information_completeness/arrows05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/data_view/information_completeness/arrows06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/data_view/information_completeness/arrrows07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/basic-modeling-topics/information_completeness.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +88,7 @@
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/assets/images/tutorial/data_view/manual_edit",
+    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/assets/images/tutorial/data_view/information_completeness",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -89,11 +98,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view/information_completeness" />
+      <recent name="$PROJECT_DIR$/docs/basic-modeling-topics" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view/manual_edit" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view" />
-      <recent name="$PROJECT_DIR$/docs/basic-modeling-topics" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/slice_view" />
-      <recent name="$PROJECT_DIR$/temp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/tutorial/model_view" />

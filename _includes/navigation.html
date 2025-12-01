@@ -82,6 +82,12 @@
           </a>
             <ul class="nav-submenu">
                 <li>
+                    <a href="{{ '/docs/basic-modeling-topics/information_completeness' | relative_url }}"
+                       {% if page.url contains '/docs/basic-modeling-topics/information_completeness' %}class="active"{% endif %}>
+                    Information Completeness
+                    </a>
+                </li>
+                <li>
                     <a href="{{ '/docs/basic-modeling-topics/multi-select' | relative_url }}"
                        {% if page.url contains '/docs/basic-modeling-topics/multi-select' %}class="active"{% endif %}>
                     Copying Data

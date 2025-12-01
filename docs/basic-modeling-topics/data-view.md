@@ -102,4 +102,4 @@ The Read Model View allows to define Read Model specific information like API En
 
 ## Next Steps
 
-- [Copying Data](/docs/basic-modeling-topics/multi-select) - Selecting and Copying elements
+- [Information Completeness](/docs/basic-modeling-topics/information_completeness) - Selecting and Copying elements
