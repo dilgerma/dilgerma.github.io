@@ -27,7 +27,7 @@ The screen in the image is perfectly fine. Typically you don´t need more detail
 ![Screen Drawer]({{ '/assets/images/tutorial/elements_view/drawing/draw003.png' | relative_url }})
 
 The exported screen becomes an Image in Miro and can be used as a regular screen.
-An exported Screen can be re-edited - ** but will always result in a new screen **
+An exported Screen can be re-edited - **but will always result in a new screen**
 
 So an existing screen cannot be changed anymore.
 
