@@ -60,7 +60,7 @@ the target element and activating "Documentation"
 
 ### Revalidating Elements
 
-![Conversion View]({{ '/assets/images/tutorial/data_view/information_completeness/arrows07 .png' | relative_url }})
+![Conversion View]({{ '/assets/images/tutorial/data_view/information_completeness/arrows07.png' | relative_url }})
 
 Sometimes Miro does not immediately turn arrows back to normal color, even if information completess looks fine.
 In this case you can just manually revalidate the element.
