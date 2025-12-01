@@ -74,6 +74,14 @@
              {% if page.url contains '/docs/basic-modeling-topics/elements-view' %}class="active"{% endif %}>
             Elements Tab
           </a>
+            <ul class="nav-submenu">
+                <li>
+                    <a href="{{ '/docs/basic-modeling-topics/drawing' | relative_url }}"
+                       {% if page.url contains '/docs/basic-modeling-topics/drawing' %}class="active"{% endif %}>
+                    Screen Drawing
+                    </a>
+                </li>
+            </ul>
         </li>
         <li>
           <a href="{{ '/docs/basic-modeling-topics/data-view' | relative_url }}"
