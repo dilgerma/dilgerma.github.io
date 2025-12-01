@@ -31,6 +31,20 @@ An exported Screen can be re-edited - ** but will always result in a new screen 
 
 So an existing screen cannot be changed anymore.
 
+## AI Drawing
+
+You can use AI to draw screens.
+
+![Screen Drawer]({{ '/assets/images/tutorial/elements_view/drawing/draw004.png' | relative_url }})
+
+1) you can manually edit the configuration
+
+2) Open the configuration in the Editor
+
+![Screen Drawer]({{ '/assets/images/tutorial/elements_view/drawing/draw005.png' | relative_url }})
+
+Die AI-generated Screen can be edited manually now.
+
 ## Next Steps
 
 - [Data View](/docs/basic-modeling-topics/data-view/)

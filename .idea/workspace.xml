@@ -79,7 +79,7 @@
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/docs/basic-modeling-topics",
+    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/assets/images/tutorial/elements_view/drawing",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -89,8 +89,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/basic-modeling-topics" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/elements_view/drawing" />
+      <recent name="$PROJECT_DIR$/docs/basic-modeling-topics" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view/information_completeness" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view/manual_edit" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/data_view" />
