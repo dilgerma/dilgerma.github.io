@@ -33,6 +33,6 @@ So an existing screen cannot be changed anymore.
 
 ## Next Steps
 
-- [Drawing](/docs/basic-modeling-topics/data-view/)
+- [Data View](/docs/basic-modeling-topics/data-view/)
 
 
