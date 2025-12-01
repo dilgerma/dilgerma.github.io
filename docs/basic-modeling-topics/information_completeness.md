@@ -66,4 +66,4 @@ Sometimes Miro does not immediately turn arrows back to normal color, even if in
 In this case you can just manually revalidate the element.
 
 
-- [Slice View](docs/basic-modeling-topics/multi-select/) - Selecting / Copying Elements
+- [Copying Field](docs/basic-modeling-topics/multi-select/) - Selecting / Copying Elements
