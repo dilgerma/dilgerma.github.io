@@ -11,12 +11,19 @@ This already allows to you take advantage of Modeling in a structured way.
 In the commercial Edition, you´ll find much more benefits like:
 
 ✅ Live AI validation
+
 ✅ Custom code generators
+
 ✅ Export to EventCatalog
+
 ✅ Axon Framework generator
+
 ✅ Live in-browser prototype
+
 ✅ GDPR data path analysis
+
 ✅ System modernization planning
+
 ✅ Custom Screen Drawing
 
 ## How to get a license
