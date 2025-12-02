@@ -8,6 +8,10 @@ title: Slice View
 The Miro Event Modeling Toolkit allows you to export running Prototypes directly from your Model. 
 This is first a pretty fun experience in a workshop, but also a great way to validate your assumptions by just playing with what was just modeled 2 minutes ago.
 
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lHTj1Q-hJN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Preparation
 
 Real Time Prototyping requires some preparation. You need to tell the system how projections should work, 
@@ -129,6 +133,10 @@ You can use AI to layout your prototype.
 ![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp009.png' | relative_url }})
 
 AI will now come up with a simple Layout + CSS Stylesheets.
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nDdjw3D_6CU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **Important**: Even if you provide the styles on one specific screen, they will always apply to all screens.
 
