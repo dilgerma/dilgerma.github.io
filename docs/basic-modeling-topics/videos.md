@@ -146,3 +146,9 @@ Watch these tutorial videos to learn how to use the Miro Event Modeling Toolkit 
 <div class="video-container">
   <iframe src="https://www.loom.com/embed/91393c84323a4f948750a340d827af98?sid=2a6823b3-597d-4bec-9ad1-7a4f39a90964" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
 </div>
+
+### Manual Editing
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CCi5F5xj670" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
