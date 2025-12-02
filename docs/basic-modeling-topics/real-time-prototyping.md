@@ -110,6 +110,88 @@ If you want a command to be active by default, active it in the configuration.
 
 ![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp005.png' | relative_url }})
 
+### Using AI for Prototype Layouts
+
+You can use AI to layout your prototype.
+
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp008.png' | relative_url }})
+
+1) General Layout - you can adjust this manually as you like. 
+
+2) Here you can provide custom CSS that will be made available to each page
+
+3) Prompt for AI. You can provide prompts like "make it look like google" or go into much more detail. This is only available if AI is enabled. 
+
+4) + 5) - Templates that will be made available to AI to generate the final markup and stylesheets. So you can paste your styleguides here and they will be taken into account.
+
+6) By clicking you start the AI generation
+
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp009.png' | relative_url }})
+
+AI will now come up with a simple Layout + CSS Stylesheets.
+
+**Important**: Even if you provide the styles on one specific screen, they will always apply to all screens.
+
+## Starting the Prototype
+
+To start the prototype, you need to have the code-gen Container running locally ( you need Docker for that )
+
+```
+docker run -ti -p 3001:3000 -v $PWD:/workspace -e HOST_WORKSPACE=$PWD --name codegen --rm nebulit/codegen
+```
+
+Select a Context and create the Configuration.
+
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp011.png' | relative_url }})
+
+As soon as the exported Configuration is available, you can now choose between:
+
+1) Jump to generated Prototype ( is generated automatically - may take a minute )
+
+2) Jump to the Slice Forecasting
+
+3) Send data to Lovable to generate UI Prototype ( Lovable Account required )
+
+Clicking (1) will open a new Tab pointing to [http://localhost:3001/prototype](http://localhost:3001/prototype)
+
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp012.png' | relative_url }})
+
+1) + 2) Rendered Commands ( here in the picture all Commands are disabled, you cannot click them )
+
+3) + 4) Generates a new UUID + Copy to Clipboard ( just a small helper )
+
+5) Shows the internal Event Store ( running in the Browser )
+
+Now whenever you update the Model and export a new Configuration, the Prototype is updated automatically ( no reload required )
+
+For example activating the Command by default enables the Button after a few seconds.
+
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp013.png' | relative_url }})
+
+Clicking a command automatically opens the dynamically generated pop up. If you change your Model, fields are automatically updated and removed.
+
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp014.png' | relative_url }})
+
+All Events are available within the Event Store
+
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp015.png' | relative_url }})
+
+Any Read Model connected to the screen will be rendered as a Drop Down
+
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp016.png' | relative_url }})
+
+You can place commands within your Markup like this:
+
+```
+<button data-command="Add Item">Search</button>
+```
+
+Clicking on the rendered button will then automatically fire the "Add Item" Command.
+
+### Placement
+
+Screens with the same name are the same Screen in the Prototype. So if you have a Screen named "Registration" firing two different commands,
+these screens will be rendered as one screen in the Prototype, which has two Command Buttons.
 
 ## Next Steps
 
