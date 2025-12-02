@@ -195,6 +195,6 @@ these screens will be rendered as one screen in the Prototype, which has two Com
 
 ## Next Steps
 
-- [Data View](/docs/basic-modeling-topics/data-view/)
+- [Build your own Code Generator](/docs/code-generator/)
 
 
