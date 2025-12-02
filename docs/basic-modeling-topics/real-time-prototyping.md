@@ -17,15 +17,15 @@ RTP ( Real Time Prototyping ) can be configured on Screens, Read Models and Comm
 
 Select any of those elements and open the Documentation
 
-![Documentation]({{ '/assets/images/tutorial/rtp001.png' | relative_url }})
+![Documentation]({{ '/assets/images/tutorial/rtp/rtp001.png' | relative_url }})
 
 In Documentation you find the Prototype-Configuration
 
-![Screen Drawer]({{ '/assets/images/tutorial/rtp002.png' | relative_url }})
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp002.png' | relative_url }})
 
 This basically looks the same for each element:
 
-![Screen Drawer]({{ '/assets/images/tutorial/rtp003.png' | relative_url }})
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp003.png' | relative_url }})
 
 
 1) Label of the Element ( for a Read Model, this is the headline, for a command this is the button text )
@@ -76,7 +76,7 @@ Note - you don´t control "how" data is displayed, that is what happens in the p
 
 If you want a command to be active by default, active it in the configuration.
 
-![Screen Drawer]({{ '/assets/images/tutorial/rtp005.png' | relative_url }})
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp005.png' | relative_url }})
 
 
 ## Next Steps
