@@ -58,6 +58,38 @@ events.forEach((eventData)=>{
 })
 ```
 
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp003.png' | relative_url }})
+
+Typical example of a List Model
+
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp006.png' | relative_url }})
+
+The Projection in this case would look like this:
+
+```
+events.forEach((eventData)=>{
+    let event = eventData.data
+    switch(eventData.type) {
+   
+        case 'CustomerRegisteredEvent':
+            this.resultList.push({
+                email:event.email,
+                name:event.name
+            })
+            return;
+        
+        case 'CustomerActivatedEvent':
+            this.resultList = this.resultList.filter(item => item.email !== event.email)
+            return;
+        
+    }
+})
+```
+
+A simple hint to AI typically provides the correct code.
+
+![Screen Drawer]({{ '/assets/images/tutorial/rtp/rtp007.png' | relative_url }})
+
 For Read Models you project into "this.result", which is an object you can fill. 
 For a List, you just append / remove from the list.
 
