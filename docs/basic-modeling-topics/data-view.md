@@ -100,6 +100,9 @@ The Read Model View allows to define Read Model specific information like API En
 3. **Attribute mapping information**
 4. **Shows the events** this Read Models depends on
 
+![Configuration]({{ '/assets/images/tutorial/data_view/303.png' | relative_url }})
+
+
 ## Next Steps
 
 - [Information Completeness](/docs/basic-modeling-topics/information_completeness) - Selecting and Copying elements

@@ -66,6 +66,19 @@ From here you can model the 4 known Patterns with just one click.
 4) Create a Translation
 ![Example Slice]({{ '/assets/images/tutorial/slice_view/slice-04.png' | relative_url }})
 
+### Group in Swimlane
+
+![Group In Swimlane]({{ '/assets/images/tutorial/slice_view/swimlane/swimlane01.png' | relative_url }})
+
+If at least one sticky note is selected, the button for "Group in Swimlane" activates. 
+This button allows you to group all selected Sticky Notes in one Swimlane.
+
+<div class="video-container">
+  <iframe src="https://www.loom.com/embed/e2008badc3a44d69870399cb2bf5f26c?sid=2a6823b3-597d-4bec-9ad1-7a4f39a90964" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
+</div>
+
+It also creates an Aggregate in the swimlane. Feel free to delete it if you don´t need it. 
+
 ## Next Steps
 
 - [Data View](/docs/basic-modeling-topics/data-view/) - Edit element schemas and configurations
