@@ -45,7 +45,7 @@ Martin's comprehensive book merges event modeling with event sourcing implementa
 1. "This is the book I desperately needed 5 years ago when I started with all this" - Martin Dilger
 2. "The more data you keep the more strength you have as an organization" - Adam Dymitruk
 3. "All events typically make up another story and that is also readable from top to bottom which is very very interesting" - Martin Dilger
-4. "I spent 5 hours trying to get a test screen and he just didn't realize he had a race condition, he had an eventual consistency problem and didn't understand it" - Martin Dilger
+4. "He spent 5 hours trying to get a test green and he just didn't realize he had a race condition, he had an eventual consistency problem and didn't understand it" - Martin Dilger
 5. "We do that in traditional systems but it's not done to the same extent. A lot of that information is passively stored in backups" - Adam Dymitruk
 
 ## Key Learnings
