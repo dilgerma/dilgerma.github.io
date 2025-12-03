@@ -10,6 +10,17 @@ title: Blog
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/event-sourcing-when-not-to' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/event-sourcing-when-not-to.png' | relative_url }}" alt="When Event Sourcing Doesn't Make Sense">
+      </div>
+      <div class="blog-tile-content">
+        <h3>When Event Sourcing Doesn't Make Sense (And How to Know the Difference)</h3>
+        <p class="blog-tile-subtitle">An event marks a business-relevant change in your domain or system. Not every data change is a business change.</p>
+        <p class="blog-tile-meta">December 3, 2025 • 12 min read • Event Sourcing</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/command-handler-simplicity' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/command-handler-simplicity.png' | relative_url }}" alt="Command Handler Simplicity">
