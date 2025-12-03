@@ -25,7 +25,8 @@
       "Bash(fi)",
       "Bash(done)",
       "Bash(iconv:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(test:*)"
     ],
     "deny": [],
     "ask": []
