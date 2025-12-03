@@ -29,6 +29,12 @@
           </a>
         </li>
         <li>
+          <a href="{{ '/docs/podcast' | relative_url }}"
+             {% if page.url == '/docs/podcast/' or page.url == '/docs/podcast.html' or page.url contains '/docs/podcast/' %}class="active"{% endif %}>
+            Podcast
+          </a>
+        </li>
+        <li>
           <a href="https://www.eventsourcingbook.com" target="_blank" rel="noopener noreferrer">
             The Book
           </a>
