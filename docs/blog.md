@@ -14,6 +14,17 @@ title: Blog
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/productive-builder-focus-software-developer' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/productive-builder-1.png' | relative_url }}" alt="The productive Builder">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The productive Builder - how to find focus as a Software Developer</h3>
+        <p class="blog-tile-subtitle">Most developers think productivity is about focus, tools, or time management. They might be chasing the wrong thing.</p>
+        <p class="blog-tile-meta">December 4, 2025 • 15 min read • Productivity & Development</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/event-sourcing-when-not-to' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/event-sourcing-when-not-to.png' | relative_url }}" alt="When Event Sourcing Doesn't Make Sense">

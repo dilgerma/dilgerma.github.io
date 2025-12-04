@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-10.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-11.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-12.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-13.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-5.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-6.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-7.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-8.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-8.md" afterDir="false" />
-    </list>
+    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +150,7 @@
       <workItem from="1763974503307" duration="1820000" />
       <workItem from="1763978866861" duration="22156000" />
       <workItem from="1764694658748" duration="596000" />
-      <workItem from="1764757388041" duration="10739000" />
+      <workItem from="1764757388041" duration="11382000" />
     </task>
     <servers />
   </component>
