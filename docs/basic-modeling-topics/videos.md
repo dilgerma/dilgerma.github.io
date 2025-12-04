@@ -8,8 +8,9 @@ title: Videos
 Watch these tutorial videos to learn how to use the Miro Event Modeling Toolkit effectively.
 
 <div class="course-cta" markdown="1">
-### Want to support me?
-[Make sure to follow the YouTube Channel](https://www.youtube.com/channel/UCVuZ5UsWJqzO3Ui0IUdRSlw?sub_confirmation=1)
+### Always want the latest Videos?
+
+[Make sure to follow the YouTube Channel](https://www.youtube.com/channel/UCVuZ5UsWJqzO3Ui0IUdRSlw)
 </div>
 
 ## Tutorial Videos
