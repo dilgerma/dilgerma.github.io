@@ -33,6 +33,6 @@ Now you can assign a Ticket.
 
 ## Next Steps
 
-- [Data View](/docs/basic-modeling-topics/data-view/)
+- [Spec View](docs/basic-modeling-topics/spec-view/)
 
 
