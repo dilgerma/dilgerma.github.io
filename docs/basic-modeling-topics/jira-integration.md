@@ -27,7 +27,7 @@ Now you can assign a Ticket.
 
 1) Make sure the Slice is assigned to a Context
 
-2) Here you can reference teh Ticket
+2) Here you can reference the Ticket
 
 3) The Link opens the Jira Ticket in a new Tab
 
