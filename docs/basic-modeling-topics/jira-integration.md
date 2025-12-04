@@ -5,7 +5,7 @@ title: Slice View
 
 # Jira Integration
 
-Slices can be connected to Jira Ticket.
+Slices can be connected to Jira Tickets.
 
 To do this, you first need to configure your Jira Base URL.
 
