@@ -235,6 +235,9 @@ They need to know exactly what to build before they start. They need to eliminat
 
 When you get the 80% right, everything changes.
 
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
+
 ## What Changes When You Get the 80% Right
 You enter the tunnel effortlessly. You don't have to force it. The work is so well-prepared that your brain just slides into execution mode.
 
@@ -293,9 +296,7 @@ You put on your headphones. You pick a slice. You execute. You become the Builde
 
 Want to learn more about this? Start here.
 
-If you want to experience this way of working for real - join my "Understanding Event Sourcing" Workshop on January 20 / 21 2026 - Planning and Building a real system and learning how to get into the Tunnel.
-
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+If you want to experience this way of working for real - join my ["Understanding Event Sourcing" Workshop on January 20 / 21 2026](https://nebulit.de/en/eventsourcing-workshop) - Planning and Building a real system and learning how to get into the Tunnel.
 
 <div class="info-box" markdown="1">
 ### Ready to Learn More?
@@ -304,7 +305,6 @@ My book [**"Understanding Eventsourcing"**](https://leanpub.com/eventmodeling-an
 
 I can teach your team how to build these blueprints faster and skip the whole trial-and-error phase. Let's have a [chat](https://outlook.office365.com/book/NebulitGmbH@nebulit.de/){:target="_blank"} about how this applies to your project.
 
-**Still 2 Team-Spots left for the [Event Modeling Workshop](https://training.nebulit.de/eventmodeling-workshop/){:target="_blank"} this month.**
 </div>
 
 <div class="course-cta" markdown="1">
