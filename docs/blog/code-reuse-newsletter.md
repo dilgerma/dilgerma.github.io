@@ -3,8 +3,6 @@ layout: docs
 title: The Problem with Code Reuse - Why DRY Isn't Always the Answer
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -36,6 +34,9 @@ If you had asked me this 10 years ago, my answer would have been an enthusiastic
 <div class="blog-post-image">
   <img src="{{ '/assets/images/blog/code-reuse-newsletter-1.png' | relative_url }}" alt="Code Reuse Question">
 </div>
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Why Code Reuse Is Tricky
 

@@ -3,8 +3,6 @@ layout: docs
 title: Aggregates, Sagas and an unresolved concurrency issue
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -46,6 +44,9 @@ There is chapter 44 about DCB in my book "Understanding Eventsourcing" ( if you 
 DCB is about consistency, it´s not about information flow. So if you model a system, it will look similar using DCB or not ( DCB might have fewer events, that´s all )
 
 Looking at the information flow, I typically just try to model what might happen step by step - not thinking at all about technology, implementation patterns or aggregates. Moving money is not one Transaction, it happens in several steps. ( I´m not a financial expert - correct me if I´m wrong )
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## 1) Open Account
 

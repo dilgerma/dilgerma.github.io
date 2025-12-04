@@ -3,8 +3,6 @@ layout: docs
 title: When Event Sourcing Doesn't Make Sense (And How to Know the Difference)
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -34,6 +32,9 @@ It's ironic, right? I'm known as the "event modeling guy." Event sourcing is my 
 But here's the thing - sometimes, it's not what you want to do.
 
 And the distinction isn't technical. It's about meaning.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Million-Record Problem
 

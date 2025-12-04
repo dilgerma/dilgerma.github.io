@@ -3,8 +3,6 @@ layout: docs
 title: You Can't Argue with a Red Sticky Note - Making Knowledge Gaps Visible
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -30,6 +28,9 @@ Last week, I had again one of those conversations that a few years ago completel
 I was talking about Event Modeling workshops, and how we use red sticky notes to mark knowledge gaps on our process maps. Simple concept, right? When we don't know something, we slap a red note on the board and keep moving.
 
 Those red sticky notes aren't marking failures - they're marking discoveries.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Larry Problem
 

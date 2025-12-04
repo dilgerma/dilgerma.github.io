@@ -3,8 +3,6 @@ layout: docs
 title: How to protect your system against seismic shifts
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -30,6 +28,9 @@ I'm sorry, it's a longer read— yesterday evening I just sat down and started w
 Before we start, in our last podcast episode ( soon to be released ), we talked about two fascinating topics: AI (of course...) and how experts help save time and money in your organization. No matter if you agree or not, I think it should give some food for thought and allow us to see our current objectives on the topic.
 
 We'll record a new episode of our Event Modeling & Event Sourcing Podcast every Sunday. Make sure to subscribe—also on Spotify!
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Why do we need Event Sourcing?
 

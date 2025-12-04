@@ -3,8 +3,6 @@ layout: docs
 title: Why People Get Up at 2 AM to Learn Event Modeling (And What Happened When They Did)
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -29,6 +27,9 @@ Some from Italy, Spain, Germany, Belgium, Argentina and also some from the US, w
 {: .lead}
 
 One was a truck driver who's been following Adam Dymitruk since 2017, trying to understand Event Modeling for seven years. He read my book and finally decided: "I need to learn this NOW." This really impressed me.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Real Problem
 

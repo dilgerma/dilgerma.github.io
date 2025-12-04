@@ -3,8 +3,6 @@ layout: docs
 title: If You Can't Add Developers and Go Faster, Adding AI Agents Won't Work Either
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -37,6 +35,9 @@ For years, I'd seen the same architectural sins repeated everywhere - modules fa
 Event Modeling gave me the instruction manual I'd been searching for.
 
 And now, as AI agents flood into software engineering, I'm watching everyone make the same mistake: they think faster coding means faster shipping. It doesn't. And if you don't understand why, you're about to waste a lot of time and money.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Brooks' Law Doesn't Care About Your AI
 

@@ -3,8 +3,6 @@ layout: docs
 title: Documenting Legacy Systems with Event Modeling
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -31,6 +29,9 @@ Event Modeling is excellent for documenting Event Sourcing based systems.
 But can existing systems also be documented with it?
 
 First, let's clarify one of the most important questions
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Is It Worth the Effort?
 

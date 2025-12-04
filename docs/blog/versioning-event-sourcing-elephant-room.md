@@ -3,8 +3,6 @@ layout: docs
 title: "Versioning in Event Sourcing: The Elephant in the Room (And Why It's Not as Scary as You Think)"
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 # Versioning in Event Sourcing: The Elephant in the Room (And Why It's Not as Scary as You Think)
 
 A few days ago, there was a discussion here on LinkedIn about Versioning in Event Sourced Systems.. Also in workshops, this questions comes up again and again. It´s scary to people - and for good reason. It looks so complex, right? Let me show you why it seems complicated, and why it's actually just giving you options to handle complexity that exists everywhere.
@@ -78,6 +76,9 @@ But new event versions come with their own downside: temporal coupling.
 When you switch to ItemAddedV2, you can't just flip a switch. All your projections need to be updated at the same time - otherwise they stop working. They're sitting there waiting for the old event that never comes again.
 
 This is usually manageable because you control everything internally. But it's still something to plan for.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Mitigation: Dual Emission
 

@@ -3,8 +3,6 @@ layout: docs
 title: "Documenting Software with Event Modeling"
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 # Documenting Software with Event Modeling
 
 **One of the most important tools for documenting and developing complex software systems**
@@ -63,6 +61,9 @@ Read Models are simple and dynamic models that are generated from Events.
 
 With Read Models, we provide data for, for example, a UI or automations in the system.
 Each UI typically has its own lightweight Read Model.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## An Example
 

@@ -3,8 +3,6 @@ layout: docs
 title: What is an Aggregate - and why I hate this question
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -38,6 +36,9 @@ The term Aggregate comes from Domain-Driven Design, first introduced by Eric Eva
 The key idea behind Aggregates isn't about objects. It's about consistency. In fact, you don't need any objects at all to apply the concept.
 
 Let me explain.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## A simple use case
 

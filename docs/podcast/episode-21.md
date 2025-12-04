@@ -3,8 +3,6 @@ layout: docs
 title: Episode 21 - Advanced Workshop Exposes System Complexity
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Podcast]({{ '/docs/podcast' | relative_url }}){: .blog-back-link}
@@ -24,6 +22,9 @@ title: Episode 21 - Advanced Workshop Exposes System Complexity
   </div>
 
   <div class="blog-post-content" markdown="1">
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Episode Summary
 

@@ -3,8 +3,6 @@ layout: docs
 title: How to Bring Event Modeling to Your Company - Start Small, Win Big
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -43,6 +41,9 @@ How I wish I had this bundle (course + book) 5 years ago.
 </div>
 
 Also there is a new full chapter "Handle the organization" in the Book - just released! I'm constantly adding new chapters in my "Missing Chapters" Initiative.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Common Objections
 

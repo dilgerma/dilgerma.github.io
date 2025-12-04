@@ -3,8 +3,6 @@ layout: docs
 title: Collaborative Modeling in the Age of AI
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -28,6 +26,9 @@ title: Collaborative Modeling in the Age of AI
 I believe we're standing at a huge opportunity to improve how we think, communicate, and work on software systems. For me, it all comes down to one word: collaboration — and this is even more crucial in the age of AI and agentic systems.
 
 Working with AI is, at its core, collaboration. The same principles that make human collaboration effective also apply when working with AI. Explaining a task to a junior developer isn't fundamentally different from explaining it to the latest LLM. In both cases, clarity is the key. If you can't clearly define your expectations, how can you expect anyone - human or machine - to deliver something useful?
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Collaboration Paves the Road
 

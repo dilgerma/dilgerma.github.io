@@ -3,8 +3,6 @@ layout: docs
 title: The Perfect Software Model for Startups
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -39,6 +37,9 @@ Business requirements change and especially in the startup environment with dyna
 When the requirements for the software change because the market or your business model changes, the software's model no longer fits the business.
 
 The result is change requests, workarounds and thus technical debt. In the worst case, a complete rewrite of the software with massive costs.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Problem
 

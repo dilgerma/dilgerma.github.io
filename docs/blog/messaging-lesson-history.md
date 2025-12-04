@@ -3,8 +3,6 @@ layout: docs
 title: An important lesson in history
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -119,6 +117,9 @@ https://forecasts.nebulit.de/
 I offer 45-Minute Workshops with Teams at no charge, if you want to learn a bit more about it. Just get in touch by E-Mail to info@nebulit.de or send me a message on LinkedIn ( make sure to follow me, so I can answer! )
 
 <div class="info-box" markdown="1">
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
 ### Ready to Learn More?
 
 My book [**"Understanding Eventsourcing"**](https://leanpub.com/eventmodeling-and-eventsourcing){:target="_blank"} gives you the blueprint. But reading alone will take your team too long.

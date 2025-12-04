@@ -3,8 +3,6 @@ layout: docs
 title: 7 Insights I Learned Building Event Models Since 2021
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -34,6 +32,9 @@ Today, we're not recapping the last podcast episode. You can catch Episode 6 her
 (More Workshops planned in January )
 
 Instead, I want to share 7 insights I've learned since I started using Event Modeling back in 2021. These are practical "tricks" to help you build better models. While you can learn Event Modeling in about an hour, true mastery requires hands-on experience—modeling several systems and seeing how it works in practice. You can't just read about it, much like writing good code. Building the "muscle memory" takes time and effort.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Here are the 7 insights:
 

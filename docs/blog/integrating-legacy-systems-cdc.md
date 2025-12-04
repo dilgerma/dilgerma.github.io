@@ -3,8 +3,6 @@ layout: docs
 title: Integrating with Legacy Systems
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -44,6 +42,9 @@ If we have the possibility to make small adjustments to the legacy system, using
 <div class="blog-post-image">
   <img src="{{ '/assets/images/blog/system-design-architecture-2.png' | relative_url }}" alt="Transactional Outbox Pattern">
 </div>
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## How do you model that?
 

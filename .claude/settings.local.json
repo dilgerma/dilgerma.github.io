@@ -30,7 +30,10 @@
       "Bash(grep:*)",
       "Bash(for file in docs/blog/*.md)",
       "Bash(do if ! grep -q 'data-uid=\"\"bef5bb7fb4\"\"' \"$file\")",
-      "Bash(for file in docs/podcast/*.md)"
+      "Bash(for file in docs/podcast/*.md)",
+      "Bash(do if sed -n '6p' \"$file\")",
+      "Bash(then echo \"$file\" fi done)",
+      "Bash(python3:*)"
     ],
     "deny": [],
     "ask": []

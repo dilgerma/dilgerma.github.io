@@ -3,8 +3,6 @@ layout: docs
 title: If you are in Software Engineering - 80% of your work should be planning
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -49,6 +47,9 @@ I remember one project - a Case Management System. We'd "planned" it. Two weeks 
 Three sprints in, we were still arguing about fundamental questions: What constitutes a "case"? When does state transition happen? Who can see what when?
 
 We were executing without a real plan. And it was exhausting. And we'd constantly get distracted with all the stuff we didn't plan.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## What Real Planning Looks Like
 

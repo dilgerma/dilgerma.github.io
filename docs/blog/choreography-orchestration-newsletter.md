@@ -3,8 +3,6 @@ layout: docs
 title: Choreography or Orchestration? The TODO List Pattern Alternative
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -50,6 +48,9 @@ In this scenario, two distinct contexts are involved in a single process that ne
 For example, if an order is placed in the Order Service but the payment fails, we cannot confirm the order.
 
 This highlights a common challenge with such processes: who owns the responsibility for coordinating them?
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Orchestration
 

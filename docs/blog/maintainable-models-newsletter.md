@@ -3,8 +3,6 @@ layout: docs
 title: How to Keep Your Models Maintainable Over Time
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -52,6 +50,9 @@ Still, one of the biggest fears teams face early on is this: "What if we break s
 If that resonates with you, you're not alone. And I've got some tips to help you navigate this challenge and keep your models maintainable over time.
 
 Let's dive in.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Miro History View
 

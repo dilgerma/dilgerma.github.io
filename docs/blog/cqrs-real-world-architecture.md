@@ -3,8 +3,6 @@ layout: docs
 title: CQRS in Action - A Real World Simple Architecture
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -29,6 +27,9 @@ It took me ages to understand what it really means to work with event sourcing a
 {: .lead}
 
 I came from the state-based world, like most of us did - tables, relations, Object Mappers. Event Sourcing seems like just a small change. Just switch the persistence scheme. But the mental impact? Massive.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Inevitable Complexity Spiral
 

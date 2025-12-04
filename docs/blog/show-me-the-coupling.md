@@ -3,8 +3,6 @@ layout: docs
 title: Your wonderful microservice architecture? I don't care. Show me the coupling.
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -39,6 +37,9 @@ But here's the real shock - it wasn't that it took so long. It was that everybod
 That question - "is this made up?" - it tells you everything, doesn't it? We've normalized the insanity so completely that when someone hears about two weeks to add address fields, they assume it must be fiction. Can't be real.. Guess what, nothing really changed. We still operate and build Software in the same way.
 
 Adding AI to the soup? doesn't solve any problem - we now can adjust AddressDTOs much faster. (clap, clap, clap)
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The real problem
 

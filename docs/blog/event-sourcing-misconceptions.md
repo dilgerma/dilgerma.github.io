@@ -80,15 +80,15 @@ What is crucial is the discussion, what information on the order actually is rel
 
 Only this information is crucial to be available via Events. We do NOT need to store ALL information in Events in the Event Store. Stop doing that, please, it hurts so much later in the process.
 
-<div class="blog-post-image">
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-</div>
-
 We can now gradually extract more information from the stored order.
 
 For example, whenever an order was placed and accepted for a new Mandator, our system needs to be aware of this new mandator. That is crucial information! From here on we can just treat the "order storage" as regular Read Model - it just provides the information to the stored orders.
 
 Technically, it´s like an external API, that we can query for order details.
+
+<div class="blog-post-image">
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+</div>
 
 ## Finding Relevant Business Events
 

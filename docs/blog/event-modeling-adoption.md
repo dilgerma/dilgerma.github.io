@@ -3,8 +3,6 @@ layout: docs
 title: Why Your Event Modeling Workshop Didn't Stick (And What Actually Works)
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -48,6 +46,9 @@ Event Modeling wasn't making them faster. It was making them slower. They couldn
 "We love Event Modeling," they told me. "But we can't afford to keep using it."
 
 That's when I understood: Event Modeling doesn't fail in isolation. It fails at the breaks in your value chain.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Where Most Methodologies Die
 

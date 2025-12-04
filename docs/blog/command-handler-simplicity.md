@@ -3,8 +3,6 @@ layout: docs
 title: How Simple Should a Command Handler Be?
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -30,6 +28,9 @@ Before you dive into this topic - there is a new Online Course "Implementing Eve
 One topic we discussed in Episode 6 of our Podcast is the simplicity of Command Handlers. This was also subject to discussion in the Workshop Adam Dymitruk and me did end of november. Let´s dive a little deeper into this topic in this newsletter.
 
 But before that...
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Here is some of the feedback we received for the workshop:
 

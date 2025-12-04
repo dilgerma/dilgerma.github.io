@@ -3,8 +3,6 @@ layout: docs
 title: How to Model Branches in Event Modeling - Linearize Your Conditional Flows
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -44,6 +42,9 @@ In general, this isn't wrong but stands in contrast to one of the most important
 **have one linear flow from left to right. No exceptions.**
 
 How do we overcome this problem?
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Describe business rules using Given / When / Then
 

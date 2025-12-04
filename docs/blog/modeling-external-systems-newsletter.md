@@ -3,8 +3,6 @@ layout: docs
 title: How to Model External Systems - Information Flow vs Implementation
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -32,6 +30,9 @@ It's no longer about Frameworks and Technology. AI will take over more and more 
 I write weekly about exactly that in my Newsletter.
 
 (This was Issue #13 of the weekly "Event Modeling & Event Sourcing" Newsletter)
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Should you model external Systems?
 

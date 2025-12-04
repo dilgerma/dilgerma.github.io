@@ -3,8 +3,6 @@ layout: docs
 title: The Day Event Sourcing Finally Made Sense (And Why It's Actually Simple)
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -30,6 +28,9 @@ For years, I thought event sourcing was impossibly complex. Yes - for years I th
 "How do you even keep track of all those events?" I'd wonder. "This seems like architecture for architecture's sake."
 
 Took some time until I started to understand. And the real game changer came in 2021, something clicked. And what I discovered changed everything I thought I knew about building software.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Struggle
 

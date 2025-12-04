@@ -3,8 +3,6 @@ layout: docs
 title: The 300-Column Database Table and How to Escape Legacy Hell
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -33,6 +31,9 @@ It's not the old technology. It's not the lack of budget. It's not even the "spa
 **It's the 300-column database table.**
 
 And if you've ever opened a production database and seen it - that sprawling employee_data table with nullable columns stretching into oblivion - you know exactly what I'm talking about.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Day I Realized The Real Problem
 

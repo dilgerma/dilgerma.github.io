@@ -3,8 +3,6 @@ layout: docs
 title: The Furniture Store of Anti-Patterns - Spotting Overcomplicated Event Models
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -34,6 +32,9 @@ I love this part of conferences - the hallway conversations where real work gets
 By the second model, I noticed something familiar. By the third, I stopped mid-sentence.
 
 "Funny," I thought. "They're making the exact same mistakes as the previous ones. Just in a different domain."
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Pattern Becomes Undeniable
 

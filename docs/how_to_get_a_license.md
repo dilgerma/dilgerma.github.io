@@ -26,6 +26,11 @@ In the commercial Edition, you´ll find much more benefits like:
 
 ✅ Custom Screen Drawing
 
+There is a free 14 day Trial. You can simply activate it in the tooling. No Credit Card required. Trial ends automatically, no cancellation required.
+
+![Free Trial]({{ '/assets/images/license002.png' | relative_url }})
+
+
 ## How to get a license
 
 You can simply purchase a License [here](https://copecart.com/products/a8a9c0b1/checkout)

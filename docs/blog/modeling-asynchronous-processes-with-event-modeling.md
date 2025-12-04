@@ -3,8 +3,6 @@ layout: docs
 title: "Modeling and Implementing Asynchronous Background Processes with Event Modeling"
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 # Modeling and Implementing Asynchronous Background Processes with Event Modeling
 
 **From theory to practice: modeling and implementing automated background processes**
@@ -60,6 +58,9 @@ In the next step, we define Screens, Commands, Processors, and Read Models, as d
 ## The Modeled Workflow
 
 Modeling the complete flow takes only a few minutes with the Miro tooling, as the fields can simply be copied between elements. At the same time, the tooling checks that the data is used correctly, with the Information-Completeness-Check.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Translation into Code
 

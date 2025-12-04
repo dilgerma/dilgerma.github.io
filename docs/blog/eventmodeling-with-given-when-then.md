@@ -3,8 +3,6 @@ layout: docs
 title: "Eventmodeling: Describing Business Rules with Given/When/Then"
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 # Eventmodeling: Describing Business Rules with Given/When/Then
 
 **How to make business rules visual, understandable, and testable**
@@ -80,6 +78,9 @@ In the podcast, Adam and I explained our different takes:
 > Then: `Customer Notified` is triggered automatically
 
 ![Given Then for Automations](https://embed.filekitcdn.com/e/h7RHcHkpLUya1CpCdVZJez/tDd1uJGKEtNT9tehBzDkzz/email)
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ### Adam's approach:
 

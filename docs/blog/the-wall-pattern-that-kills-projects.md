@@ -3,8 +3,6 @@ layout: docs
 title: "The Wall: The Simple Pattern That Kills 90% of Projects (And How to Break It)"
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 # The Wall: The Simple Pattern That Kills 90% of Projects (And How to Break It)
 
 After facilitating so many Event Modeling workshops and consulting on dozens of software projects, I discovered a simple pattern that kills project success every single time. It shows up in almost all workshops I give.. I call it "The Wall." And once you see it, you'll recognize it everywhere - in your meetings, your projects, even in your personal goals. I even learned to embrace it, when it shows up... it´s a good sign!
@@ -111,6 +109,9 @@ Every time you choose "let's discuss this next week" over "let's solve this righ
 The technical problems aren't the root cause. Bad architecture and unclear requirements are symptoms. The real pattern that prevents project success is that people stop when they hit discomfort. Staying vague, moving decisions...
 
 They genuinely believe they're being reasonable. They think "let's get the right people" is smart project management. They don't realize they're standing in front of the Wall, choosing to walk away instead of breaking through.
+
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## The Choice Every Team Faces
 
