@@ -24,8 +24,6 @@ title: Episode 19 - Slices Transform Fixed-Cost Contracting
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam discuss how event modeling slices create predictable units of work that enable fixed-cost contracting and eliminate subjective story point estimation. They explore vibe modeling as a collaborative approach where executives and domain experts can directly contribute to system design. The slice-based approach transforms how teams plan, estimate, and deliver software.
@@ -38,6 +36,8 @@ Martin and Adam discuss how event modeling slices create predictable units of wo
 - **Autonomous Work Units**: Slices as completely independent features that can be developed without coordination
 - **Contractual Clarity**: Using slices to create clear, unambiguous contracts between customers and development teams
 - **Learning Through Slices**: How new team members can be productive immediately by implementing complete slices
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

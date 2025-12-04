@@ -23,9 +23,6 @@ title: Episode 4 - Command-Event-State Patterns and Deconstructing Sagas
 
   <div class="blog-post-content" markdown="1">
 
-
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam explore why keeping event sourcing implementations simple is more valuable than adopting complex patterns. They deconstruct the saga pattern, demonstrating how event modeling's basic command-event-state flow handles most distributed transaction scenarios without additional orchestration complexity. The discussion emphasizes that simplicity in architecture leads to more maintainable and understandable systems.
@@ -38,6 +35,8 @@ Martin and Adam explore why keeping event sourcing implementations simple is mor
 - **Command Handler Purity**: Keeping command handlers purely functional and side-effect-free, with all external interactions happening through events and processors
 - **Pattern Resistance**: Why developers should resist the urge to adopt sophisticated patterns prematurely, focusing instead on the three basic event modeling building blocks
 - **Boring Code Philosophy**: Embracing "boring" code that's straightforward and easy to understand over clever implementations that showcase technical prowess
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

@@ -24,8 +24,6 @@ title: Episode 8 - Given-When-Thens and AI-Powered Test Specifications
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam explore the powerful synergy between event modeling's structured given-when-then patterns and AI code generation tools. They demonstrate how the clarity of event modeling specifications eliminates AI hallucinations, enabling tools like Cursor and Claude to generate accurate test implementations and even production code. The discussion covers event sourcing frameworks and when to use them versus building simpler custom solutions.
@@ -38,6 +36,8 @@ Martin and Adam explore the powerful synergy between event modeling's structured
 - **Framework Trade-offs**: How frameworks can accelerate initial development but sometimes constrain implementation choices and create vendor lock-in
 - **Custom vs Framework**: Why some teams prefer building minimal custom event sourcing infrastructure over adopting heavyweight frameworks
 - **Test-First Development**: Using generated tests from given-when-then specs to drive implementation in true TDD fashion
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

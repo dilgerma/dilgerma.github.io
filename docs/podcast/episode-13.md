@@ -24,8 +24,6 @@ title: Episode 13 - Slice Architecture Prevents Coupling
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 With a nod to Vanilla Ice, Martin and Adam deep-dive into slice architecture, exploring what truly defines a slice and why vertical isolation matters more than code reuse. They challenge traditional DRY (Don't Repeat Yourself) principles, arguing that some duplication prevents harmful coupling. The discussion reveals how slice-based architecture enables independent development and deployment.
@@ -38,6 +36,8 @@ With a nod to Vanilla Ice, Martin and Adam deep-dive into slice architecture, ex
 - **Independent Deployment**: How slice isolation enables deploying individual features without coordinating with other teams
 - **Slice Boundaries**: Determining where to draw slice boundaries - at what granularity do you split functionality
 - **Shared Kernels**: When some sharing is appropriate (domain events, infrastructure) versus when it creates problematic coupling
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

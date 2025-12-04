@@ -24,8 +24,6 @@ title: Episode 12 - Event Modeling Requires Organizational Support
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam discuss the organizational challenges of adopting event modeling and event sourcing. While books and documentation provide foundation, successful adoption requires workshops, mentoring, and organizational commitment. They emphasize that learning event modeling is more than reading - it requires hands-on practice with expert guidance to avoid common pitfalls.
@@ -38,6 +36,8 @@ Martin and Adam discuss the organizational challenges of adopting event modeling
 - **Mentoring and Coaching**: The role of experienced practitioners in guiding teams through their first implementations
 - **Common Adoption Failures**: Why grassroots attempts without organizational support often fail or get abandoned
 - **Investment Justification**: Building the business case for event modeling training and expert assistance
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

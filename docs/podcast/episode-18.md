@@ -24,8 +24,6 @@ title: Episode 18 - Vibe Modeling: The Next Evolution Beyond Coding
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam explore the future of software development where AI handles implementation while humans focus on collaborative modeling. They distinguish "vibe coding" (letting AI write code from vague descriptions) from "vibe modeling" - using event modeling sessions to precisely define system behavior before any code exists. The discussion positions event modeling as the bridge between human intent and AI implementation.
@@ -38,6 +36,8 @@ Martin and Adam explore the future of software development where AI handles impl
 - **AI as Implementation Engine**: Using AI to generate code from well-defined event models rather than vague requirements
 - **Precision in Specifications**: Why precise specifications through event modeling eliminate AI hallucinations
 - **Event Sourcing's Future**: How event sourcing becomes even more valuable when AI handles routine implementation tasks
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

@@ -24,8 +24,6 @@ title: Episode 26 - Immutability, Git History, and Event Sourcing
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 In a reflective episode, Martin and Adam draw parallels between git's immutable commit history and event sourcing's immutable event log. Both share a deep appreciation for systems built on append-only, immutable foundations that provide trustworthy history and enable time travel. The discussion explores how thinking in terms of immutable facts fundamentally changes how we build and reason about systems.
@@ -38,6 +36,8 @@ In a reflective episode, Martin and Adam draw parallels between git's immutable 
 - **Trustworthy History**: The value of having complete, tamper-proof records of all changes
 - **Programming Language Metaphors**: Discussion of how event sourcing concepts could influence programming language design
 - **Cultural Shift**: How adopting immutability requires unlearning assumptions from mutable-state programming
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

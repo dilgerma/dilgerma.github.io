@@ -24,8 +24,6 @@ title: Episode 14 - AI Code Generation Works Best Within Strict Boundaries
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam explore their experiences with AI-powered code generation, revealing that AI performs remarkably well when constrained by event modeling's clear specifications. They discuss nightmares from AI hallucinations in unstructured contexts versus the reliability achieved when AI works within event modeling boundaries. The episode emphasizes why expert human guidance remains essential despite AI capabilities.
@@ -38,6 +36,8 @@ Martin and Adam explore their experiences with AI-powered code generation, revea
 - **Expert Guidance Still Needed**: Why even with great AI tools, organizations still need human experts to guide adoption and architecture decisions
 - **Prompt Engineering**: Techniques for effectively communicating with AI tools to generate event-sourced code
 - **Future of Development**: How AI changes the role of developers from writing boilerplate to designing systems and reviewing generated code
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

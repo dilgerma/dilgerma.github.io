@@ -24,8 +24,6 @@ title: Episode 10 - To-Do Lists, Real-World Scaling, and Effective Grooming
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam tackle the often-misunderstood to-do list pattern for automation and workflow orchestration. They explain how to properly design processors that react to events, avoiding the pattern soup that comes from prematurely adopting complex orchestration frameworks. The discussion addresses real-world scaling considerations and how event modeling facilitates effective requirements grooming sessions.
@@ -38,6 +36,8 @@ Martin and Adam tackle the often-misunderstood to-do list pattern for automation
 - **Event-Driven Grooming**: How event models transform traditional requirements gathering into collaborative design sessions
 - **Processor Design**: Best practices for building reliable, idempotent processors that handle failures gracefully
 - **Pattern Selection**: Guidelines for choosing appropriate patterns based on actual requirements rather than perceived sophistication
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

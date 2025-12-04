@@ -24,8 +24,6 @@ title: Episode 23 - Season Two Launch and Platform Announcement
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam kick off Season 2 of the podcast with major announcements about the event modeling ecosystem. They discuss the launch of the event modeling.ai platform, growing community adoption, and address the provocative question of whether AI is replacing traditional development jobs. The episode reflects on Season 1's journey and sets the stage for deeper technical discussions ahead.
@@ -38,6 +36,8 @@ Martin and Adam kick off Season 2 of the podcast with major announcements about 
 - **AI Taking Jobs**: Addressing fears about AI replacing developers and why event modeling skills become more valuable
 - **Platform Features**: Overview of capabilities in the new event modeling platform for teams
 - **Future Direction**: Plans for more advanced topics and deeper dives into implementation patterns
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

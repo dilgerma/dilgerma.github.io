@@ -24,8 +24,6 @@ title: Episode 20 - Event Sourcing and GDPR: Transparency Over Compliance Theate
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam tackle the common misconception that event sourcing makes GDPR compliance harder due to immutability. They explain how event sourcing actually provides superior transparency and auditability compared to traditional systems. The discussion covers practical approaches to handling personal data deletion requests while maintaining event sourcing benefits.
@@ -38,6 +36,8 @@ Martin and Adam tackle the common misconception that event sourcing makes GDPR c
 - **Learning Using Slices**: How slices provide excellent learning vehicles for junior developers and career changers
 - **Compliance Theater**: Why many GDPR implementations focus on appearance rather than actual data protection
 - **Event Store as Source of Truth**: Leveraging event sourcing's accountability for demonstrating compliance
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

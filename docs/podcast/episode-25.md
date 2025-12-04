@@ -24,8 +24,6 @@ title: Episode 25 - Legacy Code Analysis with AI
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam explore how AI tools revolutionize legacy code analysis and modernization. What once took weeks of manual code archaeology now happens in hours as AI analyzes codebases, identifies patterns, and extracts the conceptual structure. They discuss using event modeling to capture legacy system behavior before rewriting, ensuring nothing gets lost in translation.
@@ -38,6 +36,8 @@ Martin and Adam explore how AI tools revolutionize legacy code analysis and mode
 - **Modernization Strategy**: Using event models as the blueprint for rewriting legacy systems
 - **Time Compression**: Reducing legacy analysis from weeks to hours through AI assistance
 - **Pattern Recognition**: How AI identifies recurring patterns that manual analysis might miss
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

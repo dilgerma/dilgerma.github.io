@@ -24,8 +24,6 @@ title: Episode 16 - Scaling Event Sourcing: Handling Long Event History
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam tackle one of event sourcing's most significant scaling challenges: handling systems with millions of events accumulated over years. They discuss strategies for dealing with API variety, projection rebuilds during deployments, and architectural patterns that enable systems to scale to massive event volumes without degrading performance.
@@ -38,6 +36,8 @@ Martin and Adam tackle one of event sourcing's most significant scaling challeng
 - **Incremental Projections**: Building projections that update incrementally rather than requiring full replay
 - **API Variety**: Dealing with diverse integration points and API styles while maintaining event-sourced architecture
 - **Performance Patterns**: Indexing, caching, and other optimization techniques for large-scale event stores
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

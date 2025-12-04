@@ -23,9 +23,6 @@ title: Episode 7 - Workshop Insights and Community Pattern Discussion
 
   <div class="blog-post-content" markdown="1">
 
-
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam recap their intensive four-hour advanced workshop, covering six major topics that push beyond basic event modeling patterns. They discuss pure command handlers, sparse timelines for given-when-thens, and advanced patterns that experienced practitioners encounter. The episode highlights how workshop interactions reveal common misunderstandings and implementation challenges.
@@ -38,6 +35,8 @@ Martin and Adam recap their intensive four-hour advanced workshop, covering six 
 - **Advanced Patterns**: Exploring scenarios beyond basic CRUD operations, including complex workflows and cross-aggregate coordination
 - **Common Pitfalls**: Recurring mistakes workshop participants make, revealing gaps in understanding that need clearer documentation
 - **Interactive Learning**: Why hands-on workshops reveal implementation details that reading and videos cannot effectively convey
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

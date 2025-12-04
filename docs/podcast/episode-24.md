@@ -24,8 +24,6 @@ title: Episode 24 - Event Modeling 2.0 Refines Core Concepts
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam unveil Event Modeling 2.0, a refined approach that more clearly separates information flow (what the system does) from implementation details (how it's built). This evolution addresses confusion about what belongs in event models versus implementation documentation. The discussion emphasizes how cheap AI capabilities make precise specifications more valuable than ever.
@@ -38,6 +36,8 @@ Martin and Adam unveil Event Modeling 2.0, a refined approach that more clearly 
 - **Specification Value**: Why precise specifications become more important as AI handles implementation
 - **Convention Evolution**: How real-world usage informed improvements to event modeling notation
 - **Backwards Compatibility**: How existing event models can be updated to 2.0 conventions
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

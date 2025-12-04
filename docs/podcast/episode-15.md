@@ -24,8 +24,6 @@ title: Episode 15 - Event Sourcing Provides Accountability Traditional Systems C
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam address common criticisms of event sourcing, particularly around projection replay performance and perceived complexity. They demonstrate how event sourcing provides unmatched accountability and auditability that traditional systems cannot offer. The discussion tackles the "skill issues" accusation - that developers who struggle with event sourcing simply lack experience.
@@ -38,6 +36,8 @@ Martin and Adam address common criticisms of event sourcing, particularly around
 - **Skill Development**: Why event sourcing requires different thinking patterns than traditional development and how to develop those skills
 - **Simplifying Sagas Redux**: Further discussion on avoiding saga complexity through simpler event choreography patterns
 - **Performance Realities**: Actual performance characteristics of event-sourced systems versus theoretical concerns
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

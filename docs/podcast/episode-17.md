@@ -24,8 +24,6 @@ title: Episode 17 - Dynamic Consistency Boundaries Transform Event Sourcing
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam discuss the revolutionary concept of dynamic consistency boundaries being developed by Axon Framework. This fundamentally changes how developers think about aggregates and transactional boundaries in event sourcing. Instead of fixed aggregate boundaries defined at design time, consistency boundaries can adapt based on the specific command being processed.
@@ -38,6 +36,8 @@ Martin and Adam discuss the revolutionary concept of dynamic consistency boundar
 - **Implementation Approaches**: How frameworks like Axon are exploring implementations of dynamic consistency boundaries
 - **Event Volume Management**: Addressing concerns about loading too many events by being selective about what each command handler needs
 - **Backwards Compatibility**: How this revolutionary change can coexist with traditional aggregate approaches
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

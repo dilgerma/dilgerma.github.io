@@ -23,9 +23,6 @@ title: Episode 6 - Event Modeling Course Launches
 
   <div class="blog-post-content" markdown="1">
 
-
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam announce the launch of a comprehensive online course as a companion to the event sourcing book. The course features hands-on exercises with complete implementations in multiple programming languages, providing practical experience beyond theoretical knowledge. They discuss the importance of properly scoping event models and avoiding common pitfalls when defining system boundaries.
@@ -38,6 +35,8 @@ Martin and Adam announce the launch of a comprehensive online course as a compan
 - **Hands-On Exercises**: Structured practice problems that build from basic patterns to complex real-world scenarios
 - **Book Integration**: How the course complements the book by providing interactive learning experiences that reinforce theoretical concepts
 - **Community Building**: Creating a learning ecosystem that supports practitioners at all levels, from beginners to advanced users
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

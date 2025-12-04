@@ -36,6 +36,8 @@ Adam and Martin introduce a refined workshop format with intensive 15-minute blo
 - **Role-Based Access Control**: Discussion of when to hand-roll RBAC versus using off-the-shelf solutions like Keycloak, with event sourcing providing natural accountability through metadata
 - **Metadata for Security Context**: Store security-relevant information (user, roles, authorization context) in event metadata to maintain complete audit trails without cluttering business events
 
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
 ## Key Takeaways
 
 The new given-when-then timeline notation represents a significant evolution in event modeling conventions, creating a secondary timeline that flows naturally beneath each slice while dramatically reducing the space needed for comprehensive test specifications. Security modeling should remain strictly business-focused - only include security concepts that stakeholders understand and discuss, leaving technical implementation details to metadata and infrastructure layers. Event sourcing's inherent accountability makes it an excellent fit for security-conscious domains.
@@ -47,8 +49,6 @@ The new given-when-then timeline notation represents a significant evolution in 
 3. "I model security only as far as the business experts are concerned with it" - Martin Dilger
 4. "As soon as you start putting technical roles into the model it gets problematic because then suddenly not all people will understand what's in the model" - Martin Dilger
 5. "Event sourcing plays very well together with security because you have The Ledger of what happened which is critical for security" - Adam Dymitruk
-
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Learnings
 

@@ -24,8 +24,6 @@ title: Episode 22 - Event Modeling Reveals True System Complexity
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam discuss the eye-opening moment when companies realize through event modeling workshops that they don't fully understand their own systems. The episode explores how collaborative modeling sessions surface assumptions, edge cases, and complexity that traditional requirements gathering misses. They also address the controversial claim that "SQL is an anti-pattern" in event-sourced systems.
@@ -38,6 +36,8 @@ Martin and Adam discuss the eye-opening moment when companies realize through ev
 - **Collaborative Discovery**: How bringing diverse stakeholders together surfaces conflicting assumptions about system behavior
 - **Documentation Gap**: Why traditional documentation fails to capture system complexity that event modeling reveals
 - **Workshop Revelations**: Common patterns of discovery that emerge across different workshop participants
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

@@ -24,8 +24,6 @@ title: Episode 21 - Advanced Workshop Exposes System Complexity
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Martin and Adam recap an intensive advanced workshop that pushed beyond basic patterns into sophisticated event modeling techniques. The workshop revealed how event modeling sessions expose hidden system complexity that organizations didn't realize existed. Topics included advanced to-do list patterns, dynamic consistency boundaries, and leveraging AI for code generation.
@@ -38,6 +36,8 @@ Martin and Adam recap an intensive advanced workshop that pushed beyond basic pa
 - **Simplicity as Goal**: Why even advanced patterns should prioritize simplicity over cleverness
 - **Exposing Complexity**: How event modeling workshops reveal system complexity that organizations underestimated
 - **Workshop Intensity**: Managing the cognitive load of advanced topics while maintaining engagement
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

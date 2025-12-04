@@ -23,9 +23,6 @@ title: Episode 5 - Workshop Lessons: Simplicity, Boring Code, and Upcast Pattern
 
   <div class="blog-post-content" markdown="1">
 
-
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 Fresh from conducting a hands-on workshop, Martin and Adam share critical insights about event sourcing implementation patterns. They make a strong case against using upcasters for event schema evolution, explaining how this seemingly convenient pattern creates technical debt and complexity. The discussion reinforces the value of keeping implementations simple and boring rather than clever.
@@ -38,6 +35,8 @@ Fresh from conducting a hands-on workshop, Martin and Adam share critical insigh
 - **Boring Code Wins**: Reinforcing that straightforward, predictable code is more valuable than showcasing technical sophistication
 - **Hands-On Learning Value**: Why workshops with actual implementation exercises reveal patterns and anti-patterns that reading alone cannot teach
 - **Pure Command Handlers**: Maintaining functional purity in command handlers by avoiding side effects and keeping all I/O in processors
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

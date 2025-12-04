@@ -24,8 +24,6 @@ title: Episode 11 - Code Reviews Aren't Always Necessary
   <div class="blog-post-content" markdown="1">
 
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 ## Episode Summary
 
 In a controversial take, Martin and Adam question the universal need for code reviews in well-architected event-sourced systems. When slices are properly isolated, comprehensive tests exist, and patterns are consistent, traditional code review benefits diminish. They explore when code reviews add value versus when they become process overhead without commensurate benefit.
@@ -38,6 +36,8 @@ In a controversial take, Martin and Adam question the universal need for code re
 - **Knowledge Sharing Alternatives**: Other mechanisms for knowledge transfer that may be more effective than synchronous code reviews
 - **When Reviews Matter**: Specific scenarios where code reviews still provide value even in event-sourced systems
 - **Cultural Considerations**: How team maturity and organizational culture influence the necessity of formal code review processes
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 
