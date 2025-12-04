@@ -28,7 +28,7 @@ In Full View, you see the whole "Story" of the system.
 
 ![Narrative Mode]({{ '/assets/images/tutorial/narrative/narrative04.png' | relative_url }})
 
-1) Identified Context
+1) Identified Journey
 
 2) Someone is changing the system
 
@@ -36,7 +36,7 @@ In Full View, you see the whole "Story" of the system.
 
 4) Someone or something is using existing information
 
-5) Next Context
+5) Next Journey
 
 
 ## Play Mode

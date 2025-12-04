@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/narrative/narrative01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/narrative/narrative03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/narrative/narrative04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/narrative/narrative05.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basic-modeling-topics/narrative-mode.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/basic-modeling-topics/narrative-mode.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +155,7 @@
       <workItem from="1764694658748" duration="596000" />
       <workItem from="1764757388041" duration="17458000" />
       <workItem from="1764871452799" duration="128000" />
-      <workItem from="1764871587132" duration="783000" />
+      <workItem from="1764871587132" duration="1000000" />
     </task>
     <servers />
   </component>
