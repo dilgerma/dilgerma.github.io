@@ -7,8 +7,6 @@ title: Event Modeling Podcast
   <h1>Event Modeling Podcast</h1>
   <p>Join Adam Dymitruk and Martin Dilger as they discuss Event Modeling, Event Sourcing, software architecture, and practical insights from real-world implementations</p>
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 </div>
 
 

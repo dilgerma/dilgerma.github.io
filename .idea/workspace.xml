@@ -77,7 +77,7 @@
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/assets/images",
+    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/temp",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -87,11 +87,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/temp" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/slice_view/swimlane" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/rtp" />
       <recent name="$PROJECT_DIR$/docs/basic-modeling-topics" />
-      <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/tutorial/model_view" />
@@ -150,7 +150,7 @@
       <workItem from="1763974503307" duration="1820000" />
       <workItem from="1763978866861" duration="22156000" />
       <workItem from="1764694658748" duration="596000" />
-      <workItem from="1764757388041" duration="11382000" />
+      <workItem from="1764757388041" duration="12265000" />
     </task>
     <servers />
   </component>

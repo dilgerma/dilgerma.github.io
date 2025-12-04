@@ -7,8 +7,6 @@ title: Blog
   <h1>Blog</h1>
   <p>One new article every week about Event Modeling, Event Sourcing and Vertical Sliced Architectures.</p>
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 </div>
 
 
