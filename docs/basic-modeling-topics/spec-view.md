@@ -33,6 +33,23 @@ After placing the Specification, you can select the elements and provide example
 
 ![Example Data]({{ '/assets/images/tutorial/spec_view/504.png' | relative_url }})
 
+## Expecting Errors
+
+THEN can also be an error state, if you truly want to show that a certain path is not possible ( guarded by Business Rules )
+
+In this case for the, just record an expected error with an additional description.
+
+![Vertical Specification]({{ '/assets/images/tutorial/spec_view/spec01.png' | relative_url }})
+
+1) Provide an error description
+
+2) Record the Error in THEN
+
+![Vertical Specification]({{ '/assets/images/tutorial/spec_view/spec02.png' | relative_url }})
+
+This scenario clearly explains when the system will reject a certain command.
+
+
 ## Next Steps
 
 - [Slice View](/docs/basic-modeling-topics/slice-view/) - Create and manage slices
