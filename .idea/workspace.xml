@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/narrative/narrative01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/narrative/narrative03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/narrative/narrative04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial/narrative/narrative05.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +83,7 @@
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/assets/images/tutorial/jira",
+    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/assets/images/tutorial/narrative",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -89,11 +93,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/tutorial/narrative" />
+      <recent name="$PROJECT_DIR$/docs/basic-modeling-topics" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/jira" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/spec_view" />
       <recent name="$PROJECT_DIR$/temp" />
-      <recent name="$PROJECT_DIR$/assets/images" />
-      <recent name="$PROJECT_DIR$/assets/images/tutorial/slice_view/swimlane" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -153,7 +157,9 @@
       <workItem from="1763974503307" duration="1820000" />
       <workItem from="1763978866861" duration="22156000" />
       <workItem from="1764694658748" duration="596000" />
-      <workItem from="1764757388041" duration="17062000" />
+      <workItem from="1764757388041" duration="17458000" />
+      <workItem from="1764871452799" duration="128000" />
+      <workItem from="1764871587132" duration="783000" />
     </task>
     <servers />
   </component>

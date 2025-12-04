@@ -140,6 +140,14 @@
              {% if page.url contains '/docs/basic-modeling-topics/code-view' %}class="active"{% endif %}>
             Code Tab
           </a>
+            <ul class="nav-submenu">
+                <li>
+                    <a href="{{ '/docs/basic-modeling-topics/narrative-mode' | relative_url }}"
+                       {% if page.url contains '/docs/basic-modeling-topics/narrative-mode' %}class="active"{% endif %}>
+                    Narrative Mode
+                    </a>
+                </li>
+            </ul>
         </li>
           <li>
               <a href="{{ '/docs/basic-modeling-topics/real-time-prototyping' | relative_url }}"
