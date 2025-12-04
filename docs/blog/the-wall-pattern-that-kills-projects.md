@@ -3,6 +3,8 @@ layout: docs
 title: "The Wall: The Simple Pattern That Kills 90% of Projects (And How to Break It)"
 ---
 
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
 # The Wall: The Simple Pattern That Kills 90% of Projects (And How to Break It)
 
 After facilitating so many Event Modeling workshops and consulting on dozens of software projects, I discovered a simple pattern that kills project success every single time. It shows up in almost all workshops I give.. I call it "The Wall." And once you see it, you'll recognize it everywhere - in your meetings, your projects, even in your personal goals. I even learned to embrace it, when it shows up... it´s a good sign!

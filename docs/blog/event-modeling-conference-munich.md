@@ -3,6 +3,8 @@ layout: docs
 title: 40 Practitioners, 2 Days, and the Future of Software Design - The First Event Modeling Conference
 ---
 
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}

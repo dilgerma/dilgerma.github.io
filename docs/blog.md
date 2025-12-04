@@ -8,6 +8,8 @@ title: Blog
   <p>Insights, tutorials, and updates about Event Modeling and the Miro Event Modeling Toolkit</p>
 </div>
 
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
 <section class="features">
   <div class="blog-tiles">
     <a href="{{ '/docs/blog/event-sourcing-when-not-to' | relative_url }}" class="blog-tile">

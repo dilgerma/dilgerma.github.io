@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="" />
+    <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/10-learnings-from-10-years-microservice-development.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/10-learnings-from-10-years-microservice-development.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/300-column-database-legacy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/300-column-database-legacy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/80-percent-planning.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/80-percent-planning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/aggregates-sagas-concurrency.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/aggregates-sagas-concurrency.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/ai-agents-brooks-law-coupling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/ai-agents-brooks-law-coupling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/ai-event-modeling-enabler.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/ai-event-modeling-enabler.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/bring-event-modeling-company.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/bring-event-modeling-company.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/code-reuse-problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/code-reuse-problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/collaborative-modeling-ai.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/collaborative-modeling-ai.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/cqrs-real-world-architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/cqrs-real-world-architecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/documenting-legacy-systems-event-modeling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/documenting-legacy-systems-event-modeling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/documenting-software-with-event-modeling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/documenting-software-with-event-modeling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-adoption.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-adoption.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-anti-patterns.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-anti-patterns.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-conference-munich.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-conference-munich.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-library-example.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-library-example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-workshop-2am.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-workshop-2am.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-sourcing-misconceptions.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-sourcing-misconceptions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-sourcing-simple.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-sourcing-simple.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/eventmodeling-with-given-when-then.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/eventmodeling-with-given-when-then.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/integrating-legacy-systems-cdc.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/integrating-legacy-systems-cdc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/internal-fixprice-model.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/internal-fixprice-model.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/messaging-lesson-history.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/messaging-lesson-history.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/modeling-asynchronous-processes-with-event-modeling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/modeling-asynchronous-processes-with-event-modeling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/modeling-branches.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/modeling-branches.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/modeling-external-systems-newsletter.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/modeling-external-systems-newsletter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/modeling-external-systems.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/modeling-external-systems.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/perfect-software-model-startups.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/perfect-software-model-startups.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/planning-software-slices.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/planning-software-slices.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/protecting-systems-seismic-shifts.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/protecting-systems-seismic-shifts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/red-sticky-notes-knowledge-gaps.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/red-sticky-notes-knowledge-gaps.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/show-me-the-coupling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/show-me-the-coupling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/software-hard-to-estimate-easy-to-plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/software-hard-to-estimate-easy-to-plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/state-based-systems-doomed-to-fail.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/state-based-systems-doomed-to-fail.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/the-wall-pattern-that-kills-projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/the-wall-pattern-that-kills-projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/versioning-event-sourcing-elephant-room.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/versioning-event-sourcing-elephant-room.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/what-is-aggregate.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/what-is-aggregate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/podcast.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +191,7 @@
       <workItem from="1763974503307" duration="1820000" />
       <workItem from="1763978866861" duration="22156000" />
       <workItem from="1764694658748" duration="596000" />
-      <workItem from="1764757388041" duration="5883000" />
+      <workItem from="1764757388041" duration="7577000" />
     </task>
     <servers />
   </component>

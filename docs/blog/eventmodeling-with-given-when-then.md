@@ -3,6 +3,8 @@ layout: docs
 title: "Eventmodeling: Describing Business Rules with Given/When/Then"
 ---
 
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
 # Eventmodeling: Describing Business Rules with Given/When/Then
 
 **How to make business rules visual, understandable, and testable**

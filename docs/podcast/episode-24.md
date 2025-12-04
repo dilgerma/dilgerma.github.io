@@ -3,6 +3,8 @@ layout: docs
 title: Episode 24 - Event Modeling 2.0 Refines Core Concepts
 ---
 
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Podcast]({{ '/docs/podcast' | relative_url }}){: .blog-back-link}

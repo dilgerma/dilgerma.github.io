@@ -3,6 +3,8 @@ layout: docs
 title: State-Based Systems Are Doomed to Fail
 ---
 
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
 <div class="blog-post">
   <a href="{{ '/docs/blog' | relative_url }}" class="blog-back-link">&larr; Back to Blog</a>
 
