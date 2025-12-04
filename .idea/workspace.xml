@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.claude/settings.local.json" beforeDir="false" afterPath="$PROJECT_DIR$/.claude/settings.local.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/ai-event-modeling-enabler.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/ai-event-modeling-enabler.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/state-based-systems-doomed-to-fail.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/state-based-systems-doomed-to-fail.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/podcast/episode-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/episode-2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +153,7 @@
       <workItem from="1763974503307" duration="1820000" />
       <workItem from="1763978866861" duration="22156000" />
       <workItem from="1764694658748" duration="596000" />
-      <workItem from="1764757388041" duration="8468000" />
+      <workItem from="1764757388041" duration="8789000" />
     </task>
     <servers />
   </component>

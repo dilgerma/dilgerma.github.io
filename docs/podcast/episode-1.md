@@ -3,8 +3,6 @@ layout: docs
 title: Episode 1 - Destroying the Aggregate
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Podcast]({{ '/docs/podcast' | relative_url }}){: .blog-back-link}
@@ -37,6 +35,8 @@ Adam and Martin introduce their new podcast on event modeling and event sourcing
 - **Practical Challenges**: Eventual consistency and concurrency problems are significant challenges for newcomers to event sourcing that the book addresses
 - **Testing Patterns**: Given-when-then patterns are critical for specifying business rules in event modeling
 - **Event Streaming vs Event Sourcing**: Understanding the distinction between event streaming and event sourcing is essential for proper implementation
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 

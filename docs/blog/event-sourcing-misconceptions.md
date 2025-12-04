@@ -80,7 +80,9 @@ What is crucial is the discussion, what information on the order actually is rel
 
 Only this information is crucial to be available via Events. We do NOT need to store ALL information in Events in the Event Store. Stop doing that, please, it hurts so much later in the process.
 
+<div class="blog-post-image">
 <script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+</div>
 
 We can now gradually extract more information from the stored order.
 

@@ -3,8 +3,6 @@ layout: docs
 title: Episode 2 - From Book Success to Code Generation
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Podcast]({{ '/docs/podcast' | relative_url }}){: .blog-back-link}
@@ -37,6 +35,8 @@ Martin and Adam discuss the overwhelming success of Martin's book, which has rem
 - **Given-When-Then Testing**: Deep dive into how these testing patterns are fundamental to event modeling, with Martin using them to generate test cases before implementation, creating a "red test" TDD workflow
 - **Automation Testing**: Discussion of how to-do list processors and automation steps should be tested using given-then patterns (without the "when"), treating them as projections that automatically trigger
 - **Source Control Management**: Extended discussion on how event modeling with slice-based development eliminates merge conflicts and enables both trunk-based and feature-branch workflows
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Takeaways
 
