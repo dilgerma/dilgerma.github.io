@@ -27,7 +27,10 @@
       "Bash(iconv:*)",
       "Bash(mv:*)",
       "Bash(test:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(for file in docs/blog/*.md)",
+      "Bash(do if ! grep -q 'data-uid=\"\"bef5bb7fb4\"\"' \"$file\")",
+      "Bash(for file in docs/podcast/*.md)"
     ],
     "deny": [],
     "ask": []

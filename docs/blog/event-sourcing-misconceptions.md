@@ -3,8 +3,6 @@ layout: docs
 title: Event Sourcing Doesn't Mean Everything Must Be Event Sourced
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -81,6 +79,8 @@ What is crucial is the discussion, what information on the order actually is rel
 </div>
 
 Only this information is crucial to be available via Events. We do NOT need to store ALL information in Events in the Event Store. Stop doing that, please, it hurts so much later in the process.
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 We can now gradually extract more information from the stored order.
 

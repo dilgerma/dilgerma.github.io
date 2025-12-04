@@ -3,8 +3,6 @@ layout: docs
 title: State-Based Systems Are Doomed to Fail
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post">
   <a href="{{ '/docs/blog' | relative_url }}" class="blog-back-link">&larr; Back to Blog</a>
 
@@ -167,6 +165,8 @@ title: State-Based Systems Are Doomed to Fail
     <p>But without the flexibility to rapidly change your fundamental models as your understanding evolves - without the ability to serve some use cases without compromising all others - you're still on a path to eventual failure.</p>
 
     <p>Just a slower one.</p>
+
+    <script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
     <div class="info-box">
       <p><strong>Important:</strong> I don't say you can't build state-based systems and maintain them over time. Beautiful and massive systems have been built that way. I say that the longer you work on these systems, the more time and money you need to allocate to keep these systems maintainable. Flexibility is not baked into the architecture.</p>

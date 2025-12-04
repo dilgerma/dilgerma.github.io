@@ -3,8 +3,6 @@ layout: docs
 title: Episode 3 - Security Modeling and Modern Event Modeling Formats
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Podcast]({{ '/docs/podcast' | relative_url }}){: .blog-back-link}
@@ -49,6 +47,8 @@ The new given-when-then timeline notation represents a significant evolution in 
 3. "I model security only as far as the business experts are concerned with it" - Martin Dilger
 4. "As soon as you start putting technical roles into the model it gets problematic because then suddenly not all people will understand what's in the model" - Martin Dilger
 5. "Event sourcing plays very well together with security because you have The Ledger of what happened which is critical for security" - Adam Dymitruk
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## Key Learnings
 

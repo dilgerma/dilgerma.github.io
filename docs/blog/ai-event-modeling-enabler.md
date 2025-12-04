@@ -3,8 +3,6 @@ layout: docs
 title: How Event Modeling Became the Perfect AI Enabler (And Why Vibe Coding Will Always Fail)
 ---
 
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="blog-post" markdown="1">
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
@@ -170,6 +168,8 @@ Here's what you do:
 You're not excavating through layers of coupled code trying to figure out what will break. You're working with the same clear model you started with, making surgical changes to specific slices.
 
 The process repeats. The speed stays consistent.
+
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 ## This Isn't Theory - It's Proven at Scale
 
