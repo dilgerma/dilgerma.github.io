@@ -120,6 +120,14 @@
              {% if page.url contains '/docs/basic-modeling-topics/slice-view' %}class="active"{% endif %}>
             Slice View
           </a>
+            <ul class="nav-submenu">
+                <li>
+                    <a href="{{ '/docs/basic-modeling-topics/jira-integration' | relative_url }}"
+                       {% if page.url contains '/docs/basic-modeling-topics/jira-integration' %}class="active"{% endif %}>
+                    Jira Integration
+                    </a>
+                </li>
+            </ul>
         </li>
         <li>
           <a href="{{ '/docs/basic-modeling-topics/spec-view' | relative_url }}"
