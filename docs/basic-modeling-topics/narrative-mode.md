@@ -5,7 +5,7 @@ title: Narrative Mode
 
 # Narrative Mode
 
-Narrative Mode is quite an interesting concept and allows you to leverate AI to translate your Event Model to natural language.
+Narrative Mode is quite an interesting concept and allows you to leverage AI to translate your Event Model to natural language.
 
 To use Narrative Mode, you always export a Configuration on the Code Tab.
 
