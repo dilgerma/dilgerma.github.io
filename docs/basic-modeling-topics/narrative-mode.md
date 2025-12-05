@@ -60,6 +60,6 @@ I use the Narrative Mode to step through the system with the stakeholders just t
 
 ## Next Steps
 
-- [Spec View](docs/basic-modeling-topics/spec-view/)
+- [Real Time Prototyping](/docs/basic-modeling-topics/real-time-prototyping/)
 
 
