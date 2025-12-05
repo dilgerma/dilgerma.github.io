@@ -42,4 +42,4 @@ Or "Discard" - which means take the Data stored in Miro and remove all manual ed
 
 ## Next Steps
 
-- [Slice View](docs/basic-modeling-topics/slice-view/) - Slice View
+- [Slice View](/docs/basic-modeling-topics/slice-view/) - Slice View

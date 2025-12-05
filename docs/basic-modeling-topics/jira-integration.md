@@ -35,6 +35,6 @@ Hint : You can also provide a full qualified URL like https://... - this would t
 
 ## Next Steps
 
-- [Spec View](docs/basic-modeling-topics/spec-view/)
+- [Spec View](/docs/basic-modeling-topics/spec-view/)
 
 

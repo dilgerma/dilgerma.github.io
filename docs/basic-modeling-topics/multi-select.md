@@ -62,4 +62,4 @@ If you select multiple Elements ( 2 or more ), the Conversion View becomes visib
 
 ## Next Steps
 
-- [Slice View](docs/basic-modeling-topics/manual-editing/) - Copying Data
+- [Slice View](/docs/basic-modeling-topics/manual-editing/) - Copying Data
