@@ -31,6 +31,8 @@ Now you can assign a Ticket.
 
 3) The Link opens the Jira Ticket in a new Tab
 
+Hint : You can also provide a full qualified URL like https://... - this would technically allow you to integrate with any Ticketing System.
+
 ## Next Steps
 
 - [Spec View](docs/basic-modeling-topics/spec-view/)

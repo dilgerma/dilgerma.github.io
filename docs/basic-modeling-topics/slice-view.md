@@ -81,6 +81,4 @@ It also creates an Aggregate in the swimlane. Feel free to delete it if you donÂ
 
 ## Next Steps
 
-- [Data View](/docs/basic-modeling-topics/data-view/) - Edit element schemas and configurations
-- [Elements View](/docs/basic-modeling-topics/elements-view/) - Working with elements
-- [Context View](/docs/basic-modeling-topics/context-view/) - View context hierarchies
+- [Jira Integration](/docs/basic-modeling-topics/extending-an-existing-model-with-ai) - AI Integration
