@@ -222,10 +222,6 @@ title: Please Don't Rewrite Your Legacy System
 
     <p>Make sure you have one.</p>
 
-    <div class="info-box">
-      <p><strong>Get the Recording:</strong> I recently gave a webinar showing how to map legacy systems with Event Modeling and AI. Comment "LEGACY" if you want the link to the recording.</p>
-    </div>
-
     <h2>Next Steps</h2>
     <p>Ready to explore how Event Modeling can help you modernize your legacy system? Learn how <a href="{{ '/docs/event-modeling' | relative_url }}">Event Modeling</a> provides the transparency you need to make informed decisions about your modernization strategy.</p>
 
