@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Event Modeling a Library System Step by Step
+description: A complete example showing how to visualize and understand any system using Event Modeling - practical step-by-step guide with real examples.
+author: Martin Dilger
+date: November 29, 2025
+category: Event Modeling
+keywords: event modeling, library system, step-by-step guide, system visualization, event modeling tutorial, practical examples, software modeling, system understanding, modeling techniques, visual modeling
+featured_image: /assets/images/blog/event-modeling-library.png
+tags: [event-modeling, tutorial, examples, library-system, visualization, step-by-step, practical-guide]
 ---
 
 <div class="blog-post" markdown="1">
@@ -149,6 +156,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

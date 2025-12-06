@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: You Can't Argue with a Red Sticky Note - Making Knowledge Gaps Visible
+description: Red sticky notes aren't marking failures - they're marking discoveries. Learn how to make knowledge gaps visible and turn them into learning opportunities.
+author: Martin Dilger
+date: November 28, 2025
+category: Event Modeling & Process
+keywords: knowledge gaps, red sticky notes, event modeling workshop, discovery process, knowledge visualization, collaborative modeling, learning opportunities, workshop techniques, process transparency, knowledge management
+featured_image: /assets/images/blog/red-sticky-notes.png
+tags: [event-modeling, knowledge-gaps, workshops, discovery, visualization, collaboration, learning, transparency]
 ---
 
 <div class="blog-post" markdown="1">
@@ -101,6 +108,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

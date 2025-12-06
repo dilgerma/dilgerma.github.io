@@ -15,7 +15,13 @@ Just export a Configuration on the Code Tab
 
 In this case you see an export of an App consisting of 99 Slices and about 1 Million Lines of JSON config.
 
+1) Use this button to jump to Slice Forecasting. Attention - here you are posting your Configuraton to an external system. This is a stateless Web-App, nothing is stored or logged. Still I want you to be aware.
+
+Here you see a Report of your current progress.
+
+![Screen Drawer]({{ '/assets/images/tutorial/forecast/forecast002.png' | relative_url }})
+
 
 ## Next Steps
 
-- [Jira Integration](/docs/basic-modeling-topics/extending-an-existing-model-with-ai) - AI Integration
+- [Code View](/docs/basic-modeling-topics/code-view) - Code View

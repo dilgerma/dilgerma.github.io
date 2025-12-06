@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: "The Wall: The Simple Pattern That Kills 90% of Projects (And How to Break It)"
+description: Discover the simple pattern that kills 90% of projects. Learn to recognize The Wall in your workshops and projects, and turn it into breakthrough moments.
+author: Martin Dilger
+date: November 2024
+category: Event Modeling & Process
+keywords: project failure, the wall pattern, workshop patterns, knowledge gaps, project success, event modeling workshops, breakthrough moments, team dynamics, project obstacles, facilitation techniques
+featured_image: /assets/images/blog/the-wall-pattern.png
+tags: [project-management, the-wall, workshops, facilitation, breakthrough, team-dynamics, success-patterns]
 ---
 
 # The Wall: The Simple Pattern That Kills 90% of Projects (And How to Break It)
@@ -173,3 +180,5 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}

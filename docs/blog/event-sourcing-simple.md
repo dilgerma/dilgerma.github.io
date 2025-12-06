@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: The Day Event Sourcing Finally Made Sense (And Why It's Actually Simple)
+description: Event sourcing isn't complex - it's complete. Discover why it preserves information instead of hiding it and how simplicity emerges from completeness.
+author: Martin Dilger
+date: November 28, 2025
+category: Event Sourcing
+keywords: event sourcing, software architecture, event-driven design, data completeness, system transparency, event sourcing explained, architecture patterns, information preservation, simple architecture, event sourcing benefits
+featured_image: /assets/images/blog/event-sourcing-simple.png
+tags: [event-sourcing, architecture, simplicity, data-completeness, transparency, design-patterns, information-preservation]
 ---
 
 <div class="blog-post" markdown="1">
@@ -135,6 +142,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

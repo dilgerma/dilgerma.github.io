@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Documenting Legacy Systems with Event Modeling
+description: Learn how to understand and document legacy systems using Event Modeling techniques - a practical approach to making complex codebases manageable.
+author: Martin Dilger
+date: October 2023
+category: Software Documentation & Legacy Systems
+keywords: event modeling, legacy systems, software documentation, system analysis, event sourcing, software architecture, technical documentation, legacy code, system understanding, documentation techniques
+featured_image: /assets/images/blog/documenting-legacy-systems.png
+tags: [event-modeling, legacy-systems, documentation, software-architecture, event-sourcing, system-analysis, technical-debt]
 ---
 
 <div class="blog-post" markdown="1">
@@ -179,6 +186,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
 ## Links
 

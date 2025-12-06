@@ -1,6 +1,9 @@
 ---
 layout: docs
-title: Blog
+title: Event Modeling & Event Sourcing Blog - Architecture Insights
+description: Weekly articles about Event Modeling, Event Sourcing, and Vertical Sliced Architectures. Learn from real-world experience building event-driven systems.
+keywords: event modeling blog, event sourcing articles, software architecture, event-driven architecture, vertical slice architecture, microservices, DDD, CQRS
+author: Martin Dilger
 ---
 
 <div class="hero">

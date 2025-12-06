@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: When Event Sourcing Doesn't Make Sense (And How to Know the Difference)
+description: An event marks a business-relevant change. Not every data change is a business change. Learn when NOT to use event sourcing and make better decisions.
+author: Martin Dilger
+date: December 3, 2025
+category: Event Sourcing
+keywords: event sourcing, when not to use, business events, architectural decisions, event sourcing limitations, system design, event-driven architecture, technical decisions, architecture choices, event sourcing best practices
+featured_image: /assets/images/blog/event-sourcing-when-not-to.png
+tags: [event-sourcing, architecture-decisions, best-practices, business-events, system-design, limitations, pragmatic-architecture]
 ---
 
 <div class="blog-post" markdown="1">
@@ -207,6 +214,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

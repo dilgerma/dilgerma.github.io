@@ -81,4 +81,4 @@ It also creates an Aggregate in the swimlane. Feel free to delete it if you donÂ
 
 ## Next Steps
 
-- [Jira Integration](/docs/basic-modeling-topics/extending-an-existing-model-with-ai) - AI Integration
+- [Extend your existing Model with AI](/docs/basic-modeling-topics/extending-an-existing-model-with-ai) - AI Integration

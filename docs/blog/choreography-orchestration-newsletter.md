@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Choreography or Orchestration? The TODO List Pattern Alternative
+description: A simpler third option for coordinating distributed processes that's easier to debug and maintain. Learn the TODO List Pattern for process coordination.
+author: Martin Dilger
+date: 2025-11-30
+category: Event Modeling & Architecture
+keywords: choreography, orchestration, distributed systems, process coordination, sagas, event-driven architecture, TODO list pattern, microservices patterns
+featured_image: /assets/images/blog/choreography-orchestration.png
+tags: [distributed-systems, patterns, architecture, event-modeling, coordination]
 ---
 
 <div class="blog-post" markdown="1">
@@ -142,6 +149,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Reliably planning software with slices
+description: How Event Modeling and Slices provide transparent, data-driven roadmap planning - making software planning reliable and predictable.
+author: Martin Dilger
+date: November 29, 2025
+category: Event Modeling & Planning
+keywords: software planning, event modeling slices, roadmap planning, project estimation, data-driven planning, transparent planning, slice architecture, software estimation, project management, predictable delivery
+featured_image: /assets/images/blog/planning-software-slices.png
+tags: [event-modeling, planning, slices, estimation, roadmap, project-management, transparency, predictability]
 ---
 
 <div class="blog-post" markdown="1">
@@ -175,6 +182,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

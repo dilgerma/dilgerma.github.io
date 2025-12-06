@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Collaborative Modeling in the Age of AI
+description: The clearer you make the What, the less likely you'll face nasty surprises. Learn how collaborative modeling enhances AI-driven development.
+author: Martin Dilger
+date: 2025-11-28
+category: AI & Collaboration
+keywords: collaborative modeling, AI development, event modeling AI, team collaboration, AI requirements, software modeling, AI-driven development
+featured_image: /assets/images/blog/collaborative-modeling-ai.png
+tags: [ai, collaboration, modeling, event-modeling, team-building]
 ---
 
 <div class="blog-post" markdown="1">
@@ -162,6 +169,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

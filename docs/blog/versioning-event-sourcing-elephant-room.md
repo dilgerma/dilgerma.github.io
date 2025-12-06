@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: "Versioning in Event Sourcing: The Elephant in the Room (And Why It's Not as Scary as You Think)"
+description: Versioning in Event Sourcing looks complex, but it's actually just giving you options to handle complexity that exists everywhere. Learn practical approaches.
+author: Martin Dilger
+date: November 2024
+category: Event Sourcing
+keywords: event versioning, event sourcing, schema evolution, event schema, versioning strategies, event replay, backward compatibility, event evolution, data migration, event sourcing patterns
+featured_image: /assets/images/blog/versioning-event-sourcing.png
+tags: [event-sourcing, versioning, schema-evolution, backward-compatibility, event-replay, migration, patterns]
 ---
 
 # Versioning in Event Sourcing: The Elephant in the Room (And Why It's Not as Scary as You Think)
@@ -156,3 +163,5 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}

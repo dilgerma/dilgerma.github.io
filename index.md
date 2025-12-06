@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Home
+title: Event Modeling Toolkit - Visual Event-Driven Architecture Design in Miro
+description: Build event-driven systems with visual Event Modeling directly in Miro. Design, collaborate, and generate code from your event models. Close the gap between business and engineering in days.
+keywords: event modeling, event-driven architecture, miro toolkit, event sourcing, visual modeling, software design, collaborative modeling, code generation, AI integration
+author: Martin Dilger
 ---
 
 <div class="hero">

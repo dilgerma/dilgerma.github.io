@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: 7 Insights I Learned Building Event Models Since 2021
+description: Practical tricks to help you build better Event Models - from hands-on experience modeling real systems since 2021. Learn from real-world insights.
+author: Martin Dilger
+date: November 2024
+category: Event Modeling & Best Practices
+keywords: event modeling insights, practical event modeling, modeling tricks, event modeling experience, best practices, real-world modeling, event modeling tips, lessons learned, practical guidance, modeling techniques
+featured_image: /assets/images/blog/seven-event-modeling-insights.png
+tags: [event-modeling, best-practices, insights, practical-tips, lessons-learned, real-world-experience, modeling-techniques]
 ---
 
 <div class="blog-post" markdown="1">
@@ -116,6 +123,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

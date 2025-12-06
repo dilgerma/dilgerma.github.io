@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: If you are in Software Engineering - 80% of your work should be planning
+description: Real planning means all questions are cleared and you only need to execute. Learn why proper planning is the key to successful software engineering.
+author: Martin Dilger
+date: 2025-11-27
+category: Planning & Execution
+keywords: software planning, software engineering, project planning, event modeling, requirements analysis, software development process, execution strategy
+featured_image: /assets/images/blog/80-percent-planning.png
+tags: [planning, software-engineering, process, methodology, best-practices]
 ---
 
 <div class="blog-post" markdown="1">
@@ -229,6 +236,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 

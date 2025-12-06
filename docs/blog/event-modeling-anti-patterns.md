@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: The Furniture Store of Anti-Patterns - Spotting Overcomplicated Event Models
+description: Learn to spot overcomplicated event models from their shapes alone. Discover common anti-patterns and how to keep your models clean and effective.
+author: Martin Dilger
+date: November 28, 2025
+category: Event Modeling & Patterns
+keywords: event modeling, anti-patterns, software design, modeling mistakes, event sourcing, model complexity, design patterns, best practices, system design, architecture patterns
+featured_image: /assets/images/blog/event-modeling-anti-patterns.png
+tags: [event-modeling, anti-patterns, software-design, best-practices, complexity, system-design, architecture]
 ---
 
 <div class="blog-post" markdown="1">
@@ -218,6 +225,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

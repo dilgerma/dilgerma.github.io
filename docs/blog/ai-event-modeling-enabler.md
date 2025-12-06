@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: How Event Modeling Became the Perfect AI Enabler (And Why Vibe Coding Will Always Fail)
+description: AI is the accelerant. Event Modeling is the structure that makes it work. Learn how to go from idea to production in days using AI-enabled Event Modeling with flat cost curves.
+author: Martin Dilger
+date: 2025-11-28
+category: AI & Event Modeling
+keywords: AI event modeling, vibe coding, AI software development, event modeling AI, Claude Code, software generation, flat cost curve, AI architecture, code generation, event sourcing AI
+featured_image: /assets/images/blog/ai-event-modeling-enabler.png
+tags: [ai, event-modeling, software-development, automation, architecture, code-generation]
 ---
 
 <div class="blog-post" markdown="1">
@@ -259,6 +266,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

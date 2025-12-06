@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: How to Model External Systems - Information Flow vs Implementation
+description: Understanding information flow vs implementation when modeling external APIs and services in Event Modeling - a comprehensive guide to integration patterns.
+author: Martin Dilger
+date: November 30, 2025
+category: Event Modeling & Integration
+keywords: external systems, API modeling, information flow, implementation patterns, system integration, event modeling, API integration, external services, integration architecture, modeling techniques
+featured_image: /assets/images/blog/modeling-external-systems.png
+tags: [event-modeling, external-systems, api-integration, information-flow, system-integration, architecture-patterns]
 ---
 
 <div class="blog-post" markdown="1">
@@ -139,6 +146,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

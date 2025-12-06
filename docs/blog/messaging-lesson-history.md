@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: An important lesson in history
+description: Messaging, not Objects - Alan Kay's wisdom and why Event Modeling follows this recipe to the letter. Learn from computing history's greatest insights.
+author: Martin Dilger
+date: November 29, 2025
+category: Event Modeling & System Design
+keywords: Alan Kay, messaging systems, object orientation, event modeling, software history, system design, computing wisdom, message passing, OOP history, architectural principles
+featured_image: /assets/images/blog/messaging-lesson-history.png
+tags: [alan-kay, messaging, computing-history, system-design, event-modeling, oop, architectural-principles]
 ---
 
 <div class="blog-post" markdown="1">
@@ -136,6 +143,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

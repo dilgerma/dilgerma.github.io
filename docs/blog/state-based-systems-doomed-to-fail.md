@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: State-Based Systems Are Doomed to Fail
+description: Why adding features accelerates system decay and how understanding events changes everything. Learn why state-based design leads to inevitable rot and what you can do about it.
+author: Martin Dilger
+date: 2025-11-09
+category: Architecture
+keywords: state-based systems, event modeling, software architecture, system design, DDD, domain-driven design, event sourcing, software decay, technical debt
+featured_image: /assets/images/blog/statebased.png
+tags: [architecture, event-modeling, ddd, software-design, technical-debt]
 ---
 
 <div class="blog-post">
@@ -187,6 +194,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

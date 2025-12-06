@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: The Problem with Code Reuse - Why DRY Isn't Always the Answer
+description: Should we reuse simple classes like DTOs across the system? Ten years ago, my answer would have been Yes. Today, my perspective has shifted on DRY and coupling.
+author: Martin Dilger
+date: 2025-11-29
+category: Software Architecture & Design
+keywords: code reuse, DRY principle, coupling, DTO sharing, software design, code duplication, architecture decisions, bounded contexts
+featured_image: /assets/images/blog/code-reuse-problem.png
+tags: [design-principles, coupling, architecture, dry-principle, best-practices]
 ---
 
 <div class="blog-post" markdown="1">
@@ -125,6 +132,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

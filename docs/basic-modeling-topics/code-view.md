@@ -50,6 +50,23 @@ Model Import allows you to import an existing Model from JSON back onto the Boar
 3. **JSON Specification** (editable)
 4. **Skip Specifications from the Config File** - only import Elements
 
+## Chrome Security Issues
+
+For Some users, especially on Chrome there might be problems with the connection to the locally running Docker Container.
+This will be solved - until then you can easily check if you are affected by this.
+
+Open this configuration in Chrome:
+
+```
+chrome://flags/#local-network-access-check
+```
+
+![Code View]({{ '/assets/images/security.png' | relative_url }})
+
+You can temporarily disable _Local Network Access Checks_ to communicate with the Container.
+
+Be careful, this should only be a temporary Workaround. Make sure to reactivate it, when you are done with your work.
+
 ## Next Steps
 
 - [Spec View](/docs/basic-modeling-topics/spec-view/) - Define Given/When/Then specifications

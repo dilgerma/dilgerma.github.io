@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Why Your Event Modeling Workshop Didn't Stick (And What Actually Works)
+description: Event Modeling fails at the breaks in your value chain. Discover why workshops don't stick and learn practical strategies for successful adoption.
+author: Martin Dilger
+date: November 28, 2025
+category: Event Modeling & Adoption
+keywords: event modeling, workshop adoption, organizational change, value chain, software modeling, team collaboration, process improvement, modeling techniques, continuous delivery, adoption strategies
+featured_image: /assets/images/blog/event-modeling-adoption.png
+tags: [event-modeling, adoption, workshops, organizational-change, value-chain, team-collaboration, process-improvement]
 ---
 
 <div class="blog-post" markdown="1">
@@ -229,6 +236,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

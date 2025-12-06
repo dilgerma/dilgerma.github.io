@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: "Eventmodeling: Describing Business Rules with Given/When/Then"
+description: How to make business rules visual, understandable, and testable using Given/When/Then in Event Modeling - a practical guide to business logic.
+author: Martin Dilger
+date: October 2023
+category: Event Modeling
+keywords: given when then, business rules, event modeling, testable rules, visual business logic, BDD, behavior driven development, business policies, rule modeling, test scenarios
+featured_image: /assets/images/blog/eventmodeling-given-when-then.png
+tags: [event-modeling, given-when-then, business-rules, bdd, testing, visual-modeling, business-logic]
 ---
 
 # Eventmodeling: Describing Business Rules with Given/When/Then
@@ -127,3 +134,5 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}

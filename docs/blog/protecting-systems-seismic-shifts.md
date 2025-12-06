@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: How to protect your system against seismic shifts
+description: Building adaptable systems with Event Sourcing and isolated slices - protect your architecture from unexpected business changes and market shifts.
+author: Martin Dilger
+date: November 29, 2025
+category: Event Sourcing & Architecture
+keywords: adaptable systems, event sourcing, system resilience, architecture isolation, seismic shifts, business change, architectural flexibility, isolated slices, system protection, evolutionary architecture
+featured_image: /assets/images/blog/protecting-systems-seismic-shifts.png
+tags: [event-sourcing, adaptability, resilience, architecture, isolated-slices, business-change, flexibility]
 ---
 
 <div class="blog-post" markdown="1">
@@ -193,6 +200,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

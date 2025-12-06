@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: 40 Practitioners, 2 Days, and the Future of Software Design - The First Event Modeling Conference
+description: Inside the first Event Modeling Conference in Munich where 40 practitioners challenged each other and accelerated learning through pattern recognition.
+author: Martin Dilger
+date: November 28, 2025
+category: Event Modeling & Conference
+keywords: event modeling conference, software design, practitioners, collaborative learning, Munich conference, event sourcing community, pattern recognition, software architecture, professional development, industry trends
+featured_image: /assets/images/blog/event-modeling-conference.png
+tags: [event-modeling, conference, community, collaborative-learning, software-design, practitioners, munich]
 ---
 
 <div class="blog-post" markdown="1">
@@ -447,6 +454,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

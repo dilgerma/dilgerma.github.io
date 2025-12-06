@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: CQRS in Action - A Real World Simple Architecture
+description: How event sourcing and CQRS provide the flexibility to adapt and grow your system without mental tax. Real-world CQRS architecture patterns.
+author: Martin Dilger
+date: 2025-11-27
+category: CQRS & Architecture
+keywords: CQRS, event sourcing, CQRS architecture, command query separation, read models, write models, CQRS patterns, system flexibility
+featured_image: /assets/images/blog/cqrs-architecture.png
+tags: [cqrs, event-sourcing, architecture, patterns, scalability]
 ---
 
 <div class="blog-post" markdown="1">
@@ -182,6 +189,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 

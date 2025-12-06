@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: "Modeling and Implementing Asynchronous Background Processes with Event Modeling"
+description: From theory to practice - modeling and implementing automated background processes with Event Modeling, Kotlin, Spring Boot, and Axon Framework.
+author: Martin Dilger
+date: October 2023
+category: Event Modeling & Implementation
+keywords: asynchronous processes, background processes, event modeling implementation, Kotlin, Spring Boot, Axon Framework, automated processes, event sourcing, process automation, practical implementation
+featured_image: /assets/images/blog/modeling-asynchronous-processes.png
+tags: [event-modeling, asynchronous, background-processes, implementation, kotlin, spring-boot, axon-framework, automation]
 ---
 
 # Modeling and Implementing Asynchronous Background Processes with Event Modeling
@@ -179,3 +186,5 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}

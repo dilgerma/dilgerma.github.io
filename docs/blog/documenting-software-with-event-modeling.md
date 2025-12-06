@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: "Documenting Software with Event Modeling"
+description: One of the most important tools for documenting and developing complex software systems - discover why Event Modeling works and how to use it.
+author: Martin Dilger
+date: October 2023
+category: Event Modeling
+keywords: event modeling, software documentation, system documentation, event modeling guide, documentation tools, software development, complex systems, modeling techniques, visual documentation, Adam Dymitruk
+featured_image: /assets/images/blog/documenting-software-event-modeling.png
+tags: [event-modeling, documentation, software-development, complex-systems, visual-modeling, best-practices, tools]
 ---
 
 # Documenting Software with Event Modeling
@@ -149,3 +156,5 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}

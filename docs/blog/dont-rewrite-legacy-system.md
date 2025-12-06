@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Please Don't Rewrite Your Legacy System
+description: Why your legacy codebase is a treasure trove of expensive knowledge and how to modernize without starting over - a practical guide to legacy evolution.
+author: Martin Dilger
+date: December 6, 2025
+category: Architecture
+keywords: legacy systems, system rewrite, legacy modernization, codebase evolution, technical debt, legacy knowledge, system migration, refactoring strategy, architectural evolution, legacy transformation
+featured_image: /assets/images/blog/dont-rewrite-legacy-system.png
+tags: [legacy-systems, modernization, refactoring, architecture, technical-debt, evolution, migration-strategy]
 ---
 
 <div class="blog-post">
@@ -232,6 +239,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

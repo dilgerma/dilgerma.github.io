@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: The Problem with Code Reuse - Why DRY Isn't Always the Answer
+description: Why DRY isn't always the answer and preventing coupling is more important than code reuse. Understanding when to duplicate code vs when to abstract.
+author: Martin Dilger
+date: 2025-11-30
+category: Architecture & Design
+keywords: code reuse, DRY principle, coupling, software design, abstraction, code duplication, design patterns, software architecture
+featured_image: /assets/images/blog/code-reuse-problem.png
+tags: [design-principles, coupling, architecture, best-practices, code-quality]
 ---
 
 <div class="blog-post" markdown="1">
@@ -128,6 +135,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

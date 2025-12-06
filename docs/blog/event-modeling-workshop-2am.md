@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Why People Get Up at 2 AM to Learn Event Modeling (And What Happened When They Did)
+description: Inside an Event Modeling workshop that changed how teams think about software - featuring participants who traveled from around the world.
+author: Martin Dilger
+date: November 27, 2025
+category: Event Modeling & Workshops
+keywords: event modeling workshop, software training, team transformation, collaborative modeling, international workshop, learning event modeling, workshop experience, software design, team development, modeling skills
+featured_image: /assets/images/blog/event-modeling-workshop-2am.png
+tags: [event-modeling, workshops, training, team-transformation, collaborative-learning, global-community, software-design]
 ---
 
 <div class="blog-post" markdown="1">
@@ -161,6 +168,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 

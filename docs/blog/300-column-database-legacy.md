@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: The 300-Column Database Table and How to Escape Legacy Hell
+description: How Event Modeling helps you unchain data from legacy systems and make organizations tick again. Learn strategies to escape legacy database hell.
+author: Martin Dilger
+date: 2025-11-27
+category: Legacy Modernization
+keywords: legacy systems, database refactoring, event modeling, legacy modernization, database migration, technical debt, legacy architecture, data migration
+featured_image: /assets/images/blog/300-column-database.png
+tags: [legacy-systems, database, modernization, event-modeling, migration]
 ---
 
 <div class="blog-post" markdown="1">
@@ -311,6 +318,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 

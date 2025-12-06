@@ -46,4 +46,4 @@ You can generate Given / When / Thens for an existing Slice, given the business 
 
 ## Next Steps
 
-- [Jira Integration](/docs/basic-modeling-topics/jira-integration/) - JIra Integration
+- [Forecasting](/docs/basic-modeling-topics/slice-based-forecasting/) - Slice Based Forecasting

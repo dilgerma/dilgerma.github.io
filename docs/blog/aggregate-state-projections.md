@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Should You Reuse Aggregate-State in Your Projections?
+description: Finding the right Aggregate Boundaries and understanding the role of state in Event Sourcing. Learn when to reuse aggregate state in your projections.
+author: Martin Dilger
+date: 2024-11-15
+category: Event Sourcing & DDD
+keywords: aggregate design, event sourcing, projections, DDD aggregates, aggregate boundaries, CQRS, read models, event store
+featured_image: /assets/images/blog/aggregate-state-projections.png
+tags: [event-sourcing, ddd, aggregates, projections, cqrs]
 ---
 
 <div class="blog-post" markdown="1">
@@ -103,6 +110,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

@@ -2,7 +2,7 @@
 title: Miro Event Modeling Toolkit
 description: Documentation for the Miro Event Modeling Toolkit - Build event-driven systems with visual modeling
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://www.eventmodelers.de" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

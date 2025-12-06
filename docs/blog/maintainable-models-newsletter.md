@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: How to Keep Your Models Maintainable Over Time
+description: Practical strategies to keep Event Models stable and manageable as they grow and evolve - ensuring long-term maintainability and clarity.
+author: Martin Dilger
+date: November 30, 2025
+category: Event Modeling & Maintenance
+keywords: event model maintenance, software maintainability, model evolution, event modeling best practices, sustainable modeling, model stability, long-term architecture, model management, evolutionary design, architecture maintenance
+featured_image: /assets/images/blog/maintainable-models.png
+tags: [event-modeling, maintainability, best-practices, model-evolution, sustainability, long-term-architecture, model-management]
 ---
 
 <div class="blog-post" markdown="1">
@@ -151,6 +158,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

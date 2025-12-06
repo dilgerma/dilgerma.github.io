@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: How to Bring Event Modeling to Your Company - Start Small, Win Big
+description: Event Modeling isn't an "all or nothing" approach. Here's how to benefit from it even without massive upfront investment. Practical adoption strategies.
+author: Martin Dilger
+date: 2025-11-29
+category: Event Modeling & Team Adoption
+keywords: event modeling adoption, team adoption, change management, event modeling implementation, organizational change, event modeling training
+featured_image: /assets/images/blog/bring-event-modeling.png
+tags: [event-modeling, adoption, team-building, change-management, implementation]
 ---
 
 <div class="blog-post" markdown="1">
@@ -156,6 +163,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: How to Model Branches in Event Modeling - Linearize Your Conditional Flows
+description: Information follows business rules, not just left to right. Learn how to model branches while maintaining one linear flow in Event Modeling.
+author: Martin Dilger
+date: November 29, 2025
+category: Event Modeling & Business Rules
+keywords: event modeling branches, business rules, conditional logic, linear flow, information flow, event modeling patterns, workflow branching, business logic modeling, decision flows, modeling techniques
+featured_image: /assets/images/blog/modeling-branches.png
+tags: [event-modeling, business-rules, branching, linear-flow, conditional-logic, workflow, decision-modeling]
 ---
 
 <div class="blog-post" markdown="1">
@@ -117,6 +124,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: How to Model Branches in Event Modeling - Linearize Your Conditional Flows
+description: Linearize your conditional flows using Given/When/Then and maintain clear, readable models - practical techniques for handling business logic branches.
+author: Martin Dilger
+date: November 30, 2025
+category: Event Modeling & Patterns
+keywords: event modeling, conditional flows, business rules, given when then, linearization, branching logic, model clarity, workflow modeling, business logic, decision modeling
+featured_image: /assets/images/blog/modeling-branches.png
+tags: [event-modeling, conditional-flows, business-rules, given-when-then, workflow-modeling, branching, decision-logic]
 ---
 
 <div class="blog-post" markdown="1">
@@ -117,6 +124,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

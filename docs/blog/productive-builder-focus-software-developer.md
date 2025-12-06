@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: The productive Builder - how to find focus as a Software Developer
+description: Most developers chase focus, tools, or time management. But 80% of productive work happens before you write a single line of code. Productivity is preparation.
+author: Martin Dilger
+date: December 4, 2025
+category: Productivity & Development
+keywords: developer productivity, software development, focus techniques, developer workflow, code preparation, productive coding, software craftsmanship, developer efficiency, work preparation, coding productivity
+featured_image: /assets/images/blog/productive-builder.png
+tags: [productivity, developer-workflow, focus, preparation, software-development, efficiency, craftsmanship]
 ---
 
 <div class="blog-post" markdown="1">
@@ -314,6 +321,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

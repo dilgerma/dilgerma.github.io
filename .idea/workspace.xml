@@ -5,7 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b75d59-9797-4591-aa52-3d9cc9534271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/security.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.claude/settings.local.json" beforeDir="false" afterPath="$PROJECT_DIR$/.claude/settings.local.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/docs.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/docs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basic-modeling-topics/code-view.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/basic-modeling-topics/code-view.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basic-modeling-topics/extending-an-existing-model-with-ai.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/basic-modeling-topics/extending-an-existing-model-with-ai.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basic-modeling-topics/slice-based-forecasting.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/basic-modeling-topics/slice-based-forecasting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basic-modeling-topics/slice-view.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/basic-modeling-topics/slice-view.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/10-learnings-from-10-years-microservice-development.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/10-learnings-from-10-years-microservice-development.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/300-column-database-legacy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/300-column-database-legacy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/80-percent-planning.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/80-percent-planning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/aggregate-state-projections.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/aggregate-state-projections.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/aggregates-sagas-concurrency.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/aggregates-sagas-concurrency.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/ai-agents-brooks-law-coupling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/ai-agents-brooks-law-coupling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/ai-event-modeling-enabler.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/ai-event-modeling-enabler.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/bring-event-modeling-company.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/bring-event-modeling-company.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/choreography-orchestration-newsletter.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/choreography-orchestration-newsletter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/code-reuse-newsletter.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/code-reuse-newsletter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/code-reuse-problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/code-reuse-problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/collaborative-modeling-ai.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/collaborative-modeling-ai.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/command-handler-simplicity.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/command-handler-simplicity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/cqrs-real-world-architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/cqrs-real-world-architecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/documenting-legacy-systems-event-modeling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/documenting-legacy-systems-event-modeling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/documenting-software-with-event-modeling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/documenting-software-with-event-modeling.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/dont-rewrite-legacy-system.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/dont-rewrite-legacy-system.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-adoption.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-adoption.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-anti-patterns.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-anti-patterns.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-conference-munich.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-conference-munich.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-library-example.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-library-example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-modeling-workshop-2am.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-modeling-workshop-2am.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-sourcing-misconceptions.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-sourcing-misconceptions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-sourcing-simple.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-sourcing-simple.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/event-sourcing-when-not-to.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/event-sourcing-when-not-to.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/eventmodeling-with-given-when-then.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/eventmodeling-with-given-when-then.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/integrating-legacy-systems-cdc.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/integrating-legacy-systems-cdc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/internal-fixprice-model.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/internal-fixprice-model.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/maintainable-models-newsletter.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/maintainable-models-newsletter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/messaging-lesson-history.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/messaging-lesson-history.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/modeling-asynchronous-processes-with-event-modeling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/modeling-asynchronous-processes-with-event-modeling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/modeling-branches-newsletter.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/modeling-branches-newsletter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/modeling-branches.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/modeling-branches.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/modeling-external-systems-newsletter.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/modeling-external-systems-newsletter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/modeling-external-systems.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/modeling-external-systems.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/perfect-software-model-startups.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/perfect-software-model-startups.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/planning-software-slices.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/planning-software-slices.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/productive-builder-focus-software-developer.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/productive-builder-focus-software-developer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/protecting-systems-seismic-shifts.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/protecting-systems-seismic-shifts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/red-sticky-notes-knowledge-gaps.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/red-sticky-notes-knowledge-gaps.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/seven-event-modeling-insights.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/seven-event-modeling-insights.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/show-me-the-coupling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/show-me-the-coupling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/software-hard-to-estimate-easy-to-plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/software-hard-to-estimate-easy-to-plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/state-based-systems-doomed-to-fail.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/state-based-systems-doomed-to-fail.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/the-wall-pattern-that-kills-projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/the-wall-pattern-that-kills-projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/versioning-event-sourcing-elephant-room.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/versioning-event-sourcing-elephant-room.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/what-is-aggregate.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/what-is-aggregate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/podcast.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +139,7 @@
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/docs/basic-modeling-topics",
+    "last_opened_file_path": "/Users/martindilger/development/git/sources/dilgerma.github.io/assets/images",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -89,11 +149,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/docs/basic-modeling-topics" />
       <recent name="$PROJECT_DIR$/temp" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/existing-models" />
       <recent name="$PROJECT_DIR$/assets/images/tutorial/narrative" />
-      <recent name="$PROJECT_DIR$/assets/images/tutorial/jira" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />

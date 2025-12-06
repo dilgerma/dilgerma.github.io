@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Integrating with Legacy Systems
+description: How Change Data Capture (CDC) unchains data from legacy systems - a practical guide to modern integration patterns and techniques.
+author: Martin Dilger
+date: November 29, 2025
+category: Legacy Integration & CDC
+keywords: change data capture, CDC, legacy systems, data integration, legacy integration, database integration, event streaming, data unchaining, system integration, modernization patterns
+featured_image: /assets/images/blog/integrating-legacy-systems-cdc.png
+tags: [cdc, legacy-systems, integration, change-data-capture, data-streaming, modernization, system-integration]
 ---
 
 <div class="blog-post" markdown="1">
@@ -97,6 +104,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

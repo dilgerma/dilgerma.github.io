@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Event Sourcing Doesn't Mean Everything Must Be Event Sourced
+description: Clearing up one of the biggest misconceptions about Event Sourcing. Learn why you don't need to event source everything and how to choose what to event source.
+author: Martin Dilger
+date: 2025-11-29
+category: Event Sourcing
+keywords: event sourcing, event sourcing misconceptions, event sourcing best practices, event-driven architecture, CQRS, event store, domain events, event sourcing patterns
+featured_image: /assets/images/blog/event-sourcing-misconceptions.png
+tags: [event-sourcing, architecture, best-practices, cqrs, patterns]
 ---
 
 <div class="blog-post" markdown="1">
@@ -121,6 +128,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

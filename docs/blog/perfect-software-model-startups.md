@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: The Perfect Software Model for Startups
+description: Software development requires time and budget. Learn the perfect approach for startups facing dynamic business models and constant change.
+author: Martin Dilger
+date: October 2023
+category: Software Architecture & Startups
+keywords: startup software, software architecture, dynamic business models, startup development, agile architecture, event modeling, software ROI, startup technology, adaptive systems, lean development
+featured_image: /assets/images/blog/perfect-software-model-startups.png
+tags: [startups, software-architecture, agile, event-modeling, dynamic-business, lean-development, adaptive-systems]
 ---
 
 <div class="blog-post" markdown="1">
@@ -166,6 +173,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

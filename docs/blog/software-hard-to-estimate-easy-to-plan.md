@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Software is Hard to Estimate But Easy to Plan
+description: Accurate software estimation has always been a major problem. Learn from other industries and apply their methods to our tools with concrete examples.
+author: Martin Dilger
+date: December 2023
+category: Software Planning & Architecture
+keywords: software estimation, project planning, software architecture, estimation techniques, planning methods, event modeling, predictable delivery, software planning, estimation accuracy, project management
+featured_image: /assets/images/blog/software-hard-to-estimate-easy-to-plan.png
+tags: [estimation, planning, software-architecture, project-management, predictability, event-modeling, delivery]
 ---
 
 <div class="blog-post" markdown="1">
@@ -315,6 +322,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning ](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

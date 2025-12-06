@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: How Simple Should a Command Handler Be?
+description: Understanding Command Handler simplicity, purity, and practical rules for structuring your Event Sourcing code. Learn best practices for command handlers.
+author: Martin Dilger
+date: 2024-11-20
+category: Event Sourcing & Architecture
+keywords: command handlers, event sourcing, command handler design, CQRS, command pattern, event sourcing patterns, functional programming, pure functions
+featured_image: /assets/images/blog/command-handler-simplicity.png
+tags: [event-sourcing, command-handlers, cqrs, design-patterns, best-practices]
 ---
 
 <div class="blog-post" markdown="1">
@@ -121,6 +128,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

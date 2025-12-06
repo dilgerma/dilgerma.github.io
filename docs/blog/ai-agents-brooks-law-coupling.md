@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: If You Can't Add Developers and Go Faster, Adding AI Agents Won't Work Either
+description: The future of software isn't about coding speed - it's about solving the coupling problem we've ignored for decades. Brooks' Law applies to AI agents too.
+author: Martin Dilger
+date: 2025-11-12
+category: AI & Architecture
+keywords: AI agents, Brooks Law, software coupling, AI development, software architecture, team scaling, AI coding, coupling problem
+featured_image: /assets/images/blog/ai-agents-brooks-law.png
+tags: [ai, architecture, brooks-law, coupling, software-development]
 ---
 
 <div class="blog-post" markdown="1">
@@ -256,6 +263,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

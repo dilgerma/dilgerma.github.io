@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: 10 Learnings from 10 Years of Microservice Development
+description: How it all began and what I learned building microservices from 2014 to today. Essential learnings about microservice architecture, deployment, and team organization.
+author: Martin Dilger
+date: 2023-10-15
+category: Software Architecture & Microservices
+keywords: microservices, microservice architecture, distributed systems, software architecture, microservices best practices, service-oriented architecture, SOA, team organization, deployment strategies
+featured_image: /assets/images/blog/10-learnings-microservices.png
+tags: [microservices, architecture, distributed-systems, best-practices, lessons-learned]
 ---
 
 <div class="blog-post" markdown="1">
@@ -131,6 +138,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

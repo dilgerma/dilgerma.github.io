@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: The Internal Fix Price Model - Why Assuming the Risk Makes You a Better Developer
+description: When you assume the risk in fixed-price projects, you become a better developer. Discover how this powerful approach transforms project thinking.
+author: Martin Dilger
+date: November 29, 2025
+category: Event Modeling & Project Management
+keywords: fixed price model, project management, software development, risk management, developer mindset, project planning, consulting approach, internal pricing, team leadership, project success
+featured_image: /assets/images/blog/internal-fixprice-model.png
+tags: [project-management, fixed-price, risk-management, developer-growth, consulting, team-leadership, planning]
 ---
 
 <div class="blog-post" markdown="1">
@@ -195,6 +202,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

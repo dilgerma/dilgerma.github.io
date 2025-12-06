@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Aggregates, Sagas and an unresolved concurrency issue
+description: How to model the Bank Account example - simplified without unnecessary complexity. Understanding aggregates, sagas, and handling concurrency in event sourcing.
+author: Martin Dilger
+date: 2025-11-29
+category: Event Sourcing
+keywords: aggregates, sagas, concurrency, event sourcing, bank account example, DDD, process managers, optimistic concurrency
+featured_image: /assets/images/blog/aggregates-sagas-concurrency.png
+tags: [event-sourcing, aggregates, sagas, concurrency, ddd]
 ---
 
 <div class="blog-post" markdown="1">
@@ -111,6 +118,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

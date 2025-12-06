@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: Your wonderful microservice architecture? I don't care. Show me the coupling.
+description: The architecture diagram doesn't tell you anything - the coupling does. Learn why understanding coupling is more important than architecture patterns.
+author: Martin Dilger
+date: November 27, 2025
+category: Architecture & Coupling
+keywords: coupling, microservices, architecture analysis, system coupling, dependency analysis, microservice architecture, architectural patterns, system dependencies, coupling analysis, architecture quality
+featured_image: /assets/images/blog/show-me-the-coupling.png
+tags: [coupling, microservices, architecture, dependencies, system-analysis, architecture-quality, design-patterns]
 ---
 
 <div class="blog-post" markdown="1">
@@ -144,6 +151,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 

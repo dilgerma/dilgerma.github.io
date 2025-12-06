@@ -12,6 +12,14 @@ title: Event Modeling Podcast
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/podcast/episode-27' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 27 - AI Multipliers, Event Catalogs, and the New Event Modeling Mascot</h3>
+        <p class="blog-tile-subtitle">Adam introduces Leela, the event modeling wiener dog mascot, while discussing AI productivity multipliers, why event catalogs are unnecessary, and the future of software development</p>
+        <p class="blog-tile-meta">Episode 27 • AI, Tooling & Community</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/podcast/episode-26' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 26 - Immutability, Git History, and Event Sourcing</h3>

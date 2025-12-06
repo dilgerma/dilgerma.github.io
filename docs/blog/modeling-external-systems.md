@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: How to Model External Systems with Event Modeling - Information Flow vs Implementation
+description: Should you model external systems? The answer depends on context. Learn about black boxes, API calls, and information flow in Event Modeling.
+author: Martin Dilger
+date: November 29, 2025
+category: Event Modeling & System Design
+keywords: external systems modeling, black box modeling, API calls, information flow, event modeling patterns, system boundaries, integration modeling, external APIs, system design, architecture decisions
+featured_image: /assets/images/blog/modeling-external-systems.png
+tags: [event-modeling, external-systems, api-modeling, black-box, information-flow, system-boundaries, integration]
 ---
 
 <div class="blog-post" markdown="1">
@@ -139,6 +146,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>

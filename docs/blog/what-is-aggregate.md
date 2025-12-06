@@ -1,6 +1,13 @@
 ---
 layout: docs
 title: What is an Aggregate - and why I hate this question
+description: Understanding Aggregates through the lens of consistency and use cases, not objects. A practical guide to one of event sourcing's trickiest concepts.
+author: Martin Dilger
+date: November 29, 2025
+category: Event Sourcing
+keywords: aggregates, event sourcing, consistency boundaries, use cases, aggregate design, DDD aggregates, event sourcing patterns, consistency models, aggregate boundaries, domain-driven design
+featured_image: /assets/images/blog/what-is-aggregate.png
+tags: [aggregates, event-sourcing, ddd, consistency, use-cases, domain-driven-design, patterns]
 ---
 
 <div class="blog-post" markdown="1">
@@ -131,6 +138,8 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
+
+{% include related-posts.html %}
 
   </div>
 </div>
