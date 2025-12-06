@@ -5,7 +5,12 @@
       "Bash(do)",
       "Bash(if ! grep -q \"blog-post\" \"$file\")",
       "Bash(then)",
-      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff --stat docs/blog/)"
+      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff --stat docs/blog/)",
+      "Bash(jekyll build:*)",
+      "Bash(done)",
+      "Bash(grep:*)",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": [],
     "ask": []

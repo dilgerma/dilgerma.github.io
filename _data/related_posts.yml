@@ -1,0 +1,237 @@
+# Static related posts mapping
+# Format: blog-post-filename: [related-post-1, related-post-2, related-post-3]
+
+ai-agents-brooks-law-coupling:
+  - ai-event-modeling-enabler
+  - show-me-the-coupling
+  - 10-learnings-from-10-years-microservice-development
+
+ai-event-modeling-enabler:
+  - ai-agents-brooks-law-coupling
+  - collaborative-modeling-ai
+  - event-modeling-adoption
+
+event-modeling-adoption:
+  - bring-event-modeling-company
+  - event-modeling-workshop-2am
+  - ai-event-modeling-enabler
+
+bring-event-modeling-company:
+  - event-modeling-adoption
+  - event-modeling-workshop-2am
+  - seven-event-modeling-insights
+
+event-modeling-workshop-2am:
+  - event-modeling-adoption
+  - bring-event-modeling-company
+  - collaborative-modeling-ai
+
+event-modeling-library-example:
+  - eventmodeling-with-given-when-then
+  - modeling-branches
+  - seven-event-modeling-insights
+
+event-modeling-anti-patterns:
+  - the-wall-pattern-that-kills-projects
+  - red-sticky-notes-knowledge-gaps
+  - seven-event-modeling-insights
+
+event-modeling-conference-munich:
+  - event-modeling-adoption
+  - collaborative-modeling-ai
+  - seven-event-modeling-insights
+
+modeling-branches:
+  - modeling-branches-newsletter
+  - eventmodeling-with-given-when-then
+  - modeling-external-systems
+
+modeling-branches-newsletter:
+  - modeling-branches
+  - eventmodeling-with-given-when-then
+  - modeling-external-systems-newsletter
+
+modeling-external-systems:
+  - modeling-external-systems-newsletter
+  - integrating-legacy-systems-cdc
+  - modeling-branches
+
+modeling-external-systems-newsletter:
+  - modeling-external-systems
+  - integrating-legacy-systems-cdc
+  - modeling-branches-newsletter
+
+eventmodeling-with-given-when-then:
+  - event-modeling-library-example
+  - modeling-branches
+  - command-handler-simplicity
+
+collaborative-modeling-ai:
+  - ai-event-modeling-enabler
+  - ai-agents-brooks-law-coupling
+  - event-modeling-workshop-2am
+
+event-sourcing-simple:
+  - event-sourcing-misconceptions
+  - event-sourcing-when-not-to
+  - what-is-aggregate
+
+event-sourcing-misconceptions:
+  - event-sourcing-simple
+  - event-sourcing-when-not-to
+  - aggregate-state-projections
+
+event-sourcing-when-not-to:
+  - event-sourcing-simple
+  - event-sourcing-misconceptions
+  - state-based-systems-doomed-to-fail
+
+versioning-event-sourcing-elephant-room:
+  - event-sourcing-simple
+  - event-sourcing-misconceptions
+  - aggregate-state-projections
+
+what-is-aggregate:
+  - aggregates-sagas-concurrency
+  - aggregate-state-projections
+  - command-handler-simplicity
+
+aggregates-sagas-concurrency:
+  - what-is-aggregate
+  - aggregate-state-projections
+  - command-handler-simplicity
+
+aggregate-state-projections:
+  - what-is-aggregate
+  - aggregates-sagas-concurrency
+  - event-sourcing-misconceptions
+
+command-handler-simplicity:
+  - what-is-aggregate
+  - eventmodeling-with-given-when-then
+  - cqrs-real-world-architecture
+
+cqrs-real-world-architecture:
+  - command-handler-simplicity
+  - event-sourcing-simple
+  - aggregates-sagas-concurrency
+
+state-based-systems-doomed-to-fail:
+  - event-sourcing-when-not-to
+  - event-sourcing-simple
+  - protecting-systems-seismic-shifts
+
+protecting-systems-seismic-shifts:
+  - state-based-systems-doomed-to-fail
+  - dont-rewrite-legacy-system
+  - documenting-legacy-systems-event-modeling
+
+dont-rewrite-legacy-system:
+  - documenting-legacy-systems-event-modeling
+  - 300-column-database-legacy
+  - integrating-legacy-systems-cdc
+
+documenting-legacy-systems-event-modeling:
+  - documenting-software-with-event-modeling
+  - dont-rewrite-legacy-system
+  - integrating-legacy-systems-cdc
+
+documenting-software-with-event-modeling:
+  - documenting-legacy-systems-event-modeling
+  - event-modeling-library-example
+  - seven-event-modeling-insights
+
+integrating-legacy-systems-cdc:
+  - dont-rewrite-legacy-system
+  - documenting-legacy-systems-event-modeling
+  - modeling-external-systems
+
+300-column-database-legacy:
+  - dont-rewrite-legacy-system
+  - documenting-legacy-systems-event-modeling
+  - integrating-legacy-systems-cdc
+
+10-learnings-from-10-years-microservice-development:
+  - show-me-the-coupling
+  - choreography-orchestration-newsletter
+  - ai-agents-brooks-law-coupling
+
+show-me-the-coupling:
+  - ai-agents-brooks-law-coupling
+  - code-reuse-problem
+  - 10-learnings-from-10-years-microservice-development
+
+code-reuse-problem:
+  - code-reuse-newsletter
+  - show-me-the-coupling
+  - the-wall-pattern-that-kills-projects
+
+code-reuse-newsletter:
+  - code-reuse-problem
+  - show-me-the-coupling
+  - maintainable-models-newsletter
+
+choreography-orchestration-newsletter:
+  - 10-learnings-from-10-years-microservice-development
+  - modeling-asynchronous-processes-with-event-modeling
+  - aggregates-sagas-concurrency
+
+modeling-asynchronous-processes-with-event-modeling:
+  - choreography-orchestration-newsletter
+  - eventmodeling-with-given-when-then
+  - modeling-branches
+
+the-wall-pattern-that-kills-projects:
+  - red-sticky-notes-knowledge-gaps
+  - event-modeling-anti-patterns
+  - planning-software-slices
+
+red-sticky-notes-knowledge-gaps:
+  - the-wall-pattern-that-kills-projects
+  - event-modeling-anti-patterns
+  - collaborative-modeling-ai
+
+planning-software-slices:
+  - software-hard-to-estimate-easy-to-plan
+  - 80-percent-planning
+  - the-wall-pattern-that-kills-projects
+
+software-hard-to-estimate-easy-to-plan:
+  - planning-software-slices
+  - 80-percent-planning
+  - internal-fixprice-model
+
+80-percent-planning:
+  - planning-software-slices
+  - software-hard-to-estimate-easy-to-plan
+  - productive-builder-focus-software-developer
+
+internal-fixprice-model:
+  - software-hard-to-estimate-easy-to-plan
+  - planning-software-slices
+  - 80-percent-planning
+
+productive-builder-focus-software-developer:
+  - 80-percent-planning
+  - internal-fixprice-model
+  - software-hard-to-estimate-easy-to-plan
+
+perfect-software-model-startups:
+  - planning-software-slices
+  - event-sourcing-simple
+  - bring-event-modeling-company
+
+seven-event-modeling-insights:
+  - event-modeling-library-example
+  - event-modeling-anti-patterns
+  - documenting-software-with-event-modeling
+
+maintainable-models-newsletter:
+  - seven-event-modeling-insights
+  - event-modeling-anti-patterns
+  - code-reuse-newsletter
+
+messaging-lesson-history:
+  - choreography-orchestration-newsletter
+  - modeling-asynchronous-processes-with-event-modeling
+  - 10-learnings-from-10-years-microservice-development
