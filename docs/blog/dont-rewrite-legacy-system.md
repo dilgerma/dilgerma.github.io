@@ -189,6 +189,9 @@ title: Please Don't Rewrite Your Legacy System
 
     <p>That's when the team realizes what's making everything so hard. Not the business logic. Not the technology. The architecture is fighting itself.</p>
 
+    <script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
+
     <h2>The Path Forward: Transparency Above All</h2>
     <p>All of this - the Event Models, the git analysis, the integration mapping, exposing the Larries - it's all about one thing:</p>
 
@@ -218,8 +221,6 @@ title: Please Don't Rewrite Your Legacy System
     <p>Because every successful modernization project starts with a plan.</p>
 
     <p>Make sure you have one.</p>
-
-    <script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
     <div class="info-box">
       <p><strong>Get the Recording:</strong> I recently gave a webinar showing how to map legacy systems with Event Modeling and AI. Comment "LEGACY" if you want the link to the recording.</p>
