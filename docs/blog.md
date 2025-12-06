@@ -12,6 +12,17 @@ title: Blog
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/dont-rewrite-legacy-system' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/legacy-system-rewrite.png' | relative_url }}" alt="Please Don't Rewrite Your Legacy System">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Please Don't Rewrite Your Legacy System</h3>
+        <p class="blog-tile-subtitle">Why your legacy codebase is a treasure trove of expensive knowledge and how to modernize without starting over</p>
+        <p class="blog-tile-meta">December 6, 2025 • 15 min read • Architecture</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/productive-builder-focus-software-developer' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/productive-builder-1.png' | relative_url }}" alt="The productive Builder">
