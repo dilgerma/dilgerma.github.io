@@ -19,7 +19,7 @@ permalink: /eventmodeling-book/
         <a href="https://www.amazon.de/dp/B0DPZW5TRK" class="cta-button secondary" target="_blank" rel="noopener noreferrer">Buy the Print Edition</a>
       </div>
     </div>
-      <img style={"width":"60%"} src="{{ '/assets/images/book-cover.png' | relative_url }}" alt="Understanding Event Modeling Book Cover" />
+      <img  style="width:60%;" src="{{ '/assets/images/book-cover.png' | relative_url }}" alt="Understanding Event Modeling Book Cover" />
   </div>
 </div>
 
