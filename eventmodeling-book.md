@@ -10,19 +10,16 @@ permalink: /eventmodeling-book/
 <div class="hero">
   <div class="hero-content">
     <div class="hero-text">
-      <h1>Understanding Event Modeling</h1>
-      <p class="subtitle">Planning and Implementing Modern Systems with Event Modeling</p>
+      <h1>Understanding Eventsourcing</h1>
       <p class="tagline">A really new way to look at software development in 2025 and beyond</p>
       <p class="featured-quote">"The first comprehensive guide combining Event Modeling with practical implementation patterns in one consistent software process"</p>
 
       <div class="cta-buttons">
-        <a href="https://leanpub.com/eventmodeling" class="cta-button primary" target="_blank" rel="noopener noreferrer">Buy the Ebook</a>
+        <a href="https://leanpub.com/eventmodeling-and-eventsourcing" class="cta-button primary" target="_blank" rel="noopener noreferrer">Buy the Ebook</a>
         <a href="https://www.amazon.de/dp/B0DPZW5TRK" class="cta-button secondary" target="_blank" rel="noopener noreferrer">Buy the Print Edition</a>
       </div>
     </div>
-    <div class="hero-image">
       <img src="{{ '/assets/images/book-cover.png' | relative_url }}" alt="Understanding Event Modeling Book Cover" />
-    </div>
   </div>
 </div>
 
