@@ -1,0 +1,259 @@
+---
+layout: default
+title: Understanding Event Modeling - The Comprehensive Guide
+description: The first comprehensive guide to Event Modeling - learn how to design and implement event-driven systems with visual collaboration and practical patterns.
+keywords: event modeling, event-driven architecture, software design, visual modeling, collaborative modeling, system design
+author: Martin Dilger
+permalink: /eventmodeling-book/
+---
+
+<div class="hero">
+  <h1>Understanding Event Modeling</h1>
+  <p class="subtitle">Planning and Implementing Modern Systems with Event Modeling</p>
+  <p class="tagline">A really new way to look at software development in 2025 and beyond</p>
+  <p class="featured-quote">"The first comprehensive guide combining Event Modeling with practical implementation patterns in one consistent software process"</p>
+
+  <div class="cta-buttons">
+    <a href="https://leanpub.com/eventmodeling" class="cta-button primary" target="_blank" rel="noopener noreferrer">Buy the Ebook</a>
+    <a href="https://www.amazon.de/dp/B0DPZW5TRK" class="cta-button secondary" target="_blank" rel="noopener noreferrer">Buy the Print Edition</a>
+  </div>
+</div>
+
+<section class="why-section">
+  <h2>Why This Book?</h2>
+  <p>After 20 years in software development, exploring various architectural approaches from Agile to SOA to Microservices, I discovered Event Modeling in 2021. It transformed how I think about building software.</p>
+  <p>The challenge? There were almost no practical resources showing how to actually implement Event Modeling in real systems. The learning curve was steep, taking years to master.</p>
+  <p>This book changes that. It's the comprehensive guide I wish I had when starting with Event Modeling - combining theory, practice, and real-world implementation patterns.</p>
+</section>
+
+<section class="testimonials">
+  <h2>What Readers Say</h2>
+  <div class="testimonial-grid">
+    <blockquote class="testimonial">
+      <p>"A practical, hands-on guide that bridges the gap between Event Modeling theory and actual implementation. Exactly what the industry needed."</p>
+      <cite>- Gabriel N. Schenker</cite>
+    </blockquote>
+    <blockquote class="testimonial">
+      <p>"Clear, actionable, and transformative. This book changed how our team approaches system design."</p>
+      <cite>- Adam Dymitruk</cite>
+    </blockquote>
+  </div>
+</section>
+
+<section class="content-overview">
+  <h2>What You'll Learn</h2>
+
+  <div class="content-parts">
+    <div class="content-part">
+      <h3>Part 1: Foundations</h3>
+      <p>9 chapters covering core Event Modeling concepts, principles, and when to use them</p>
+    </div>
+
+    <div class="content-part">
+      <h3>Part 2: Modeling the System</h3>
+      <p>9 chapters on practical modeling techniques, facilitation, and collaboration patterns</p>
+    </div>
+
+    <div class="content-part">
+      <h3>Part 3: From Zero to Running Software</h3>
+      <p>11 chapters walking through complete implementation with working code examples</p>
+    </div>
+
+    <div class="content-part">
+      <h3>Part 4: Implementation Patterns</h3>
+      <p>11 chapters of reusable patterns and solutions for common challenges</p>
+    </div>
+  </div>
+</section>
+
+<section class="technology-stack">
+  <h2>Technology Stack</h2>
+  <p>Real-world examples using modern technologies:</p>
+  <ul>
+    <li>Kotlin</li>
+    <li>Spring Framework</li>
+    <li>Apache Kafka</li>
+    <li>Axon Framework</li>
+  </ul>
+  <p><em>Note: The principles are implementation-agnostic and can be applied with any technology stack.</em></p>
+</section>
+
+<section class="ongoing-content">
+  <h2>Living Book - Continuous Updates</h2>
+  <p>New chapters added every two weeks on Leanpub, covering:</p>
+  <ul>
+    <li>Metadata handling and event enrichment</li>
+    <li>Security implementation patterns</li>
+    <li>GDPR compliance and data privacy</li>
+    <li>Sensitive data management</li>
+    <li>UI design for event-driven systems</li>
+    <li>API design patterns</li>
+    <li>Legacy system integration strategies</li>
+  </ul>
+</section>
+
+<section class="cta-final">
+  <h2>Start Your Event Modeling Journey</h2>
+  <div class="cta-buttons">
+    <a href="https://leanpub.com/eventmodeling" class="cta-button primary" target="_blank" rel="noopener noreferrer">Buy the Ebook</a>
+    <a href="https://www.amazon.de/dp/B0DPZW5TRK" class="cta-button secondary" target="_blank" rel="noopener noreferrer">Buy the Print Edition</a>
+  </div>
+</section>
+
+<section>
+  <div class="newsletter-container">
+    <script async data-uid="548f1eb492" src="https://nebulit-gmbh.kit.com/548f1eb492/index.js"></script>
+  </div>
+</section>
+
+<style>
+.hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 3rem;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.featured-quote {
+  font-size: 1rem;
+  max-width: 800px;
+  margin: 1.5rem auto;
+  padding: 1rem;
+  background: rgba(255,255,255,0.1);
+  border-radius: 5px;
+}
+
+.cta-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.cta-button.primary {
+  background: #f59e0b;
+  color: white;
+}
+
+.cta-button.secondary {
+  background: white;
+  color: #667eea;
+}
+
+.cta-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+.why-section, .testimonials, .content-overview, .technology-stack, .ongoing-content, .cta-final {
+  margin: 3rem 0;
+  padding: 2rem;
+}
+
+.testimonial-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.testimonial {
+  padding: 1.5rem;
+  background: #f3f4f6;
+  border-left: 4px solid #667eea;
+  border-radius: 5px;
+}
+
+.testimonial cite {
+  display: block;
+  margin-top: 1rem;
+  font-style: italic;
+  color: #6b7280;
+}
+
+.content-parts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.content-part {
+  padding: 1.5rem;
+  background: #f9fafb;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+}
+
+.content-part h3 {
+  color: #667eea;
+  margin-bottom: 0.5rem;
+}
+
+.technology-stack ul, .ongoing-content ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.technology-stack li, .ongoing-content li {
+  padding: 0.5rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.technology-stack li:before, .ongoing-content li:before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: #667eea;
+}
+
+.cta-final {
+  text-align: center;
+  background: #f9fafb;
+  border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .cta-buttons {
+    flex-direction: column;
+  }
+
+  .content-parts {
+    grid-template-columns: 1fr;
+  }
+}
+</style>

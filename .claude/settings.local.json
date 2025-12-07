@@ -16,7 +16,9 @@
       "Bash(while read file)",
       "Bash(python3:*)",
       "Bash(pip3 install:*)",
-      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-modeling-adoption.md)"
+      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-modeling-adoption.md)",
+      "WebFetch(domain:eventsourcingbook.com)",
+      "Bash(find:*)"
     ],
     "deny": [],
     "ask": []

@@ -208,5 +208,25 @@
         Podcast
       </a>
     </li>
+    <li>
+      <a href="#"
+         {% if page.url contains '/docs/eventsourcing-faq' or page.url contains '/docs/eventmodeling-faq' %}class="active"{% endif %}>
+        FAQ
+      </a>
+      <ul class="nav-submenu">
+        <li>
+          <a href="{{ '/docs/eventsourcing-faq' | relative_url }}"
+             {% if page.url contains '/docs/eventsourcing-faq' %}class="active"{% endif %}>
+            Event Sourcing FAQ
+          </a>
+        </li>
+        <li>
+          <a href="{{ '/docs/eventmodeling-faq' | relative_url }}"
+             {% if page.url contains '/docs/eventmodeling-faq' %}class="active"{% endif %}>
+            Event Modeling FAQ
+          </a>
+        </li>
+      </ul>
+    </li>
   </ul>
 </nav>
