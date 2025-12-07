@@ -10,7 +10,11 @@
       "Bash(done)",
       "Bash(grep:*)",
       "Bash(ls:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(for file in docs/blog/*.md)",
+      "Bash(do echo '=== $(basename $file) ===' grep -E \"^title:|^tags:\" $file)",
+      "Bash(while read file)",
+      "Bash(python3:*)"
     ],
     "deny": [],
     "ask": []
