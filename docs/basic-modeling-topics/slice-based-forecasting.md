@@ -21,6 +21,15 @@ Here you see a Report of your current progress.
 
 ![Screen Drawer]({{ '/assets/images/tutorial/forecast/forecast002.png' | relative_url }})
 
+The Report is calculated based on the Model. 
+
+1) Number of "Done" Slices
+
+2) Number of Open Slices
+
+3) This Project is 76% Done
+
+4) Slice Status Distribution ( how many slices are in which status )
 
 ## Next Steps
 
