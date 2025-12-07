@@ -135,4 +135,29 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/modeling-branches-newsletter' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Modeling Branches Newsletter</h3>
+        <p>Techniques for modeling conditional flows</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/documenting-software-with-event-modeling' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Documenting Software with Event Modeling</h3>
+        <p>Creating living documentation with Event Modeling</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/modeling-branches' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Modeling Branches in Event Modeling</h3>
+        <p>How to handle branching logic in your models</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>

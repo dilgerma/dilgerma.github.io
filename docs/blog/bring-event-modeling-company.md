@@ -164,7 +164,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/collaborative-modeling-ai' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Collaborative Modeling with AI</h3>
+        <p>How AI enhances collaborative modeling sessions</p>
+        <span class="related-post-meta">AI & Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/event-modeling-adoption' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Why Your Event Modeling Workshop Didn't Stick</h3>
+        <p>Event Modeling doesn't fail in isolation. It fails at the breaks in your value chain.</p>
+        <span class="related-post-meta">Event Modeling & Adoption • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/modeling-asynchronous-processes-with-event-modeling' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Modeling Asynchronous Processes with Event Modeling</h3>
+        <p>Practical techniques for modeling async workflows</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

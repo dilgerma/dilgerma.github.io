@@ -183,7 +183,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/software-hard-to-estimate-easy-to-plan' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Software Is Hard to Estimate, Easy to Plan</h3>
+        <p>Why planning works better than estimating</p>
+        <span class="related-post-meta">Planning • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/internal-fixprice-model' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>The Internal Fixed-Price Model</h3>
+        <p>How to make internal projects more predictable</p>
+        <span class="related-post-meta">Planning • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/red-sticky-notes-knowledge-gaps' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Red Sticky Notes and Knowledge Gaps</h3>
+        <p>Using red sticky notes to identify and track unknowns</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

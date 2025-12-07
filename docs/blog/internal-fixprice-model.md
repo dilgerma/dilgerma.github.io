@@ -203,7 +203,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/planning-software-slices' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Planning Software Slices</h3>
+        <p>How to slice features for parallel development</p>
+        <span class="related-post-meta">Planning • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/software-hard-to-estimate-easy-to-plan' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Software Is Hard to Estimate, Easy to Plan</h3>
+        <p>Why planning works better than estimating</p>
+        <span class="related-post-meta">Planning • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/80-percent-planning' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>The 80% Planning Rule</h3>
+        <p>Why stopping at 80% planning accelerates delivery</p>
+        <span class="related-post-meta">Planning • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

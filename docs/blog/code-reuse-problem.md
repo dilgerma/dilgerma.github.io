@@ -133,7 +133,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/code-reuse-newsletter' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>The Code Reuse Problem Newsletter</h3>
+        <p>Why code reuse often creates more problems than it solves</p>
+        <span class="related-post-meta">Software Design • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/10-learnings-from-10-years-microservice-development' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>10 Learnings from 10 Years of Microservice Development</h3>
+        <p>Hard-won lessons from a decade of building distributed systems</p>
+        <span class="related-post-meta">Microservices • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/ai-agents-brooks-law-coupling' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>AI Agents, Brooks' Law, and Coupling</h3>
+        <p>How AI agents change the dynamics of software development</p>
+        <span class="related-post-meta">AI & Software • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

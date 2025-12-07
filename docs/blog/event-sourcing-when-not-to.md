@@ -215,7 +215,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/command-handler-simplicity' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Command Handler Simplicity</h3>
+        <p>How to keep command handlers simple and maintainable</p>
+        <span class="related-post-meta">Event Sourcing • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/event-modeling-anti-patterns' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Event Modeling Anti-Patterns</h3>
+        <p>Common mistakes to avoid when using Event Modeling</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/event-sourcing-misconceptions' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Event Sourcing Doesn't Mean Everything Must Be Event Sourced</h3>
+        <p>Clearing up one of the biggest misconceptions about Event Sourcing</p>
+        <span class="related-post-meta">Event Sourcing • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

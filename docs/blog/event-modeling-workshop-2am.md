@@ -169,7 +169,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/event-modeling-conference-munich' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Event Modeling Conference Munich</h3>
+        <p>Key takeaways from the Event Modeling Conference</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/event-modeling-adoption' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Why Your Event Modeling Workshop Didn't Stick</h3>
+        <p>Event Modeling doesn't fail in isolation. It fails at the breaks in your value chain.</p>
+        <span class="related-post-meta">Event Modeling & Adoption • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/event-modeling-anti-patterns' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Event Modeling Anti-Patterns</h3>
+        <p>Common mistakes to avoid when using Event Modeling</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 

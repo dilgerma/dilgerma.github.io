@@ -111,7 +111,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/aggregates-sagas-concurrency' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Aggregates, Sagas, and Concurrency</h3>
+        <p>Managing concurrent operations in event-sourced systems</p>
+        <span class="related-post-meta">Event Sourcing • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/what-is-aggregate' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>What Is an Aggregate?</h3>
+        <p>Understanding aggregates in domain-driven design</p>
+        <span class="related-post-meta">Event Sourcing • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/command-handler-simplicity' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Command Handler Simplicity</h3>
+        <p>How to keep command handlers simple and maintainable</p>
+        <span class="related-post-meta">Event Sourcing • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

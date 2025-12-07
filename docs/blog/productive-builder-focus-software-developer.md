@@ -322,7 +322,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/ai-agents-brooks-law-coupling' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>AI Agents, Brooks' Law, and Coupling</h3>
+        <p>How AI agents change the dynamics of software development</p>
+        <span class="related-post-meta">AI & Software • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/ai-event-modeling-enabler' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>How Event Modeling Became the Perfect AI Enabler</h3>
+        <p>AI is the accelerant. Event Modeling is the structure that makes it work.</p>
+        <span class="related-post-meta">AI & Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/documenting-software-with-event-modeling' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Documenting Software with Event Modeling</h3>
+        <p>Creating living documentation with Event Modeling</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

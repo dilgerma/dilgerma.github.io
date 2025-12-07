@@ -323,7 +323,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning ](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/planning-software-slices' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Planning Software Slices</h3>
+        <p>How to slice features for parallel development</p>
+        <span class="related-post-meta">Planning • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/documenting-legacy-systems-event-modeling' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Documenting Legacy Systems with Event Modeling</h3>
+        <p>Using Event Modeling to understand and document legacy systems</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/internal-fixprice-model' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>The Internal Fixed-Price Model</h3>
+        <p>How to make internal projects more predictable</p>
+        <span class="related-post-meta">Planning • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

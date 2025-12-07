@@ -124,7 +124,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/10-learnings-from-10-years-microservice-development' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>10 Learnings from 10 Years of Microservice Development</h3>
+        <p>Hard-won lessons from a decade of building distributed systems</p>
+        <span class="related-post-meta">Microservices • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/documenting-software-with-event-modeling' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Documenting Software with Event Modeling</h3>
+        <p>Creating living documentation with Event Modeling</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/event-modeling-anti-patterns' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Event Modeling Anti-Patterns</h3>
+        <p>Common mistakes to avoid when using Event Modeling</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

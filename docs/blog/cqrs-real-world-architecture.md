@@ -190,7 +190,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/event-sourcing-misconceptions' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Event Sourcing Doesn't Mean Everything Must Be Event Sourced</h3>
+        <p>Clearing up one of the biggest misconceptions about Event Sourcing</p>
+        <span class="related-post-meta">Event Sourcing • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/aggregate-state-projections' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Aggregate State and Projections</h3>
+        <p>Understanding the relationship between aggregates and projections</p>
+        <span class="related-post-meta">Event Sourcing • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/choreography-orchestration-newsletter' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Choreography vs Orchestration</h3>
+        <p>Choosing the right pattern for distributed systems</p>
+        <span class="related-post-meta">Architecture • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 

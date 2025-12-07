@@ -105,7 +105,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/300-column-database-legacy' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>The 300-Column Database: A Legacy System Horror Story</h3>
+        <p>How a monolithic database became a cautionary tale</p>
+        <span class="related-post-meta">Legacy Systems • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/dont-rewrite-legacy-system' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Don't Rewrite Your Legacy System</h3>
+        <p>Why rewriting from scratch usually fails</p>
+        <span class="related-post-meta">Legacy Systems • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/documenting-legacy-systems-event-modeling' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Documenting Legacy Systems with Event Modeling</h3>
+        <p>Using Event Modeling to understand and document legacy systems</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

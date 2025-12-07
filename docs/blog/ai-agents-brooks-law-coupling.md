@@ -264,7 +264,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/ai-event-modeling-enabler' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>How Event Modeling Became the Perfect AI Enabler</h3>
+        <p>AI is the accelerant. Event Modeling is the structure that makes it work.</p>
+        <span class="related-post-meta">AI & Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/code-reuse-newsletter' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>The Code Reuse Problem Newsletter</h3>
+        <p>Why code reuse often creates more problems than it solves</p>
+        <span class="related-post-meta">Software Design • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/code-reuse-problem' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>The Code Reuse Problem</h3>
+        <p>Understanding the hidden costs of code reuse</p>
+        <span class="related-post-meta">Software Design • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

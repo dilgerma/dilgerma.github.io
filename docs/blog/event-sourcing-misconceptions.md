@@ -129,7 +129,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/cqrs-real-world-architecture' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>CQRS in Real-World Architecture</h3>
+        <p>Practical guidance on implementing CQRS in production systems</p>
+        <span class="related-post-meta">Architecture • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/command-handler-simplicity' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Command Handler Simplicity</h3>
+        <p>How to keep command handlers simple and maintainable</p>
+        <span class="related-post-meta">Event Sourcing • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/10-learnings-from-10-years-microservice-development' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>10 Learnings from 10 Years of Microservice Development</h3>
+        <p>Hard-won lessons from a decade of building distributed systems</p>
+        <span class="related-post-meta">Microservices • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

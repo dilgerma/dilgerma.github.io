@@ -157,4 +157,29 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/ai-event-modeling-enabler' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>How Event Modeling Became the Perfect AI Enabler</h3>
+        <p>AI is the accelerant. Event Modeling is the structure that makes it work.</p>
+        <span class="related-post-meta">AI & Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/documenting-legacy-systems-event-modeling' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Documenting Legacy Systems with Event Modeling</h3>
+        <p>Using Event Modeling to understand and document legacy systems</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/event-modeling-anti-patterns' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Event Modeling Anti-Patterns</h3>
+        <p>Common mistakes to avoid when using Event Modeling</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>

@@ -14,7 +14,9 @@
       "Bash(for file in docs/blog/*.md)",
       "Bash(do echo '=== $(basename $file) ===' grep -E \"^title:|^tags:\" $file)",
       "Bash(while read file)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-modeling-adoption.md)"
     ],
     "deny": [],
     "ask": []

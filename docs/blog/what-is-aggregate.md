@@ -139,7 +139,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/aggregate-state-projections' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Aggregate State and Projections</h3>
+        <p>Understanding the relationship between aggregates and projections</p>
+        <span class="related-post-meta">Event Sourcing • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/aggregates-sagas-concurrency' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Aggregates, Sagas, and Concurrency</h3>
+        <p>Managing concurrent operations in event-sourced systems</p>
+        <span class="related-post-meta">Event Sourcing • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/cqrs-real-world-architecture' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>CQRS in Real-World Architecture</h3>
+        <p>Practical guidance on implementing CQRS in production systems</p>
+        <span class="related-post-meta">Architecture • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>

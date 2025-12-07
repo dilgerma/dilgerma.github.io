@@ -455,7 +455,32 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
 
-{% include related-posts.html %}
+<section class="related-posts">
+  <h2>Related Articles</h2>
+  <div class="related-posts-grid">
+    <a href="{{ '/docs/blog/event-modeling-workshop-2am' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>The Event Modeling Workshop That Went Until 2 AM</h3>
+        <p>When a workshop becomes a breakthrough moment</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/event-modeling-anti-patterns' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>Event Modeling Anti-Patterns</h3>
+        <p>Common mistakes to avoid when using Event Modeling</p>
+        <span class="related-post-meta">Event Modeling • November 2025</span>
+      </div>
+    </a>
+    <a href="{{ '/docs/blog/state-based-systems-doomed-to-fail' | relative_url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3>State-Based Systems Are Doomed to Fail</h3>
+        <p>Why adding features accelerates system decay and how understanding events changes everything</p>
+        <span class="related-post-meta">Architecture • November 2025</span>
+      </div>
+    </a>
+  </div>
+</section>
 
   </div>
 </div>
