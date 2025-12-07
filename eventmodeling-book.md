@@ -8,14 +8,21 @@ permalink: /eventmodeling-book/
 ---
 
 <div class="hero">
-  <h1>Understanding Event Modeling</h1>
-  <p class="subtitle">Planning and Implementing Modern Systems with Event Modeling</p>
-  <p class="tagline">A really new way to look at software development in 2025 and beyond</p>
-  <p class="featured-quote">"The first comprehensive guide combining Event Modeling with practical implementation patterns in one consistent software process"</p>
+  <div class="hero-content">
+    <div class="hero-text">
+      <h1>Understanding Event Modeling</h1>
+      <p class="subtitle">Planning and Implementing Modern Systems with Event Modeling</p>
+      <p class="tagline">A really new way to look at software development in 2025 and beyond</p>
+      <p class="featured-quote">"The first comprehensive guide combining Event Modeling with practical implementation patterns in one consistent software process"</p>
 
-  <div class="cta-buttons">
-    <a href="https://leanpub.com/eventmodeling" class="cta-button primary" target="_blank" rel="noopener noreferrer">Buy the Ebook</a>
-    <a href="https://www.amazon.de/dp/B0DPZW5TRK" class="cta-button secondary" target="_blank" rel="noopener noreferrer">Buy the Print Edition</a>
+      <div class="cta-buttons">
+        <a href="https://leanpub.com/eventmodeling" class="cta-button primary" target="_blank" rel="noopener noreferrer">Buy the Ebook</a>
+        <a href="https://www.amazon.de/dp/B0DPZW5TRK" class="cta-button secondary" target="_blank" rel="noopener noreferrer">Buy the Print Edition</a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <img src="{{ '/assets/images/book-cover.png' | relative_url }}" alt="Understanding Event Modeling Book Cover" />
+    </div>
   </div>
 </div>
 
@@ -30,12 +37,36 @@ permalink: /eventmodeling-book/
   <h2>What Readers Say</h2>
   <div class="testimonial-grid">
     <blockquote class="testimonial">
-      <p>"A practical, hands-on guide that bridges the gap between Event Modeling theory and actual implementation. Exactly what the industry needed."</p>
+      <p>"This is not just another technical book—it's a roadmap to more predictable, maintainable, and successful software projects."</p>
       <cite>- Gabriel N. Schenker</cite>
     </blockquote>
     <blockquote class="testimonial">
-      <p>"Clear, actionable, and transformative. This book changed how our team approaches system design."</p>
+      <p>"By reading this book, you won't just learn new techniques — you'll transform the way you approach software development."</p>
       <cite>- Adam Dymitruk</cite>
+    </blockquote>
+    <blockquote class="testimonial">
+      <p>"Focusing on a practical implementation really worked for me. I appreciate the work you have done here."</p>
+      <cite>- Gary Craine</cite>
+    </blockquote>
+    <blockquote class="testimonial">
+      <p>"Highly recommended reading"</p>
+      <cite>- Michael Plagge</cite>
+    </blockquote>
+    <blockquote class="testimonial">
+      <p>"Thanks for writing the book, it will save me so much time and toil. I really like the Todo pattern to simplify the Saga."</p>
+      <cite>- William Power</cite>
+    </blockquote>
+    <blockquote class="testimonial">
+      <p>"The book is packed with knowledge and provides concrete example implementations. It advances the entire topic."</p>
+      <cite>- Sebastian Bortz</cite>
+    </blockquote>
+    <blockquote class="testimonial">
+      <p>"The book is really great, practical, easy to read!"</p>
+      <cite>- Vincent Vermesh</cite>
+    </blockquote>
+    <blockquote class="testimonial">
+      <p>"I just finished reading Part 1 of your book, and I'm thrilled. The book has truly captivated me—I can't stop reading!"</p>
+      <cite>- Domenic Cassisi</cite>
     </blockquote>
   </div>
 </section>
@@ -108,12 +139,35 @@ permalink: /eventmodeling-book/
 
 <style>
 .hero {
-  text-align: center;
   padding: 3rem 1rem;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
   border-radius: 10px;
   margin-bottom: 3rem;
+}
+
+.hero-content {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.hero-text {
+  flex: 1;
+  text-align: center;
+}
+
+.hero-image {
+  flex: 0 0 300px;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
 }
 
 .hero h1 {
@@ -244,6 +298,16 @@ permalink: /eventmodeling-book/
 }
 
 @media (max-width: 768px) {
+  .hero-content {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .hero-image {
+    flex: 0 0 auto;
+    max-width: 250px;
+  }
+
   .hero h1 {
     font-size: 1.8rem;
   }

@@ -176,7 +176,8 @@
       </a>
     </li>
     <li>
-      <a href="https://www.eventsourcingbook.com" target="_blank" rel="noopener noreferrer">
+      <a href="{{ '/eventmodeling-book' | relative_url }}"
+         {% if page.url == '/eventmodeling-book/' or page.url == '/eventmodeling-book.html' %}class="active"{% endif %}>
         The Book
       </a>
     </li>

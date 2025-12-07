@@ -18,7 +18,9 @@
       "Bash(pip3 install:*)",
       "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-modeling-adoption.md)",
       "WebFetch(domain:eventsourcingbook.com)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(curl:*)",
+      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff --stat)"
     ],
     "deny": [],
     "ask": []
