@@ -23,6 +23,15 @@ permalink: /eventmodeling-book/
   </div>
 </div>
 
+<section class="notification-section">
+  <div class="notification-box">
+    <h3>Want to apply the book's knowledge directly?</h3>
+    <p>Read the book and work through the Companion Online Course.</p>
+    <p>Get hands-on practice with real-world implementations and deepen your understanding through guided exercises.</p>
+    <p><a href="https://www.eventsourcingcourse.com" class="course-link" target="_blank" rel="noopener noreferrer">Visit the Event Sourcing Course →</a></p>
+  </div>
+</section>
+
 <section class="why-section">
   <h2>Why This Book?</h2>
   <p>After 20 years in software development, exploring various architectural approaches from Agile to SOA to Microservices, I discovered Event Modeling in 2021. It transformed how I think about building software.</p>
@@ -223,6 +232,46 @@ permalink: /eventmodeling-book/
 .cta-button:hover {
   transform: translateY(-2px);
   box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+.notification-section {
+  margin: 2rem 0;
+  padding: 0 1rem;
+}
+
+.notification-box {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(245, 158, 11, 0.3);
+}
+
+.notification-box h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.notification-box p {
+  margin: 0.75rem 0;
+  font-size: 1.1rem;
+}
+
+.course-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: white;
+  text-decoration: underline;
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: transform 0.2s;
+}
+
+.course-link:hover {
+  transform: translateX(5px);
+  text-decoration: underline;
 }
 
 .why-section, .testimonials, .content-overview, .technology-stack, .ongoing-content, .cta-final {
