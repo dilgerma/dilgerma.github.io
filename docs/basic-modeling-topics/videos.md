@@ -13,6 +13,15 @@ Watch these tutorial videos to learn how to use the Miro Event Modeling Toolkit 
 [Make sure to follow the YouTube Channel](https://www.youtube.com/channel/UCVuZ5UsWJqzO3Ui0IUdRSlw)
 </div>
 
+## Educational Videos
+
+### CRUD Systems are doomed to fail
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aXmEsLY09nM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## Tutorial Videos
 
 ### Modeling your first slices
