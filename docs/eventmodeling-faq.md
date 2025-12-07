@@ -15,7 +15,7 @@ author: Martin Dilger
   Have a question you'd like to see answered here? <a href="https://tally.so/r/wkZ0r1" target="_blank">Submit your question</a> and we'll add it to this FAQ (anonymously if you prefer).
 </div>
 
-<section class="faq-section">
+<section class="faq-section" markdown="1">
 
 On this page, we answer the most important questions about Event Modeling. Best of all, you can submit your own questions and they will be published here (anonymously if you wish).
 
