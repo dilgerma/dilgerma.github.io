@@ -132,7 +132,7 @@ permalink: /eventmodeling-book/
 <section class="cta-final">
   <h2>Start Your Event Modeling Journey</h2>
   <div class="cta-buttons">
-    <a href="https://leanpub.com/eventmodeling" class="cta-button primary" target="_blank" rel="noopener noreferrer">Buy the Ebook</a>
+    <a href="https://leanpub.com/eventmodeling-and-eventsourcing" class="cta-button primary" target="_blank" rel="noopener noreferrer">Buy the Ebook</a>
     <a href="https://www.amazon.de/dp/B0DPZW5TRK" class="cta-button secondary" target="_blank" rel="noopener noreferrer">Buy the Print Edition</a>
   </div>
 </section>
