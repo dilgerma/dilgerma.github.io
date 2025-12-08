@@ -1,44 +1,40 @@
 ---
 layout: docs
-title: "Podcast Episode 29: Legacy Migration - Why You Need a Plan Before You Start"
-description: Martin and Adam discuss legacy system migration strategies, the shelf pattern anti-pattern, helper read models, and why event modeling is essential before touching legacy code.
-author: Martin Dilger
-date: 2025-12-08
-category: Event Modeling & Podcast
-keywords: legacy migration, event modeling, shelf pattern, helper read models, legacy code, migration strategy, event sourcing podcast
-featured_image: /assets/images/blog/podcast-29.png
-tags: [podcast, event-modeling, legacy-systems, migration, anti-patterns, event-sourcing]
+title: Episode 29 - Legacy Migration - Why You Need a Plan Before You Start
 ---
 
 <div class="blog-post" markdown="1">
 
-[&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
+[&larr; Back to Podcast]({{ '/docs/podcast' | relative_url }}){: .blog-back-link}
 
   <div class="blog-post-header">
-    <h1>Podcast Episode 29: Legacy Migration - Why You Need a Plan Before You Start</h1>
+    <h1>Episode 29 - Legacy Migration - Why You Need a Plan Before You Start</h1>
     <p class="blog-post-subtitle">Martin and Adam discuss legacy system migration strategies, the shelf pattern anti-pattern, and why you need an event model before touching legacy code.</p>
     <div class="blog-post-meta">
-      <span>December 8, 2025</span>
-      <span>25 min listen</span>
-      <span>Event Modeling & Podcast</span>
+      <span>Event Modeling Podcast</span>
+      <span>Episode 29</span>
+      <span>Legacy Systems & Migration</span>
     </div>
+  </div>
+
+  <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/g9FCrbQ3Y4E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="blog-post-content" markdown="1">
 
-Welcome to Episode 29 of the Event Modeling and Event Sourcing Podcast with Martin Dilger and Adam Dymitruk.
 
-**Watch on YouTube:** [https://youtu.be/g9FCrbQ3Y4E](https://youtu.be/g9FCrbQ3Y4E)
+## Episode Summary
 
-## Episode Highlights
+In this episode, Martin and Adam dive deep into several critical topics for software development teams dealing with legacy systems. They discuss why legacy migrations fail, the dangerous shelf pattern anti-pattern, helper read models for decomposing complexity, corporate culture issues around ownership and thought leadership, and how event modeling enables fixed-cost pricing.
 
-In this episode, Martin and Adam dive deep into several critical topics for software development teams:
+## Main Discussion Points
 
-- **Legacy system migration strategies** - Why you absolutely need a plan
+- **Legacy system migration strategies** - Why you absolutely need a plan before touching any code
 - **The Shelf Pattern** - A dangerous anti-pattern that makes slices unmaintainable
-- **Helper Read Models** - How to decompose complex processors
-- **Corporate culture** - Thought leadership and team ownership
-- **Fixed-cost pricing** - How event modeling enables predictable estimates
+- **Helper Read Models** - How to decompose complex processors into manageable pieces
+- **Corporate culture** - Problems with "my team" language and thought leadership claims
+- **Fixed-cost pricing** - How event modeling enables predictable estimates per slice
 
 ## Legacy Migration: Hope is Not a Strategy
 
@@ -218,6 +214,8 @@ Adam emphasizes:
 
 > "The best thing you can do with the time you now have is learning event modeling. That's a skill that prepares you for what's to come. Learn how to think in systems."
 
+<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
+
 ## Key Takeaways
 
 1. **Never start a legacy migration without an event model** - Model what exists first, not what you want
@@ -227,20 +225,12 @@ Adam emphasizes:
 5. **Fixed-cost pricing works** - When slices are properly sized and visible
 6. **Give credit explicitly** - Avoid "my team" language and thought leadership traps
 
-## Join the Conversation
-
-Have questions about legacy migration or event modeling? Reach out to Martin or Adam on LinkedIn or join the event modeling community.
-
-<script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
-
 <div class="info-box" markdown="1">
 ### Ready to Learn More?
 
-My book [**"Understanding Eventsourcing"**](https://leanpub.com/eventmodeling-and-eventsourcing){:target="_blank"} gives you the blueprint. But reading alone will take your team too long.
+Explore Event Modeling and Event Sourcing in depth with our [tutorials]({{ '/docs/event-modeling-tutorial' | relative_url }}){:target="_blank"} and [book](https://www.eventsourcingbook.com){:target="_blank"}.
 
-I can teach your team how to build these blueprints faster and skip the whole trial-and-error phase. Let's have a [chat](https://outlook.office365.com/book/NebulitGmbH@nebulit.de/){:target="_blank"} about how this applies to your project.
-
-**Still 2 Team-Spots left for the [Event Modeling Workshop](https://training.nebulit.de/eventmodeling-workshop/){:target="_blank"} this month.**
+**Join our [Event Modeling Workshop](https://training.nebulit.de/eventmodeling-workshop/){:target="_blank"}** to get hands-on experience.
 </div>
 
 <div class="course-cta" markdown="1">
@@ -250,33 +240,6 @@ Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifet
 
 [Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
 </div>
-
-<section class="related-posts">
-  <h2>Related Articles</h2>
-  <div class="related-posts-grid">
-    <a href="{{ '/docs/blog/dont-rewrite-legacy-system' | relative_url }}" class="related-post-card">
-      <div class="related-post-content">
-        <h3>Don't Rewrite Your Legacy System</h3>
-        <p>Why rewriting legacy systems usually fails and what to do instead</p>
-        <span class="related-post-meta">Legacy Systems • December 2025</span>
-      </div>
-    </a>
-    <a href="{{ '/docs/blog/documenting-legacy-systems-event-modeling' | relative_url }}" class="related-post-card">
-      <div class="related-post-content">
-        <h3>Documenting Legacy Systems with Event Modeling</h3>
-        <p>How to capture the reality of your legacy systems</p>
-        <span class="related-post-meta">Event Modeling • December 2025</span>
-      </div>
-    </a>
-    <a href="{{ '/docs/blog/event-modeling-adoption' | relative_url }}" class="related-post-card">
-      <div class="related-post-content">
-        <h3>Why Your Event Modeling Workshop Didn't Stick</h3>
-        <p>Event Modeling doesn't fail in isolation</p>
-        <span class="related-post-meta">Event Modeling • November 2025</span>
-      </div>
-    </a>
-  </div>
-</section>
 
   </div>
 </div>
