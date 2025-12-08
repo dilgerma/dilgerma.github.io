@@ -24,10 +24,6 @@ tags: [podcast, event-modeling, legacy-systems, migration, anti-patterns, event-
     </div>
   </div>
 
-  <div class="blog-post-featured-image">
-    <img src="{{ '/assets/images/blog/podcast-29.png' | relative_url }}" alt="Podcast Episode 29">
-  </div>
-
   <div class="blog-post-content" markdown="1">
 
 Welcome to Episode 29 of the Event Modeling and Event Sourcing Podcast with Martin Dilger and Adam Dymitruk.
