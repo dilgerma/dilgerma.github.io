@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/podcast-episode-29-legacy-migration-shelf-pattern' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/podcast-29.png' | relative_url }}" alt="Podcast Episode 29">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Podcast Episode 29: Legacy Migration - Why You Need a Plan Before You Start</h3>
+        <p class="blog-tile-subtitle">Martin and Adam discuss legacy system migration strategies, the shelf pattern anti-pattern, and why you need an event model before touching legacy code</p>
+        <p class="blog-tile-meta">December 8, 2025 • 25 min listen • Event Modeling & Podcast</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/dont-rewrite-legacy-system' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/legacy-system-rewrite.png' | relative_url }}" alt="Please Don't Rewrite Your Legacy System">
