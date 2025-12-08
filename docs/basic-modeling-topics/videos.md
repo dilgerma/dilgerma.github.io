@@ -24,7 +24,8 @@ Watch these tutorial videos to learn how to use the Miro Event Modeling Toolkit 
 
 ## Tutorial Videos
 
-### Manuel Edit Mode
+### Assigning Tickets to Slices
+
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/13HmYjVgAXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

@@ -20,7 +20,8 @@
       "WebFetch(domain:eventsourcingbook.com)",
       "Bash(find:*)",
       "Bash(curl:*)",
-      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff --stat)"
+      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff --stat)",
+      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io status)"
     ],
     "deny": [],
     "ask": []

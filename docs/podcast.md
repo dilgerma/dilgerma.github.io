@@ -12,6 +12,14 @@ title: Event Modeling Podcast
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/podcast/episode-28' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 28 - AI Proves Event Modeling Works - The MAKER Framework Paper</h3>
+        <p class="blog-tile-subtitle">Martin and Adam discuss groundbreaking research from Cognizant AI Labs proving that breaking tasks into slices enables AI to complete million-step tasks with zero errors</p>
+        <p class="blog-tile-meta">Episode 28 • Event Sourcing & AI</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/podcast/episode-27' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 27 - AI Multipliers, Event Catalogs, and the New Event Modeling Mascot</h3>
