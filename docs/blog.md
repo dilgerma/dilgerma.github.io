@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/cdc-vs-event-sourcing' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/cdc-vs-event-sourcing.png' | relative_url }}" alt="CDC vs Event Sourcing">
+      </div>
+      <div class="blog-tile-content">
+        <h3>CDC is What You Do When You're Not Allowed to Use Event Sourcing</h3>
+        <p class="blog-tile-subtitle">Teams willingly embrace CDC's complexity but reject Event Sourcing as too complicated. What's really going on?</p>
+        <p class="blog-tile-meta">December 11, 2025 • 15 min read • Event Sourcing & Architecture</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/podcast-episode-29-legacy-migration-shelf-pattern' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/podcast-29.png' | relative_url }}" alt="Podcast Episode 29">
