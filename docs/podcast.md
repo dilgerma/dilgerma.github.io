@@ -12,6 +12,14 @@ title: Event Modeling Podcast
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/podcast/episode-29' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 29 - Legacy Migration - Why You Need a Plan Before You Start</h3>
+        <p class="blog-tile-subtitle">Martin and Adam discuss legacy system migration strategies, the shelf pattern anti-pattern, and why you need an event model before touching legacy code</p>
+        <p class="blog-tile-meta">Episode 29 • Legacy Systems & Migration</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/podcast/episode-28' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 28 - AI Proves Event Modeling Works - The MAKER Framework Paper</h3>
