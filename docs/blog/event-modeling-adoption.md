@@ -226,7 +226,7 @@ PS: we addressed this multiple times in our podcast - for example episode 14 and
 
 I can teach your team how to adopt Event Modeling effectively and skip the whole trial-and-error phase. Let's have a [chat](https://outlook.office365.com/book/NebulitGmbH@nebulit.de/){:target="_blank"} about how this applies to your organization.
 
-**Still 2 Team-Spots left for the [Event Modeling Workshop](https://training.nebulit.de/eventmodeling-workshop/){:target="_blank"} this month.**
+**[Event Sourcing with Slices on January 20/21, 2026](https://nebulit.de/en/eventsourcing-workshop){:target="_blank"}**
 </div>
 
 <div class="course-cta" markdown="1">

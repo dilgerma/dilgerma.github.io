@@ -98,7 +98,7 @@ Not wrong - just a signal.. are you building up too much coupling to maybe have 
 Want to learn this in a practical way?
 End of October, we have the Event Modeling Mastery Workshop coming up - 2 days, 4 hours each - 12 Spots to learn about Event Modeling and apply it.
 
-https://nebulit.de/en/eventmodeling-workshop
+https://nebulit.de/en/eventsourcing-workshop
 
 ## The Bed
 
@@ -204,7 +204,7 @@ The Event Modeling Mastery Workshop is happening on October 28th / October 29th 
 
 2 Days - 4 hours each - 12 Spots
 
-https://nebulit.de/en/eventmodeling-workshop
+https://nebulit.de/en/eventsourcing-workshop
 
 **Martin Dilger** is the founder of Nebulit and a recognized expert in event modeling and event-driven architecture. He helps technical teams adopt event modeling through workshops, consulting, and tools that make collaborative system design faster and more reliable.
 
@@ -215,7 +215,7 @@ My book [**"Understanding Eventsourcing"**](https://leanpub.com/eventmodeling-an
 
 I can teach your team how to build these blueprints faster and skip the whole trial-and-error phase. Let's have a [chat](https://outlook.office365.com/book/NebulitGmbH@nebulit.de/){:target="_blank"} about how this applies to your project.
 
-**Still 2 Team-Spots left for the [Event Modeling Workshop](https://training.nebulit.de/eventmodeling-workshop/){:target="_blank"} this month.**
+**[Event Sourcing with Slices on January 20/21, 2026](https://nebulit.de/en/eventsourcing-workshop){:target="_blank"}**
 </div>
 
 <div class="course-cta" markdown="1">

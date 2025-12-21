@@ -25,7 +25,9 @@
       "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io log --oneline --name-only -20)",
       "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io status --short)",
       "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io log --all --full-history -1 --name-status -- \"**/podcast-episode-29*\")",
-      "Bash(cp:*)"
+      "Bash(cp:*)",
+      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-modeling-anti-patterns.md)",
+      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-sourcing-simple.md)"
     ],
     "deny": [],
     "ask": []
