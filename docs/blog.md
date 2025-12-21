@@ -15,6 +15,28 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/feature-punches-architecture' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/feature-punches-architecture.png' | relative_url }}" alt="Feature Punches Architecture">
+      </div>
+      <div class="blog-tile-content">
+        <h3>This Feature Typically Punches Your Beautiful Architecture in the Mouth</h3>
+        <p class="blog-tile-subtitle">How to handle the "one more thing" that threatens to couple your entire system</p>
+        <p class="blog-tile-meta">December 21, 2025 • 8 min read • Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/kartographing-legacy-system' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/kartographing-legacy-system.png' | relative_url }}" alt="Kartographing Legacy System">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Why Kartographing Your Legacy System is the Best Investment You'll Ever Make</h3>
+        <p class="blog-tile-subtitle">Skipping it will cost you 10x later</p>
+        <p class="blog-tile-meta">December 21, 2025 • 12 min read • Legacy Modernization</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/cdc-vs-event-sourcing' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/cdc-vs-event-sourcing.png' | relative_url }}" alt="CDC vs Event Sourcing">

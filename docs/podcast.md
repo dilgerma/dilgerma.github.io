@@ -12,6 +12,14 @@ title: Event Modeling Podcast
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/podcast/episode-30' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 30 - Workshop Insights, Fixed Pricing, and the Event Modeling Book</h3>
+        <p class="blog-tile-subtitle">Martin and Adam discuss recent workshop learnings, vibe coding experiments with AI, why your rates shouldn't increase with inflation, and Adam's progress on the official Event Modeling book</p>
+        <p class="blog-tile-meta">Episode 30 • Workshops, Pricing & Book Progress</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/podcast/episode-29' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 29 - Legacy Migration - Why You Need a Plan Before You Start</h3>
