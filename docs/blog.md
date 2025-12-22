@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/event-sourcing-async-ux' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/event-sourcing-async-ux.png' | relative_url }}" alt="Event Sourcing and User Experience">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Question That Won't Go Away - Event Sourcing and User Experience</h3>
+        <p class="blog-tile-subtitle">How to combine the asynchronous nature of Event Sourcing with good user experience using four simple tricks</p>
+        <p class="blog-tile-meta">December 22, 2025 • 15 min read • Event Sourcing</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/feature-punches-architecture' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/feature-punches-architecture.png' | relative_url }}" alt="Feature Punches Architecture">

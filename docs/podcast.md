@@ -12,6 +12,14 @@ title: Event Modeling Podcast
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/podcast/episode-31' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 31 - Roblox Event Modeling, AI-Powered Programming, and Git Issue Tracking</h3>
+        <p class="blog-tile-subtitle">Martin and Adam discuss teaching kids programming with AI, event modeling a Roblox game, Linus Torvalds' vision for unified issue tracking, and completing a massive 210-slice project</p>
+        <p class="blog-tile-meta">Episode 31 • AI Programming, Git Issues & Project Scale</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/podcast/episode-30' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 30 - Workshop Insights, Fixed Pricing, and the Event Modeling Book</h3>
