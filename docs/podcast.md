@@ -12,6 +12,14 @@ title: Event Modeling Podcast
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/podcast/episode-32' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 32 - Year-End Recap, Roblox Adventures, and the Future of Event Modeling</h3>
+        <p class="blog-tile-subtitle">Martin and Adam close out 2025 discussing teaching kids programming with AI, maker projects with 3D printing and FreeCAD, and their ambitious plans for making event modeling even more accessible in 2026</p>
+        <p class="blog-tile-meta">Episode 32 • Year-End Special, AI & Kids, Maker Culture & 2026 Vision</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/podcast/episode-31' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 31 - Roblox Event Modeling, AI-Powered Programming, and Git Issue Tracking</h3>

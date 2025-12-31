@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/sound-of-software' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/sound-of-software.png' | relative_url }}" alt="The Sound of Software">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Sound of Software - Why the Best Systems Sound Like Symphonies</h3>
+        <p class="blog-tile-subtitle">Software is like musical notes flowing from left to right. When crafted well, they paint a beautiful melody. The best symphonies tell stories. Software is the same.</p>
+        <p class="blog-tile-meta">December 31, 2025 • 12 min read • Event Modeling & Architecture</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/event-sourcing-async-ux' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/event-sourcing-async-ux.png' | relative_url }}" alt="Event Sourcing and User Experience">
