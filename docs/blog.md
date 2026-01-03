@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/stripe-integration-event-modeling' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/stripe-integration-event-modeling.png' | relative_url }}" alt="Stripe Integration with Event Modeling">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How we implemented our Stripe Integration - 10 Slices, No Webhook Nightmares</h3>
+        <p class="blog-tile-subtitle">Our entire Stripe integration consists of 10 clean slices. No webhook nightmares, no 2am production bugs. Learn how event modeling first made our payment integration boring and reliable.</p>
+        <p class="blog-tile-meta">January 3, 2026 • 12 min read • Event Modeling & Implementation</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/sound-of-software' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/sound-of-software.png' | relative_url }}" alt="The Sound of Software">
