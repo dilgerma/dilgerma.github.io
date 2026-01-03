@@ -6,7 +6,7 @@ author: Martin Dilger
 date: 2026-01-03
 category: Event Modeling & Implementation
 keywords: stripe integration, event modeling, payment systems, event sourcing, system integration, clean architecture, saas payments
-featured_image: /assets/images/blog/stripe-integration-event-modeling.png
+featured_image: /assets/images/blog/stripe-integration-banner.png
 tags: [event-modeling, stripe, payments, integration, event-sourcing, implementation]
 ---
 
@@ -25,7 +25,7 @@ tags: [event-modeling, stripe, payments, integration, event-sourcing, implementa
   </div>
 
   <div class="blog-post-featured-image">
-    <img src="{{ '/assets/images/blog/stripe-integration-event-modeling.png' | relative_url }}" alt="Stripe Integration with Event Modeling">
+    <img src="{{ '/assets/images/blog/stripe-integration-banner.png' | relative_url }}" alt="Stripe Integration with Event Modeling">
   </div>
 
   <div class="blog-post-content" markdown="1">
