@@ -12,6 +12,14 @@ title: Event Modeling Podcast
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/podcast/episode-33' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 33 - New Year, Vibe Coding Limits, and Why Coupling is the Root of All Evil</h3>
+        <p class="blog-tile-subtitle">Martin and Adam kick off 2026 discussing community support, the limits of vibe coding, building financial trading systems with AI, and why event modeling eliminates fear from software projects</p>
+        <p class="blog-tile-meta">Episode 33 • Vibe Coding, Coupling, AI Trading & Fearless Development</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/podcast/episode-32' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 32 - Year-End Recap, Roblox Adventures, and the Future of Event Modeling</h3>

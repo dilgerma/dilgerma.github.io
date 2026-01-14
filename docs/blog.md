@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/urge-to-reuse-code' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/urge-to-reuse-code.png' | relative_url }}" alt="I Still Feel the Urge to Reuse Code">
+      </div>
+      <div class="blog-tile-content">
+        <h3>I Still Feel the Urge to Reuse Code (Even Though I Know It's Wrong)</h3>
+        <p class="blog-tile-subtitle">After years of watching software projects slow to a crawl, I finally figured out what nobody wanted to admit - the real enemy isn't bad developers or changing requirements. It's coupling.</p>
+        <p class="blog-tile-meta">January 14, 2026 • 12 min read • Architecture & Design</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/stripe-integration-event-modeling' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/stripe-integration-event-modeling.png' | relative_url }}" alt="Stripe Integration with Event Modeling">
