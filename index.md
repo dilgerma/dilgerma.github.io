@@ -22,9 +22,9 @@ author: Martin Dilger
 <p style="color: white">
     <a class="workshop-link" href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
 <p style="color: white">
-<a href="https://www.youtube.com/@nebulit">Subscribe to the You Tube Channel</a>
+<a class="workshop-link" href="https://www.youtube.com/@nebulit">Subscribe to the You Tube Channel</a>
 </p>
-  <a class="workshop-link" href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
+  <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
 <section class="features">
   <h2>Key Features</h2>
 
