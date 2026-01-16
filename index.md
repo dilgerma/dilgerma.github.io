@@ -7,18 +7,8 @@ author: Martin Dilger
 ---
 
 <div class="hero">
-  <h1>Make your Engineering AI Ready</h1>
+  <h1>Make your Engineering Team AI Ready</h1>
 <p>This is how to close the Gap between Business, Engineering and AI in days</p>
-<p>&quot;Event Modeling makes people talk to each other&quot;</p>
-  <p>Build event-driven systems with visual Event Modeling directly in Miro. Design, collaborate, and generate code from your event models.</p>
-<p>Seamlessly integrate AI into your Workflows and Processes.</p>
-    <h3>Want to stay up to date?</h3>
-<p style="color: white">
-    <a href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
-<p style="color: white">
-<a href="https://www.youtube.com/@nebulit">Subscribe to the You Tube Channel</a>
-</p>
-  <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
 
 <section class="video-section">
   <h2>Live Event Modeling in 120min</h2>
@@ -28,6 +18,14 @@ author: Martin Dilger
   <a href="https://www.nebulit.de/en/workshops" class="workshop-link" target="_blank" rel="noopener noreferrer">Explore Our Workshops</a>
 </section>
 
+
+    <h3>Want to stay up to date?</h3>
+<p style="color: white">
+    <a href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
+<p style="color: white">
+<a href="https://www.youtube.com/@nebulit">Subscribe to the You Tube Channel</a>
+</p>
+  <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
 <section class="features">
   <h2>Key Features</h2>
 
