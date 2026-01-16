@@ -21,6 +21,29 @@ Watch these tutorial videos to learn how to use the Miro Event Modeling Toolkit 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/aXmEsLY09nM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Aggregateless Event Sourcing with DCB
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iOOhaDrnrXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### What is an Aggregate
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8n1eYaEodDk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### How Event Sourcing allows you to keep your UI components simple
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Hp0gC_FWP2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### The boring Tech Stack for our new Startup
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iRuwzax_W-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Tutorial Videos
 

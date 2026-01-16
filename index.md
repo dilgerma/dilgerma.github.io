@@ -8,7 +8,7 @@ author: Martin Dilger
 
 <div class="hero">
   <h1>Make your Engineering Team AI Ready</h1>
-<p>This is how to close the Gap between Business, Engineering and AI in days</p>
+<p>This is how to close the Gap between Business, Engineering and AI with a step by step process.</p>
 
 <section class="video-section">
   <h2 style="color: white;">Live Event Modeling in 120min</h2>

@@ -200,6 +200,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.5px;
     transition: transform 0.2s, box-shadow 0.2s;
+    margin-top: 30px;
 }
 
 .cta-button:hover {
@@ -273,7 +274,7 @@ body {
     display: inline-block;
     margin-top: 30px;
     padding: 15px 40px;
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    background-color: #1a1a2e;
     color: var(--white);
     text-decoration: none;
     border-radius: 8px;
@@ -281,13 +282,14 @@ body {
     font-size: 1.1rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 }
 
 .workshop-link:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+    background-color: #2d2d44;
 }
 
 .features {
