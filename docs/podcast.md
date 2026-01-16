@@ -5,7 +5,7 @@ title: Event Modeling Podcast
 
 <div class="hero">
   <h1>Event Modeling Podcast</h1>
-  <p>Join Adam Dymitruk and Martin Dilger as they discuss Event Modeling, Event Sourcing, software architecture, and practical insights from real-world implementations</p>
+  <p>Join Adam Dymitruk ( the creator of Event Modeling ) and Martin Dilger as they discuss Event Modeling, Event Sourcing, software architecture, and practical insights from real-world implementations</p>
 
 </div>
 
