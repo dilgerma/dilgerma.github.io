@@ -16,14 +16,10 @@ author: Martin Dilger
     <h3>Want to stay up to date?</h3>
 <p>
     <a href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
-</p>
-<p>
-    <a href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
 <p>
 <a href="https://www.youtube.com/@nebulit">Subscribe to the You Tube Channel</a>
 </p>
   <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
-</div>
 
 <section class="video-section">
   <h2>Live Event Modeling in 120min</h2>
