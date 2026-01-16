@@ -12,11 +12,10 @@ author: Martin Dilger
 <p>&quot;Event Modeling makes people talk to each other&quot;</p>
   <p>Build event-driven systems with visual Event Modeling directly in Miro. Design, collaborate, and generate code from your event models.</p>
 <p>Seamlessly integrate AI into your Workflows and Processes.</p>
-<p>
     <h3>Want to stay up to date?</h3>
-<p>
+<p style="color: white">
     <a href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
-<p>
+<p style="color: white">
 <a href="https://www.youtube.com/@nebulit">Subscribe to the You Tube Channel</a>
 </p>
   <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
