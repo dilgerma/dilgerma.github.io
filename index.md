@@ -15,17 +15,16 @@ author: Martin Dilger
   <div class="video-container">
     <iframe src="https://www.youtube-nocookie.com/embed/6DqaNKxjvko?si=9I3wneDH9AFzjCPu" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
-  <a href="https://www.nebulit.de/en/workshops" class="workshop-link" target="_blank" rel="noopener noreferrer">Explore Our Workshops</a>
 </section>
 
 
     <h3>Want to stay up to date?</h3>
 <p style="color: white">
-    <a href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
+    <a class="workshop-link" href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
 <p style="color: white">
 <a href="https://www.youtube.com/@nebulit">Subscribe to the You Tube Channel</a>
 </p>
-  <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
+  <a class="workshop-link" href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
 <section class="features">
   <h2>Key Features</h2>
 
