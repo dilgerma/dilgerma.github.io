@@ -7,12 +7,22 @@ author: Martin Dilger
 ---
 
 <div class="hero">
-  <h1>The Future of Software Engineering</h1>
-<p>This is how to close the Gap between Business and Engineering in days</p>
+  <h1>Make your Engineering AI Ready</h1>
+<p>This is how to close the Gap between Business, Engineering and AI in days</p>
 <p>&quot;Event Modeling makes people talk to each other&quot;</p>
   <p>Build event-driven systems with visual Event Modeling directly in Miro. Design, collaborate, and generate code from your event models.</p>
 <p>Seamlessly integrate AI into your Workflows and Processes.</p>
-  <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Get Started</a>
+<p>
+    <h3>Want to stay up to date?</h3>
+<p>
+    <a href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
+</p>
+<p>
+    <a href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
+<p>
+<a href="https://www.youtube.com/@nebulit">Subscribe to the You Tube Channel</a>
+</p>
+  <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
 </div>
 
 <section class="video-section">
@@ -56,6 +66,7 @@ author: Martin Dilger
       <h3>Easy Integration</h3>
       <p>Seamlessly integrate with your existing tools and workflows. Export models in various formats for documentation and implementation.</p>
     </div>
+
   </div>
 
 </section>
