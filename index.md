@@ -11,7 +11,7 @@ author: Martin Dilger
 <p>This is how to close the Gap between Business, Engineering and AI in days</p>
 
 <section class="video-section">
-  <h2>Live Event Modeling in 120min</h2>
+  <h2 style="color: white;">Live Event Modeling in 120min</h2>
   <div class="video-container">
     <iframe src="https://www.youtube-nocookie.com/embed/6DqaNKxjvko?si=9I3wneDH9AFzjCPu" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
@@ -19,11 +19,10 @@ author: Martin Dilger
 
 
     <h3>Want to stay up to date?</h3>
-<p style="color: white">
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
     <a class="workshop-link" href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
-<p style="color: white">
-<a class="workshop-link" href="https://www.youtube.com/@nebulit">Subscribe to the You Tube Channel</a>
-</p>
+    <a class="workshop-link" href="https://www.youtube.com/@nebulit">Subscribe to the YouTube Channel</a>
+</div>
   <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
 <section class="features">
   <h2>Key Features</h2>
