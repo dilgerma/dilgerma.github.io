@@ -27,7 +27,8 @@
       "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io log --all --full-history -1 --name-status -- \"**/podcast-episode-29*\")",
       "Bash(cp:*)",
       "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-modeling-anti-patterns.md)",
-      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-sourcing-simple.md)"
+      "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-sourcing-simple.md)",
+      "WebFetch(domain:www.youtube.com)"
     ],
     "deny": [],
     "ask": []

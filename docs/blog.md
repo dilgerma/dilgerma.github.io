@@ -15,6 +15,28 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/ralph-loop-ai-agents' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/ralph-loop-ai-agents.png' | relative_url }}" alt="RALPH Loop AI Agents">
+      </div>
+      <div class="blog-tile-content">
+        <h3>What Happens if You Run Claude-Code in a Loop? The RALPH Loop Explained</h3>
+        <p class="blog-tile-subtitle">The RALPH Loop isn't magic - it's Agile for AI. And it only works if you invest in defining tasks properly first.</p>
+        <p class="blog-tile-meta">January 20, 2026 • 15 min read • AI & Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/sane-way-migrate-legacy-event-driven' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/sane-way-legacy-migration.png' | relative_url }}" alt="Sane Way to Migrate Legacy Systems">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Sane Way to Migrate Your Legacy Project Towards an Event-Driven Architecture</h3>
+        <p class="blog-tile-subtitle">Two days of Event Modeling can save you months of "this is way bigger than we planned."</p>
+        <p class="blog-tile-meta">January 20, 2026 • 15 min read • Legacy Modernization</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/urge-to-reuse-code' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/urge-to-reuse-code.png' | relative_url }}" alt="I Still Feel the Urge to Reuse Code">
