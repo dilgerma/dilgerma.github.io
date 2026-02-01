@@ -15,6 +15,28 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/multi-tenancy-event-sourcing' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/multi-tenancy-event-sourcing.png' | relative_url }}" alt="Multi-Tenancy in Event Sourcing">
+      </div>
+      <div class="blog-tile-content">
+        <h3>A Beautifully Simple Solution to Multi-Tenancy in Event Sourcing</h3>
+        <p class="blog-tile-subtitle">One forgotten WHERE clause and Customer A sees Customer B's invoices. Here's how we made it impossible using Row Level Security.</p>
+        <p class="blog-tile-meta">February 1, 2026 • 10 min read • Event Sourcing</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/event-sourced-saas-zero-joins' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/event-sourced-saas-zero-joins.png' | relative_url }}" alt="Event-Sourced SaaS Architecture">
+      </div>
+      <div class="blog-tile-content">
+        <h3>An Event-Sourced SaaS Story - 150+ Tables, Zero Joins, Almost Zero Operation Cost</h3>
+        <p class="blog-tile-subtitle">The system is a Monolith, running on the JVM, built with a Team of 4, one deployable, 240 independent slices. 90% AI-generated code.</p>
+        <p class="blog-tile-meta">February 1, 2026 • 18 min read • Event Sourcing</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/ralph-loop-ai-agents' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/ralph-loop-ai-agents.png' | relative_url }}" alt="RALPH Loop AI Agents">

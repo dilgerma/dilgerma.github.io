@@ -45,6 +45,18 @@ Watch these tutorial videos to learn how to use the Miro Event Modeling Toolkit 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iRuwzax_W-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### The Sane Way to Migrate Legacy Projects
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aznGpTWXjN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Event Sourcing Myths - Event Sourcing Takes Up Too Much Storage!
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UQKX88mEfPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Tutorial Videos
 
 ### Assigning Tickets to Slices
