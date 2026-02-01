@@ -12,13 +12,6 @@ title: Event Modeling Podcast
 
 <section class="features">
   <div class="blog-tiles">
-    <a href="{{ '/docs/podcast/episode-34' | relative_url }}" class="blog-tile">
-      <div class="blog-tile-content">
-        <h3>Episode 34 - The RALPH Loop and AI Agents on Autopilot</h3>
-        <p class="blog-tile-subtitle">How to put Claude Code in a loop and why it only works when you define tasks properly with Event Modeling</p>
-        <p class="blog-tile-meta">Episode 34 • AI Agents, RALPH Loop & Event Modeling</p>
-      </div>
-    </a>
 
     <a href="{{ '/docs/podcast/episode-33' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
