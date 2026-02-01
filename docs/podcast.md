@@ -12,14 +12,6 @@ title: Event Modeling Podcast
 
 <section class="features">
   <div class="blog-tiles">
-    <a href="{{ '/docs/podcast/episode-35' | relative_url }}" class="blog-tile">
-      <div class="blog-tile-content">
-        <h3>Episode 35 - The Sane Way to Migrate Legacy Systems</h3>
-        <p class="blog-tile-subtitle">The Three-Source Truth Method - how to understand what your legacy system actually does before you start migrating</p>
-        <p class="blog-tile-meta">Episode 35 • Legacy Migration & Event Modeling</p>
-      </div>
-    </a>
-
     <a href="{{ '/docs/podcast/episode-34' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 34 - The RALPH Loop and AI Agents on Autopilot</h3>
