@@ -66,6 +66,6 @@ Zur Darstellung von Icons nutzen wir Font Awesome.
 
 ## Stand
 
-Diese Datenschutzerklärung wurde zuletzt im Oktober 2025 aktualisiert.
+Diese Datenschutzerklärung wurde zuletzt im Oktober 2026 aktualisiert.
 
 Quelle: [e-recht24.de](https://www.e-recht24.de)
