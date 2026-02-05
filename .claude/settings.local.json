@@ -28,7 +28,8 @@
       "Bash(cp:*)",
       "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-modeling-anti-patterns.md)",
       "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-sourcing-simple.md)",
-      "WebFetch(domain:www.youtube.com)"
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:www.nebulit.de)"
     ],
     "deny": [],
     "ask": []
