@@ -204,7 +204,7 @@ body {
 .video-section h2 {
     font-size: 2rem;
     margin-bottom: 40px;
-    color: var(--secondary-color);
+    color: inherit;
     font-weight: 700;
 }
 
@@ -284,7 +284,7 @@ body {
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 60px;
-    color: var(--secondary-color);
+    color: inherit;
     font-weight: 700;
 }
 
