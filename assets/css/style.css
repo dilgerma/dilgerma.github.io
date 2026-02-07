@@ -133,7 +133,7 @@ body {
 .hero {
     position: relative;
     background-color: var(--secondary-color);
-    color: var(--white);
+    color:  white !important;
     padding: 100px 24px;
     text-align: center;
     min-height: 500px;
