@@ -282,13 +282,14 @@ body {
     padding: 100px 24px;
     max-width: 1200px;
     margin: 0 auto;
+    background: var(--white);
 }
 
 .features h2 {
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 60px;
-    color: inherit;
+    color: var(--secondary-color);
     font-weight: 700;
 }
 
