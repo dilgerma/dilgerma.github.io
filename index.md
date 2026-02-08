@@ -24,6 +24,8 @@ author: Martin Dilger
     <a class="workshop-link" href="https://www.youtube.com/@nebulit">Subscribe to the YouTube Channel</a>
 </div>
   <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
+</div>
+
 <section class="features">
   <h2>Key Features</h2>
 
@@ -61,8 +63,8 @@ author: Martin Dilger
   </div>
 
 </section>
-<section>
 
+<section>
   <div class="newsletter-container">
   <script async data-uid="548f1eb492" src="https://nebulit-gmbh.kit.com/548f1eb492/index.js"></script>
 </div>
