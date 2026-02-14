@@ -77,7 +77,50 @@ This button allows you to group all selected Sticky Notes in one Swimlane.
   <iframe src="https://www.loom.com/embed/e2008badc3a44d69870399cb2bf5f26c?sid=2a6823b3-597d-4bec-9ad1-7a4f39a90964" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
 </div>
 
-It also creates an Aggregate in the swimlane. Feel free to delete it if you don´t need it. 
+It also creates an Aggregate in the swimlane. Feel free to delete it if you don´t need it.
+
+### Sync Slices
+
+Especially when you work with AI, it might happen that your slices are implemented locally and you want to reflect this back  to your Event Model.
+
+There is a Synchronization-View that allows you to do exactly that.
+
+For this you need to become active, you have to have your local docker container running.
+
+```
+docker run -ti -p 3001:3000 -v $PWD:/workspace -e HOST_WORKSPACE=$PWD --name codegen --rm nebulit/codegen
+```
+
+If there is a mismatch between a local slice in your Git Repository and the Slice in the Model, you´ll get the possibility to sync the slices.
+
+![Group In Swimlane]({{ '/assets/images/tutorial/slice_view/sync/sync01.png' | relative_url }})
+
+Technically, the sync checks the .slices/index.json file in your local git  repository.
+
+```
+{
+  "slices": [
+    {
+      "id": "3458764657126077599",
+      "slice": "slice: Add Location",
+      "index": 5,
+      "context": "Restaurant Management",
+      "folder": "addlocation",
+      "status": "Done"
+    },
+    {
+      "id": "3458764657126077647",
+      "slice": "slice: Locations",
+      "index": 8,
+      "context": "Restaurant Management",
+      "folder": "locations",
+      "status": "Blocked"
+    },
+    ....
+    ]
+}
+```
+
 
 ## Next Steps
 
