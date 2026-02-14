@@ -13,6 +13,38 @@ title: Event Modeling Podcast
 <section class="features">
   <div class="blog-tiles">
 
+    <a href="{{ '/docs/podcast/episode-37' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 37 - The Ralph Loop Deep Dive, Node.js Event Sourcing, and Why Haiku Beats Opus</h3>
+        <p class="blog-tile-subtitle">Martin reveals his exact Ralph Loop architecture - index.json, progress.txt, learnings compression. Why Claude Haiku outperforms Opus for slices, Node.js event sourcing PoC, and the case against 1M context windows.</p>
+        <p class="blog-tile-meta">Episode 37 • Ralph Loop, Node.js, AI Workflow & Skill Files</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/podcast/episode-36' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 36 - OpenClaw Revolution, Adobe is Dead, and Why Event Modeling Wins Every Hackathon</h3>
+        <p class="blog-tile-subtitle">Martin shares post-workshop breakthrough stories. Adam discovers OpenClaw. A full SaaS built in one day. The hosts dissect why Adobe, Salesforce and traditional software companies are finished.</p>
+        <p class="blog-tile-meta">Episode 36 • OpenClaw, AI Automation, Industry Disruption & Event Modeling</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/podcast/episode-35' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 35 - Workshop Success, No Slides Needed, and Polymorphic .NET Developers on Java</h3>
+        <p class="blog-tile-subtitle">Martin runs a 3-day implementation workshop with no slides - .NET developers implement Java slices. Raspberry Pi plant kiosk, Ralph Loop on a Raspberry Pi, and why language choice is increasingly irrelevant.</p>
+        <p class="blog-tile-meta">Episode 35 • Workshop, Implementation, Polyglot Architecture & Ralph Loop</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/podcast/episode-34' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 34 - On-Device AI, DCB Takes Over, and Three Bold Predictions for Distributed Systems</h3>
+        <p class="blog-tile-subtitle">Martin ships a legal platform with 100% private on-device AI using WebLLM. Adam wrestles a Raspberry Pi headless setup and makes a 10kg lasagna. Mark Cleft's bold predictions for distributed systems in 2026.</p>
+        <p class="blog-tile-meta">Episode 34 • On-Device AI, DCB, Distributed Systems 2026</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/podcast/episode-33' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 33 - New Year, Vibe Coding Limits, and Why Coupling is the Root of All Evil</h3>

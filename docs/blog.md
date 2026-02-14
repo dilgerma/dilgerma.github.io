@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/future-doesnt-need-perfect-code' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/future-doesnt-need-perfect-code.png' | relative_url }}" alt="The Future Doesn't Need Your Perfect Code">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Future Doesn't Need Your Perfect Code</h3>
+        <p class="blog-tile-subtitle">A bold prediction: within 2 years, specifications will be the only thing we version control. Code will be generated on-demand. Tests will be ephemeral.</p>
+        <p class="blog-tile-meta">February 14, 2026 • 8 min read • Software Architecture & Design</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/multi-tenancy-event-sourcing' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/multi-tenancy-event-sourcing.png' | relative_url }}" alt="Multi-Tenancy in Event Sourcing">
