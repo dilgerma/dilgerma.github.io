@@ -15,6 +15,28 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/code-structure-irrelevant-ai' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/code-structure-irrelevant-ai.png' | relative_url }}" alt="Code Structure for AI">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Is Your Code Structure Irrelevant for AI? The Slice-Based Revolution</h3>
+        <p class="blog-tile-subtitle">How do you structure your codebase so an AI can read it? That's the wrong question. The right question is how do you make isolated capabilities accessible without requiring full comprehension of the system.</p>
+        <p class="blog-tile-meta">March 6, 2026 • 10 min read • AI & Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/software-project-dies-day-2' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/software-project-dies-day-2.png' | relative_url }}" alt="Software Project Dies on Day 2">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Your Software Project Dies on Day 2 - It's the Data That Kills You</h3>
+        <p class="blog-tile-subtitle">We learned to deal with messy code. But when you hit coupling in your data layer, that's where the cursing starts. Why AI-generated projects fail after the first iteration.</p>
+        <p class="blog-tile-meta">March 6, 2026 • 8 min read • AI & Architecture</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/future-doesnt-need-perfect-code' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/future-doesnt-need-perfect-code.png' | relative_url }}" alt="The Future Doesn't Need Your Perfect Code">

@@ -13,6 +13,14 @@ title: Event Modeling Podcast
 <section class="features">
   <div class="blog-tiles">
 
+    <a href="{{ '/docs/podcast/episode-38' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 38 - AI Budget Wars, DCB Goes Mainstream, and Why Security Theater Won't Save You</h3>
+        <p class="blog-tile-subtitle">Why AI hype is eating consulting budgets, the worst time to standardize on any AI vendor, how event modeling survived the cloud migration disaster, and why coupling is still the root of all evil.</p>
+        <p class="blog-tile-meta">Episode 38 • AI Budgets, DCB, Industry Disruption & BizTalk Horror Stories</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/podcast/episode-37' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 37 - The Ralph Loop Deep Dive, Node.js Event Sourcing, and Why Haiku Beats Opus</h3>

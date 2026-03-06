@@ -15,6 +15,14 @@ Watch these tutorial videos to learn how to use the Miro Event Modeling Toolkit 
 
 ## Educational Videos
 
+### Building Production-Ready Event-Sourced Node Apps with Ralph Loop and AI
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jdYwziAl8cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Learn how to build production-ready event-sourced Node.js applications using the Ralph Loop technique combined with AI. This webinar demonstrates the complete process from event modeling to code generation, including static code generators, AI agents, and the Ralph Loop workflow. You'll see real-world event models, slice-based architecture in action, and how to structure systems that work perfectly with AI.
+
 ### CRUD Systems are doomed to fail
 
 <div class="video-container">

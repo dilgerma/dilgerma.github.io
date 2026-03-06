@@ -30,7 +30,10 @@
       "Bash(git -C /Users/martindilger/development/git/sources/dilgerma.github.io diff docs/blog/event-sourcing-simple.md)",
       "WebFetch(domain:www.youtube.com)",
       "WebFetch(domain:www.nebulit.de)",
-      "Bash(echo:*)"
+      "Bash(echo:*)",
+      "mcp__plugin_context-mode_context-mode__execute_file",
+      "mcp__plugin_context-mode_context-mode__search",
+      "Bash(rtk proxy find:*)"
     ],
     "deny": [],
     "ask": []
