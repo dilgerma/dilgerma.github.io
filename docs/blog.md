@@ -37,6 +37,17 @@ author: Martin Dilger
       </div>
     </a>
 
+    <a href="{{ '/docs/blog/stacked-prs-band-aid-broken-leg' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/stacked-prs-band-aid.png' | relative_url }}" alt="Stacked PRs - Band-aid on a broken leg">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Stacked-PRs are a band-aid on a broken leg</h3>
+        <p class="blog-tile-subtitle">Stacked PRs don't fix the review problem - they mask deeper issues with coupling and feature slicing that teams need to address.</p>
+        <p class="blog-tile-meta">March 6, 2025 • 8 min read • Software Development</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/future-doesnt-need-perfect-code' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/future-doesnt-need-perfect-code.png' | relative_url }}" alt="The Future Doesn't Need Your Perfect Code">
