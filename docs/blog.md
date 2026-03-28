@@ -15,6 +15,50 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/vibe-coding-event-sourcing' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/vibe-coding-event-sourcing.png' | relative_url }}" alt="Vibe Coding and Event Sourcing Architecture">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Every Solution the AI Suggested Was Technically Correct — But Would Have Killed the Architecture</h3>
+        <p class="blog-tile-subtitle">The AI built everything I asked for — correctly. And every single decision would have been fatal. Here's the JSON blob, the sync nightmare, and how event sourcing saved the architecture.</p>
+        <p class="blog-tile-meta">March 28, 2026 • 6 min read • AI & Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/auditability-not-just-regulated' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/auditability-not-just-regulated.png' | relative_url }}" alt="Auditability is Not Just for Regulated Industries">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Auditability is Not Just for Regulated Industries</h3>
+        <p class="blog-tile-subtitle">You don't need Mark from compliance to care about auditability. Your system makes decisions every day — the only question is whether you're storing them.</p>
+        <p class="blog-tile-meta">March 28, 2026 • 6 min read • Event Sourcing</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/spec-driven-development' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/spec-driven-development.png' | relative_url }}" alt="A Simple Guide to Spec-Driven Development">
+      </div>
+      <div class="blog-tile-content">
+        <h3>A Simple Guide to Spec-Driven Development</h3>
+        <p class="blog-tile-subtitle">What I've built is closer to a very disciplined, very tireless junior developer. The thinking still happens before the agent touches a single line. Here's exactly how spec-driven development works.</p>
+        <p class="blog-tile-meta">March 28, 2026 • 8 min read • AI & Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/legacy-modernization-plan' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/legacy-modernization-plan.png' | relative_url }}" alt="Why Your Legacy Modernization Plan Might Fail">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Why Your Legacy Modernization Plan Might Fail - Before You Write a Single Line of Code</h3>
+        <p class="blog-tile-subtitle">The roadmap isn't the problem. The invisible complexity underneath it is. Here's what actually happens when you start digging into legacy systems — and how AI changes the modernization game.</p>
+        <p class="blog-tile-meta">March 28, 2026 • 8 min read • Legacy Systems & Modernization</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/code-structure-irrelevant-ai' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/code-structure-irrelevant-ai.png' | relative_url }}" alt="Code Structure for AI">

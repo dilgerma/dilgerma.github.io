@@ -13,6 +13,38 @@ title: Event Modeling Podcast
 <section class="features">
   <div class="blog-tiles">
 
+    <a href="{{ '/docs/podcast/episode-42' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 42 - Coupling, Event Sourcing Books, and Why Event Storming Missed the Point</h3>
+        <p class="blog-tile-subtitle">Martin and Adam explore coupling mechanics in event-sourced systems, discuss their books in progress, and react to the event storming community's rediscovery that sticky note photos feed AI better than markdown.</p>
+        <p class="blog-tile-meta">Episode 42 • Coupling Theory, Event Sourcing Books & Event Storming vs Event Modeling</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/podcast/episode-41' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 41 - Reverse Engineering Legacy Code With AI Browser Automation</h3>
+        <p class="blog-tile-subtitle">Martin ran Claude Code for 40 straight hours on a 1.2-million-line legacy codebase — then discovered that pointing an AI agent at the UI with MCP browser automation produced far better results. This episode covers the full legacy analysis strategy.</p>
+        <p class="blog-tile-meta">Episode 41 • Legacy Analysis, AI Browser Automation & Event Model Extraction</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/podcast/episode-40' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 40 - Workshop Reflections, Event Sourcing in SQL, and Git as an Event Store</h3>
+        <p class="blog-tile-subtitle">Martin and Adam reflect on a recent 4-day workshop, then explore technical territory: storing events in SQL, using Git as an event store with orphan branches, and the limits of SQL indexing for temporal data.</p>
+        <p class="blog-tile-meta">Episode 40 • Workshop, SQL Event Sourcing & Git as Event Store</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/podcast/episode-39' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 39 - Live AI Agent Coding From Event Model Changes in Real Time</h3>
+        <p class="blog-tile-subtitle">Martin and Adam discuss how AI agents can now pick up event model changes live and generate code in real time, and deep-dive into building a fully HTML-based event modeling tool with smart arrow routing algorithms.</p>
+        <p class="blog-tile-meta">Episode 39 • Live AI Coding, Event Model Tool & Slice Architecture</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/podcast/episode-38' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">
         <h3>Episode 38 - AI Budget Wars, DCB Goes Mainstream, and Why Security Theater Won't Save You</h3>
