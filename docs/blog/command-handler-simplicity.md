@@ -114,11 +114,11 @@ One thing I´m particularly excited about is that the Eventmodeling-Community su
 If you want to "own" a technical stack for the exercises, let´s have a chat. Every contribution is welcome!
 
 <div class="info-box" markdown="1">
-### Ready to Learn More?
+### Learn Event Modeling from the experts
 
-Want to dive deeper into Event Sourcing and Command Handler design? Let's have a [chat](https://outlook.office365.com/book/NebulitGmbH@nebulit.de/){:target="_blank"} about how this applies to your organization.
+Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
 
-**[Event Sourcing with Slices on January 20/21, 2026](https://nebulit.de/en/eventsourcing-workshop){:target="_blank"}**
+**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
 </div>
 
 <div class="course-cta" markdown="1">

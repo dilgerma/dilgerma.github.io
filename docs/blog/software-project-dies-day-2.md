@@ -115,13 +115,11 @@ Structure first. Blueprint first. Slices first.
 Then let the AI paint by numbers.
 
 <div class="info-box" markdown="1">
-### Ready to Learn More?
+### Learn Event Modeling from the experts
 
-Join my free webinar where I show you my process step by step.
+Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
 
-Explore Event Modeling and Event Sourcing in depth with our [tutorials]({{ "/docs/event-modeling-tutorial" | relative_url }}){:target="_blank"} and [book](https://www.eventsourcingbook.com){:target="_blank"}.
-
-**[Event Sourcing with Slices Workshop](https://nebulit.de/en/eventsourcing-workshop){:target="_blank"}**
+**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
 </div>
 
 <div class="course-cta" markdown="1">

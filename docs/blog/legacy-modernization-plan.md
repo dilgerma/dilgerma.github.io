@@ -177,13 +177,11 @@ Let's be honest, this stuff is exciting. And I can't wait to see this unfold.
 <script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 <div class="info-box" markdown="1">
-### Ready to Learn More?
+### Learn Event Modeling from the experts
 
-My book [**"Understanding Eventsourcing"**](https://leanpub.com/eventmodeling-and-eventsourcing){:target="_blank"} gives you the blueprint for making the invisible visible - and modernizing legacy systems with confidence.
+Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
 
-Want to explore what this could look like for your team? I help teams build modernization blueprints using Event Modeling and AI.
-
-**[Event Sourcing with Slices Workshop](https://nebulit.de/en/eventsourcing-workshop){:target="_blank"}**
+**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
 </div>
 
 <div class="course-cta" markdown="1">

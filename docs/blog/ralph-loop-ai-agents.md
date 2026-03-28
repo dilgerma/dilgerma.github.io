@@ -239,13 +239,11 @@ We have all the techniques at hand to build complete systems on auto-pilot and I
 <script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
 <div class="info-box" markdown="1">
-### Ready to Learn More?
+### Learn Event Modeling from the experts
 
-My book [**"Understanding Eventsourcing"**](https://leanpub.com/eventmodeling-and-eventsourcing){:target="_blank"} gives you the blueprint for defining tasks that AI agents can actually execute.
+Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
 
-Want a repository to try this out immediately? I have a repository prepared with an exported Event Model and all the Prompts you need. Git clone and run, and you'll see the magic.
-
-**[Event Sourcing with Slices Workshop](https://nebulit.de/en/eventsourcing-workshop){:target="_blank"}**
+**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
 </div>
 
 <div class="course-cta" markdown="1">

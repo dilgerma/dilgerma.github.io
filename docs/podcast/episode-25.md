@@ -60,11 +60,11 @@ AI dramatically accelerates legacy code understanding by rapidly analyzing large
 5. Event modeling works as a programming language for AI because it provides structured, timeline-based specifications that AI can understand and execute
 
 <div class="info-box" markdown="1">
-### Ready to Learn More?
+### Learn Event Modeling from the experts
 
-Explore Event Modeling and Event Sourcing in depth with our [tutorials]({{ '/docs/event-modeling-tutorial' | relative_url }}){:target="_blank"} and [book](https://www.eventsourcingbook.com){:target="_blank"}.
+Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
 
-**[Event Sourcing with Slices on January 20/21, 2026](https://nebulit.de/en/eventsourcing-workshop){:target="_blank"}**
+**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
 </div>
 
 <div class="course-cta" markdown="1">

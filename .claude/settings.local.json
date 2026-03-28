@@ -33,7 +33,8 @@
       "Bash(echo:*)",
       "mcp__plugin_context-mode_context-mode__execute_file",
       "mcp__plugin_context-mode_context-mode__search",
-      "Bash(rtk proxy find:*)"
+      "Bash(rtk proxy find:*)",
+      "mcp__plugin_context-mode_context-mode__execute"
     ],
     "deny": [],
     "ask": []
