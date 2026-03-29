@@ -14,6 +14,9 @@ author: Martin Dilger
   <a href="https://www.eventmodelers.de/docs/event-modeling/" class="cta-button" style="font-size: 1.3em; padding: 18px 36px;">Learn Event Modeling</a>
   <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="cta-button" style="font-size: 1.3em; padding: 18px 36px;">Get guidance for your Team</a>
 </div>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <a href="https://nebulit.de/en/eventmodeling-workshop" class="cta-button" style="font-size: 1.3em; padding: 18px 36px;">Join the next workshop - April 16/17 2026</a>
+</div>
 </div>
 
 
