@@ -132,7 +132,7 @@ body {
 /* Landing Page Hero */
 .hero {
     position: relative;
-    background: linear-gradient(135deg, #2a3050 0%, #1e2235 100%);
+    background: linear-gradient(135deg, #3a4580 0%, #1e2235 50%, #2d1f4e 100%);
     color: var(--white) !important;
     padding: 60px 24px;
     text-align: center;
