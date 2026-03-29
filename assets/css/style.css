@@ -32,7 +32,14 @@ body {
 
 /* Top Header Navigation */
 .top-header {
-    background-color: var(--white);
+    background-color: #f0f0f0;
+    background-image: repeating-linear-gradient(
+        45deg,
+        transparent,
+        transparent 8px,
+        rgba(0,0,0,0.04) 8px,
+        rgba(0,0,0,0.04) 16px
+    );
     border-bottom: 1px solid var(--border-color);
     position: sticky;
     top: 0;
@@ -134,9 +141,9 @@ body {
     position: relative;
     background-color: var(--secondary-color);
     color: var(--white) !important;
-    padding: 100px 24px;
+    padding: 60px 24px;
     text-align: center;
-    min-height: 500px;
+    min-height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
