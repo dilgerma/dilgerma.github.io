@@ -20,9 +20,9 @@ author: Martin Dilger
 </div>
 
 
-<section style="text-align: center; padding: 40px 20px; max-width: 600px; margin: 0 auto;">
+<section style="text-align: center; padding: 20px 20px;">
   <h3>Want to stay up to date?</h3>
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+  <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
     <a class="cta-button" href="https://www.linkedin.com/in/martindilger/" style="background-color: #1a73e8; font-size: 0.85em; padding: 8px 18px;">Follow me on LinkedIn</a>
     <a class="cta-button" href="https://www.youtube.com/@nebulit" style="background-color: #1a73e8; font-size: 0.85em; padding: 8px 18px;">Subscribe to the YouTube Channel</a>
     <a class="cta-button" href="https://newsletter.nebulit.de" style="background-color: #1a73e8; font-size: 0.85em; padding: 8px 18px;">Subscribe to the Newsletter</a>
