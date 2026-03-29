@@ -15,12 +15,12 @@ author: Martin Dilger
   <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="cta-button" style="font-size: 1.3em; padding: 18px 36px;">Get guidance for your Team</a>
 </div>
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://nebulit.de/en/eventmodeling-workshop" class="cta-button" style="font-size: 1.3em; padding: 18px 36px;">Join the next workshop - April 16/17 2026</a>
+  <a href="https://nebulit.de/en/eventmodeling-workshop" class="cta-button" style="font-size: 0.9em; padding: 10px 20px; background-color: #28a745;">Join the next workshop - April 16/17 2026</a>
 </div>
 </div>
 
 
-<section style="text-align: center; padding: 40px 20px;">
+<section style="text-align: center; padding: 40px 20px; max-width: 600px; margin: 0 auto;">
   <h3>Want to stay up to date?</h3>
   <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
     <a class="cta-button" href="https://www.linkedin.com/in/martindilger/" style="background-color: #1a73e8; font-size: 0.85em; padding: 8px 18px;">Follow me on LinkedIn</a>
