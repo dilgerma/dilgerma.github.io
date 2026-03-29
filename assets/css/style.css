@@ -27,6 +27,13 @@ body {
     line-height: 1.7;
     color: var(--text-color);
     background-color: var(--white);
+    background-image: repeating-linear-gradient(
+        45deg,
+        transparent,
+        transparent 20px,
+        rgba(0,0,0,0.02) 20px,
+        rgba(0,0,0,0.02) 40px
+    );
     font-size: 1rem;
 }
 
@@ -36,9 +43,9 @@ body {
     background-image: repeating-linear-gradient(
         45deg,
         transparent,
-        transparent 8px,
-        rgba(0,0,0,0.04) 8px,
-        rgba(0,0,0,0.04) 16px
+        transparent 20px,
+        rgba(0,0,0,0.02) 20px,
+        rgba(0,0,0,0.02) 40px
     );
     border-bottom: 1px solid var(--border-color);
     position: sticky;
