@@ -8,22 +8,12 @@ author: Martin Dilger
 
 <div class="hero">
   <h1>Make your Engineering Team AI Ready with Event Modeling</h1>
-<p>This is how to close the Gap between Business, Engineering and AI with a step by step process.</p>
-
-<section class="video-section">
-  <h2 style="color: white;">Live Event Modeling in 120min</h2>
-  <div class="video-container">
-    <iframe src="https://www.youtube-nocookie.com/embed/6DqaNKxjvko?si=9I3wneDH9AFzjCPu" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-</section>
-
-
-    <h3>Want to stay up to date?</h3>
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <a class="workshop-link" href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
-    <a class="workshop-link" href="https://www.youtube.com/@nebulit">Subscribe to the YouTube Channel</a>
+  <p>This is how to close the Gap between Business, Engineering and AI with a step by step process.</p>
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+  <a href="https://app.eventmodelers.de" class="cta-button" style="font-size: 1.3em; padding: 18px 36px;">Start Modeling right now</a>
+  <a href="https://www.eventmodelers.de/docs/event-modeling/" class="cta-button" style="font-size: 1.3em; padding: 18px 36px;">Learn Event Modeling</a>
+  <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="cta-button" style="font-size: 1.3em; padding: 18px 36px;">Get guidance for your Team</a>
 </div>
-  <a href="{{ '/docs/event-modeling' | relative_url }}" class="cta-button">Now learn about Event Modeling</a>
 </div>
 
 <section class="features">
@@ -64,8 +54,11 @@ author: Martin Dilger
 
 </section>
 
-<section>
-  <div class="newsletter-container">
-  <script async data-uid="548f1eb492" src="https://nebulit-gmbh.kit.com/548f1eb492/index.js"></script>
-</div>
+<section style="text-align: center; padding: 40px 20px;">
+  <h3>Want to stay up to date?</h3>
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+    <a class="workshop-link" href="https://www.linkedin.com/in/martindilger/">Follow me on LinkedIn</a>
+    <a class="workshop-link" href="https://www.youtube.com/@nebulit">Subscribe to the YouTube Channel</a>
+    <a class="workshop-link" href="https://newsletter.nebulit.de">Subscribe to the Newsletter</a>
+  </div>
 </section>
