@@ -19,7 +19,7 @@ author: Martin Dilger
 </div>
 </div>
 
-<section style="text-align: center; padding: 12px 20px; background-color: #f0f0f0; background-image: repeating-linear-gradient(45deg, transparent, transparent 8px, rgba(0,0,0,0.04) 8px, rgba(0,0,0,0.04) 16px);">
+<section style="text-align: center; padding: 12px 20px; background-color: #f0f0f0;">
   <h3 style="margin: 4px 0;">Want to stay up to date?</h3>
   <div style="display: flex; gap: 20px; justify-content: center; margin-top: 6px;">
     <a class="cta-button" href="https://www.linkedin.com/in/martindilger/" style="background-color: #1a73e8; font-size: 0.85em; padding: 8px 18px;">Follow me on LinkedIn</a>
