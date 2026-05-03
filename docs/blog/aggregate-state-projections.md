@@ -104,11 +104,11 @@ Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to de
 </div>
 
 <div class="course-cta" markdown="1">
-### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+### Full Agentic Event Modeling Plattform
 
-Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+AI-Enabled Event Modeling and Code-Generation
 
-[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+[Start Modeling here →](https://app.eventmodelers.de){:target="_blank" .cta-button}
 </div>
 
 <section class="related-posts">

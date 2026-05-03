@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Event Modeling Toolkit - Visual Event-Driven Architecture Design in Miro
+title: Make your Engineering Team AI Ready with Event Modeling - AI-Enabled Software Planning
 description: Build event-driven systems with visual Event Modeling directly in Miro. Design, collaborate, and generate code from your event models. Close the gap between business and engineering in days.
 keywords: event modeling, event-driven architecture, miro toolkit, event sourcing, visual modeling, software design, collaborative modeling, code generation, AI integration
 author: Martin Dilger
@@ -8,7 +8,8 @@ author: Martin Dilger
 
 <div class="hero">
   <h1>Make your Engineering Team AI Ready with Event Modeling</h1>
-  <p>This is how to close the Gap between Business, Engineering and AI with a step by step process.</p>
+  <h2 style="font-size: 1.4em; font-weight: 400; margin: 8px 0 4px;">AI-Enabled Software Planning</h2>
+  <p>Align Engineering, Business and AI-Agents on one platform.</p>
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
   <a href="https://app.eventmodelers.de" class="cta-button" style="font-size: 1.3em; padding: 18px 36px;">🏃 Start Modeling right now</a>
   <a href="https://www.eventmodelers.de/docs/event-modeling/" class="cta-button" style="font-size: 1.3em; padding: 18px 36px;">🎓 Learn Event Modeling</a>

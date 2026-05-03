@@ -188,11 +188,11 @@ tags: [architecture, event-modeling, ddd, software-design, technical-debt]
     <p>Ready to explore an alternative approach? Learn how <a href="{{ '/docs/event-modeling' | relative_url }}">Event Modeling</a> provides the flexibility to serve multiple use cases without the trade-offs inherent in state-based design.</p>
 
 <div class="course-cta" markdown="1">
-### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+### Full Agentic Event Modeling Plattform
 
-Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+AI-Enabled Event Modeling and Code-Generation
 
-[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+[Start Modeling here →](https://app.eventmodelers.de){:target="_blank" .cta-button}
 </div>
 
 <section class="related-posts">
