@@ -34,7 +34,20 @@
       "mcp__plugin_context-mode_context-mode__execute_file",
       "mcp__plugin_context-mode_context-mode__search",
       "Bash(rtk proxy find:*)",
-      "mcp__plugin_context-mode_context-mode__execute"
+      "mcp__plugin_context-mode_context-mode__execute",
+      "WebFetch(domain:www.dbos.dev)",
+      "Bash(bundle exec *)",
+      "Bash(ruby --version)",
+      "Bash(gem --version)",
+      "Bash(bundle --version)",
+      "Bash(jekyll --version)",
+      "Bash(brew install *)",
+      "Bash(rbenv versions *)",
+      "Bash(rbenv install *)",
+      "Bash(rbenv local *)",
+      "Read(//Users/martindilger/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/eventmachine-1.2.7/ext/**)",
+      "Bash(make)",
+      "Bash(docker *)"
     ],
     "deny": [],
     "ask": []
