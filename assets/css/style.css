@@ -550,6 +550,55 @@
     0 0 40px rgba(255,200,160,0.25);
 }
 
+.lp-hero-community-badge {
+  margin-top: 32px;
+  margin-bottom: 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #ff8c42;
+  text-shadow:
+    0 0 8px rgba(255, 140, 66, 0.9),
+    0 0 20px rgba(255, 140, 66, 0.7),
+    0 0 40px rgba(255, 140, 66, 0.5),
+    0 0 80px rgba(255, 140, 66, 0.3);
+  animation: glow-pulse 2.5s ease-in-out infinite alternate;
+}
+
+.lp-hero-catalog-teaser {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+}
+
+.lp-hero-catalog-text {
+  margin: 0;
+  font-size: 0.95rem;
+  color: rgba(255,255,255,0.7);
+  text-align: center;
+}
+
+@keyframes glow-pulse {
+  from {
+    text-shadow:
+      0 0 8px rgba(255, 140, 66, 0.9),
+      0 0 20px rgba(255, 140, 66, 0.7),
+      0 0 40px rgba(255, 140, 66, 0.5),
+      0 0 80px rgba(255, 140, 66, 0.3);
+  }
+  to {
+    text-shadow:
+      0 0 12px rgba(255, 140, 66, 1),
+      0 0 30px rgba(255, 140, 66, 0.9),
+      0 0 60px rgba(255, 140, 66, 0.7),
+      0 0 100px rgba(255, 140, 66, 0.5);
+  }
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .lp-hero {
