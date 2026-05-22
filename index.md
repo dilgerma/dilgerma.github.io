@@ -184,7 +184,7 @@ author: Martin Dilger
     <p>Start modeling for free today, or join one of our hands-on workshops to get your whole team up to speed in two days.</p>
     <div class="lp-bottom-cta-btns">
       <a href="https://app.eventmodelers.de" class="lp-btn-primary">Start Modeling for Free</a>
-      <a href="https://nebulit.de/en/eventmodeling-workshop" class="lp-btn-secondary">Join the Next Workshop →</a>
+      <a href="https://app.eventmodelers.de/catalog" class="lp-btn-secondary">Explore Real World Event Models</a>
     </div>
   </div>
 </section>
