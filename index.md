@@ -17,7 +17,7 @@ author: Martin Dilger
     </div>
   </div>
 </section>
-
+<!--
 <section class="lp-logos">
   <p class="lp-logos-label">Trusted by engineering teams across Europe</p>
   <div class="lp-logos-list">
@@ -29,7 +29,7 @@ author: Martin Dilger
     <span>Deutsche Bahn</span>
   </div>
 </section>
-
+-->
 <section class="lp-benefits">
   <div class="lp-benefits-inner">
     <h2>Everything your team needs to build the right thing</h2>
