@@ -47,7 +47,8 @@
       "Bash(rbenv local *)",
       "Read(//Users/martindilger/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/eventmachine-1.2.7/ext/**)",
       "Bash(make)",
-      "Bash(docker *)"
+      "Bash(docker *)",
+      "Bash(git *)"
     ],
     "deny": [],
     "ask": []

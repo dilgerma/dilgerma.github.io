@@ -17,8 +17,13 @@ author: Martin Dilger
     </div>
   </div>
 </section>
+<section>
+    <p class="lp-bottom-cta-badge">Backed by the Event Modeling Community</p>
+</section>
 <!--
 <section class="lp-logos">
+
+
   <p class="lp-logos-label">Trusted by engineering teams across Europe</p>
   <div class="lp-logos-list">
     <span>Bosch</span>
@@ -186,6 +191,5 @@ author: Martin Dilger
       <a href="https://app.eventmodelers.de" class="lp-btn-primary">Start Modeling for Free</a>
       <a href="https://app.eventmodelers.de/catalog" class="lp-btn-secondary">Explore Real World Event Models</a>
     </div>
-    <p class="lp-bottom-cta-badge">Backed by the Event Modeling Community</p>
   </div>
 </section>
