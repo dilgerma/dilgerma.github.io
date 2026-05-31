@@ -12,13 +12,13 @@ author: Martin Dilger
     <h1>The Blueprint Your Engineering Team Actually Uses</h1>
     <p>Event Modeling aligns business, engineering, and AI agents on a single visual specification — from first discovery workshop to running production code.</p>
     <div class="lp-hero-ctas">
-      <a href="https://app.eventmodelers.de" class="lp-btn-primary">Start Modeling for Free</a>
+      <a href="https://app.eventmodelers.ai" class="lp-btn-primary">Start Modeling for Free</a>
       <a href="https://nebulit.de/en/eventmodeling-workshop" class="lp-btn-secondary">Join a Workshop</a>
     </div>
     <p class="lp-hero-community-badge">Backed by the Event Modeling Community</p>
     <div class="lp-hero-catalog-teaser">
       <p class="lp-hero-catalog-text">Curious? Here you can see some real world examples</p>
-      <a href="https://app.eventmodelers.de/catalog" class="lp-btn-secondary">Explore Real World Event Models</a>
+      <a href="https://app.eventmodelers.ai/catalog" class="lp-btn-secondary">Explore Real World Event Models</a>
     </div>
   </div>
 </section>
@@ -100,7 +100,7 @@ author: Martin Dilger
           <li>Test cases derived directly from the model</li>
           <li>AI-assisted code scaffolding per slice</li>
         </ul>
-        <a href="https://app.eventmodelers.de" class="lp-usecase-cta">Start Modeling →</a>
+        <a href="https://app.eventmodelers.ai" class="lp-usecase-cta">Start Modeling →</a>
       </div>
       <div class="lp-usecase-card">
         <span class="lp-usecase-icon">🏗️</span>
@@ -133,7 +133,7 @@ author: Martin Dilger
           <li>Context-aware code generation</li>
           <li>Agent-compatible output formats</li>
         </ul>
-        <a href="https://app.eventmodelers.de" class="lp-usecase-cta">Try the Generator →</a>
+        <a href="https://app.eventmodelers.ai" class="lp-usecase-cta">Try the Generator →</a>
       </div>
     </div>
   </div>
@@ -190,8 +190,8 @@ author: Martin Dilger
     <h2>Ready to align your team around a shared blueprint?</h2>
     <p>Start modeling for free today, or join one of our hands-on workshops to get your whole team up to speed in two days.</p>
     <div class="lp-bottom-cta-btns">
-      <a href="https://app.eventmodelers.de" class="lp-btn-primary">Start Modeling for Free</a>
-      <a href="https://app.eventmodelers.de/catalog" class="lp-btn-secondary">Explore Real World Event Models</a>
+      <a href="https://app.eventmodelers.ai" class="lp-btn-primary">Start Modeling for Free</a>
+      <a href="https://app.eventmodelers.ai/catalog" class="lp-btn-secondary">Explore Real World Event Models</a>
     </div>
   </div>
 </section>

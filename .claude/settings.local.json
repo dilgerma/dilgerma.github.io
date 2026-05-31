@@ -48,7 +48,8 @@
       "Read(//Users/martindilger/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/eventmachine-1.2.7/ext/**)",
       "Bash(make)",
       "Bash(docker *)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Bash(xargs sed -i '' 's/app\\\\.eventmodelers\\\\.de/app.eventmodelers.ai/g; s/api\\\\.eventmodelers\\\\.de/api.eventmodelers.ai/g')"
     ],
     "deny": [],
     "ask": []

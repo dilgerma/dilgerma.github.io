@@ -192,7 +192,7 @@ tags: [architecture, event-modeling, ddd, software-design, technical-debt]
 
 AI-Enabled Event Modeling and Code-Generation
 
-[Start Modeling here →](https://app.eventmodelers.de){:target="_blank" .cta-button}
+[Start Modeling here →](https://app.eventmodelers.ai){:target="_blank" .cta-button}
 </div>
 
 <section class="related-posts">
