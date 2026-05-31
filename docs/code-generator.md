@@ -88,7 +88,7 @@ To follow along with this course, you'll need:
 - **Git Repository**: [https://github.com/dilgerma/eventsourced-quiz](https://github.com/dilgerma/eventsourced-quiz)
 - **Miro Toolkit**: [Event Modeling Toolkit](https://miro.com/marketplace/eventmodeling/)
 - **Book**: "Understanding Eventsourcing"
-- **Course**: [Implementing Eventsourcing](https://eventmodelers.de) (includes full license for the Miro Toolkit)
+- **Course**: [Implementing Eventsourcing](https://eventmodelers.ai) (includes full license for the Miro Toolkit)
 
 ## Next Steps
 

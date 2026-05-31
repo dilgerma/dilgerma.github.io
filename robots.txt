@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://www.eventmodelers.de/sitemap.xml
+Sitemap: https://www.eventmodelers.ai/sitemap.xml
 
 # Crawl-delay for politeness
 Crawl-delay: 1
