@@ -106,7 +106,7 @@ Want to learn how to plan Event Sourced Systems properly? Join me for an in-dept
 
 Want to give the Event Modeler a try? It's still work in progress, but I'm already using it myself daily.
 
-**[Start modeling here](https://app.eventmodelers.ai/canvas){:target="_blank"}**
+**[Start modeling here](https://app.eventmodelers.de/canvas){:target="_blank"}**
 
 <script async data-uid="bef5bb7fb4" src="https://nebulit-gmbh.kit.com/bef5bb7fb4/index.js"></script>
 
@@ -123,7 +123,7 @@ Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to de
 
 AI-Enabled Event Modeling and Code-Generation
 
-[Start Modeling here →](https://app.eventmodelers.ai){:target="_blank" .cta-button}
+[Start Modeling here →](https://app.eventmodelers.de){:target="_blank" .cta-button}
 </div>
 
 <section class="related-posts">

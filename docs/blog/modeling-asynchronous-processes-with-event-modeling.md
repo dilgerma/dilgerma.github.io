@@ -163,8 +163,8 @@ In the next article, we'll look at integration with the UI and how the asynchron
 
 - [Github](https://github.com/dilgerma/eventmodeling-automations)
 - [Event Model in Miro](https://miro.com/app/board/uXjVKyw_cAI=/?moveToWidget=3458764595145171310&cot=14)
-- [Learn Event Modeling](https://eventmodelers.ai/)
-- [Event Modeling Tooling](https://eventmodelers.ai/eventmodeling-tooling)
+- [Learn Event Modeling](https://eventmodelers.de/)
+- [Event Modeling Tooling](https://eventmodelers.de/eventmodeling-tooling)
 - [Event Modeling Community](https://eventmodeling.org/)
 
 ---
@@ -182,7 +182,7 @@ Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to de
 
 AI-Enabled Event Modeling and Code-Generation
 
-[Start Modeling here →](https://app.eventmodelers.ai){:target="_blank" .cta-button}
+[Start Modeling here →](https://app.eventmodelers.de){:target="_blank" .cta-button}
 </div>
 
 <section class="related-posts">
