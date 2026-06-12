@@ -7,6 +7,12 @@
     <nav class="header-nav">
       <ul class="header-menu">
         <li>
+          <a href="{{ '/use-cases' | relative_url }}"
+             {% if page.url == '/use-cases/' or page.url == '/use-cases.html' %}class="active"{% endif %}>
+            Use Cases
+          </a>
+        </li>
+        <li>
           <a href="https://nebulit.de/en/workshops" target="_blank" rel="noopener noreferrer">
             Workshops
           </a>
