@@ -12,7 +12,23 @@ author: Martin Dilger
     <h2>What can you actually do with this?</h2>
     <p class="lp-section-sub">Not a list of features. Real scenarios showing how the platform works — from a problem you recognise to a result you can open on your board.</p>
 
-    <div class="lp-story-card">
+    <div class="lp-uc-nav">
+      <div class="lp-uc-nav-label">Jump to use case</div>
+      <div class="lp-uc-nav-links">
+        <a href="#uc-1" class="lp-uc-nav-item">
+          <span class="lp-uc-nav-tag">📸 Use Case 1</span>
+          <span class="lp-uc-nav-title">Document Existing UX Flows with AI</span>
+          <span class="lp-uc-nav-meta">⚡ ~15 min · Zero screenshots · On autopilot</span>
+        </a>
+        <a href="#uc-2" class="lp-uc-nav-item">
+          <span class="lp-uc-nav-tag">🧠 Use Case 2</span>
+          <span class="lp-uc-nav-title">Model Before You Code</span>
+          <span class="lp-uc-nav-meta">🗣️ One conversation · 9 steps · Catch gaps before sprint 1</span>
+        </a>
+      </div>
+    </div>
+
+    <div id="uc-1" class="lp-story-card">
       <div class="lp-story-card-header">
         <div class="lp-story-tag">📸 Use Case 1</div>
         <h3>Document Existing UX Flows with AI</h3>
@@ -170,7 +186,7 @@ author: Martin Dilger
       </div>
     </div>
 
-    <div class="lp-story-card">
+    <div id="uc-2" class="lp-story-card">
       <div class="lp-story-card-header">
         <div class="lp-story-tag">🧠 Use Case 2</div>
         <h3>Model Before You Code — Understand Your Business Case with an Agent</h3>
