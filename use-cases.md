@@ -13,17 +13,25 @@ author: Martin Dilger
     <p class="lp-section-sub">Not a list of features. Real scenarios showing how the platform works — from a problem you recognise to a result you can open on your board.</p>
 
     <div class="lp-uc-nav">
-      <div class="lp-uc-nav-label">Jump to use case</div>
+      <div class="lp-uc-nav-label">Learn about <span>real-world use cases</span></div>
       <div class="lp-uc-nav-links">
         <a href="#uc-1" class="lp-uc-nav-item">
           <span class="lp-uc-nav-tag">📸 Use Case 1</span>
           <span class="lp-uc-nav-title">Document Existing UX Flows with AI</span>
           <span class="lp-uc-nav-meta">⚡ ~15 min · Zero screenshots · On autopilot</span>
+          <span class="lp-uc-nav-arrow">→</span>
         </a>
         <a href="#uc-2" class="lp-uc-nav-item">
           <span class="lp-uc-nav-tag">🧠 Use Case 2</span>
           <span class="lp-uc-nav-title">Model Before You Code</span>
           <span class="lp-uc-nav-meta">🗣️ One conversation · 9 steps · Catch gaps before sprint 1</span>
+          <span class="lp-uc-nav-arrow">→</span>
+        </a>
+        <a href="#uc-3" class="lp-uc-nav-item">
+          <span class="lp-uc-nav-tag">🤝 Use Case 3</span>
+          <span class="lp-uc-nav-title">Run Meetings That Actually Produce Something</span>
+          <span class="lp-uc-nav-meta">📋 Visual agenda · Every change recorded · Clear outcomes every time</span>
+          <span class="lp-uc-nav-arrow">→</span>
         </a>
       </div>
     </div>
@@ -305,6 +313,135 @@ author: Martin Dilger
           <a href="https://app.eventmodelers.ai" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Try the Platform Free →</a>
           <a href="https://app.eventmodelers.ai/documentation" class="lp-btn-outline" style="padding:12px 26px;font-size:0.9rem;">Read the Agent Docs</a>
           <span class="lp-story-cta-note">Requires Claude Code + the modeling kit installed</span>
+        </div>
+
+      </div>
+    </div>
+
+    <div id="uc-3" class="lp-story-card">
+      <div class="lp-story-card-header">
+        <div class="lp-story-tag">🤝 Use Case 3</div>
+        <h3>Run Meetings That Actually Produce Something</h3>
+        <p>A shared board as the agenda, the whiteboard, and the minutes — all at once</p>
+        <div class="lp-story-time-pills">
+          <span class="lp-story-pill">📋 Visual agenda, not a bullet list</span>
+          <span class="lp-story-pill">🔁 Every change is recorded and replayable</span>
+          <span class="lp-story-pill">✅ Clear outcomes after every session</span>
+          <span class="lp-story-pill">🚫 No more meaningless agendas</span>
+        </div>
+      </div>
+
+      <div class="lp-story-card-body">
+
+        <div class="lp-story-persona">
+          <div class="lp-story-persona-icon">👥</div>
+          <p class="lp-story-persona-text">
+            <strong>The team</strong> used to start every refinement with the same question: <em>"So — where were we?"</em> Twenty minutes gone before a single decision. Now the first thing anyone does when a meeting starts is open the board. The model is the agenda. What's on it drives the conversation. What changes during the session is captured automatically. The meeting ends with something tangible — every time.
+          </p>
+        </div>
+
+        <div class="lp-story-compare">
+          <div class="lp-story-compare-col before">
+            <div class="lp-story-compare-label">⏱ The old way — talking in circles</div>
+            <ul class="lp-story-compare-list">
+              <li>Agenda is a list of topics — nobody knows what "discuss payments" means</li>
+              <li>Half the meeting is reconstructing context from last time</li>
+              <li>Decisions happen but nobody wrote them down the same way</li>
+              <li>Whiteboard gets erased, sticky notes get lost</li>
+              <li>Follow-up email tries to summarise — different people remember it differently</li>
+              <li>Next meeting starts from scratch again</li>
+            </ul>
+          </div>
+          <div class="lp-story-compare-col after">
+            <div class="lp-story-compare-label">⚡ With a shared model board</div>
+            <ul class="lp-story-compare-list">
+              <li>Open the board — the model is the agenda, visually</li>
+              <li>Context is immediate: everyone sees what was there before</li>
+              <li>Changes made during the session are recorded as they happen</li>
+              <li>Board history lets you replay every move after the fact</li>
+              <li>Export a screenshot at the end — your meeting minutes, done</li>
+              <li>Next meeting picks up exactly where this one left off</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="lp-story-steps-label">How a session unfolds — from opening to outcome</div>
+        <div class="lp-story-steps">
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">1</div>
+            <div>
+              <div class="lp-story-step-title">Open the board — the model is already there</div>
+              <div class="lp-story-step-body">No deck, no document, no "let me share my screen." The board is open, the timeline is visible, the context from last session is still there. The conversation can start immediately.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">2</div>
+            <div>
+              <div class="lp-story-step-title">The model guides every discussion</div>
+              <div class="lp-story-step-body">Instead of abstract topics, the team points at specific events, commands, and flows. <em>"This command — what happens if it fails?"</em> is a better question than <em>"So, about the payment flow…"</em>. The visual structure keeps the conversation grounded.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">3</div>
+            <div>
+              <div class="lp-story-step-title">Every change lands directly on the board</div>
+              <div class="lp-story-step-body">A new event gets added. A command gets renamed. A missing read model gets flagged. All of it goes onto the board in real time — not into someone's notebook to be typed up later.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">4</div>
+            <div>
+              <div class="lp-story-step-title">Board history records every move automatically</div>
+              <div class="lp-story-step-body">Every change to the board is captured — who moved what, when. After the session you can scrub through the full history and replay exactly how the model evolved. Nothing gets lost. Even the reasoning behind a decision is visible in the sequence of changes.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">5</div>
+            <div>
+              <div class="lp-story-step-title">Export a screenshot — your meeting minutes in one click</div>
+              <div class="lp-story-step-body">At the end of the session, one person exports a screenshot of the board. That's the summary. Not a write-up. Not an email. The model speaks for itself — and everyone who was in the room already agreed on what's on it.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="lp-story-result">
+          <div class="lp-story-result-label">Board history — every change recorded and replayable</div>
+          <img src="/assets/images/board_history.png" alt="Board history showing all recorded changes with a timeline scrubber" style="width:100%;border-radius:10px;border:1px solid #e5e5e5;margin-top:12px;" />
+        </div>
+
+        <div class="lp-story-steps-label" style="margin-top:40px;">What the team discovered — once meetings had structure</div>
+        <div class="lp-story-insights">
+          <div class="lp-story-insight info">
+            <div class="lp-story-insight-icon">🗣️</div>
+            <div>
+              <div class="lp-story-insight-title">Conversations became specific instead of circular</div>
+              <div class="lp-story-insight-body">When the agenda is a visual model, vague topics disappear. You can't have a 20-minute debate about <em>"the subscription flow"</em> when the flow is right there on screen. Either the model is right or it isn't — and the team can see which.</div>
+            </div>
+          </div>
+          <div class="lp-story-insight warning">
+            <div class="lp-story-insight-icon">⏪</div>
+            <div>
+              <div class="lp-story-insight-title">Board history settled a dispute no one remembered</div>
+              <div class="lp-story-insight-body">Two weeks after a session, the team disagreed on whether a particular event had been intentionally removed or accidentally deleted. They opened the history, scrubbed to that moment, and saw exactly what happened — and why. Case closed in 90 seconds.</div>
+            </div>
+          </div>
+          <div class="lp-story-insight danger">
+            <div class="lp-story-insight-icon">📋</div>
+            <div>
+              <div class="lp-story-insight-title">Nobody writes meeting minutes anymore</div>
+              <div class="lp-story-insight-body">The screenshot at the end of each session replaced the follow-up email that nobody read anyway. The board is the record. If a decision isn't on the board, it didn't happen.</div>
+            </div>
+          </div>
+        </div>
+
+        <p style="font-size:0.95rem;color:#6b6b76;line-height:1.75;font-style:italic;margin-bottom:32px;">
+          The board doesn't just capture what the team decided — it changes how they talk. When everyone is looking at the same visual model, the conversation becomes about the model. Not about opinions, not about who remembers it differently. The structure is the discipline. And every meeting ends with something real: a board that reflects what was agreed, recorded change by change.
+        </p>
+
+        <div class="lp-story-cta-row">
+          <a href="https://app.eventmodelers.ai" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Try the Platform Free →</a>
+          <a href="https://app.eventmodelers.ai/documentation" class="lp-btn-outline" style="padding:12px 26px;font-size:0.9rem;">See the Board in Action</a>
+          <span class="lp-story-cta-note">Real-time collaboration · History included in all plans</span>
         </div>
 
       </div>
