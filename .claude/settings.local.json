@@ -49,7 +49,8 @@
       "Bash(make)",
       "Bash(docker *)",
       "Bash(git *)",
-      "Bash(xargs sed -i '' 's/app\\\\.eventmodelers\\\\.de/app.eventmodelers.ai/g; s/api\\\\.eventmodelers\\\\.de/api.eventmodelers.ai/g')"
+      "Bash(xargs sed -i '' 's/app\\\\.eventmodelers\\\\.de/app.eventmodelers.ai/g; s/api\\\\.eventmodelers\\\\.de/api.eventmodelers.ai/g')",
+      "mcp__chrome-devtools__new_page"
     ],
     "deny": [],
     "ask": []

@@ -28,24 +28,146 @@ author: Martin Dilger
     <h2>What can you actually do with this?</h2>
     <p class="lp-section-sub">Not a list of features. A real scenario showing how the platform works — from a problem you recognise to a result you can open on your board.</p>
 
-    <div class="lp-story-card">
-      <div class="lp-story-card-header">
-        <div class="lp-story-tag">📸 Use Case 1</div>
-        <h3>Document Existing UX Flows with AI</h3>
-        <p>Automatic Domain Discovery using Claude Code — on autopilot, in ~15 minutes</p>
-        <div class="lp-story-time-pills">
-          <span class="lp-story-pill">⚡ ~15 min total</span>
-          <span class="lp-story-pill">🤖 Zero manual screenshots</span>
-          <span class="lp-story-pill">📋 Zero documentation effort</span>
-          <span class="lp-story-pill">🔍 Finds things you didn't know were there</span>
+    <div class="lp-carousel-wrapper">
+      <div class="lp-carousel-track" id="storiesCarousel">
+        <div class="lp-carousel-slide">
+          <div class="lp-story-card" style="margin-top:0;">
+            <div class="lp-story-card-header">
+              <div class="lp-story-tag">📸 Use Case 1</div>
+              <h3>Document Existing UX Flows with AI</h3>
+              <p>Automatic Domain Discovery using Claude Code — on autopilot, in ~15 minutes</p>
+              <div class="lp-story-time-pills">
+                <span class="lp-story-pill">⚡ ~15 min total</span>
+                <span class="lp-story-pill">🤖 Zero manual screenshots</span>
+                <span class="lp-story-pill">📋 Zero documentation effort</span>
+                <span class="lp-story-pill">🔍 Finds things you didn't know were there</span>
+              </div>
+              <div class="lp-story-cta-row" style="margin-top:24px;">
+                <a href="{{ '/use-cases#uc-1' | relative_url }}" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Read the Full Use Case →</a>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="lp-story-cta-row" style="margin-top:24px;">
-          <a href="{{ '/use-cases' | relative_url }}" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Read the Full Use Case →</a>
+        <div class="lp-carousel-slide">
+          <div class="lp-story-card" style="margin-top:0;">
+            <div class="lp-story-card-header">
+              <div class="lp-story-tag">🧠 Use Case 2</div>
+              <h3>Model Before You Code</h3>
+              <p>Run the full Event Modeling workflow in one conversation — discover what the business actually needs before anyone writes a line of code</p>
+              <div class="lp-story-time-pills">
+                <span class="lp-story-pill">🗣️ One conversation, 9 structured steps</span>
+                <span class="lp-story-pill">🔍 Surfaces gaps before they become bugs</span>
+                <span class="lp-story-pill">📐 Complete model, ready for code generation</span>
+                <span class="lp-story-pill">🤝 Works with domain experts in the room</span>
+              </div>
+              <div class="lp-story-cta-row" style="margin-top:24px;">
+                <a href="{{ '/use-cases#uc-2' | relative_url }}" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Read the Full Use Case →</a>
+              </div>
+            </div>
+          </div>
         </div>
+        <div class="lp-carousel-slide">
+          <div class="lp-story-card" style="margin-top:0;">
+            <div class="lp-story-card-header">
+              <div class="lp-story-tag">🤝 Use Case 3</div>
+              <h3>Run Meetings That Actually Produce Something</h3>
+              <p>A shared board as the agenda, the whiteboard, and the minutes — all at once</p>
+              <div class="lp-story-time-pills">
+                <span class="lp-story-pill">📋 Visual agenda, not a bullet list</span>
+                <span class="lp-story-pill">🔁 Every change is recorded and replayable</span>
+                <span class="lp-story-pill">✅ Clear outcomes after every session</span>
+                <span class="lp-story-pill">🚫 No more meaningless agendas</span>
+              </div>
+              <div class="lp-story-cta-row" style="margin-top:24px;">
+                <a href="{{ '/use-cases#uc-3' | relative_url }}" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Read the Full Use Case →</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="lp-carousel-slide">
+          <div class="lp-story-card" style="margin-top:0;">
+            <div class="lp-story-card-header">
+              <div class="lp-story-tag">⚙️ Use Case 4</div>
+              <h3>Build Directly from the Model</h3>
+              <p>Mark a slice as Planned on the board — the agent implements it, runs the tests, commits, and marks it Done. Automatically.</p>
+              <div class="lp-story-time-pills">
+                <span class="lp-story-pill">🤖 Fully autonomous implementation</span>
+                <span class="lp-story-pill">✅ Tests run before every commit</span>
+                <span class="lp-story-pill">📋 Board stays in sync with the code</span>
+                <span class="lp-story-pill">🔁 Slice by slice, no manual handoff</span>
+              </div>
+              <div class="lp-story-cta-row" style="margin-top:24px;">
+                <a href="{{ '/use-cases#uc-4' | relative_url }}" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Read the Full Use Case →</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="lp-carousel-nav">
+        <button class="lp-carousel-btn lp-carousel-prev" aria-label="Previous use case">&#8592;</button>
+        <div class="lp-carousel-dots">
+          <button class="lp-carousel-dot active" data-index="0" aria-label="Use case 1"></button>
+          <button class="lp-carousel-dot" data-index="1" aria-label="Use case 2"></button>
+          <button class="lp-carousel-dot" data-index="2" aria-label="Use case 3"></button>
+          <button class="lp-carousel-dot" data-index="3" aria-label="Use case 4"></button>
+        </div>
+        <button class="lp-carousel-btn lp-carousel-next" aria-label="Next use case">&#8594;</button>
       </div>
     </div>
 
     <p class="lp-stories-more">More use cases in progress — <a href="https://newsletter.nebulit.de">join the newsletter</a> to be notified when the next one lands.</p>
+
+<script>
+(function() {
+  var track = document.getElementById('storiesCarousel');
+  if (!track) return;
+  var slides = track.querySelectorAll('.lp-carousel-slide');
+  var dots = document.querySelectorAll('.lp-carousel-dot');
+  var current = 0;
+  var timer;
+
+  function goTo(n) {
+    slides[current].classList.remove('active');
+    dots[current].classList.remove('active');
+    current = (n + slides.length) % slides.length;
+    slides[current].classList.add('active');
+    dots[current].classList.add('active');
+  }
+
+  function startTimer() {
+    timer = setInterval(function() { goTo(current + 1); }, 5000);
+  }
+
+  function resetTimer() {
+    clearInterval(timer);
+    startTimer();
+  }
+
+  slides[0].classList.add('active');
+
+  dots.forEach(function(dot) {
+    dot.addEventListener('click', function() {
+      goTo(parseInt(this.dataset.index));
+      resetTimer();
+    });
+  });
+
+  var wrapper = track.closest('.lp-carousel-wrapper');
+  wrapper.querySelector('.lp-carousel-prev').addEventListener('click', function() {
+    goTo(current - 1);
+    resetTimer();
+  });
+  wrapper.querySelector('.lp-carousel-next').addEventListener('click', function() {
+    goTo(current + 1);
+    resetTimer();
+  });
+
+  wrapper.addEventListener('mouseenter', function() { clearInterval(timer); });
+  wrapper.addEventListener('mouseleave', startTimer);
+
+  startTimer();
+})();
+</script>
   </div>
 </section>
 

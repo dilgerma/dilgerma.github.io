@@ -993,6 +993,80 @@
   color: #9ca3af;
 }
 
+/* CAROUSEL */
+.lp-carousel-wrapper {
+  position: relative;
+  margin-top: 52px;
+}
+
+.lp-carousel-track {
+  position: relative;
+}
+
+.lp-carousel-slide {
+  display: none;
+}
+
+.lp-carousel-slide.active {
+  display: block;
+  animation: lp-fade-in 0.4s ease;
+}
+
+@keyframes lp-fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.lp-carousel-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.lp-carousel-dots {
+  display: flex;
+  gap: 8px;
+}
+
+.lp-carousel-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #d1d5db;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.lp-carousel-dot.active {
+  background: #6366f1;
+  transform: scale(1.25);
+}
+
+.lp-carousel-btn {
+  background: none;
+  border: 1px solid #d1d5db;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  font-size: 1rem;
+  color: #6b7280;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 0.2s, color 0.2s;
+  line-height: 1;
+}
+
+.lp-carousel-btn:hover {
+  border-color: #6366f1;
+  color: #6366f1;
+}
+
 /* USE CASE QUICK NAV */
 .lp-uc-nav {
   margin: 36px 0 48px;
