@@ -39,6 +39,12 @@ author: Martin Dilger
           <span class="lp-uc-nav-meta">🤖 One status change · Agent implements · Tests pass · Marked done</span>
           <span class="lp-uc-nav-arrow">→</span>
         </a>
+        <a href="#uc-5" class="lp-uc-nav-item">
+          <span class="lp-uc-nav-tag">🔄 Use Case 5</span>
+          <span class="lp-uc-nav-title">Change the Model, the Code Catches Up</span>
+          <span class="lp-uc-nav-meta">✏️ Update the model · Reset to Planned · Agent rewrites the slice · Done</span>
+          <span class="lp-uc-nav-arrow">→</span>
+        </a>
       </div>
     </div>
 
@@ -591,6 +597,130 @@ author: Martin Dilger
           <a href="https://app.eventmodelers.ai" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Try the Platform Free →</a>
           <a href="https://app.eventmodelers.ai/documentation" class="lp-btn-outline" style="padding:12px 26px;font-size:0.9rem;">Read the Build Kit Docs</a>
           <span class="lp-story-cta-note">Requires Claude Code · Node.js, Axon, or Supabase project</span>
+        </div>
+
+      </div>
+    </div>
+
+    <div id="uc-5" class="lp-story-card">
+      <div class="lp-story-card-header">
+        <div class="lp-story-tag">🔄 Use Case 5</div>
+        <h3>Change the Model, the Code Catches Up</h3>
+        <p>Update a slice definition on the board, reset its status to Planned — the agent rewrites the existing implementation to match. The model is always the source of truth.</p>
+        <div class="lp-story-time-pills">
+          <span class="lp-story-pill">✏️ Model change is the only input</span>
+          <span class="lp-story-pill">🔄 Existing code rewritten to match</span>
+          <span class="lp-story-pill">✅ Tests verify the new behaviour</span>
+          <span class="lp-story-pill">📋 Board and code stay in sync</span>
+        </div>
+      </div>
+
+      <div class="lp-story-card-body">
+
+        <div class="lp-story-persona">
+          <div class="lp-story-persona-icon">👩‍💻</div>
+          <p class="lp-story-persona-text">
+            <strong>Lena</strong> is three weeks into the build. Several slices are already Done — command handlers implemented, tests passing, board green. Then the business comes back: the <em>OrderPlaced</em> event needs two new fields, the projection that reads orders needs to expose them, and the command that places an order needs an extra validation rule. In the old world this means reading the code, finding every place the event is used, updating each one, hoping nothing is missed. Lena opens the board instead.
+          </p>
+        </div>
+
+        <div class="lp-story-compare">
+          <div class="lp-story-compare-col before">
+            <div class="lp-story-compare-label">⏱ The old way — chase the change through the code</div>
+            <ul class="lp-story-compare-list">
+              <li>Find every file that touches the changed event or command</li>
+              <li>Update each one manually — hoping you didn't miss a consumer</li>
+              <li>Update the tests by hand — or skip them and regret it later</li>
+              <li>Update the documentation separately — it drifts immediately</li>
+              <li>The model on the board is now wrong — nobody updates it</li>
+              <li>Code and model diverge from the moment the change lands</li>
+            </ul>
+          </div>
+          <div class="lp-story-compare-col after">
+            <div class="lp-story-compare-label">⚡ With the model as source of truth</div>
+            <ul class="lp-story-compare-list">
+              <li>Update the slice definition on the board — add fields, change rules</li>
+              <li>Reset the slice status to <em>Planned</em></li>
+              <li>Agent reads the new definition and rewrites the implementation</li>
+              <li>Runs build and tests against the updated spec — verifies correctness</li>
+              <li>Commits, sets status back to <em>Done</em></li>
+              <li>Board and codebase reflect the same reality — automatically</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="lp-story-steps-label">How Lena did it — step by step</div>
+        <div class="lp-story-steps">
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">1</div>
+            <div>
+              <div class="lp-story-step-title">Update the slice definition on the board</div>
+              <div class="lp-story-step-body">Lena opens the <em>PlaceOrder</em> slice on the board and makes the changes the business asked for: adds <code>discountCode</code> and <code>shippingTier</code> to the <em>OrderPlaced</em> event, adds a validation rule to the command (<em>"discount code must be active"</em>), and updates the Given-When-Then scenario to cover the new failure case. The change takes four minutes. The board is now accurate.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">2</div>
+            <div>
+              <div class="lp-story-step-title">Reset the slice status to Planned</div>
+              <div class="lp-story-step-body">One click on the status chip — <em>Done</em> → <em>Planned</em>. That single action is the trigger. The realtime agent picks up the change within seconds and writes a task for the build loop. No command to run, no script to invoke. The board event is the instruction.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">3</div>
+            <div>
+              <div class="lp-story-step-title">The agent reads the new model and rewrites the slice</div>
+              <div class="lp-story-step-body">The loop fires, sets the slice to <em>InProgress</em>, and fetches the updated definition from the board. It reads the existing implementation in <code>.slices/</code>, compares it with the new spec, and runs <code>/build-state-change</code> against the updated definition. The agent does not patch around the old code — it implements the slice correctly according to the current model. What the model says is what the code does.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">4</div>
+            <div>
+              <div class="lp-story-step-title">Tests run against the new spec — including the new failure scenario</div>
+              <div class="lp-story-step-body">The agent runs <code>npm run build</code> and the slice test suite. The new Given-When-Then scenario — <em>"Given an inactive discount code, When PlaceOrder is submitted, Then the command is rejected"</em> — is tested as part of the standard test run. The test was written on the board; the agent made sure it passes in the code.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">5</div>
+            <div>
+              <div class="lp-story-step-title">Commit lands, board turns green again</div>
+              <div class="lp-story-step-body">Tests pass. The agent commits with <code>feat: update PlaceOrder — add discountCode, shippingTier, validation rule</code>, merges to main, and sets the slice back to <em>Done</em> on the board. Lena opens the board. Green. She opens the code. It matches what the board says. She didn't touch the IDE once.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="lp-story-steps-label">What Lena discovered — once the model owns the change</div>
+        <div class="lp-story-insights">
+          <div class="lp-story-insight info">
+            <div class="lp-story-insight-icon">🔄</div>
+            <div>
+              <div class="lp-story-insight-title">Changing the model felt safer than changing the code</div>
+              <div class="lp-story-insight-body">When the model is the source of truth, the right place to make a change is obvious. You don't open the IDE and hope you found every callsite. You update the definition on the board — one place, fully visible — and let the agent propagate it into the code. The change is auditable before a single line is written.</div>
+            </div>
+          </div>
+          <div class="lp-story-insight warning">
+            <div class="lp-story-insight-icon">🧩</div>
+            <div>
+              <div class="lp-story-insight-title">The projection needed updating too — the board made that obvious</div>
+              <div class="lp-story-insight-body">When Lena added the new fields to <em>OrderPlaced</em>, she could immediately see on the board that the <em>OrderSummary</em> read model didn't expose them yet. She updated that slice definition as well, reset it to Planned, and the agent updated the projection in the same loop run. The board made the dependency visible before the code had to break to reveal it.</div>
+            </div>
+          </div>
+          <div class="lp-story-insight danger">
+            <div class="lp-story-insight-icon">🚫</div>
+            <div>
+              <div class="lp-story-insight-title">Nobody patched the code directly — and that mattered</div>
+              <div class="lp-story-insight-body">On a previous project, a developer had added a quick field directly in the code without updating the model. Three months later the board said one thing and the code did another. Nobody knew which was right. This time, the rule was explicit: if it's not on the board, it doesn't belong in the code. The model is the spec. Always.</div>
+            </div>
+          </div>
+        </div>
+
+        <p style="font-size:0.95rem;color:#6b6b76;line-height:1.75;font-style:italic;margin-bottom:32px;">
+          The model isn't a diagram you draw once and forget. It's a living spec — and when it changes, the code changes with it. Not the other way around. Resetting a slice to Planned isn't undoing work: it's telling the agent that the definition has changed and the implementation needs to catch up. That discipline — model first, code follows — is what keeps the board and the codebase telling the same story, sprint after sprint.
+        </p>
+
+        <div class="lp-story-cta-row">
+          <a href="https://app.eventmodelers.ai" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Try the Platform Free →</a>
+          <a href="https://app.eventmodelers.ai/documentation" class="lp-btn-outline" style="padding:12px 26px;font-size:0.9rem;">Read the Build Kit Docs</a>
+          <span class="lp-story-cta-note">Requires Claude Code · Build kit installed · Agent loop running</span>
         </div>
 
       </div>
