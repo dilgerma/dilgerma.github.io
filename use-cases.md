@@ -33,6 +33,12 @@ author: Martin Dilger
           <span class="lp-uc-nav-meta">📋 Visual agenda · Every change recorded · Clear outcomes every time</span>
           <span class="lp-uc-nav-arrow">→</span>
         </a>
+        <a href="#uc-4" class="lp-uc-nav-item">
+          <span class="lp-uc-nav-tag">⚙️ Use Case 4</span>
+          <span class="lp-uc-nav-title">Build Directly from the Model</span>
+          <span class="lp-uc-nav-meta">🤖 One status change · Agent implements · Tests pass · Marked done</span>
+          <span class="lp-uc-nav-arrow">→</span>
+        </a>
       </div>
     </div>
 
@@ -442,6 +448,149 @@ author: Martin Dilger
           <a href="https://app.eventmodelers.ai" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Try the Platform Free →</a>
           <a href="https://app.eventmodelers.ai/documentation" class="lp-btn-outline" style="padding:12px 26px;font-size:0.9rem;">See the Board in Action</a>
           <span class="lp-story-cta-note">Real-time collaboration · History included in all plans</span>
+        </div>
+
+      </div>
+    </div>
+
+    <div id="uc-4" class="lp-story-card">
+      <div class="lp-story-card-header">
+        <div class="lp-story-tag">⚙️ Use Case 4</div>
+        <h3>Build Directly from the Model</h3>
+        <p>Mark a slice as Planned on the board — the agent implements it, runs the tests, commits, and marks it Done. Automatically.</p>
+        <div class="lp-story-time-pills">
+          <span class="lp-story-pill">🤖 Fully autonomous implementation</span>
+          <span class="lp-story-pill">✅ Tests run before every commit</span>
+          <span class="lp-story-pill">📋 Board stays in sync with the code</span>
+          <span class="lp-story-pill">🔁 Slice by slice, no manual handoff</span>
+        </div>
+      </div>
+
+      <div class="lp-story-card-body">
+
+        <div class="lp-story-persona">
+          <div class="lp-story-persona-icon">👨‍💻</div>
+          <p class="lp-story-persona-text">
+            <strong>Alex</strong> has a complete Event Model on the board — events, commands, read models, and Given-When-Then specs from the session last week. The team has agreed on the model. Now it's time to build. Alex installs the build kit, starts the agent loop in a terminal, and goes back to the board. He marks the first slice <em>Planned</em>. Three minutes later he gets a notification: the slice is <em>Done</em>.
+          </p>
+        </div>
+
+        <div class="lp-story-compare">
+          <div class="lp-story-compare-col before">
+            <div class="lp-story-compare-label">⏱ The old way — model on the board, code written by hand</div>
+            <ul class="lp-story-compare-list">
+              <li>Developer reads the model, translates it into code manually</li>
+              <li>Context switches between the board and the IDE constantly</li>
+              <li>Edge cases from the model get missed in the implementation</li>
+              <li>Tests are written separately — or skipped entirely</li>
+              <li>Status tracking is a separate manual step nobody enjoys</li>
+              <li>The model drifts from the code the moment the sprint starts</li>
+            </ul>
+          </div>
+          <div class="lp-story-compare-col after">
+            <div class="lp-story-compare-label">⚡ With a Build Kit</div>
+            <ul class="lp-story-compare-list">
+              <li>Agent reads the slice definition directly from the board</li>
+              <li>Implements command handlers, projections, or automations — correctly typed</li>
+              <li>Runs <code>build</code> and <code>test</code> before every commit</li>
+              <li>Commits with a meaningful message, merges to main</li>
+              <li>Sets slice status to Done on the board automatically</li>
+              <li>The board always reflects the true state of the codebase</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="lp-story-steps-label">How Alex did it — step by step</div>
+        <div class="lp-story-steps">
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">1</div>
+            <div>
+              <div class="lp-story-step-title">Install the build kit for your stack</div>
+              <div class="lp-story-step-body">One command installs the agent loop, skills, and board connection inside your project. Choose the kit that matches your backend: <code>npx @eventmodelers/build-kit-node install</code> for Node.js, <code>npx @eventmodelers/build-kit-axon install</code> for Axon/Java, or <code>npx @eventmodelers/build-kit-supabase install</code> for Supabase. The installer asks for your API token and Organization ID — everything else is automatic.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">2</div>
+            <div>
+              <div class="lp-story-step-title">Start the agent loop</div>
+              <div class="lp-story-step-body">Open a terminal and start the ralph loop: <code>cd .build-kit-node && ./ralph.sh</code>. The loop polls for work every few seconds. Optionally start the realtime agent in a second terminal — it subscribes to board events over Supabase Realtime so the loop reacts instantly the moment a slice status changes, without any polling delay.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">3</div>
+            <div>
+              <div class="lp-story-step-title">Mark a slice Planned on the board</div>
+              <div class="lp-story-step-body">Open your Eventmodelers board, find any slice — a command handler, a projection, an automation — and set its status to <em>Planned</em>. That single action is the only trigger. Within seconds, the realtime agent picks up the change, writes a task, and the loop fires.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">4</div>
+            <div>
+              <div class="lp-story-step-title">The agent fetches the slice definition and implements it</div>
+              <div class="lp-story-step-body">Phase 1 loads the full slice definition from the board — events, commands, fields, Given-When-Then specs — and writes it to <code>.slices/</code>. Phase 2 reads it, determines the slice type, and runs the matching skill: <code>/build-state-change</code> for command handlers, <code>/build-state-view</code> for projections, <code>/build-automation</code> for reactors. The slice status flips to <em>InProgress</em> on the board the moment the agent starts.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">5</div>
+            <div>
+              <div class="lp-story-step-title">Tests pass, commit lands, board turns green</div>
+              <div class="lp-story-step-body">The agent runs <code>npm run build</code> and the slice test suite. If everything passes, it commits with <code>feat: &lt;slice name&gt;</code>, merges to main, updates the slice status to <em>Done</em> on the board, and immediately starts watching for the next Planned slice. Alex's board turns green, one slice at a time — no manual handoff at any step.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="lp-story-steps-label">Available build kits</div>
+        <div class="lp-story-result">
+          <div class="lp-story-result-label">Choose the kit that matches your stack</div>
+          <div class="lp-story-result-grid">
+            <div class="lp-story-screen-item">
+              <div class="lp-story-screen-title">build-kit-node</div>
+              <div class="lp-story-screen-flow">Node.js / TypeScript backends</div>
+            </div>
+            <div class="lp-story-screen-item">
+              <div class="lp-story-screen-title">build-kit-axon</div>
+              <div class="lp-story-screen-flow">Java / Axon Framework (event sourcing)</div>
+            </div>
+            <div class="lp-story-screen-item">
+              <div class="lp-story-screen-title">build-kit-supabase</div>
+              <div class="lp-story-screen-flow">Supabase / PostgreSQL backends</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="lp-story-steps-label" style="margin-top:40px;">What Alex discovered — once the loop was running</div>
+        <div class="lp-story-insights">
+          <div class="lp-story-insight info">
+            <div class="lp-story-insight-icon">📋</div>
+            <div>
+              <div class="lp-story-insight-title">The model became the spec, not just the diagram</div>
+              <div class="lp-story-insight-body">Because the agent reads Given-When-Then scenarios directly from the slice definition, the scenarios the team wrote during modeling became the actual test cases. The gap between "what we modeled" and "what the tests verify" disappeared completely.</div>
+            </div>
+          </div>
+          <div class="lp-story-insight warning">
+            <div class="lp-story-insight-icon">🔀</div>
+            <div>
+              <div class="lp-story-insight-title">A missing field surfaced immediately — not in QA</div>
+              <div class="lp-story-insight-body">The build step failed when implementing a projection because a field referenced in the read model had no producing event. The agent flagged it, Alex updated the model, re-exported, and the loop retried. The gap was found in seconds — not three sprints later in a regression.</div>
+            </div>
+          </div>
+          <div class="lp-story-insight danger">
+            <div class="lp-story-insight-icon">🤖</div>
+            <div>
+              <div class="lp-story-insight-title">The board became the source of truth for both the model and the code</div>
+              <div class="lp-story-insight-body">Every Done slice on the board meant exactly one thing: code merged to main, tests passing. There was no more "the model says X but the code does Y." The loop kept them in sync automatically — and the history on the board made it clear exactly when each piece had been built.</div>
+            </div>
+          </div>
+        </div>
+
+        <p style="font-size:0.95rem;color:#6b6b76;line-height:1.75;font-style:italic;margin-bottom:32px;">
+          The model isn't documentation anymore. It's a build specification. Every event, command, and read model you place on the board is something the agent can implement — correctly, with tests, without you touching the IDE. The distance between <em>we agreed on the design</em> and <em>the feature is in main</em> collapsed from days to minutes.
+        </p>
+
+        <div class="lp-story-cta-row">
+          <a href="https://app.eventmodelers.ai" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Try the Platform Free →</a>
+          <a href="https://app.eventmodelers.ai/documentation" class="lp-btn-outline" style="padding:12px 26px;font-size:0.9rem;">Read the Build Kit Docs</a>
+          <span class="lp-story-cta-note">Requires Claude Code · Node.js, Axon, or Supabase project</span>
         </div>
 
       </div>
