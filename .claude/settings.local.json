@@ -50,7 +50,9 @@
       "Bash(docker *)",
       "Bash(git *)",
       "Bash(xargs sed -i '' 's/app\\\\.eventmodelers\\\\.de/app.eventmodelers.ai/g; s/api\\\\.eventmodelers\\\\.de/api.eventmodelers.ai/g')",
-      "mcp__chrome-devtools__new_page"
+      "mcp__chrome-devtools__new_page",
+      "Bash(cp /Users/martindilger/Desktop/editor.png /Users/martindilger/development/git/sources/dilgerma.github.io/assets/images/sketch-editor.png)",
+      "Bash(cp /Users/martindilger/Desktop/screens.png /Users/martindilger/development/git/sources/dilgerma.github.io/assets/images/sketch-screens.png)"
     ],
     "deny": [],
     "ask": []

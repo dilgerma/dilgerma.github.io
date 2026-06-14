@@ -45,6 +45,12 @@ author: Martin Dilger
           <span class="lp-uc-nav-meta">✏️ Update the model · Reset to Planned · Agent rewrites the slice · Done</span>
           <span class="lp-uc-nav-arrow">→</span>
         </a>
+        <a href="#uc-6" class="lp-uc-nav-item">
+          <span class="lp-uc-nav-tag">✏️ Use Case 6</span>
+          <span class="lp-uc-nav-title">Sketch User Flows Directly on the Board</span>
+          <span class="lp-uc-nav-meta">🖊️ Draw screens in minutes · Align on the timeline · Discuss with team · Build with AI</span>
+          <span class="lp-uc-nav-arrow">→</span>
+        </a>
       </div>
     </div>
 
@@ -721,6 +727,137 @@ author: Martin Dilger
           <a href="https://app.eventmodelers.ai" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Try the Platform Free →</a>
           <a href="https://app.eventmodelers.ai/documentation" class="lp-btn-outline" style="padding:12px 26px;font-size:0.9rem;">Read the Build Kit Docs</a>
           <span class="lp-story-cta-note">Requires Claude Code · Build kit installed · Agent loop running</span>
+        </div>
+
+      </div>
+    </div>
+
+    <div id="uc-6" class="lp-story-card">
+      <div class="lp-story-card-header">
+        <div class="lp-story-tag">✏️ Use Case 6</div>
+        <h3>Sketch User Flows Directly on the Board</h3>
+        <p>Draw screens in minutes with the built-in sketch tool — align them on the event timeline, discuss flows with the team, and let AI build from what you sketched</p>
+        <div class="lp-story-time-pills">
+          <span class="lp-story-pill">🖊️ Screens drawn in minutes, not hours</span>
+          <span class="lp-story-pill">📐 Aligned directly on the event timeline</span>
+          <span class="lp-story-pill">💬 Discussions grounded in real screens</span>
+          <span class="lp-story-pill">🤖 AI builds from what you sketched</span>
+        </div>
+      </div>
+
+      <div class="lp-story-card-body">
+
+        <div class="lp-story-persona">
+          <div class="lp-story-persona-icon">🎨</div>
+          <p class="lp-story-persona-text">
+            <strong>Julia</strong> is a product designer sitting in a refinement session with two developers and a business stakeholder. They're trying to nail down a payment confirmation flow before anyone starts coding. Normally this means pulling up Figma, waiting for everyone to get the right link, arguing about prototypes, then someone screenshares — and half the screen is tool UI, not the actual design. Today Julia opens the sketch tool directly on the board. Ten minutes later there are four screens on the timeline, the team is pointing at specific UI elements, and the developer is already reading the model to see what data each screen needs.
+          </p>
+        </div>
+
+        <div class="lp-story-compare">
+          <div class="lp-story-compare-col before">
+            <div class="lp-story-compare-label">⏱ The old way — design tool, then handoff, then rework</div>
+            <ul class="lp-story-compare-list">
+              <li>Switch to Figma, find the right frame, share the link</li>
+              <li>Everyone sees the screens but not the flow context</li>
+              <li>Discussions happen in comments, Slack, and meetings separately</li>
+              <li>Developers interpret the design independently — differently</li>
+              <li>Screen changes don't update the model or the spec</li>
+              <li>Handoff is a separate artifact the dev has to translate</li>
+            </ul>
+          </div>
+          <div class="lp-story-compare-col after">
+            <div class="lp-story-compare-label">⚡ With the built-in sketch tool</div>
+            <ul class="lp-story-compare-list">
+              <li>Open the sketch tool directly on the board — no tab switching</li>
+              <li>Draw screens with shapes, labels, and arrows in minutes</li>
+              <li>Export each screen to the board, aligned on the event timeline</li>
+              <li>Everyone sees the screens in flow context, side by side with events</li>
+              <li>Discuss directly — annotations land on the board, not in a chat</li>
+              <li>AI reads the screens as part of the model — and builds from them</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="lp-story-steps-label">How Julia did it — step by step</div>
+        <div class="lp-story-steps">
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">1</div>
+            <div>
+              <div class="lp-story-step-title">Open the sketch editor directly on the board</div>
+              <div class="lp-story-step-body">From any screen cell on the event timeline, Julia opens the built-in sketch editor — a full drawing canvas with shapes, freehand tools, text, arrows, and color. No Figma account. No sharing links. Everyone in the session can watch as she draws in real time.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">2</div>
+            <div>
+              <div class="lp-story-step-title">Sketch each screen in minutes — not hours</div>
+              <div class="lp-story-step-body">Julia uses rectangles for UI containers, labels for field names, and arrows to show navigation. The goal isn't pixel-perfect design — it's communicating the flow clearly enough that everyone in the room can agree on what each screen shows and what the user can do. A wireframe that takes four minutes beats a polished mockup nobody reviewed.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">3</div>
+            <div>
+              <div class="lp-story-step-title">Export each screen to the board with "Export to Screen"</div>
+              <div class="lp-story-step-body">One click per screen — the sketch is captured and placed directly onto the event timeline as a screen element. Julia sketches the Confirm Payment screen, exports it, sketches the Confirmed Payments view, exports it. The board fills with real screens, aligned with the commands and events they belong to.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">4</div>
+            <div>
+              <div class="lp-story-step-title">Align screens on the timeline — the flow becomes visible</div>
+              <div class="lp-story-step-body">With all screens placed on the board, the team can see the entire payment flow at once: which actor sees which screen, what command each form triggers, which events produce the data each screen needs to display. The discussion changes instantly — it's no longer about abstract requirements, it's about specific fields, specific actors, specific states.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">5</div>
+            <div>
+              <div class="lp-story-step-title">Let AI read the screens and build from them</div>
+              <div class="lp-story-step-body">Once the screens are on the board, the AI agent can read them as part of the full slice definition. The sketch communicates what data each screen expects, what actions it exposes, and how it connects to the event flow. The agent uses this to generate UI scaffolding that matches what was drawn — no interpretation gap between design and implementation.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="lp-story-result">
+          <div class="lp-story-result-label">The sketch editor — draw screens directly inside the board</div>
+          <img src="/assets/images/sketch-editor.png" alt="Built-in sketch editor with drawing tools, shapes, and color palette" style="width:100%;border-radius:10px;border:1px solid #e5e5e5;margin-top:12px;margin-bottom:24px;" />
+          <div class="lp-story-result-label">Screens exported and aligned on the event timeline</div>
+          <img src="/assets/images/sketch-screens.png" alt="Multiple sketched screens placed and aligned on the event modeling board timeline" style="width:100%;border-radius:10px;border:1px solid #e5e5e5;margin-top:12px;" />
+        </div>
+
+        <div class="lp-story-steps-label" style="margin-top:40px;">What Julia discovered — once screens lived on the board</div>
+        <div class="lp-story-insights">
+          <div class="lp-story-insight info">
+            <div class="lp-story-insight-icon">🎯</div>
+            <div>
+              <div class="lp-story-insight-title">Discussions became concrete in seconds</div>
+              <div class="lp-story-insight-body">When the Confirm Payment screen appeared on the board next to the <em>ConfirmPayment</em> command, the developer immediately asked: <em>"Where does the Order ID come from? There's no event that produces it yet."</em> That question had never surfaced in three previous meetings. Seeing the screen next to the model made the gap impossible to miss.</div>
+            </div>
+          </div>
+          <div class="lp-story-insight warning">
+            <div class="lp-story-insight-icon">📐</div>
+            <div>
+              <div class="lp-story-insight-title">Two screens turned out to serve the same read model</div>
+              <div class="lp-story-insight-body">Julia sketched the <em>Confirmed Payments</em> list view and the <em>Payment Detail</em> modal separately. When both were on the board, the developer noticed they displayed identical fields — just at different levels of detail. One read model, not two. That insight cut two slices from the backlog before anyone wrote a line of code.</div>
+            </div>
+          </div>
+          <div class="lp-story-insight danger">
+            <div class="lp-story-insight-icon">🤖</div>
+            <div>
+              <div class="lp-story-insight-title">The AI generated UI code that matched the sketches</div>
+              <div class="lp-story-insight-body">After the session, the team marked the first slice as Planned. The agent read the screen sketch as part of the slice definition and generated a UI component that matched the layout Julia had drawn — correct field names, correct actor, correct command wired up. Nobody had to describe the UI in text. The sketch was enough.</div>
+            </div>
+          </div>
+        </div>
+
+        <p style="font-size:0.95rem;color:#6b6b76;line-height:1.75;font-style:italic;margin-bottom:32px;">
+          A sketch on a whiteboard disappears when the meeting ends. A sketch on the event modeling board becomes part of the specification — aligned with the command it belongs to, visible to every developer who reads the model, and readable by the AI agent that builds from it. You don't need Figma to communicate a UI. You need the right screen in the right place, on the right timeline.
+        </p>
+
+        <div class="lp-story-cta-row">
+          <a href="https://app.eventmodelers.ai" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Try the Platform Free →</a>
+          <a href="https://app.eventmodelers.ai/documentation" class="lp-btn-outline" style="padding:12px 26px;font-size:0.9rem;">See the Sketch Tool</a>
+          <span class="lp-story-cta-note">Built-in sketch tool · No external design tool required</span>
         </div>
 
       </div>

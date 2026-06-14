@@ -120,6 +120,24 @@ author: Martin Dilger
             </div>
           </div>
         </div>
+        <div class="lp-carousel-slide">
+          <div class="lp-story-card" style="margin-top:0;">
+            <div class="lp-story-card-header">
+              <div class="lp-story-tag">✏️ Use Case 6</div>
+              <h3>Sketch User Flows Directly on the Board</h3>
+              <p>Draw screens in minutes with the built-in sketch tool — align them on the timeline, discuss flows with the team, and build together with AI</p>
+              <div class="lp-story-time-pills">
+                <span class="lp-story-pill">🖊️ Screens drawn in minutes, not hours</span>
+                <span class="lp-story-pill">📐 Aligned directly on the event timeline</span>
+                <span class="lp-story-pill">💬 Discussions grounded in real screens</span>
+                <span class="lp-story-pill">🤖 AI builds from what you sketched</span>
+              </div>
+              <div class="lp-story-cta-row" style="margin-top:24px;">
+                <a href="{{ '/use-cases#uc-6' | relative_url }}" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Read the Full Use Case →</a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="lp-carousel-nav">
         <button class="lp-carousel-btn lp-carousel-prev" aria-label="Previous use case">&#8592;</button>
@@ -129,6 +147,7 @@ author: Martin Dilger
           <button class="lp-carousel-dot" data-index="2" aria-label="Use case 3"></button>
           <button class="lp-carousel-dot" data-index="3" aria-label="Use case 4"></button>
           <button class="lp-carousel-dot" data-index="4" aria-label="Use case 5"></button>
+          <button class="lp-carousel-dot" data-index="5" aria-label="Use case 6"></button>
         </div>
         <button class="lp-carousel-btn lp-carousel-next" aria-label="Next use case">&#8594;</button>
       </div>
