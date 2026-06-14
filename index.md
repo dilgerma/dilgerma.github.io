@@ -102,6 +102,24 @@ author: Martin Dilger
             </div>
           </div>
         </div>
+        <div class="lp-carousel-slide">
+          <div class="lp-story-card" style="margin-top:0;">
+            <div class="lp-story-card-header">
+              <div class="lp-story-tag">🔄 Use Case 5</div>
+              <h3>Change the Model, the Code Catches Up</h3>
+              <p>Update a slice definition on the board, reset its status to Planned — the agent rewrites the existing implementation to match.</p>
+              <div class="lp-story-time-pills">
+                <span class="lp-story-pill">✏️ Model change is the only input</span>
+                <span class="lp-story-pill">🔄 Existing code rewritten to match</span>
+                <span class="lp-story-pill">✅ Tests verify the new behaviour</span>
+                <span class="lp-story-pill">📋 Board and code stay in sync</span>
+              </div>
+              <div class="lp-story-cta-row" style="margin-top:24px;">
+                <a href="{{ '/use-cases#uc-5' | relative_url }}" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Read the Full Use Case →</a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="lp-carousel-nav">
         <button class="lp-carousel-btn lp-carousel-prev" aria-label="Previous use case">&#8592;</button>
@@ -110,6 +128,7 @@ author: Martin Dilger
           <button class="lp-carousel-dot" data-index="1" aria-label="Use case 2"></button>
           <button class="lp-carousel-dot" data-index="2" aria-label="Use case 3"></button>
           <button class="lp-carousel-dot" data-index="3" aria-label="Use case 4"></button>
+          <button class="lp-carousel-dot" data-index="4" aria-label="Use case 5"></button>
         </div>
         <button class="lp-carousel-btn lp-carousel-next" aria-label="Next use case">&#8594;</button>
       </div>

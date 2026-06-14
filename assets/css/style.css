@@ -1118,6 +1118,8 @@
   padding: 4px 10px;
   border-radius: 20px;
   white-space: nowrap;
+  min-width: 110px;
+  text-align: center;
 }
 
 .lp-uc-nav-title {
