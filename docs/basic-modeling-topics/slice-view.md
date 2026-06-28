@@ -3,6 +3,10 @@ layout: docs
 title: Slice View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Slice View
 
 This View only shows something if you select a slice.

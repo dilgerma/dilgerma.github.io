@@ -3,6 +3,10 @@ layout: docs
 title: Aggregate View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Aggregate View
 
 The Aggregate View gives you a quick overview of the currently defined Aggregates (or Streams) and which Events belong to them.

@@ -3,6 +3,10 @@ layout: docs
 title: Spec View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Spec View
 
 Use this View to define Given / When / Thens in the Scenario Editor.

@@ -3,6 +3,10 @@ layout: docs
 title: Context View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Context View
 
 The Context View shows you a hierarchical view of all Contexts on the Board. Linked Contexts become sub-contexts, allowing you to build hierarchical context models on your board.

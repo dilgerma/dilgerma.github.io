@@ -3,6 +3,10 @@ layout: docs
 title: Slice View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Manual editing
 
 ATTENTION: Manuel Editing requires Opt-In. You need to activate it per configuration.

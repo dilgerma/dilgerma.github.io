@@ -3,6 +3,10 @@ layout: docs
 title: Narrative Mode
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Narrative Mode
 
 Narrative Mode is quite an interesting concept and allows you to leverage AI to translate your Event Model to natural language.

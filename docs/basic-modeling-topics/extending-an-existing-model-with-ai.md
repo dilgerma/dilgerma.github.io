@@ -3,6 +3,10 @@ layout: docs
 title: AI Configuration
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Extending an existing Model with AI
 
 Instead of modeling from scratch, it is also possible to extend an existing model with AI. 

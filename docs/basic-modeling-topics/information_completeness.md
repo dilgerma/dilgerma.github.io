@@ -3,6 +3,10 @@ layout: docs
 title: Slice View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Information Completeness
 
 The color of the arrows show, how information is flowing in the system.

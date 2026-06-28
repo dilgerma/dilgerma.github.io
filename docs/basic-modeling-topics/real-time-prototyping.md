@@ -3,6 +3,10 @@ layout: docs
 title: Slice View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Real Time Prototyping
 
 The Miro Event Modeling Toolkit allows you to export running Prototypes directly from your Model. 

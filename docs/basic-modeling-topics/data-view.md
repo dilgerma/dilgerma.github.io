@@ -3,6 +3,10 @@ layout: docs
 title: Data View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Data View
 
 This View allows you to adjust the schema for each element.

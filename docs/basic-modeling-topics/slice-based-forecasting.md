@@ -3,6 +3,10 @@ layout: docs
 title: Slice View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Slice based forecasting
 
 Based on the existing Event Model, we can start to make some forecasts about the current Progress.

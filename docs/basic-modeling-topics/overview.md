@@ -3,6 +3,10 @@ layout: docs
 title: Overview Tab
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Overview Tab
 
 The Overview tab is typically your starting point if you want to navigate the model quickly, access additional information like the data trail analysis or general configuration like AI Tokens for your account.

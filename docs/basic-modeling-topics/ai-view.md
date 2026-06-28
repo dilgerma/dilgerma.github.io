@@ -3,6 +3,10 @@ layout: docs
 title: AI Chat View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # AI Chat View
 
 Chat with your Model using AI. For this to work, your model needs to be "sliced", and the slices need to be assigned to a context.

@@ -3,6 +3,10 @@ layout: docs
 title: Code View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Code View
 
 Use this View to export an existing Model to JSON, Toon or Markdown.

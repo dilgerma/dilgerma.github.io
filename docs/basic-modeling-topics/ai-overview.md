@@ -3,6 +3,10 @@ layout: docs
 title: AI Configuration
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # AI Configuration
 
 Configure your AI Model, Tokens and LLM settings to enable AI-powered features in the Event Modeling Toolkit.

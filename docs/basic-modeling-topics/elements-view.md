@@ -3,6 +3,10 @@ layout: docs
 title: Elements View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Elements View
 
 Use this View to place new Elements on your canvas, either by clicking them, dragging them onto the Canvas, or by selecting an element and placing it directly on the board.

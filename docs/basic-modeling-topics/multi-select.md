@@ -3,6 +3,10 @@ layout: docs
 title: Elements View
 ---
 
+<div class="info-box">
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+</div>
+
 # Efficiently copying Data
 
 Copying Data between elements was one of the biggest performance improvements that came with the tooling. As data flows throug the system, we inevitably have to copy data from element to element.
