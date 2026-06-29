@@ -4,7 +4,7 @@ title: AI Configuration
 ---
 
 <div class="info-box">
-  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>.
+  This page describes features of the <strong>Event Modeling Toolkit</strong> for <b>Miro</b>. If you want AI enabled modeling without paying for a Miro License, checkout <a href="https://app.eventmodelers.ai">https://app.eventmodelers.ai</a>
 </div>
 
 # Extending an existing Model with AI
