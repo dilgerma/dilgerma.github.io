@@ -15,6 +15,105 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/dcb-dynamic-consistency-boundary-event-modeling' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/dcb-dynamic-consistency-boundary-event-modeling.png' | relative_url }}" alt="How Does DCB Affect Event Modeling">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How Does DCB Affect Event Modeling?</h3>
+        <p class="blog-tile-subtitle">Dynamic Consistency Boundary changes how we structure event streams - but it changes nothing about Event Modeling itself. If anything, everything gets simpler.</p>
+        <p class="blog-tile-meta">July 6, 2026 • 10 min read • Event Sourcing</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/building-software-should-feel-like-uber' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/building-software-should-feel-like-uber.png' | relative_url }}" alt="Building Software Should Feel Like Uber, Not Like Being the Mechanic">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Building Software Should Feel Like Uber, Not Like Being the Mechanic</h3>
+        <p class="blog-tile-subtitle">We force the driver to become the engineer. What if we handed clients an IKEA manual instead of a tour of the engine room?</p>
+        <p class="blog-tile-meta">June 24, 2026 • 8 min read • Event Modeling &amp; Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/loop-engineering-never-argue-with-agent' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/loop-engineering-never-argue-with-agent.png' | relative_url }}" alt="Loop Engineering - Or Why You Should Never Argue With an Agent">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Loop Engineering - Or Why You Should Never Argue With an Agent</h3>
+        <p class="blog-tile-subtitle">Clean iterations with recorded learnings outperform long, polluted conversations with AI agents - every single time.</p>
+        <p class="blog-tile-meta">June 10, 2026 • 10 min read • AI &amp; Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/hold-my-beer-engineering' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/hold-my-beer-engineering.png' | relative_url }}" alt="Hold My Beer Engineering">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Hold My Beer Engineering</h3>
+        <p class="blog-tile-subtitle">I used to jump to a solution before the requirement was even finished. It felt like a superpower. It wasn't.</p>
+        <p class="blog-tile-meta">May 18, 2026 • 7 min read • Event Modeling &amp; Process</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/missing-game-plan-for-ai' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/missing-game-plan-for-ai.png' | relative_url }}" alt="The Missing Game Plan for AI">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Missing Game Plan for AI</h3>
+        <p class="blog-tile-subtitle">Nobody has a real plan for AI - just fear of being left behind. If your architecture is broken, it doesn't matter how much money you throw at it.</p>
+        <p class="blog-tile-meta">May 15, 2026 • 6 min read • AI &amp; Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/event-modeling-isnt-waterfall' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/event-modeling-isnt-waterfall.png' | relative_url }}" alt="Isn't That Just Waterfall">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Isn't That Just Waterfall?</h3>
+        <p class="blog-tile-subtitle">One objection I get very often when I publicly talk about this process is whether it's a step back to the rigid planning we tried to get rid of with agile.</p>
+        <p class="blog-tile-meta">May 5, 2026 • 10 min read • Event Modeling &amp; Planning</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/we-forgot-how-to-think-before-we-code' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/we-forgot-how-to-think-before-we-code.png' | relative_url }}" alt="We Forgot How to Think Before We Code">
+      </div>
+      <div class="blog-tile-content">
+        <h3>We Forgot How to Think Before We Code - AI Just Made That Impossible to Ignore</h3>
+        <p class="blog-tile-subtitle">Spec-Driven Development isn't a buzzword. It just means think before you code. AI didn't create this problem - it just made it impossible to hide anymore.</p>
+        <p class="blog-tile-meta">April 28, 2026 • 8 min read • AI &amp; Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/the-protocol-get-knowledge-on-the-board' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/the-protocol-get-knowledge-on-the-board.png' | relative_url }}" alt="The Protocol - Get the Knowledge on the Board">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Protocol, Step 1 &amp; 2: Get the Knowledge on the Board, Then Build the Timeline</h3>
+        <p class="blog-tile-subtitle">A seven-step protocol for building maintainable software that lasts. Step 1 gathers the knowledge, Step 2 turns it into a timeline - and reveals the "Larry problem."</p>
+        <p class="blog-tile-meta">April 14, 2026 • 10 min read • Event Modeling &amp; Process</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/agentic-engineering-beyond-code-generation' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/agentic-engineering-beyond-code-generation.png' | relative_url }}" alt="Rethinking Agentic Engineering">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Rethinking Agentic Engineering - Code Is the Finish Line, Not the Start</h3>
+        <p class="blog-tile-subtitle">If you just focus on code generation with AI, you miss out on 90% of the value. Here are five ways agents deliver real value long before a single line of code is written.</p>
+        <p class="blog-tile-meta">April 4, 2026 • 6 min read • AI &amp; Event Modeling</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/vibe-coding-event-sourcing' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/vibe-coding-event-sourcing.png' | relative_url }}" alt="Vibe Coding and Event Sourcing Architecture">

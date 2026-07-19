@@ -237,3 +237,48 @@ what-is-aggregate:
   - aggregates-sagas-concurrency
   - cqrs-real-world-architecture
 
+agentic-engineering-beyond-code-generation:
+  - ai-event-modeling-enabler
+  - loop-engineering-never-argue-with-agent
+  - vibe-coding-event-sourcing
+
+building-software-should-feel-like-uber:
+  - dcb-dynamic-consistency-boundary-event-modeling
+  - event-modeling-conference-munich
+  - hold-my-beer-engineering
+
+dcb-dynamic-consistency-boundary-event-modeling:
+  - building-software-should-feel-like-uber
+  - loop-engineering-never-argue-with-agent
+  - what-is-aggregate
+
+event-modeling-isnt-waterfall:
+  - we-forgot-how-to-think-before-we-code
+  - the-protocol-get-knowledge-on-the-board
+  - planning-software-slices
+
+hold-my-beer-engineering:
+  - missing-game-plan-for-ai
+  - building-software-should-feel-like-uber
+  - collaborative-modeling-ai
+
+loop-engineering-never-argue-with-agent:
+  - ralph-loop-ai-agents
+  - agentic-engineering-beyond-code-generation
+  - dcb-dynamic-consistency-boundary-event-modeling
+
+missing-game-plan-for-ai:
+  - hold-my-beer-engineering
+  - ai-agents-brooks-law-coupling
+  - show-me-the-coupling
+
+the-protocol-get-knowledge-on-the-board:
+  - we-forgot-how-to-think-before-we-code
+  - event-modeling-isnt-waterfall
+  - red-sticky-notes-knowledge-gaps
+
+we-forgot-how-to-think-before-we-code:
+  - the-protocol-get-knowledge-on-the-board
+  - event-modeling-isnt-waterfall
+  - spec-driven-development
+
