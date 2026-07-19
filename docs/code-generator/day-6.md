@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: "Day 6: Command Handlers"
+description: "Typically we try to keep the efforts at 5-10 Minutes."
 ---
 
 # Day 6: Command Handlers

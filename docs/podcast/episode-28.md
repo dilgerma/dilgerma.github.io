@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 28 - AI Proves Event Modeling Works - The MAKER Framework Paper
+description: "Martin and Adam discuss groundbreaking research from Cognizant AI Labs proving that breaking tasks into slices enables AI to complete million-step tasks"
 ---
 
 <div class="blog-post" markdown="1">

@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 7 - Workshop Insights and Community Pattern Discussion
+description: "Recap of six major topics from a recent four-hour advanced workshop"
 ---
 
 <div class="blog-post" markdown="1">

@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: AI Chat View
+description: "Chat with your Model using AI. For this to work, your model needs to be \"sliced\", and the slices need to be assigned to a context."
 ---
 
 <div class="info-box">

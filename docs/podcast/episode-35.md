@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 35 - Workshop Success, No Slides Needed, and Polymorphic .NET Developers on Java
+description: "Martin runs a groundbreaking 3-day implementation workshop with no slides - .NET developers implement Java slices. Plus: Axon embraces DCB, Raspberry Pi"
 ---
 
 <div class="blog-post" markdown="1">

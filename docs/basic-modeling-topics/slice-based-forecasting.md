@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Slice View
+description: "Based on the existing Event Model, we can start to make some forecasts about the current Progress."
 ---
 
 <div class="info-box">

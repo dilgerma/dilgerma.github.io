@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 38 - AI Budget Wars, DCB Goes Mainstream, and Why Security Theater Won't Save You
+description: "Why AI hype is eating consulting budgets, the worst time to standardize on any AI vendor, how event modeling survived the cloud migration disaster, and why"
 ---
 
 <div class="blog-post" markdown="1">

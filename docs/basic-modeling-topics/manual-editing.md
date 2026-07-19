@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Slice View
+description: "ATTENTION: Manuel Editing requires Opt-In. You need to activate it per configuration."
 ---
 
 <div class="info-box">

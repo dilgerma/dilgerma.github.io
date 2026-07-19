@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Documenting Software with Event Modeling
+description: "I personally think that with Event Modeling we have one of the most important tools for documenting and developing complex software systems of recent years"
 ---
 
 <div class="blog-post" markdown="1">

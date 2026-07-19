@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Elements View
+description: "Use this View to place new Elements on your canvas, either by clicking them, dragging them onto the Canvas, or by selecting an element and placing it"
 ---
 
 <div class="info-box">

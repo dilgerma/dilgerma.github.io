@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 32 - Year-End Recap, Roblox Adventures, and the Future of Event Modeling
+description: "Martin and Adam close out 2025 discussing teaching kids programming with AI, maker projects with 3D printing and FreeCAD, and their ambitious plans for"
 ---
 
 <div class="blog-post" markdown="1">

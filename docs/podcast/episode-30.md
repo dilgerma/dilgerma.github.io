@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 30 - Workshop Insights, Fixed Pricing, and the Event Modeling Book
+description: "Martin and Adam discuss recent workshop learnings, vibe coding experiments with AI, why your rates shouldn't increase with inflation, and Adam's progress on"
 ---
 
 <div class="blog-post" markdown="1">

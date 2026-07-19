@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 42 - Coupling, Event Sourcing Books, and Why Event Storming Missed the Point
+description: "Martin and Adam explore coupling mechanics in event-sourced systems, discuss their books in progress, and react to the event storming community's"
 ---
 
 <div class="blog-post" markdown="1">

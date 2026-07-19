@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 14 - AI Code Generation Works Best Within Strict Boundaries
+description: "How AI tools like Claude and Cursor perform when generating code for event-sourced systems"
 ---
 
 <div class="blog-post" markdown="1">

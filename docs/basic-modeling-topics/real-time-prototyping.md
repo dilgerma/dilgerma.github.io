@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Slice View
+description: "The Miro Event Modeling Toolkit allows you to export running Prototypes directly from your Model."
 ---
 
 <div class="info-box">

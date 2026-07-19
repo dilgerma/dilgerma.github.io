@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 24 - Event Modeling 2.0 Refines Core Concepts
+description: "Significant revisions to event modeling foundations, distinguishing between what (information flow) and how (implementation details)"
 ---
 
 <div class="blog-post" markdown="1">

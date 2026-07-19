@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Slice View
+description: "The color of the arrows show, how information is flowing in the system."
 ---
 
 <div class="info-box">

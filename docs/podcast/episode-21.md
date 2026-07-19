@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 21 - Advanced Workshop Exposes System Complexity
+description: "Advanced event modeling workshop covering to-do list patterns, dynamic consistency boundaries, and AI in code generation"
 ---
 
 <div class="blog-post" markdown="1">

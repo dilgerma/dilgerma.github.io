@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 25 - Legacy Code Analysis with AI
+description: "How AI dramatically reduces the time needed to understand and modernize legacy systems, from weeks to hours"
 ---
 
 <div class="blog-post" markdown="1">

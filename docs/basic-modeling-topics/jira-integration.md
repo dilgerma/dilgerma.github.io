@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Slice View
+description: "Slices can be connected to Jira Tickets."
 ---
 
 <div class="info-box">

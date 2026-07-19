@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 37 - The Ralph Loop Deep Dive, Node.js Event Sourcing, and Why Haiku Beats Opus
+description: "Martin reveals his exact Ralph Loop implementation - index.json, progress.txt, learnings compression. Why Claude Haiku outperforms Opus for slices, Node.js"
 ---
 
 <div class="blog-post" markdown="1">

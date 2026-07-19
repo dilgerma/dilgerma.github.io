@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: "Day 2: Event Modeling Basics"
+description: "Each day should not take you more than 10 - 15 minutes worth of efforts."
 ---
 
 # Day 2: Event Modeling Basics

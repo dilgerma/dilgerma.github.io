@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Slice View
+description: "This View only shows something if you select a slice."
 ---
 
 <div class="info-box">

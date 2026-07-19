@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 13 - Slice Architecture Prevents Coupling
+description: "Deep discussion on what defines a slice and why preventing coupling is more important than following traditional DRY principles"
 ---
 
 <div class="blog-post" markdown="1">

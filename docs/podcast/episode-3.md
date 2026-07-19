@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 3 - Security Modeling and Modern Event Modeling Formats
+description: "Security modeling as a business-focused concern and new given-when-then notation improvements"
 ---
 
 <div class="blog-post" markdown="1">

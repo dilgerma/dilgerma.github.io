@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Setup
+description: "Welcome to the Miro Event Modeling Toolkit setup guide. This page will walk you through the installation and initial configuration process."
 ---
 
 # Setting up the Miro Event Modeling Toolkit

@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 8 - Given-When-Thens and AI-Powered Test Specifications
+description: "How given-when-then test patterns in event modeling enable AI tools to automatically generate implementations"
 ---
 
 <div class="blog-post" markdown="1">

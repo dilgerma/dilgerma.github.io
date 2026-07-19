@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 41 - Reverse Engineering Legacy Code With AI Browser Automation
+description: "Martin ran Claude Code for 40 straight hours on a 1.2-million-line legacy codebase — then discovered that pointing an AI agent at the UI with MCP browser"
 ---
 
 <div class="blog-post" markdown="1">

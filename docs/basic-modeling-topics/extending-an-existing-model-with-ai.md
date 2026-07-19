@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: AI Configuration
+description: "Instead of modeling from scratch, it is also possible to extend an existing model with AI."
 ---
 
 <div class="info-box">

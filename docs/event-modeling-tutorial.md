@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: "The Step by Step Tutorial"
+description: "A free, step-by-step video tutorial on modeling and developing complex information systems with Event Modeling - simple and maintainable."
 ---
 
 # The Complete Event Modeling Tutorial

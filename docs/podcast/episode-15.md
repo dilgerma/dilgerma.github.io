@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 15 - Event Sourcing Provides Accountability Traditional Systems Can't Match
+description: "Dealing with large projection replays and responding to criticisms of event sourcing"
 ---
 
 <div class="blog-post" markdown="1">

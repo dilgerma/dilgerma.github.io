@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 4 - Command-Event-State Patterns and Deconstructing Sagas
+description: "Why simple command-event-state patterns outperform complex orchestration patterns like sagas"
 ---
 
 <div class="blog-post" markdown="1">

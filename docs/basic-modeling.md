@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Basic Modeling
+description: "Learn how to navigate and use the core features of the Miro Event Modeling Toolkit. This guide covers the main interface tabs, views, and essential"
 ---
 
 # Event Modeling Toolkit

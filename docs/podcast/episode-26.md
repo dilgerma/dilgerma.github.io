@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 26 - Immutability, Git History, and Event Sourcing
+description: "Martin and Adam connect their shared passion for git and event sourcing, recognizing that both are rooted in immutability and trustworthy history"
 ---
 
 <div class="blog-post" markdown="1">

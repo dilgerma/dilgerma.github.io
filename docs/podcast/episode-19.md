@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 19 - Slices Transform Fixed-Cost Contracting
+description: "How event slices became units of autonomous work that enable fixed-cost contracting without subjective estimation"
 ---
 
 <div class="blog-post" markdown="1">

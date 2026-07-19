@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Slice View
+description: "Using the Screen Drawer allows you to quickly draw screens using a simple Drawing Tool."
 ---
 
 <div class="info-box">

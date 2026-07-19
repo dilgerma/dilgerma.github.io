@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 2 - From Book Success to Code Generation
+description: "Plans for companion resources including missing chapters on advanced topics, certification programs, and workshops"
 ---
 
 <div class="blog-post" markdown="1">

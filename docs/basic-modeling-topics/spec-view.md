@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Spec View
+description: "Use this View to define Given / When / Thens in the Scenario Editor."
 ---
 
 <div class="info-box">

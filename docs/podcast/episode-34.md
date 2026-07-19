@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 34 - On-Device AI, DCB Takes Over, and Three Bold Predictions for Distributed Systems
+description: "Martin ships a legal platform with 100% private on-device AI, Adam wrestles Raspberry Pi headless setup and builds an acrylic plant planter, and the hosts"
 ---
 
 <div class="blog-post" markdown="1">

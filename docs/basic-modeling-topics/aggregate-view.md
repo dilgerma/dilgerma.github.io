@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Aggregate View
+description: "The Aggregate View gives you a quick overview of the currently defined Aggregates (or Streams) and which Events belong to them."
 ---
 
 <div class="info-box">

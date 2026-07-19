@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 39 - Live AI Agent Coding From Event Model Changes in Real Time
+description: "Martin and Adam discuss how AI agents can now pick up event model changes live and generate code in real time, and deep-dive into building a fully"
 ---
 
 <div class="blog-post" markdown="1">

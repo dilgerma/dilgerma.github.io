@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 33 - New Year, Vibe Coding Limits, and Why Coupling is the Root of All Evil
+description: "Martin and Adam kick off 2026 discussing community support, the limits of vibe coding, building financial trading systems with AI, and why event modeling"
 ---
 
 <div class="blog-post" markdown="1">

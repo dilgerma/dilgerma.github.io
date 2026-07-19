@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 36 - OpenClaw Revolution, Adobe is Dead, and Why Event Modeling Wins Every Hackathon
+description: "Martin shares post-workshop breakthrough stories - people building after one day. Adam discovers OpenClaw. A full SaaS built in one day. The hosts dissect"
 ---
 
 <div class="blog-post" markdown="1">

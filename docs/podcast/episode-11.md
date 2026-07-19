@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 11 - Code Reviews Aren't Always Necessary
+description: "The nuanced role of code reviews in event-sourced systems with proper architectural patterns"
 ---
 
 <div class="blog-post" markdown="1">

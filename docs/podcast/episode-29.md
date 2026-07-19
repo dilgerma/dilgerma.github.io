@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 29 - Legacy Migration - Why You Need a Plan Before You Start
+description: "Martin and Adam discuss legacy system migration strategies, the shelf pattern anti-pattern, and why you need an event model before touching legacy code."
 ---
 
 <div class="blog-post" markdown="1">

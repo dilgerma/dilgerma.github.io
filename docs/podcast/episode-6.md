@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 6 - Event Modeling Course Launches
+description: "Announcing a new companion course featuring practical exercises with implementations in multiple programming languages"
 ---
 
 <div class="blog-post" markdown="1">

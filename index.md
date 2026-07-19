@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Make your Engineering Team AI Ready with Event Modeling - AI-Enabled Software Design
-description: Build event-driven systems with visual Event Modeling. Design, collaborate, and generate code from your event models. Close the gap between business and engineering in days.
+description: Build event-driven systems with visual Event Modeling - design, collaborate, and generate code from your event models with AI coding agents.
 keywords: event modeling, event-driven architecture, miro toolkit, event sourcing, visual modeling, software design, collaborative modeling, code generation, AI integration
 author: Martin Dilger
+featured_image: /assets/images/board_history.png
 ---
 
 <section class="lp-hero">
@@ -13,7 +14,7 @@ author: Martin Dilger
     <p>Event Modeling aligns business, engineering, and AI agents on a single visual specification — from first discovery workshop to running production code.</p>
     <div class="lp-hero-ctas">
       <a href="https://app.eventmodelers.ai" class="lp-btn-primary">Start Modeling for Free</a>
-      <a href="https://nebulit.de/en/eventmodeling-workshop" class="lp-btn-secondary">Join a Workshop</a>
+      <a href="{{ '/workshop' | relative_url }}" class="lp-btn-secondary">Join a Workshop</a>
     </div>
     <p class="lp-hero-community-badge">Backed by the Event Modeling Community</p>
     <div class="lp-hero-catalog-teaser">

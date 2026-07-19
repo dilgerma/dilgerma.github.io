@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 22 - Event Modeling Reveals True System Complexity
+description: "How workshops reveal that most companies don't understand their own systems, and how event modeling uncovers hidden complexity"
 ---
 
 <div class="blog-post" markdown="1">

@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 23 - Season Two Launch and Platform Announcement
+description: "Celebrating Season 2 with announcements about event modeling.ai platform and community growth"
 ---
 
 <div class="blog-post" markdown="1">

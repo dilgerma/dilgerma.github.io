@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 17 - Dynamic Consistency Boundaries Transform Event Sourcing
+description: "Revolutionary changes to event sourcing fundamentals by introducing dynamic consistency boundaries that adapt at the command handler level"
 ---
 
 <div class="blog-post" markdown="1">

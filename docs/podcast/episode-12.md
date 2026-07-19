@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 12 - Event Modeling Requires Organizational Support
+description: "Why event modeling needs more than just book learning - workshops, courses, and expert guidance are essential"
 ---
 
 <div class="blog-post" markdown="1">

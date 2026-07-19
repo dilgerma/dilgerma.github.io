@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: AI Configuration
+description: "Configure your AI Model, Tokens and LLM settings to enable AI-powered features in the Event Modeling Toolkit."
 ---
 
 <div class="info-box">

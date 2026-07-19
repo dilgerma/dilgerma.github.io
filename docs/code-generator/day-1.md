@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: "Day 1: Setup"
+description: "Time is short for all of us, each day should not take you more than 10 minutes worth of efforts."
 ---
 
 # Day 1: Setup

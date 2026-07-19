@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 1 - Destroying the Aggregate
+description: "Adam and Martin introduce their podcast, discuss Martin's new book, and explore the emerging concept of dynamic consistency boundaries"
 ---
 
 <div class="blog-post" markdown="1">

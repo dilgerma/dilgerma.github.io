@@ -4,12 +4,13 @@ title: Use Cases - AI-Enabled Event Modeling
 description: Real use cases showing how Event Modeling and AI agents solve concrete engineering problems — from UX discovery to domain modeling workshops.
 keywords: event modeling use cases, AI agents, UX documentation, domain discovery, Claude Code
 author: Martin Dilger
+featured_image: /assets/images/sketch-screens.png
 ---
 
 <section class="lp-stories">
   <div class="lp-stories-inner">
     <span class="lp-badge" style="background:rgba(99,102,241,0.12);color:#6366f1;border-color:rgba(99,102,241,0.3);">Real Use Cases</span>
-    <h2>What can you actually do with this?</h2>
+    <h1 style="font-size:2.6rem;font-weight:800;color:#1e2235;letter-spacing:-0.03em;margin-bottom:16px;">What Can You Actually Do With This?</h1>
     <p class="lp-section-sub">Not a list of features. Real scenarios showing how the platform works — from a problem you recognise to a result you can open on your board.</p>
 
     <div class="lp-uc-nav">

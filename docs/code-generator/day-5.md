@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: "Day 5: Custom Generators"
+description: "Typically we try to keep the efforts at 5-10 Minutes. In this exercise we'll bootstrap the whole setup, so it might take a tiny bit longer. Don't worry"
 ---
 
 # Day 5: Custom Generators

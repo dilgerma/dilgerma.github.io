@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 31 - Roblox Event Modeling, AI-Powered Programming, and Git Issue Tracking
+description: "Martin and Adam discuss teaching kids programming with AI, event modeling a Roblox game, Linus Torvalds' vision for unified issue tracking, and completing a"
 ---
 
 <div class="blog-post" markdown="1">

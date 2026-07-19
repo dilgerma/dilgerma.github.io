@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Event Modeling Podcast
+description: "Join Adam Dymitruk ( the creator of Event Modeling ) and Martin Dilger as they discuss Event Modeling, Event Sourcing, software architecture, and practical"
 ---
 
 <div class="hero">
@@ -12,6 +13,46 @@ title: Event Modeling Podcast
 
 <section class="features">
   <div class="blog-tiles">
+
+    <a href="{{ '/docs/podcast/episode-47' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 47 - Agentic Modeling, Audit Trails, and the Fish Shell Effect</h3>
+        <p class="blog-tile-subtitle">Martin runs two AI agents modeling alongside him and unveils a skill that grills event models for unspecified gaps, while Adam explains why AI agents need an audit trail, not a snapshot — and why good tools always face the same resistance.</p>
+        <p class="blog-tile-meta">Episode 47 • Agentic Modeling, Audit Trails &amp; Fish Shell Resistance</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/podcast/episode-46' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 46 - Crud Forms, Hidden Coupling, and the Schema Migration Myth</h3>
+        <p class="blog-tile-subtitle">Martin and Adam tackle the eternal crud-form question, why upcaster functions are a sneaky form of hidden coupling, and why claiming event sourcing schema migration is "unsolved" ignores the stack of band-aids traditional migrations run on.</p>
+        <p class="blog-tile-meta">Episode 46 • Crud Forms, Event Versioning &amp; the Schema Migration Myth</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/podcast/episode-45' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 45 - Mind Readers, Impartial Mirrors, and AI Eating SaaS Alive</h3>
+        <p class="blog-tile-subtitle">Martin and Adam dig into why large language models are an impartial mirror for bad specs, riff on mind reading as software's unspoken job requirement, and unpack how AI is quietly eating SaaS from the inside — plus a first look at rendering live UI screenshots straight from event model states instead of separate design mockups.</p>
+        <p class="blog-tile-meta">Episode 45 • Spec-Driven AI, Mind Reading &amp; AI Eating SaaS</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/podcast/episode-44' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 44 - Dungeon Masters, Fake Agile, and the Death of Project Management</h3>
+        <p class="blog-tile-subtitle">Martin and Adam return from Easter break to expose DDD's "dungeon masters," dismantle Agile's blame-shifting rituals, and unpack the customers.ai story of a CEO who fired his entire project management layer — plus a live workshop moment where an attendee ported Martin's agent setup to a new tool in 15 minutes.</p>
+        <p class="blog-tile-meta">Episode 44 • Dungeon Masters, Killing the PM Layer &amp; Branching Event Models</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/podcast/episode-43' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-content">
+        <h3>Episode 43 - Claude Grades the Podcast, and the Event Model Catalog Goes Live</h3>
+        <p class="blog-tile-subtitle">Martin and Adam mark 42 episodes by asking Claude to rank their most important lessons, break down why coupling through an immutable event store is the only good kind, and unveil the drag-and-drop Event Model Catalog so nobody has to model a login screen from scratch again.</p>
+        <p class="blog-tile-meta">Episode 43 • AI Self-Review, Coupling &amp; The Event Model Catalog</p>
+      </div>
+    </a>
 
     <a href="{{ '/docs/podcast/episode-42' | relative_url }}" class="blog-tile">
       <div class="blog-tile-content">

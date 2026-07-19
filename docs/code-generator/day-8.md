@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: "Day 8: Putting It to Work"
+description: "This is the final E-Mail for now.. I might add more in the future, and you will receive them automatically."
 ---
 
 # Day 8: Putting It to Work

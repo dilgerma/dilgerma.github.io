@@ -1,6 +1,7 @@
 ---
 layout: docs
-title: Episode 16 - Scaling Event Sourcing: Handling Long Event History
+title: "Episode 16 - Scaling Event Sourcing: Handling Long Event History"
+description: "The critical challenge of replaying long event histories during deployments and how this affects system scaling"
 ---
 
 <div class="blog-post" markdown="1">

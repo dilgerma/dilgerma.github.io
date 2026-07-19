@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Narrative Mode
+description: "Narrative Mode is quite an interesting concept and allows you to leverage AI to translate your Event Model to natural language."
 ---
 
 <div class="info-box">

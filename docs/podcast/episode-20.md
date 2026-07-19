@@ -1,6 +1,7 @@
 ---
 layout: docs
-title: Episode 20 - Event Sourcing and GDPR: Transparency Over Compliance Theater
+title: "Episode 20 - Event Sourcing and GDPR: Transparency Over Compliance Theater"
+description: "Addressing the misconception that GDPR compliance is harder with event sourcing"
 ---
 
 <div class="blog-post" markdown="1">

@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Setup
+description: "You can use the Miro Event Modeling Toolkit for free in the Community Edition."
 ---
 
 # How to get a License

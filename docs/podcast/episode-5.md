@@ -1,6 +1,7 @@
 ---
 layout: docs
-title: Episode 5 - Workshop Lessons: Simplicity, Boring Code, and Upcast Patterns
+title: "Episode 5 - Workshop Lessons: Simplicity, Boring Code, and Upcast Patterns"
+description: "Key learnings from a hands-on workshop including the dangers of upcasts and the value of simple patterns"
 ---
 
 <div class="blog-post" markdown="1">

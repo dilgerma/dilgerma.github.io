@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 10 - To-Do Lists, Real-World Scaling, and Effective Grooming
+description: "Proper design of to-do list processors for complex workflows and real-world scaling concerns"
 ---
 
 <div class="blog-post" markdown="1">

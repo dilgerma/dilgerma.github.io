@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Overview Tab
+description: "The Overview tab is typically your starting point if you want to navigate the model quickly, access additional information like the data trail analysis or"
 ---
 
 <div class="info-box">

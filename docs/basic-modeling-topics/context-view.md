@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Context View
+description: "The Context View shows you a hierarchical view of all Contexts on the Board. Linked Contexts become sub-contexts, allowing you to build hierarchical context"
 ---
 
 <div class="info-box">

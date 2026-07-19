@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: "Day 7: Result Events"
+description: "Typically we try to keep the efforts at 5-10 Minutes."
 ---
 
 # Day 7: Result Events

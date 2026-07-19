@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 40 - Workshop Reflections, Event Sourcing in SQL, and Git as an Event Store
+description: "Martin and Adam reflect on a recent 4-day workshop, then explore technical territory: storing events in SQL, using Git as an event store with orphan"
 ---
 
 <div class="blog-post" markdown="1">

@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Data View
+description: "This View allows you to adjust the schema for each element."
 ---
 
 <div class="info-box">

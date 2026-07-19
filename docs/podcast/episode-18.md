@@ -1,6 +1,7 @@
 ---
 layout: docs
-title: Episode 18 - Vibe Modeling: The Next Evolution Beyond Coding
+title: "Episode 18 - Vibe Modeling: The Next Evolution Beyond Coding"
+description: "Distinguishing between vibe coding and vibe modeling - collaboratively defining system behavior before implementation"
 ---
 
 <div class="blog-post" markdown="1">

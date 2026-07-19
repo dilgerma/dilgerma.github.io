@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Data Trail View
+description: "Data Trail allows you to quickly find out where information originates. Trace data as it flows through screens, commands, and events."
 ---
 
 <div class="info-box">

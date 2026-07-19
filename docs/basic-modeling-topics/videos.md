@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Videos
+description: "Watch these tutorial videos to learn how to use the Miro Event Modeling Toolkit effectively."
 ---
 
 # Videos

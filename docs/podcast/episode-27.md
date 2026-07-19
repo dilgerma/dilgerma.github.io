@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Episode 27 - AI Multipliers, Event Catalogs, and the New Event Modeling Mascot
+description: "Adam introduces Leela, the event modeling wiener dog mascot, while discussing AI productivity multipliers, why event catalogs are unnecessary, and the"
 ---
 
 <div class="blog-post" markdown="1">
