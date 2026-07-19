@@ -14,7 +14,7 @@ featured_image: /assets/images/board_history.png
     <p>Event Modeling aligns business, engineering, and AI agents on a single visual specification — from first discovery workshop to running production code.</p>
     <div class="lp-hero-ctas">
       <a href="https://app.eventmodelers.ai" class="lp-btn-primary">Start Modeling for Free</a>
-      <a href="{{ '/workshop' | relative_url }}" class="lp-btn-secondary">Join a Workshop</a>
+      <a href="{{ '/workshops' | relative_url }}" class="lp-btn-secondary">Join a Workshop</a>
     </div>
     <p class="lp-hero-community-badge">Backed by the Event Modeling Community</p>
     <div class="lp-hero-catalog-teaser">

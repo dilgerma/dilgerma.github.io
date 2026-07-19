@@ -1,27 +1,78 @@
 ---
 layout: default
-title: The Event Modeling Workshop - Two Days, Your Real System
-description: A hands-on, two-day Event Modeling workshop that turns your team's real system into a shared model everyone can build from - not a slide deck nobody opens.
+title: Event Modeling Workshops - Private Team Engagements & Public Cohorts
+description: Learn Event Modeling with Nebulit - a private, two-day in-house workshop on your real system, or a public cohort workshop with fixed dates and per-seat pricing.
 keywords: event modeling workshop, event modeling training, domain modeling workshop, event sourcing training, team alignment workshop, event modeling consulting
 author: Martin Dilger
 featured_image: /assets/images/cheatsheet/workshop-01-brainstorming.png
-permalink: /workshop/
+permalink: /workshops/
+redirect_from:
+  - /workshop/
 ---
 
 <section class="lp-hero">
   <div class="lp-hero-inner">
-    <span class="lp-badge">In-Person or Remote</span>
-    <h1>The Event Modeling Workshop</h1>
-    <p>Two days. Your real system. A model your team can actually build from - not a slide deck nobody opens again, and not just a model on the wall that nobody touches again.</p>
+    <span class="lp-badge">In-Person, Remote, or Public Cohort</span>
+    <h1>Event Modeling Workshops</h1>
+    <p>Two ways to learn Event Modeling with Nebulit: a private workshop run on your team's real system, or a public cohort workshop with fixed dates and a seat price.</p>
     <div class="lp-hero-ctas">
-      <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-primary">Book a Workshop</a>
-      <a href="{{ '/cheatsheet' | relative_url }}" class="lp-btn-secondary">Grab the Cheat Sheet</a>
+      <a href="#private-workshop" class="lp-btn-primary">Private Team Workshop</a>
+      <a href="#public-workshops" class="lp-btn-secondary">Public Workshops</a>
     </div>
-    <p class="cs-hero-pdf-hint">A paid, facilitator-led engagement delivered by <a href="https://www.nebulit.de" target="_blank" rel="noopener noreferrer">Nebulit</a> - book a call to talk scope and pricing.</p>
+    <p class="cs-hero-pdf-hint">Both delivered by <a href="https://www.nebulit.de" target="_blank" rel="noopener noreferrer">Nebulit</a>.</p>
   </div>
 </section>
 
 <div class="cs-page">
+
+<section class="cs-section">
+  <div class="cs-section-inner">
+    <div class="cs-section-head">
+      <span class="cs-eyebrow">Choose Your Format</span>
+      <h2>Private Team Workshop or Public Cohort?</h2>
+      <p class="lp-section-sub" style="margin-bottom:0;">Both cover the same core method - the difference is who's in the room and what you're modeling.</p>
+    </div>
+    <div class="lp-usecases-grid">
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">🏢</span>
+        <h3>Private / In-House</h3>
+        <p>A dedicated, facilitator-led engagement for your team, modeling your real system. On-site or remote, scoped and priced per engagement.</p>
+        <ul>
+          <li>Your team, your domain, your backlog</li>
+          <li>On-site or fully remote</li>
+          <li>Scheduled when you're ready</li>
+        </ul>
+        <a href="#private-workshop" class="lp-btn-secondary" style="margin-top:12px;display:inline-block;">See Details</a>
+      </div>
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">🌍</span>
+        <h3>Public Cohort</h3>
+        <p>Open enrollment, fixed dates, remote via Microsoft Teams. Learn alongside people from other teams and companies, priced per seat.</p>
+        <ul>
+          <li>Fixed dates, small cohorts (max 15)</li>
+          <li>Priced per person, not per engagement</li>
+          <li>No need to get your whole team scheduled</li>
+        </ul>
+        <a href="#public-workshops" class="lp-btn-secondary" style="margin-top:12px;display:inline-block;">See Details</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cs-section" id="private-workshop">
+  <div class="cs-section-inner">
+    <div class="cs-section-head">
+      <span class="cs-eyebrow">Private / In-House</span>
+      <h2>The Private Event Modeling Workshop</h2>
+      <p>Two days. Your real system. A model your team can actually build from - not a slide deck nobody opens again, and not just a model on the wall that nobody touches again.</p>
+      <div class="lp-hero-ctas" style="justify-content:flex-start;margin-top:16px;">
+        <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-primary">Book a Private Workshop</a>
+        <a href="{{ '/cheatsheet' | relative_url }}" class="lp-btn-secondary">Grab the Cheat Sheet</a>
+      </div>
+      <p class="cs-hero-pdf-hint">A paid, facilitator-led engagement delivered by <a href="https://www.nebulit.de" target="_blank" rel="noopener noreferrer">Nebulit</a> - book a call to talk scope and pricing.</p>
+    </div>
+  </div>
+</section>
 
 <section class="cs-section">
   <div class="cs-section-inner">
@@ -211,10 +262,10 @@ permalink: /workshop/
 <section class="cs-section">
   <div class="cs-section-inner">
     <div class="cs-section-head">
-      <span class="cs-eyebrow">The Agenda</span>
+      <span class="cs-eyebrow">The Agenda - Private Workshop</span>
       <h2>A Typical Two-Day Agenda</h2>
       <p class="cs-why"><strong>Why:</strong> knowing the shape of the two days up front makes it easier to block the right calendars and get the right people in the room.</p>
-      <p class="lp-section-sub" style="margin-bottom:0;">Every engagement is tailored to the domain, but the structure of the two days is consistent.</p>
+      <p class="lp-section-sub" style="margin-bottom:0;">Every private engagement is tailored to the domain, but the structure of the two days is consistent. Public cohort workshops follow their own fixed schedule - see below.</p>
     </div>
     <div class="cs-notation-grid">
       <div class="cs-notation-card">
@@ -245,7 +296,7 @@ permalink: /workshop/
 <section class="cs-section">
   <div class="cs-section-inner">
     <div class="cs-section-head">
-      <span class="cs-eyebrow">Format</span>
+      <span class="cs-eyebrow">Format - Private Workshop</span>
       <h2>What to Expect</h2>
     </div>
     <div class="lp-benefits-grid">
@@ -268,14 +319,51 @@ permalink: /workshop/
   </div>
 </section>
 
+<section class="cs-section" id="public-workshops">
+  <div class="cs-section-inner">
+    <div class="cs-section-head">
+      <span class="cs-eyebrow">Public Cohort</span>
+      <h2>Public Workshops</h2>
+      <p class="cs-why"><strong>Why:</strong> not every team can block two days for a private engagement right away. Public cohorts run on fixed dates, remote, priced per seat - a lower-commitment way in.</p>
+      <p class="lp-section-sub" style="margin-bottom:0;">Open enrollment, small cohorts, remote via Microsoft Teams. Book a seat directly - no call required.</p>
+    </div>
+    <div class="lp-usecases-grid">
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">📐</span>
+        <h3>Hands-On Event Modeling</h3>
+        <p>Applying Event Modeling successfully in a team: modeling techniques, documenting business rules, facilitating workshops, and maintaining models. Includes the Event Modeling Toolkit.</p>
+        <ul>
+          <li>June 18-19, 2026 &middot; 9 AM-12 PM CET</li>
+          <li>Remote via Microsoft Teams &middot; English &middot; max 15 participants</li>
+          <li>&euro;399 per person</li>
+        </ul>
+        <a href="https://nebulit.de/eventmodeling-workshop" target="_blank" rel="noopener noreferrer" class="lp-btn-primary" style="margin-top:12px;display:inline-block;">Book Your Seat</a>
+      </div>
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">⚙️</span>
+        <h3>Event Modeling + Event Sourcing (with DCB)</h3>
+        <p>From requirements to slice-based architecture: Event Sourcing principles, CQRS, hands-on coding and testing, real-world examples. Includes a code repository, Miro license, and book.</p>
+        <ul>
+          <li>Date: TBA &middot; waitlist open &middot; 9 AM-1 PM CET</li>
+          <li>Remote via Microsoft Teams &middot; English &middot; max 15 participants</li>
+          <li>&euro;499 per person</li>
+        </ul>
+        <a href="https://copecart.com/products/e70ef463/checkout" target="_blank" rel="noopener noreferrer" class="lp-btn-primary" style="margin-top:12px;display:inline-block;">Join the Waitlist</a>
+      </div>
+    </div>
+    <p class="cs-workshop-ask" style="font-weight:400;font-size:0.95rem;color:#6b6b76;">See the full, up-to-date schedule and pricing at <a href="https://nebulit.de/workshops" target="_blank" rel="noopener noreferrer">nebulit.de/workshops</a>.</p>
+  </div>
+</section>
+
 </div>
 
 <section class="lp-bottom-cta">
   <div class="lp-bottom-cta-inner">
     <h2>Ready to model your real system?</h2>
-    <p>Book a short call to talk through your goals, or read the cheat sheet first to see exactly what a session looks like.</p>
+    <p>Book a private workshop for your team, grab a seat in the next public cohort, or read the cheat sheet first to see exactly what a session looks like.</p>
     <div class="lp-bottom-cta-btns">
-      <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-primary">Book a Workshop</a>
+      <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-primary">Book a Private Workshop</a>
+      <a href="#public-workshops" class="lp-btn-secondary">See Public Workshops</a>
       <a href="{{ '/cheatsheet' | relative_url }}" class="lp-btn-secondary">Read the Cheat Sheet</a>
     </div>
   </div>

@@ -2938,6 +2938,25 @@ body {
   font-weight: 700;
 }
 
+.cs-interactive-link-wrap {
+  text-align: center;
+  margin-top: 28px;
+}
+
+.cs-interactive-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #ff8c55;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 0.98rem;
+}
+
+.cs-interactive-link:hover {
+  text-decoration: underline;
+}
+
 /* Notations */
 .cs-notation-grid {
   display: grid;

@@ -166,6 +166,9 @@ permalink: /cheatsheet/
         </div>
       </div>
     </div>
+    <div class="cs-interactive-link-wrap">
+      <a class="cs-interactive-link" href="https://app.eventmodelers.ai/catalog?category=Learning&entry=cheat-sheet" target="_blank" rel="noopener noreferrer">Interactive View →</a>
+    </div>
   </div>
 </section>
 
@@ -205,6 +208,9 @@ permalink: /cheatsheet/
           <div class="cs-scenario-example">"Given OrderCancelled - When Checkout is submitted again - Then the command is rejected: 'cart no longer exists'."</div>
         </div>
       </div>
+    </div>
+    <div class="cs-interactive-link-wrap">
+      <a class="cs-interactive-link" href="https://app.eventmodelers.ai/catalog?category=Learning&entry=cheat-sheet" target="_blank" rel="noopener noreferrer">Interactive View →</a>
     </div>
   </div>
 </section>
@@ -575,7 +581,7 @@ permalink: /cheatsheet/
         <h4>Consulting</h4>
         <span>nebulit.de</span>
       </a>
-      <a href="{{ '/workshop' | relative_url }}" class="cs-resource-card">
+      <a href="{{ '/workshops' | relative_url }}" class="cs-resource-card">
         <span class="cs-resource-icon">🧑‍🏫</span>
         <h4>Workshops</h4>
         <span>Run this with your team</span>
@@ -592,7 +598,7 @@ permalink: /cheatsheet/
     <p>Keep this page open on a second screen during your next session, or grab the printable PDF for the wall.</p>
     <div class="lp-bottom-cta-btns">
       <a href="https://app.eventmodelers.ai" class="lp-btn-primary">Start Modeling for Free</a>
-      <a href="{{ '/workshop' | relative_url }}" class="lp-btn-secondary">Join a Workshop</a>
+      <a href="{{ '/workshops' | relative_url }}" class="lp-btn-secondary">Join a Workshop</a>
     </div>
   </div>
 </section>
