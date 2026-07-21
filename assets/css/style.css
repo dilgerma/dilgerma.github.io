@@ -4,9 +4,9 @@
 
 /* Hero */
 .lp-hero {
-  background: linear-gradient(135deg, #3a4580 0%, #1e2235 55%, #2d1f4e 100%);
-  color: #fff;
-  padding: 100px 24px 80px;
+  background: linear-gradient(180deg, #fdfcfb 0%, #f3f1ec 100%);
+  color: #1e2235;
+  padding: 120px 24px 90px;
   text-align: center;
 }
 
@@ -17,9 +17,9 @@
 
 .lp-badge {
   display: inline-block;
-  background: rgba(255,93,23,0.18);
-  color: #ff8c55;
-  border: 1px solid rgba(255,93,23,0.35);
+  background: rgba(255,93,23,0.1);
+  color: #c94500;
+  border: 1px solid rgba(255,93,23,0.3);
   border-radius: 100px;
   padding: 6px 18px;
   font-size: 0.82rem;
@@ -34,13 +34,13 @@
   font-weight: 800;
   line-height: 1.1;
   letter-spacing: -0.03em;
-  color: #fff;
+  color: #1e2235;
   margin-bottom: 24px;
 }
 
 .lp-hero p {
   font-size: 1.25rem;
-  color: rgba(255,255,255,0.78);
+  color: rgba(30,34,53,0.68);
   line-height: 1.65;
   margin-bottom: 44px;
   max-width: 640px;
@@ -53,6 +53,18 @@
   gap: 16px;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+.lp-hero .lp-btn-secondary {
+  background: #fff;
+  color: #1e2235;
+  border: 1.5px solid #d8d6d2;
+}
+
+.lp-hero .lp-btn-secondary:hover {
+  background: #f3f1ec;
+  border-color: #c9c7c2;
+  transform: translateY(-2px);
 }
 
 /* Buttons */
@@ -554,17 +566,11 @@
   margin-top: 32px;
   margin-bottom: 0;
   font-size: 0.9rem;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   text-align: center;
-  color: #ff8c42;
-  text-shadow:
-    0 0 8px rgba(255, 140, 66, 0.9),
-    0 0 20px rgba(255, 140, 66, 0.7),
-    0 0 40px rgba(255, 140, 66, 0.5),
-    0 0 80px rgba(255, 140, 66, 0.3);
-  animation: glow-pulse 2.5s ease-in-out infinite alternate;
+  color: #c94500;
 }
 
 .lp-hero-catalog-teaser {
@@ -578,25 +584,120 @@
 .lp-hero-catalog-text {
   margin: 0;
   font-size: 0.95rem;
-  color: rgba(255,255,255,0.7);
+  color: rgba(30,34,53,0.6);
   text-align: center;
 }
 
-@keyframes glow-pulse {
-  from {
-    text-shadow:
-      0 0 8px rgba(255, 140, 66, 0.9),
-      0 0 20px rgba(255, 140, 66, 0.7),
-      0 0 40px rgba(255, 140, 66, 0.5),
-      0 0 80px rgba(255, 140, 66, 0.3);
-  }
-  to {
-    text-shadow:
-      0 0 12px rgba(255, 140, 66, 1),
-      0 0 30px rgba(255, 140, 66, 0.9),
-      0 0 60px rgba(255, 140, 66, 0.7),
-      0 0 100px rgba(255, 140, 66, 0.5);
-  }
+/* Problem statement section */
+.lp-problems {
+  background: #fff;
+  padding: 96px 24px;
+}
+
+.lp-problems-inner {
+  max-width: 1160px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.lp-problems-inner h2 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: #1e2235;
+  letter-spacing: -0.025em;
+  margin-bottom: 16px;
+}
+
+/* Numbered feature list */
+.lp-features {
+  background: #f8f7f5;
+  padding: 96px 24px;
+}
+
+.lp-features-inner {
+  max-width: 880px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.lp-features-inner h2 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: #1e2235;
+  letter-spacing: -0.025em;
+  margin-bottom: 16px;
+}
+
+.lp-features-list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 56px;
+  text-align: left;
+}
+
+.lp-feature-row {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+  padding: 32px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.lp-feature-row:first-child {
+  padding-top: 0;
+}
+
+.lp-feature-row:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.lp-feature-num {
+  flex-shrink: 0;
+  width: 56px;
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #ff5d17;
+}
+
+.lp-feature-content h3 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #1e2235;
+  margin-bottom: 8px;
+}
+
+.lp-feature-content p {
+  font-size: 1rem;
+  color: #6b6b76;
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* How it works section */
+.lp-howto {
+  background: #fff;
+  padding: 96px 24px;
+}
+
+.lp-howto-inner {
+  max-width: 820px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.lp-howto-inner h2 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: #1e2235;
+  letter-spacing: -0.025em;
+  margin-bottom: 16px;
+}
+
+.lp-howto-steps {
+  text-align: left;
+  margin-top: 56px;
+  margin-bottom: 0;
 }
 
 /* Responsive */
@@ -613,7 +714,10 @@
   .lp-benefits-inner h2,
   .lp-usecases-inner h2,
   .lp-faq-inner h2,
-  .lp-bottom-cta h2 {
+  .lp-bottom-cta h2,
+  .lp-problems-inner h2,
+  .lp-features-inner h2,
+  .lp-howto-inner h2 {
     font-size: 1.75rem;
   }
   .lp-testimonial blockquote p {
@@ -624,8 +728,13 @@
   .lp-faq { padding: 64px 20px; }
   .lp-bottom-cta { padding: 64px 20px; }
   .lp-trust { padding: 60px 20px; }
+  .lp-problems { padding: 64px 20px; }
+  .lp-features { padding: 64px 20px; }
+  .lp-howto { padding: 64px 20px; }
   .lp-usecases-grid { grid-template-columns: 1fr; }
   .lp-trust-grid { grid-template-columns: 1fr; }
+  .lp-feature-row { gap: 16px; }
+  .lp-feature-num { width: 40px; }
 }
 
 /* =============================================

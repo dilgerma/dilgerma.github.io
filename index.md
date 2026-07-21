@@ -10,7 +10,7 @@ featured_image: /assets/images/board_history.png
 <section class="lp-hero">
   <div class="lp-hero-inner">
     <span class="lp-badge">AI-Enabled Software Design</span>
-    <h1>The Blueprint Your Engineering Team Actually Uses</h1>
+    <h1>Your Digital Place for Business, Engineering, and AI to Collaborate</h1>
     <p>Event Modeling aligns business, engineering, and AI agents on a single visual specification — from first discovery workshop to running production code.</p>
     <div class="lp-hero-ctas">
       <a href="https://app.eventmodelers.ai" class="lp-btn-primary">Start Modeling for Free</a>
@@ -23,6 +23,184 @@ featured_image: /assets/images/board_history.png
     </div>
   </div>
 </section>
+
+<section class="lp-problems">
+  <div class="lp-problems-inner">
+    <span class="lp-badge">The Problem</span>
+    <h2>Why good tickets still produce the wrong software</h2>
+    <p class="lp-section-sub">The handoff between business, engineering, and AI agents is where alignment quietly breaks down.</p>
+    <div class="lp-benefits-grid">
+      <div class="lp-benefit-card">
+        <span class="lp-benefit-icon">🧩</span>
+        <h3>Requirements start as tickets</h3>
+        <p>A user story compresses a whole business process into a paragraph. Whatever nuance doesn't fit gets lost before a single line of code is written.</p>
+      </div>
+      <div class="lp-benefit-card">
+        <span class="lp-benefit-icon">💬</span>
+        <h3>Context lives in meetings, not in code</h3>
+        <p>The reasoning behind a decision stays in someone's head or a Slack thread — until the next person touches that code and has to guess.</p>
+      </div>
+      <div class="lp-benefit-card">
+        <span class="lp-benefit-icon">🤖</span>
+        <h3>AI agents guess when the spec is vague</h3>
+        <p>Coding agents are only as good as the context you give them. Ambiguous tickets produce confident, wrong code.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="lp-features">
+  <div class="lp-features-inner">
+    <h2>Everything your team needs to build the right thing</h2>
+    <p class="lp-section-sub">Stop building from incomplete tickets. Start from a shared, executable blueprint.</p>
+    <div class="lp-features-list">
+      <div class="lp-feature-row">
+        <span class="lp-feature-num">01</span>
+        <div class="lp-feature-content">
+          <h3>🗺️ Visual System Design</h3>
+          <p>Model your entire system as an event timeline — commands, events, and read models on a single canvas everyone can read.</p>
+        </div>
+      </div>
+      <div class="lp-feature-row">
+        <span class="lp-feature-num">02</span>
+        <div class="lp-feature-content">
+          <h3>🤖 AI-Agent Ready</h3>
+          <p>Generate structured context and prompts so AI coding agents can implement features accurately — no ambiguous tickets, no guesswork.</p>
+        </div>
+      </div>
+      <div class="lp-feature-row">
+        <span class="lp-feature-num">03</span>
+        <div class="lp-feature-content">
+          <h3>⚡ Code Generation</h3>
+          <p>Go from approved model to scaffolded, production-ready code in minutes — not weeks of back-and-forth between teams.</p>
+        </div>
+      </div>
+      <div class="lp-feature-row">
+        <span class="lp-feature-num">04</span>
+        <div class="lp-feature-content">
+          <h3>🤝 Team Alignment</h3>
+          <p>Business and engineering speak the same language. No more lost-in-translation requirements or surprise pivots late in the sprint.</p>
+        </div>
+      </div>
+      <div class="lp-feature-row">
+        <span class="lp-feature-num">05</span>
+        <div class="lp-feature-content">
+          <h3>📄 Living Documentation</h3>
+          <p>The model is the documentation. It stays current because it's built into how your team works — not a separate artifact that rots.</p>
+        </div>
+      </div>
+      <div class="lp-feature-row">
+        <span class="lp-feature-num">06</span>
+        <div class="lp-feature-content">
+          <h3>🔍 Completeness Checks</h3>
+          <p>Built-in checks surface missing data and edge cases before you write a single line of code — catch gaps in design, not in production.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="lp-testimonial">
+  <div class="lp-testimonial-inner">
+    <blockquote>
+      <p>"We achieved everything from DDD without doing DDD."</p>
+      <cite>— Adam Dymitruk, Creator of Event Modeling</cite>
+    </blockquote>
+    <a href="https://www.eventmodelers.de/docs/event-modeling/" class="lp-btn-outline">Learn the Method →</a>
+  </div>
+</section>
+
+<section class="lp-usecases">
+  <div class="lp-usecases-inner">
+    <h2>Built for every role in your team</h2>
+    <p class="lp-section-sub">Event Modeling works across disciplines — everyone contributes, everyone understands the full picture.</p>
+    <div class="lp-usecases-grid">
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">👩‍💻</span>
+        <h3>Engineering Teams</h3>
+        <p>Stop guessing what to build. Start each sprint from a model that tells you exactly what commands to handle, what events to emit, and what read models to maintain.</p>
+        <ul>
+          <li>Clear command & event contracts</li>
+          <li>Test cases derived directly from the model</li>
+          <li>AI-assisted code scaffolding per slice</li>
+        </ul>
+        <a href="https://app.eventmodelers.ai" class="lp-usecase-cta">Start Modeling →</a>
+      </div>
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">🏗️</span>
+        <h3>Architects</h3>
+        <p>Design resilient, event-driven systems from the ground up. Use the model to enforce architectural boundaries and communicate decisions across teams without lengthy docs.</p>
+        <ul>
+          <li>Bounded context visualization</li>
+          <li>Integration point discovery</li>
+          <li>Architecture decision capture</li>
+        </ul>
+        <a href="https://www.eventmodelers.de/docs/event-modeling/" class="lp-usecase-cta">Explore the Method →</a>
+      </div>
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">📋</span>
+        <h3>Product Managers</h3>
+        <p>Translate business requirements into a specification engineering can ship from — without handoff friction, ambiguous user stories, or last-minute scope surprises.</p>
+        <ul>
+          <li>Workshop-ready Miro templates</li>
+          <li>Stakeholder-readable models</li>
+          <li>Automatic slice & story extraction</li>
+        </ul>
+        <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-usecase-cta">Book a Demo →</a>
+      </div>
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">🧠</span>
+        <h3>AI Engineers</h3>
+        <p>Give your AI coding agents the structured context they need. Event models are machine-readable blueprints — precise inputs lead to precise outputs.</p>
+        <ul>
+          <li>Structured slice prompts per feature</li>
+          <li>Context-aware code generation</li>
+          <li>Agent-compatible output formats</li>
+        </ul>
+        <a href="https://app.eventmodelers.ai" class="lp-usecase-cta">Try the Generator →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="lp-howto">
+  <div class="lp-howto-inner">
+    <span class="lp-badge">How It Works</span>
+    <h2>From blueprint to running code</h2>
+    <p class="lp-section-sub">One shared model drives discovery, implementation, and every change that follows.</p>
+    <div class="lp-story-steps lp-howto-steps">
+      <div class="lp-story-step">
+        <span class="lp-story-step-num">1</span>
+        <div>
+          <div class="lp-story-step-title">Discover & Model</div>
+          <div class="lp-story-step-body">Run a workshop or an AI-assisted discovery session to map commands, events, and read models onto a shared timeline.</div>
+        </div>
+      </div>
+      <div class="lp-story-step">
+        <span class="lp-story-step-num">2</span>
+        <div>
+          <div class="lp-story-step-title">Slice the Work</div>
+          <div class="lp-story-step-body">Break the model into vertical slices — each one a self-contained, buildable unit of business value.</div>
+        </div>
+      </div>
+      <div class="lp-story-step">
+        <span class="lp-story-step-num">3</span>
+        <div>
+          <div class="lp-story-step-title">Generate & Build</div>
+          <div class="lp-story-step-body">Mark a slice as <code>Planned</code> on the board — an AI coding agent implements it, runs the tests, and commits.</div>
+        </div>
+      </div>
+      <div class="lp-story-step">
+        <span class="lp-story-step-num">4</span>
+        <div>
+          <div class="lp-story-step-title">Stay in Sync</div>
+          <div class="lp-story-step-body">Change the model and the code catches up — the board and the codebase never drift apart.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="lp-stories">
   <div class="lp-stories-inner">
     <span class="lp-badge" style="background:rgba(99,102,241,0.12);color:#6366f1;border-color:rgba(99,102,241,0.3);">Real Use Cases</span>
@@ -207,123 +385,6 @@ featured_image: /assets/images/board_history.png
   startTimer();
 })();
 </script>
-  </div>
-</section>
-
-<!--
-<section class="lp-logos">
-
-
-  <p class="lp-logos-label">Trusted by engineering teams across Europe</p>
-  <div class="lp-logos-list">
-    <span>Bosch</span>
-    <span>Scout24</span>
-    <span>Siemens</span>
-    <span>Allianz</span>
-    <span>Zalando</span>
-    <span>Deutsche Bahn</span>
-  </div>
-</section>
--->
-<section class="lp-benefits">
-  <div class="lp-benefits-inner">
-    <h2>Everything your team needs to build the right thing</h2>
-    <p class="lp-section-sub">Stop building from incomplete tickets. Start from a shared, executable blueprint.</p>
-    <div class="lp-benefits-grid">
-      <div class="lp-benefit-card">
-        <span class="lp-benefit-icon">🗺️</span>
-        <h3>Visual System Design</h3>
-        <p>Model your entire system as an event timeline — commands, events, and read models on a single canvas everyone can read.</p>
-      </div>
-      <div class="lp-benefit-card">
-        <span class="lp-benefit-icon">🤖</span>
-        <h3>AI-Agent Ready</h3>
-        <p>Generate structured context and prompts so AI coding agents can implement features accurately — no ambiguous tickets, no guesswork.</p>
-      </div>
-      <div class="lp-benefit-card">
-        <span class="lp-benefit-icon">⚡</span>
-        <h3>Code Generation</h3>
-        <p>Go from approved model to scaffolded, production-ready code in minutes — not weeks of back-and-forth between teams.</p>
-      </div>
-      <div class="lp-benefit-card">
-        <span class="lp-benefit-icon">🤝</span>
-        <h3>Team Alignment</h3>
-        <p>Business and engineering speak the same language. No more lost-in-translation requirements or surprise pivots late in the sprint.</p>
-      </div>
-      <div class="lp-benefit-card">
-        <span class="lp-benefit-icon">📄</span>
-        <h3>Living Documentation</h3>
-        <p>The model is the documentation. It stays current because it's built into how your team works — not a separate artifact that rots.</p>
-      </div>
-      <div class="lp-benefit-card">
-        <span class="lp-benefit-icon">🔍</span>
-        <h3>Completeness Checks</h3>
-        <p>Built-in checks surface missing data and edge cases before you write a single line of code — catch gaps in design, not in production.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="lp-testimonial">
-  <div class="lp-testimonial-inner">
-    <blockquote>
-      <p>"We achieved everything from DDD without doing DDD."</p>
-      <cite>— Adam Dymitruk, Creator of Event Modeling</cite>
-    </blockquote>
-    <a href="https://www.eventmodelers.de/docs/event-modeling/" class="lp-btn-outline">Learn the Method →</a>
-  </div>
-</section>
-
-<section class="lp-usecases">
-  <div class="lp-usecases-inner">
-    <h2>Built for every role in your team</h2>
-    <p class="lp-section-sub">Event Modeling works across disciplines — everyone contributes, everyone understands the full picture.</p>
-    <div class="lp-usecases-grid">
-      <div class="lp-usecase-card">
-        <span class="lp-usecase-icon">👩‍💻</span>
-        <h3>Engineering Teams</h3>
-        <p>Stop guessing what to build. Start each sprint from a model that tells you exactly what commands to handle, what events to emit, and what read models to maintain.</p>
-        <ul>
-          <li>Clear command & event contracts</li>
-          <li>Test cases derived directly from the model</li>
-          <li>AI-assisted code scaffolding per slice</li>
-        </ul>
-        <a href="https://app.eventmodelers.ai" class="lp-usecase-cta">Start Modeling →</a>
-      </div>
-      <div class="lp-usecase-card">
-        <span class="lp-usecase-icon">🏗️</span>
-        <h3>Architects</h3>
-        <p>Design resilient, event-driven systems from the ground up. Use the model to enforce architectural boundaries and communicate decisions across teams without lengthy docs.</p>
-        <ul>
-          <li>Bounded context visualization</li>
-          <li>Integration point discovery</li>
-          <li>Architecture decision capture</li>
-        </ul>
-        <a href="https://www.eventmodelers.de/docs/event-modeling/" class="lp-usecase-cta">Explore the Method →</a>
-      </div>
-      <div class="lp-usecase-card">
-        <span class="lp-usecase-icon">📋</span>
-        <h3>Product Managers</h3>
-        <p>Translate business requirements into a specification engineering can ship from — without handoff friction, ambiguous user stories, or last-minute scope surprises.</p>
-        <ul>
-          <li>Workshop-ready Miro templates</li>
-          <li>Stakeholder-readable models</li>
-          <li>Automatic slice & story extraction</li>
-        </ul>
-        <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-usecase-cta">Book a Demo →</a>
-      </div>
-      <div class="lp-usecase-card">
-        <span class="lp-usecase-icon">🧠</span>
-        <h3>AI Engineers</h3>
-        <p>Give your AI coding agents the structured context they need. Event models are machine-readable blueprints — precise inputs lead to precise outputs.</p>
-        <ul>
-          <li>Structured slice prompts per feature</li>
-          <li>Context-aware code generation</li>
-          <li>Agent-compatible output formats</li>
-        </ul>
-        <a href="https://app.eventmodelers.ai" class="lp-usecase-cta">Try the Generator →</a>
-      </div>
-    </div>
   </div>
 </section>
 

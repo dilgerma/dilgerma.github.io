@@ -72,7 +72,8 @@
       "Read(//Users/martindilger/**)",
       "Bash(mdfind \"kMDItemFSName == 'LifeWiki*'\")",
       "Bash(\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --headless=new --disable-gpu --screenshot=workshop_full3.png --window-size=1400,10000 --virtual-time-budget=4000 http://localhost:4000/workshop/)",
-      "WebFetch(domain:nebulit.de)"
+      "WebFetch(domain:nebulit.de)",
+      "Bash(bundle install *)"
     ],
     "deny": [],
     "ask": []
