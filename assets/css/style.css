@@ -1209,6 +1209,7 @@
   border: 1.5px solid #e0e0f0;
   border-radius: 12px;
   text-decoration: none;
+  text-align: left;
   transition: border-color 0.18s, box-shadow 0.18s, transform 0.15s;
   box-shadow: 0 1px 4px rgba(30,34,53,0.05);
 }
