@@ -129,8 +129,10 @@
 <body>
     {% include header.html %}
 
-    <div class="doc-layout">
+    <div class="doc-layout{% unless page.hide_nav %} has-sidebar{% endunless %}">
+        {% unless page.hide_nav %}
         {% include navigation.html %}
+        {% endunless %}
 
         <div class="content-wrapper">
             <main class="doc-content">

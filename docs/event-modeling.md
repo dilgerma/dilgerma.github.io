@@ -6,8 +6,6 @@ description: "I personally think that with Event Modeling we have one of the mos
 
 <div class="blog-post" markdown="1">
 
-[&larr; Back to Blog]({{ '/docs/blog' | relative_url }}){: .blog-back-link}
-
   <div class="blog-post-header">
     <h1>Documenting Software with Event Modeling</h1>
     <p class="blog-post-subtitle">I personally think that with Event Modeling we have one of the most important tools for documenting and developing complex software systems of recent years in our hands. Why? Because it's so simple and yet it works.</p>
@@ -25,7 +23,7 @@ Why? Because it's so _simple_ and yet it works.
 
 That's why the company Nebulit focuses on this model in development.
 
-The model was defined by Adam Dymitruk and first described in [this blog](https://eventmodeling.org/posts/what-is-event-modeling/).
+The model was defined by Adam Dymitruk and first described in a blog post on the topic.
 
 In this article, I'll explain what Event Modeling is and why I believe the approach is the right one for documenting and developing maintainable software systems of any size.
 
@@ -177,7 +175,7 @@ This article is not about implementing the system, but only about documenting ho
 For implementing a first use case, the Event Model is already sufficient.
 
 Some patterns are missing that are already described in fairly detail in
-[Adam Dymitruk's article](https://eventmodeling.org/posts/what-is-event-modeling/).
+Adam Dymitruk's original article.
 
 The implementation of such a system works most easily with **Event Sourcing**, the process is most easily based on **CQRS** (Command Query Responsibility Segregation).
 
@@ -195,21 +193,12 @@ I can help document your IT system in a modern way.
 - The documentation accelerates every onboarding
 - We document BEFORE development, not after.
 
-<div class="info-box" markdown="1">
-### Ready to Learn More?
-
-My book [**"Understanding Eventsourcing"**](https://leanpub.com/eventmodeling-and-eventsourcing){:target="_blank"} gives you the blueprint. But reading alone will take your team too long.
-
-I can teach your team how to build these blueprints faster and skip the whole trial-and-error phase. Let's have a [chat](https://outlook.office365.com/book/NebulitGmbH@nebulit.de/){:target="_blank"} about how this applies to your project.
-
-</div>
-
 <div class="course-cta" markdown="1">
-### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+### Ready to Put This Into Practice?
 
-Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+Start modeling your own system today with **eventmodelers.ai**.
 
-[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+[Start Modeling for Free →](https://app.eventmodelers.ai){:target="_blank" .cta-button}
 </div>
 
   </div>

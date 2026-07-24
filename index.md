@@ -106,7 +106,7 @@ featured_image: /assets/images/board_history.png
       <p>"We achieved everything from DDD without doing DDD."</p>
       <cite>— Adam Dymitruk, Creator of Event Modeling</cite>
     </blockquote>
-    <a href="https://www.eventmodelers.de/docs/event-modeling/" class="lp-btn-outline">Learn the Method →</a>
+    <a href="{{ '/workshops' | relative_url }}" class="lp-btn-outline">Learn the Method →</a>
   </div>
 </section>
 
@@ -135,7 +135,7 @@ featured_image: /assets/images/board_history.png
           <li>Integration point discovery</li>
           <li>Architecture decision capture</li>
         </ul>
-        <a href="https://www.eventmodelers.de/docs/event-modeling/" class="lp-usecase-cta">Explore the Method →</a>
+        <a href="{{ '/workshops' | relative_url }}" class="lp-usecase-cta">Explore the Method →</a>
       </div>
       <div class="lp-usecase-card">
         <span class="lp-usecase-icon">📋</span>

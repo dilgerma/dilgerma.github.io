@@ -1722,6 +1722,9 @@ body {
 
 .content-wrapper {
     flex: 1;
+}
+
+.doc-layout.has-sidebar .content-wrapper {
     margin-left: var(--nav-width);
 }
 

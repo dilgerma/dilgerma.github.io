@@ -38,6 +38,30 @@ defaults:
     values:
       layout: "docs"
   - scope:
+      path: "docs/blog.md"
+    values:
+      hide_nav: true
+  - scope:
+      path: "docs/blog"
+    values:
+      hide_nav: true
+  - scope:
+      path: "docs/podcast.md"
+    values:
+      hide_nav: true
+  - scope:
+      path: "docs/podcast"
+    values:
+      hide_nav: true
+  - scope:
+      path: "docs/basic-modeling-topics/videos.md"
+    values:
+      hide_nav: true
+  - scope:
+      path: "docs/event-modeling.md"
+    values:
+      hide_nav: true
+  - scope:
       path: ""
     values:
       layout: "default"
