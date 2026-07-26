@@ -282,3 +282,8 @@ we-forgot-how-to-think-before-we-code:
   - event-modeling-isnt-waterfall
   - spec-driven-development
 
+triplet-architecture:
+  - missing-game-plan-for-ai
+  - hold-my-beer-engineering
+  - show-me-the-coupling
+

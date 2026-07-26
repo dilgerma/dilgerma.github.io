@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/triplet-architecture' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/triplet-architecture.png' | relative_url }}" alt="The Triplet Architecture - Building Flexible, Agent-Enabled Systems">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Triplet Architecture: Building Flexible, Agent-Enabled Systems</h3>
+        <p class="blog-tile-subtitle">Event Modeling, Vertical Slices, and Event Sourcing only pay off when you use all three together - not picked up separately at different stages.</p>
+        <p class="blog-tile-meta">July 26, 2026 • 10 min read • Event Modeling &amp; Architecture</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/dcb-dynamic-consistency-boundary-event-modeling' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/dcb-dynamic-consistency-boundary-event-modeling.png' | relative_url }}" alt="How Does DCB Affect Event Modeling">

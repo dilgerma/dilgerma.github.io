@@ -8,6 +8,23 @@ featured_image: /assets/images/board_history.png
 ---
 
 <section class="lp-hero">
+  <div class="lp-hero-notes" aria-hidden="true">
+    <div class="lp-sticky-note lp-note-event" style="top:10%; left:5%; --rot:-6deg; --rot-alt:-2deg; animation-duration:7s; animation-delay:0s;">
+      <span class="lp-sticky-note-type">Event</span>Cart Created
+    </div>
+    <div class="lp-sticky-note lp-note-event" style="top:38%; left:1.5%; --rot:4deg; --rot-alt:1deg; animation-duration:6.5s; animation-delay:1.1s;">
+      <span class="lp-sticky-note-type">Event</span>Item Added
+    </div>
+    <div class="lp-sticky-note lp-note-command" style="top:66%; left:7%; --rot:-3deg; --rot-alt:1deg; animation-duration:7.5s; animation-delay:0.6s;">
+      <span class="lp-sticky-note-type">Command</span>Submit Cart
+    </div>
+    <div class="lp-sticky-note lp-note-event" style="top:16%; right:5%; --rot:5deg; --rot-alt:1deg; animation-duration:6.8s; animation-delay:0.3s;">
+      <span class="lp-sticky-note-type">Event</span>Order Submitted
+    </div>
+    <div class="lp-sticky-note lp-note-readmodel" style="top:60%; right:2%; --rot:-4deg; --rot-alt:-1deg; animation-duration:7.2s; animation-delay:1.4s;">
+      <span class="lp-sticky-note-type">Read Model</span>Processed Orders
+    </div>
+  </div>
   <div class="lp-hero-inner">
     <span class="lp-badge">AI-Enabled Software Design</span>
     <h1>Your Digital Place for Business, Engineering, and AI to Collaborate</h1>
