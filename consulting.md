@@ -13,6 +13,7 @@ permalink: /consulting/
     <span class="lp-badge">Expert-Led Engagements</span>
     <h1>Consulting for Event Modeling &amp; Event Sourcing</h1>
     <p>When a workshop isn't enough, our experts work directly alongside your team - modeling the domain, building the system, upskilling engineers, and reviewing the architecture you already have.</p>
+    <p class="lp-hero-trust-line">Guaranteed buy-in from Stakeholders</p>
     <div class="lp-hero-ctas">
       <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-primary">Book a Call</a>
       <a href="#services" class="lp-btn-secondary">See What We Offer</a>
