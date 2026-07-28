@@ -5,45 +5,71 @@
     </div>
 
     <nav class="header-nav">
+      {% assign explore_active = false %}
+      {% if page.url == '/use-cases/' or page.url == '/use-cases.html' or page.url == '/docs/blog/' or page.url == '/docs/blog.html' or page.url contains '/docs/blog/' or page.url == '/docs/basic-modeling-topics/videos' or page.url == '/docs/basic-modeling-topics/videos.html' or page.url == '/docs/podcast/' or page.url == '/docs/podcast.html' or page.url contains '/docs/podcast/' %}
+        {% assign explore_active = true %}
+      {% endif %}
       <ul class="header-menu">
         <li>
           <a href="{{ '/agentic-engineer-course' | relative_url }}"
              class="highlight{% if page.url == '/agentic-engineer-course/' or page.url == '/agentic-engineer-course.html' %} active{% endif %}">
-            Agentic Engineer - Course
+            Agentic Engineer
           </a>
         </li>
         <li>
-          <a href="{{ '/use-cases' | relative_url }}"
-             {% if page.url == '/use-cases/' or page.url == '/use-cases.html' %}class="active"{% endif %}>
-            Use Cases
+          <a href="https://app.eventmodelers.ai" target="_blank" rel="noopener noreferrer">
+            Model your Domain
           </a>
         </li>
-        <li>
-          <a href="{{ '/docs/blog' | relative_url }}"
-             {% if page.url == '/docs/blog/' or page.url == '/docs/blog.html' %}class="active"{% endif %}>
-            Blog
-          </a>
-        </li>
-        <li>
-          <a href="{{ '/docs/basic-modeling-topics/videos' | relative_url }}"
-             {% if page.url == '/docs/basic-modeling-topics/videos' or page.url == ' /docs/basic-modeling-topics/videos.html' %}class="active"{% endif %}>
-            Videos
-          </a>
-        </li>
-        <li>
-          <a href="{{ '/docs/podcast' | relative_url }}"
-             {% if page.url == '/docs/podcast/' or page.url == '/docs/podcast.html' or page.url contains '/docs/podcast/' %}class="active"{% endif %}>
-            Podcast
-          </a>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle{% if explore_active %} active{% endif %}" aria-expanded="false" aria-controls="exploreDropdownPanel">
+            What is this about
+            <svg class="nav-dropdown-caret" viewBox="0 0 10 6" fill="none" aria-hidden="true"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <div class="nav-dropdown-panel" id="exploreDropdownPanel">
+            <div class="nav-dropdown-notes" aria-hidden="true">
+              <div class="lp-sticky-note lp-note-event nav-mini-note" style="top:-10px; right:14%; --rot:-6deg; --rot-alt:-2deg; animation-duration:6s; animation-delay:0s;">
+                <span class="lp-sticky-note-type">Event</span>New Episode
+              </div>
+              <div class="lp-sticky-note lp-note-command nav-mini-note" style="bottom:-12px; left:6%; --rot:5deg; --rot-alt:1deg; animation-duration:6.6s; animation-delay:0.8s;">
+                <span class="lp-sticky-note-type">Command</span>Read Post
+              </div>
+              <div class="lp-sticky-note lp-note-readmodel nav-mini-note" style="bottom:8%; right:-14px; --rot:-4deg; --rot-alt:-1deg; animation-duration:7s; animation-delay:1.2s;">
+                <span class="lp-sticky-note-type">Read Model</span>Subscribed
+              </div>
+            </div>
+            <div class="nav-dropdown-grid">
+              <a class="nav-dropdown-tile" href="{{ '/docs/blog' | relative_url }}">
+                <span class="nav-dropdown-tile-icon">📝</span>
+                <span class="nav-dropdown-tile-title">Blog</span>
+                <span class="nav-dropdown-tile-desc">Articles on Event Modeling, event sourcing, and building with AI agents.</span>
+              </a>
+              <a class="nav-dropdown-tile" href="{{ '/docs/basic-modeling-topics/videos' | relative_url }}">
+                <span class="nav-dropdown-tile-icon">🎬</span>
+                <span class="nav-dropdown-tile-title">Videos</span>
+                <span class="nav-dropdown-tile-desc">Short walkthroughs of the platform and core modeling concepts.</span>
+              </a>
+              <a class="nav-dropdown-tile" href="{{ '/docs/podcast' | relative_url }}">
+                <span class="nav-dropdown-tile-icon">🎙️</span>
+                <span class="nav-dropdown-tile-title">Podcast</span>
+                <span class="nav-dropdown-tile-desc">Conversations on Event Modeling, architecture, and agentic engineering.</span>
+              </a>
+              <a class="nav-dropdown-tile" href="https://newsletter.nebulit.de" target="_blank" rel="noopener noreferrer">
+                <span class="nav-dropdown-tile-icon">✉️</span>
+                <span class="nav-dropdown-tile-title">Newsletter</span>
+                <span class="nav-dropdown-tile-desc">Weekly insights, delivered straight to your inbox.</span>
+              </a>
+              <a class="nav-dropdown-tile" href="{{ '/use-cases' | relative_url }}">
+                <span class="nav-dropdown-tile-icon">💡</span>
+                <span class="nav-dropdown-tile-title">Use Cases</span>
+                <span class="nav-dropdown-tile-desc">Real scenarios showing how teams use the platform end to end.</span>
+              </a>
+            </div>
+          </div>
         </li>
         <li>
           <a href="/eventmodeling-book" target="_blank" rel="noopener noreferrer">
             The Book
-          </a>
-        </li>
-        <li>
-          <a href="https://newsletter.nebulit.de" target="_blank" rel="noopener noreferrer">
-            Newsletter
           </a>
         </li>
         <li>

@@ -76,7 +76,9 @@
       "Bash(bundle install *)",
       "Bash(date -j -v-1d +%F)",
       "WebFetch(domain:docs.google.com)",
-      "mcp__claude_ai_Microsoft_365__outlook_calendar_search"
+      "mcp__claude_ai_Microsoft_365__outlook_calendar_search",
+      "Bash(awk 'NR<=2276 && /@media/{line=NR\": \"$0} END{}' assets/css/style.css)",
+      "Bash(awk -F: '$1<2276')"
     ],
     "deny": [],
     "ask": []
