@@ -29,11 +29,13 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 
-  // "What is this about" expandable nav dropdown
-  const navDropdown = document.querySelector('.nav-dropdown');
-  const navDropdownToggle = document.querySelector('.nav-dropdown-toggle');
+  // Expandable nav dropdowns (e.g. "What is this about", "Get Support")
+  const navDropdowns = document.querySelectorAll('.nav-dropdown');
 
-  if (navDropdown && navDropdownToggle) {
+  navDropdowns.forEach(function(navDropdown) {
+    const navDropdownToggle = navDropdown.querySelector('.nav-dropdown-toggle');
+    if (!navDropdownToggle) return;
+
     const closeNavDropdown = function() {
       navDropdown.classList.remove('open');
       navDropdownToggle.setAttribute('aria-expanded', 'false');
@@ -41,6 +43,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
     navDropdownToggle.addEventListener('click', function(event) {
       event.stopPropagation();
+      navDropdowns.forEach(function(otherDropdown) {
+        if (otherDropdown !== navDropdown) {
+          otherDropdown.classList.remove('open');
+          const otherToggle = otherDropdown.querySelector('.nav-dropdown-toggle');
+          if (otherToggle) otherToggle.setAttribute('aria-expanded', 'false');
+        }
+      });
       const isOpen = navDropdown.classList.toggle('open');
       navDropdownToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
     });
@@ -56,5 +65,5 @@ document.addEventListener('DOMContentLoaded', function() {
         closeNavDropdown();
       }
     });
-  }
+  });
 });
