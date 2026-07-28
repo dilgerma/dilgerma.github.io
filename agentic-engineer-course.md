@@ -13,9 +13,10 @@ permalink: /agentic-engineer-course/
     <h1>The Agentic Engineer Course</h1>
     <p>Go from a messy idea to a shipped, event-sourced system - built with AI agents that work from a complete spec, not a vague prompt. Three weeks: Event Modeling, Event Sourcing &amp; Slices, and AI Engineering.</p>
     <div class="lp-hero-ctas">
-      <a href="#curriculum" class="lp-btn-primary">See the Curriculum</a>
+      <a href="#waitlist" class="lp-btn-primary">Join the Wait List</a>
       <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
     </div>
+    <p class="cs-hero-pdf-hint">First Cohort starting in September 2026.</p>
     <p class="cs-hero-pdf-hint">Delivered by <a href="https://www.nebulit.de" target="_blank" rel="noopener noreferrer">Nebulit</a>.</p>
   </div>
 </section>
@@ -241,9 +242,11 @@ permalink: /agentic-engineer-course/
   </div>
 </section>
 
-<section class="cs-section">
+<section class="cs-section" id="waitlist">
   <div class="cs-section-inner">
-    <script async data-uid="03f007ef50" src="https://nebulit-gmbh.kit.com/03f007ef50/index.js"></script>
+    <div class="newsletter-container">
+      <script async data-uid="03f007ef50" src="https://nebulit-gmbh.kit.com/03f007ef50/index.js"></script>
+    </div>
   </div>
 </section>
 
