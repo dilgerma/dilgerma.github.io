@@ -6,7 +6,7 @@
 
     <nav class="header-nav">
       {% assign explore_active = false %}
-      {% if page.url == '/use-cases/' or page.url == '/use-cases.html' or page.url == '/docs/blog/' or page.url == '/docs/blog.html' or page.url contains '/docs/blog/' or page.url == '/docs/basic-modeling-topics/videos' or page.url == '/docs/basic-modeling-topics/videos.html' or page.url == '/docs/podcast/' or page.url == '/docs/podcast.html' or page.url contains '/docs/podcast/' %}
+      {% if page.url == '/use-cases/' or page.url == '/use-cases.html' or page.url == '/docs/blog/' or page.url == '/docs/blog.html' or page.url contains '/docs/blog/' or page.url == '/docs/basic-modeling-topics/videos' or page.url == '/docs/basic-modeling-topics/videos.html' or page.url == '/docs/podcast/' or page.url == '/docs/podcast.html' or page.url contains '/docs/podcast/' or page.url == '/eventmodeling-book/' or page.url == '/eventmodeling-book.html' %}
         {% assign explore_active = true %}
       {% endif %}
       <ul class="header-menu">
@@ -64,18 +64,23 @@
                 <span class="nav-dropdown-tile-title">Use Cases</span>
                 <span class="nav-dropdown-tile-desc">Real scenarios showing how teams use the platform end to end.</span>
               </a>
+              <a class="nav-dropdown-tile" href="/eventmodeling-book" target="_blank" rel="noopener noreferrer">
+                <span class="nav-dropdown-tile-icon">📖</span>
+                <span class="nav-dropdown-tile-title">The Book</span>
+                <span class="nav-dropdown-tile-desc">The Event Modeling book, from fundamentals to advanced patterns.</span>
+              </a>
             </div>
           </div>
-        </li>
-        <li>
-          <a href="/eventmodeling-book" target="_blank" rel="noopener noreferrer">
-            The Book
-          </a>
         </li>
         <li>
           <a href="{{ '/workshops' | relative_url }}"
              {% if page.url == '/workshops/' or page.url == '/workshops.html' %}class="active"{% endif %}>
             Workshops
+          </a>
+        </li>
+        <li>
+          <a href="mailto:info@nebulit.de">
+            Contact Us
           </a>
         </li>
       </ul>
