@@ -27,7 +27,7 @@ permalink: /consulting/
   <div class="cs-section-inner">
     <div class="cs-section-head">
       <span class="cs-eyebrow">What We Offer</span>
-      <h2>Five Ways to Bring Our Experts In</h2>
+      <h2>Six Ways to Bring Our Experts In</h2>
       <p class="lp-section-sub" style="margin-bottom:0;">Pick the engagement that matches where your team is right now - or combine them into a longer program.</p>
     </div>
     <div class="lp-usecases-grid">
@@ -79,6 +79,16 @@ permalink: /consulting/
           <li>Assessment of specs, docs, and context available to agents</li>
           <li>Concrete gaps that cause agents to guess or go off-track</li>
           <li>A prioritized plan to get AI-agent ready</li>
+        </ul>
+      </div>
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">📋</span>
+        <h3>Spec-Driven Development</h3>
+        <p>Turn your event model into living specs that scope and guide AI coding agents - so implementation stays traceable back to the domain.</p>
+        <ul>
+          <li>Given-When-Then specs derived directly from the model</li>
+          <li>Specs that scope agent work instead of open-ended prompts</li>
+          <li>A repeatable workflow from model to spec to shipped code</li>
         </ul>
       </div>
     </div>

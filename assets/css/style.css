@@ -1552,7 +1552,7 @@ body {
     padding: 10px;
 }
 
-.nav-dropdown-grid.nav-dropdown-grid-single {
+.nav-dropdown-grid-single {
     grid-template-columns: 1fr;
 }
 
