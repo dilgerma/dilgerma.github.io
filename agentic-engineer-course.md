@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Agentic Engineer Course - Event Modeling, Event Sourcing & AI Engineering
+title: Agentic Engineer Program - Event Modeling, Event Sourcing & AI Engineering
 description: A 3-week program that takes you from a messy idea to a shipped, event-sourced system - Event Modeling, Event Sourcing & Slices, and AI Engineering with autonomous agents.
-keywords: agentic engineer course, event modeling course, event sourcing training, ai engineering training, spec driven development, agent loop, ralph loop
+keywords: agentic engineer program, event modeling course, event sourcing training, ai engineering training, spec driven development, agent loop, ralph loop
 author: Martin Dilger
 permalink: /agentic-engineer-course/
 ---
@@ -10,7 +10,7 @@ permalink: /agentic-engineer-course/
 <section class="lp-hero">
   <div class="lp-hero-inner">
     <span class="lp-badge">3-Week Program</span>
-    <h1>The Agentic Engineer Course</h1>
+    <h1>The Agentic Engineer Program</h1>
     <p>Go from a messy idea to a shipped, event-sourced system - built with AI agents that work from a complete spec, not a vague prompt. Three weeks: Event Modeling, Event Sourcing &amp; Slices, and AI Engineering.</p>
     <div class="lp-hero-ctas">
       <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
@@ -26,10 +26,10 @@ permalink: /agentic-engineer-course/
 <section class="cs-section">
   <div class="cs-section-inner">
     <div class="cs-section-head">
-      <span class="cs-eyebrow">Why This Course</span>
+      <span class="cs-eyebrow">Why This Program</span>
       <h2>Code Generation Isn't the Bottleneck Anymore</h2>
       <p class="cs-why"><strong>Why:</strong> AI agents can already write code faster than any team. What most teams are missing is a spec complete enough - and a process disciplined enough - for that code to be correct, testable, and production-grade on the first pass.</p>
-      <p class="lp-section-sub" style="margin-bottom:0;">This course builds that foundation from the ground up: model the domain, turn the model into a working event-sourced system, then hand slices of it to autonomous agents and watch them ship.</p>
+      <p class="lp-section-sub" style="margin-bottom:0;">This program builds that foundation from the ground up: model the domain, turn the model into a working event-sourced system, then hand slices of it to autonomous agents and watch them ship.</p>
     </div>
   </div>
 </section>
@@ -220,7 +220,7 @@ permalink: /agentic-engineer-course/
     <div class="cs-section-head">
       <span class="cs-eyebrow">Who It's For</span>
       <h2>Built for Engineers Who Ship</h2>
-      <p class="cs-why"><strong>Why:</strong> the course assumes you'll walk away with a real, working slice of your own system - not a set of slides about agentic AI.</p>
+      <p class="cs-why"><strong>Why:</strong> the program assumes you'll walk away with a real, working slice of your own system - not a set of slides about agentic AI.</p>
     </div>
     <div class="lp-benefits-grid">
       <div class="lp-benefit-card">
@@ -254,7 +254,7 @@ permalink: /agentic-engineer-course/
 
 <section class="lp-bottom-cta">
   <div class="lp-bottom-cta-inner">
-    <h2>Interested in the Agentic Engineer Course?</h2>
+    <h2>Interested in the Agentic Engineer Program?</h2>
     <p>Planned Start Sep. 07, 2026. Book a call to talk through format, dates, and pricing for your team.</p>
     <div class="lp-bottom-cta-btns">
       <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
