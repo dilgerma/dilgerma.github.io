@@ -60,20 +60,12 @@ Advanced workshops expose the gap between what organizations think their systems
 4. The slice-based approach in event modeling makes AB testing simpler by allowing you to toggle slices on and off independently
 5. Event modeling works well with value stream analysis, giving you immediate insight into development costs and bottlenecks without specialized tools
 
-<div class="info-box" markdown="1">
-### Learn Event Modeling from the experts
-
-Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
-
-**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
-</div>
-
 <div class="course-cta" markdown="1">
-### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+### Join the Agentic Engineer Program
 
-Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
-[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
 </div>
 
   </div>

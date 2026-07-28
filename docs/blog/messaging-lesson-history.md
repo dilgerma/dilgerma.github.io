@@ -123,20 +123,12 @@ https://forecasts.nebulit.de/
 
 I offer 45-Minute Workshops with Teams at no charge, if you want to learn a bit more about it. Just get in touch by E-Mail to info@nebulit.de or send me a message on LinkedIn ( make sure to follow me, so I can answer! )
 
-<div class="info-box" markdown="1">
-### Learn Event Modeling from the experts
-
-Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
-
-**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
-</div>
-
 <div class="course-cta" markdown="1">
-### Full Agentic Event Modeling Plattform
+### Join the Agentic Engineer Program
 
-AI-Enabled Event Modeling and Code-Generation
+Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
-[Start Modeling here →](https://app.eventmodelers.ai){:target="_blank" .cta-button}
+[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
 </div>
 
 <section class="related-posts">

@@ -60,20 +60,12 @@ Slice architecture prioritizes decoupling over code reuse, challenging the tradi
 4. Any saga can be decomposed into simpler processes by following the information flow on the event model timeline
 5. Multi-tenancy differences should be modeled as separate slices only for the workflows that differ, not forcing all slices to accommodate all tenant variations
 
-<div class="info-box" markdown="1">
-### Learn Event Modeling from the experts
-
-Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
-
-**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
-</div>
-
 <div class="course-cta" markdown="1">
-### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+### Join the Agentic Engineer Program
 
-Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
-[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
 </div>
 
   </div>

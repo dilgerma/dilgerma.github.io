@@ -60,20 +60,12 @@ Event sourcing's strong architectural patterns and comprehensive test coverage r
 4. Slice architecture provides similar benefits to compartmentalized design in other industries (oil tankers, submarines, cars) - failures are isolated and don't cascade
 5. Traditional code review gatekeeping can become subjective and harmful; focus should be on creating systems that protect you rather than manual control processes
 
-<div class="info-box" markdown="1">
-### Learn Event Modeling from the experts
-
-Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
-
-**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
-</div>
-
 <div class="course-cta" markdown="1">
-### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+### Join the Agentic Engineer Program
 
-Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
-[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
 </div>
 
   </div>

@@ -305,20 +305,12 @@ Want to learn more about this? Start here.
 
 If you want to experience this way of working for real - join my ["Understanding Event Sourcing" Workshop on January 20 / 21 2026](https://nebulit.de/en/eventsourcing-workshop) - Planning and Building a real system and learning how to get into the Tunnel.
 
-<div class="info-box" markdown="1">
-### Learn Event Modeling from the experts
-
-Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
-
-**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
-</div>
-
 <div class="course-cta" markdown="1">
-### Full Agentic Event Modeling Plattform
+### Join the Agentic Engineer Program
 
-AI-Enabled Event Modeling and Code-Generation
+Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
-[Start Modeling here →](https://app.eventmodelers.ai){:target="_blank" .cta-button}
+[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
 </div>
 
 <section class="related-posts">

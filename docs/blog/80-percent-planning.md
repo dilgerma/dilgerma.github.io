@@ -219,20 +219,12 @@ But when you plan properly - when all questions are cleared, when every team mem
 
 My Book [Understanding Eventsourcing](https://www.nebulit.de) describes this process. And the companion course Implementing Eventsourcing gives you a head start. Want your Team to feel the focus? Let's talk - I'm specialized in training teams on exactly that.
 
-<div class="info-box" markdown="1">
-### Learn Event Modeling from the experts
-
-Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
-
-**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
-</div>
-
 <div class="course-cta" markdown="1">
-### Full Agentic Event Modeling Plattform
+### Join the Agentic Engineer Program
 
-AI-Enabled Event Modeling and Code-Generation
+Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
-[Start Modeling here →](https://app.eventmodelers.ai){:target="_blank" .cta-button}
+[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
 </div>
 
 <section class="related-posts">

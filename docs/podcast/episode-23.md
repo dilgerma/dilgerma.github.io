@@ -60,20 +60,12 @@ Season 2 represents the maturation of event modeling from niche practice to grow
 4. The simplicity of file-based systems (like Git) proves that databases aren't always necessary - event sourcing can work the same way
 5. When adopting event modeling, you need to make a "10-step leap" not a "2-step" one - half measures leave you in a valley between the old and new approaches
 
-<div class="info-box" markdown="1">
-### Learn Event Modeling from the experts
-
-Join the **Event Modeling Hands-On Workshop** on March 16/17 — learn how to design systems that are honest from the start.
-
-**[Register now →](https://nebulit.de/en/eventmodeling-workshop){:target="_blank"}**
-</div>
-
 <div class="course-cta" markdown="1">
-### Want to learn how to apply Event Modeling and Event Sourcing in practice?
+### Join the Agentic Engineer Program
 
-Follow the Online Course **"Implementing Eventsourcing"** - comes with a **Lifetime Event Modeling Toolkit License**.
+Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
-[Start Learning →](https://www.eventsourcingcourse.com){:target="_blank" .cta-button}
+[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
 </div>
 
   </div>
