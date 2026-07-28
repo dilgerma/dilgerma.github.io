@@ -6,7 +6,7 @@
 
     <nav class="header-nav">
       {% assign explore_active = false %}
-      {% if page.url == '/use-cases/' or page.url == '/use-cases.html' or page.url == '/docs/blog/' or page.url == '/docs/blog.html' or page.url contains '/docs/blog/' or page.url == '/docs/basic-modeling-topics/videos' or page.url == '/docs/basic-modeling-topics/videos.html' or page.url == '/docs/podcast/' or page.url == '/docs/podcast.html' or page.url contains '/docs/podcast/' or page.url == '/eventmodeling-book/' or page.url == '/eventmodeling-book.html' %}
+      {% if page.url == '/use-cases/' or page.url == '/use-cases.html' or page.url == '/docs/blog/' or page.url == '/docs/blog.html' or page.url contains '/docs/blog/' or page.url == '/docs/basic-modeling-topics/videos' or page.url == '/docs/basic-modeling-topics/videos.html' or page.url == '/docs/podcast/' or page.url == '/docs/podcast.html' or page.url contains '/docs/podcast/' or page.url == '/eventmodeling-book/' or page.url == '/eventmodeling-book.html' or page.url == '/cheatsheet/' or page.url == '/cheatsheet.html' %}
         {% assign explore_active = true %}
       {% endif %}
       <ul class="header-menu">
@@ -69,6 +69,11 @@
                 <span class="nav-dropdown-tile-title">The Book</span>
                 <span class="nav-dropdown-tile-desc">The Event Modeling book, from fundamentals to advanced patterns.</span>
               </a>
+              <a class="nav-dropdown-tile" href="{{ '/cheatsheet' | relative_url }}">
+                <span class="nav-dropdown-tile-icon">🗒️</span>
+                <span class="nav-dropdown-tile-title">Cheat Sheet</span>
+                <span class="nav-dropdown-tile-desc">The 5 elements, 4 patterns, and 20 rules of Event Modeling on one page.</span>
+              </a>
             </div>
           </div>
         </li>
@@ -79,8 +84,8 @@
           </a>
         </li>
         <li>
-          <a href="mailto:info@nebulit.de">
-            Contact Us
+          <a href="https://tidycal.com/1gj56y6/15-minute-meeting-3l2yeyn" target="_blank" rel="noopener noreferrer">
+            Quick Call?
           </a>
         </li>
       </ul>
