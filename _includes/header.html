@@ -8,7 +8,7 @@
       <ul class="header-menu">
         <li>
           <a href="{{ '/agentic-engineer-course' | relative_url }}"
-             {% if page.url == '/agentic-engineer-course/' or page.url == '/agentic-engineer-course.html' %}class="active"{% endif %}>
+             class="highlight{% if page.url == '/agentic-engineer-course/' or page.url == '/agentic-engineer-course.html' %} active{% endif %}">
             Agentic Engineer - Course
           </a>
         </li>
@@ -16,18 +16,6 @@
           <a href="{{ '/use-cases' | relative_url }}"
              {% if page.url == '/use-cases/' or page.url == '/use-cases.html' %}class="active"{% endif %}>
             Use Cases
-          </a>
-        </li>
-        <li>
-          <a href="{{ '/cheatsheet' | relative_url }}"
-             {% if page.url == '/cheatsheet/' or page.url == '/cheatsheet.html' %}class="active"{% endif %}>
-            Cheat Sheet
-          </a>
-        </li>
-        <li>
-          <a href="{{ '/workshops' | relative_url }}"
-             {% if page.url == '/workshops/' or page.url == '/workshops.html' %}class="active"{% endif %}>
-            Workshops
           </a>
         </li>
         <li>
@@ -56,6 +44,12 @@
         <li>
           <a href="https://newsletter.nebulit.de" target="_blank" rel="noopener noreferrer">
             Newsletter
+          </a>
+        </li>
+        <li>
+          <a href="{{ '/workshops' | relative_url }}"
+             {% if page.url == '/workshops/' or page.url == '/workshops.html' %}class="active"{% endif %}>
+            Workshops
           </a>
         </li>
       </ul>

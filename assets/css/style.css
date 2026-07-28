@@ -1472,6 +1472,22 @@ body {
     color: var(--white);
 }
 
+.header-menu a.highlight {
+    background-color: rgba(255, 93, 23, 0.12);
+    color: var(--primary-color);
+    font-weight: 700;
+}
+
+.header-menu a.highlight:hover {
+    background-color: rgba(255, 93, 23, 0.2);
+    color: var(--primary-color);
+}
+
+.header-menu a.highlight.active {
+    background-color: var(--primary-color);
+    color: var(--white);
+}
+
 .mobile-menu-toggle {
     display: none;
     flex-direction: column;
