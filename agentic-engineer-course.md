@@ -13,10 +13,10 @@ permalink: /agentic-engineer-course/
     <h1>The Agentic Engineer Course</h1>
     <p>Go from a messy idea to a shipped, event-sourced system - built with AI agents that work from a complete spec, not a vague prompt. Three weeks: Event Modeling, Event Sourcing &amp; Slices, and AI Engineering.</p>
     <div class="lp-hero-ctas">
-      <a href="#waitlist" class="lp-btn-primary">Join the Wait List</a>
+      <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
       <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
     </div>
-    <p class="cs-hero-pdf-hint">First Cohort starting in September 2026.</p>
+    <p class="cs-hero-pdf-hint">Planned Start Sep. 07, 2026.</p>
     <p class="cs-hero-pdf-hint">Delivered by <a href="https://www.nebulit.de" target="_blank" rel="noopener noreferrer">Nebulit</a>.</p>
   </div>
 </section>
@@ -243,10 +243,10 @@ permalink: /agentic-engineer-course/
 </section>
 
 <section class="cs-section" id="waitlist">
-  <div class="cs-section-inner">
-    <div class="newsletter-container">
-      <script async data-uid="03f007ef50" src="https://nebulit-gmbh.kit.com/03f007ef50/index.js"></script>
-    </div>
+  <div class="cs-section-inner" style="text-align:center;">
+    <h2>Ready to Join?</h2>
+    <p class="lp-section-sub">Planned Start Sep. 07, 2026.</p>
+    <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" style="display:inline-block;" target="_blank" rel="noopener noreferrer">Join Now</a>
   </div>
 </section>
 
@@ -255,9 +255,10 @@ permalink: /agentic-engineer-course/
 <section class="lp-bottom-cta">
   <div class="lp-bottom-cta-inner">
     <h2>Interested in the Agentic Engineer Course?</h2>
-    <p>Book a call to talk through format, dates, and pricing for your team.</p>
+    <p>Planned Start Sep. 07, 2026. Book a call to talk through format, dates, and pricing for your team.</p>
     <div class="lp-bottom-cta-btns">
-      <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-primary">Book a Call</a>
+      <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
+      <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
       <a href="{{ '/workshops' | relative_url }}" class="lp-btn-secondary">See Event Modeling Workshops</a>
     </div>
   </div>
