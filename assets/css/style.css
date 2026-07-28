@@ -1597,6 +1597,14 @@ body {
     font-size: 1.3rem;
 }
 
+.nav-dropdown-tile-icon-img {
+    width: 22px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(30, 34, 53, 0.3);
+}
+
 .nav-dropdown-tile-title {
     font-weight: 700;
     font-size: 0.95rem;
