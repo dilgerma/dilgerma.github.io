@@ -13,8 +13,14 @@ permalink: /agentic-engineer-course/
     <h1>The Agentic Engineer Program</h1>
     <p>Go from a messy idea to a shipped, event-sourced system - built with AI agents that work from a complete spec, not a vague prompt. Three weeks: Event Modeling, Event Sourcing &amp; Slices, and AI Engineering.</p>
     <div class="lp-hero-ctas">
-      <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
-      <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
+      <div class="lp-cta-option">
+        <span class="lp-cta-option-label">For Individual Developers</span>
+        <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now - &euro;990 + VAT</a>
+      </div>
+      <div class="lp-cta-option">
+        <span class="lp-cta-option-label">For Teams &amp; Managers</span>
+        <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
+      </div>
     </div>
     <p class="cs-hero-pdf-hint">Starts 07.09.2026 - 12 seats available for the first cohort.</p>
     <p class="cs-hero-pdf-hint">Delivered by <a href="https://www.nebulit.de" target="_blank" rel="noopener noreferrer">Nebulit</a>.</p>
@@ -159,6 +165,67 @@ permalink: /agentic-engineer-course/
   </div>
 </section>
 
+<section class="cs-section" id="for-teams" style="background:#f7f5f0;">
+  <div class="cs-section-inner">
+    <div class="cs-section-head">
+      <span class="cs-eyebrow">For Teams &amp; Managers</span>
+      <h2>Bring This to Your Engineering Team</h2>
+      <p class="cs-why"><strong>Why:</strong> the fastest ROI isn't one engineer learning a new technique - it's a whole team sharing one spec-driven process, so estimates, code review, and AI-agent output all speak the same language.</p>
+      <p class="lp-section-sub" style="margin-bottom:0;">This program is also delivered as a tailor-made in-house workshop for your team - same curriculum, calibrated to your codebase and stack, with your engineers modeling and shipping a real feature from your own backlog instead of a generic example.</p>
+    </div>
+    <div class="lp-usecases-grid">
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">📉</span>
+        <h3>Fewer Rewrites</h3>
+        <p>A complete spec up front cuts the back-and-forth of code review and rework - the model catches gaps before a single line of code is written.</p>
+      </div>
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">⚡</span>
+        <h3>Faster Onboarding</h3>
+        <p>New engineers ramp up against a living model of the domain instead of tribal knowledge and outdated diagrams.</p>
+      </div>
+      <div class="lp-usecase-card">
+        <span class="lp-usecase-icon">🤝</span>
+        <h3>Shared Vocabulary</h3>
+        <p>Product, engineering, and AI agents work from the same model - fewer misunderstandings and less re-explaining of requirements.</p>
+      </div>
+    </div>
+    <p style="text-align:center; margin-top: 32px;">
+      <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-outline">Book a Call for Your Team &rarr;</a>
+    </p>
+  </div>
+</section>
+
+<section class="cs-section" id="pricing">
+  <div class="cs-section-inner">
+    <div class="cs-section-head">
+      <span class="cs-eyebrow">Investment</span>
+      <h2>&euro;990 + VAT</h2>
+      <p class="lp-section-sub" style="margin-bottom:0;">One-time payment for the full 3-week program. Risk-free - full money-back guarantee anytime before the program starts, no questions asked.</p>
+    </div>
+    <div class="lp-benefits-grid">
+      <div class="lp-benefit-card">
+        <span class="lp-benefit-icon">🎓</span>
+        <h3>3-Week Live Program</h3>
+        <p>Kicks off with a 3-hour live workshop, plus weekly live sessions and self-paced materials for all 3 weeks.</p>
+      </div>
+      <div class="lp-benefit-card">
+        <span class="lp-benefit-icon">🧰</span>
+        <h3>12-Month SOLO License</h3>
+        <p>Full access to the eventmodelers platform (app.eventmodelers.ai) for 12 months, included in the price.</p>
+      </div>
+      <div class="lp-benefit-card">
+        <span class="lp-benefit-icon">🛡️</span>
+        <h3>Money-Back Guarantee</h3>
+        <p>Cancel anytime before the program starts for a full refund, no questions asked.</p>
+      </div>
+    </div>
+    <p style="text-align:center; margin-top: 32px;">
+      <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now - &euro;990 + VAT</a>
+    </p>
+  </div>
+</section>
+
 <section class="cs-section" id="author">
   <div class="cs-section-inner">
     <div class="cs-author-block">
@@ -200,11 +267,59 @@ permalink: /agentic-engineer-course/
   </div>
 </section>
 
+</div>
+
+<section class="lp-faq">
+  <div class="lp-faq-inner">
+    <h2>Frequently Asked Questions</h2>
+    <div class="lp-faq-list">
+      <details class="lp-faq-item">
+        <summary>How long does the program run?</summary>
+        <p>3 weeks, one week per module: Event Modeling, Event Sourcing &amp; Slices, and AI Engineering.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>How much time do I need to spend per day?</summary>
+        <p>Minimum effort is about 30 minutes a day. You'll get plenty of materials to dig deeper though, so the more time you can put in, the more you'll get out of it.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>Do you offer money back?</summary>
+        <p>Yes. You can cancel anytime before the program starts for a full refund, no questions asked.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>Is it online?</summary>
+        <p>Yes, the entire program is online, starting with a 3-hour live workshop.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>Are live sessions planned?</summary>
+        <p>Yes. Besides the kickoff workshop, we run live sessions about once a week where we explain the material in detail and answer questions.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>Which tools are used?</summary>
+        <p>We work with the eventmodelers platform at app.eventmodelers.ai. The program includes a 12-month SOLO License to the platform.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>Do I need prior experience with Event Sourcing?</summary>
+        <p>No. We start from the fundamentals and build up from there, using a real example from your own work as the running case throughout the program.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>What if I can't make a live session?</summary>
+        <p>All live sessions are recorded and shared afterward, so you can catch up on your own schedule without falling behind.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>Is there a team or company option?</summary>
+        <p>Yes. The program is also delivered as a tailor-made in-house workshop for your engineering team, calibrated to your own codebase and stack - <a href="https://tidycal.com/1gj56y6/15-minute-meeting">book a call</a> to discuss.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+<div class="cs-page">
+
 <section class="cs-section" id="waitlist">
   <div class="cs-section-inner" style="text-align:center;">
     <h2>Ready to Join?</h2>
-    <p class="lp-section-sub">Starts 07.09.2026 - 12 seats available for the first cohort.</p>
-    <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" style="display:inline-block;" target="_blank" rel="noopener noreferrer">Join Now</a>
+    <p class="lp-section-sub">Starts 07.09.2026 - 12 seats available for the first cohort. &euro;990 + VAT.</p>
+    <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" style="display:inline-block;" target="_blank" rel="noopener noreferrer">Join Now - &euro;990 + VAT</a>
   </div>
 </section>
 

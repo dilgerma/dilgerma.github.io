@@ -148,9 +148,24 @@
 
 .lp-hero-ctas {
   display: flex;
-  gap: 16px;
+  gap: 32px;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+.lp-cta-option {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.lp-cta-option-label {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: rgba(255,255,255,0.55);
 }
 
 .lp-hero .lp-btn-secondary {
