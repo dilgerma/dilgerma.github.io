@@ -226,7 +226,7 @@ permalink: /agentic-engineer-course/
   </div>
 </section>
 
-<section class="cs-section" id="author">
+<section class="cs-section" id="author" style="background:#fff;">
   <div class="cs-section-inner">
     <div class="cs-author-block">
       <img class="cs-author-cover" src="{{ '/assets/images/book-cover.png' | relative_url }}" alt="Understanding Eventsourcing book cover" />
@@ -238,7 +238,6 @@ permalink: /agentic-engineer-course/
           <span class="cs-author-stat">🎓 Educating Engineers since 2010</span>
           <span class="cs-author-stat">👥 1,400+ people trained</span>
         </div>
-        <a href="{{ '/eventmodeling-book/' | relative_url }}" class="lp-btn-outline">Read the Book →</a>
       </div>
     </div>
   </div>
@@ -253,15 +252,15 @@ permalink: /agentic-engineer-course/
     <div class="cs-quote-grid">
       <blockquote class="cs-quote-card">
         <p>"Modeling some flows in the workshop and getting your feedback in real time was like turning on the defogger for the windscreen in my car. I'm able to see my way forward better now."</p>
-        <cite>- Workshop Participant, October 2026</cite>
+        <cite>- Workshop Participant, October 2025</cite>
       </blockquote>
       <blockquote class="cs-quote-card">
         <p>"The workshop was great - insightful and at the same time very down to earth. The example use cases were realistic, not simplistic. I liked that we started with simpler use cases and worked our way to more complex ones."</p>
-        <cite>- Workshop Participant, October 2026</cite>
+        <cite>- Workshop Participant, October 2025</cite>
       </blockquote>
       <blockquote class="cs-quote-card">
         <p>"It's evident that Martin has extensive hands-on experience with Event Modelling, and the workshop reflects this through its practical, experience-based approach rather than focusing solely on theory."</p>
-        <cite>- Workshop Participant, October 2026</cite>
+        <cite>- Workshop Participant, October 2025</cite>
       </blockquote>
     </div>
   </div>
@@ -330,8 +329,14 @@ permalink: /agentic-engineer-course/
     <h2>Interested in the Agentic Engineer Program?</h2>
     <p>Starts 07.09.2026 - 12 seats available for the first cohort. Book a call to talk through format, dates, and pricing for your team.</p>
     <div class="lp-bottom-cta-btns">
-      <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
-      <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
+      <div class="lp-cta-option">
+        <span class="lp-cta-option-label">For Individual Developers</span>
+        <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now - &euro;990 + VAT</a>
+      </div>
+      <div class="lp-cta-option">
+        <span class="lp-cta-option-label">For Teams &amp; Managers</span>
+        <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
+      </div>
     </div>
     <p class="lp-bottom-cta-hint" style="margin-top:20px; font-weight:600;">Also available as a tailor made workshop format for your engineering team and company - <a href="https://tidycal.com/1gj56y6/15-minute-meeting">book a call</a> to discuss.</p>
   </div>
