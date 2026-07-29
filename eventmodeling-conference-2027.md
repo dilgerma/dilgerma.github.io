@@ -14,7 +14,7 @@ permalink: /eventmodeling-conference-2027/
     <h1>Event Modeling Conference <span class="lp-hero-highlight">2027</span></h1>
     <p>Two days of Event Modeling &amp; Event Sourcing - the community meets in Munich for keynotes, hands-on workshops, and open space sessions. Kick things off with an optional Workshop Day on June 23.</p>
     <div class="lp-hero-ctas">
-      <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join</a>
+      <a href="https://newsletter.nebulit.de/eventmodeling-conference-2027" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join</a>
       <a href="#agenda" class="lp-btn-secondary">View Agenda</a>
     </div>
     <p class="cs-hero-pdf-hint">Hosted by <a href="https://www.nebulit.de" target="_blank" rel="noopener noreferrer">Nebulit</a>.</p>
@@ -120,7 +120,7 @@ permalink: /eventmodeling-conference-2027/
       <div class="cs-notation-card" style="text-align:center;">
         <h4>&#127915;&#65039; Secure Your Spot</h4>
         <p>Limited to 110 attendees - join now before it sells out.</p>
-        <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" style="display:inline-block;" target="_blank" rel="noopener noreferrer">Join</a>
+        <a href="https://newsletter.nebulit.de/eventmodeling-conference-2027" class="lp-btn-primary" style="display:inline-block;" target="_blank" rel="noopener noreferrer">Join</a>
       </div>
     </div>
   </div>
@@ -133,7 +133,7 @@ permalink: /eventmodeling-conference-2027/
     <h2>Want to Join the Next Event Modeling Conference?</h2>
     <p>Limited to 110 attendees - secure your spot for 2027.</p>
     <div class="lp-bottom-cta-btns">
-      <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join</a>
+      <a href="https://newsletter.nebulit.de/eventmodeling-conference-2027" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join</a>
       <a href="{{ '/docs/blog/event-modeling-conference-munich' | relative_url }}" class="lp-btn-secondary">Read a Past Recap</a>
     </div>
   </div>

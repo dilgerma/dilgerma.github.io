@@ -176,8 +176,7 @@ permalink: /agentic-engineer-course/
     <div class="lp-bottom-cta-btns">
       <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
       <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
-      <a href="{{ '/workshops' | relative_url }}" class="lp-btn-secondary">See Event Modeling Workshops</a>
     </div>
-    <p class="lp-bottom-cta-hint" style="margin-top:20px; font-weight:600;">Also available as a tailor made workshop format for your engineering team - <a href="https://tidycal.com/1gj56y6/15-minute-meeting">book a call</a> to discuss.</p>
+    <p class="lp-bottom-cta-hint" style="margin-top:20px; font-weight:600;">Also available as a tailor made workshop format for your engineering team and company - <a href="https://tidycal.com/1gj56y6/15-minute-meeting">book a call</a> to discuss.</p>
   </div>
 </section>
