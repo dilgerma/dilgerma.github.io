@@ -52,6 +52,12 @@ featured_image: /assets/images/sketch-screens.png
           <span class="lp-uc-nav-meta">🖊️ Draw screens in minutes · Align on the timeline · Discuss with team · Build with AI</span>
           <span class="lp-uc-nav-arrow">→</span>
         </a>
+        <a href="#uc-7" class="lp-uc-nav-item">
+          <span class="lp-uc-nav-tag">🎭 Use Case 7</span>
+          <span class="lp-uc-nav-title">Uncover Secret Agendas</span>
+          <span class="lp-uc-nav-meta">🗣️ Bring people together · Make them talk · Model the flow · See what they really want</span>
+          <span class="lp-uc-nav-arrow">→</span>
+        </a>
       </div>
     </div>
 
@@ -859,6 +865,130 @@ featured_image: /assets/images/sketch-screens.png
           <a href="https://app.eventmodelers.ai" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Try the Platform Free →</a>
           <a href="https://app.eventmodelers.ai/documentation" class="lp-btn-outline" style="padding:12px 26px;font-size:0.9rem;">See the Sketch Tool</a>
           <span class="lp-story-cta-note">Built-in sketch tool · No external design tool required</span>
+        </div>
+
+      </div>
+    </div>
+
+    <div id="uc-7" class="lp-story-card">
+      <div class="lp-story-card-header">
+        <div class="lp-story-tag">🎭 Use Case 7</div>
+        <h3>Uncover Secret Agendas</h3>
+        <p>Bring the right people into the same room, make them talk through the actual flow, and watch what they really need surface — often for the first time</p>
+        <div class="lp-story-time-pills">
+          <span class="lp-story-pill">🎭 Hidden agendas surface naturally</span>
+          <span class="lp-story-pill">🗣️ People react to concrete flows, not abstractions</span>
+          <span class="lp-story-pill">🔍 Real needs, not stated requirements</span>
+          <span class="lp-story-pill">🤝 Alignment reached in the room, not after it</span>
+        </div>
+      </div>
+
+      <div class="lp-story-card-body">
+
+        <div class="lp-story-persona">
+          <div class="lp-story-persona-icon">🕵️‍♀️</div>
+          <p class="lp-story-persona-text">
+            <strong>Maren</strong> is facilitating a workshop between Sales, Support, and Finance about how refunds should work. On paper, everyone agrees: "we need a faster refund process." She's seen this before — that sentence usually hides three different, unstated agendas. Instead of asking people what they want, she puts the actual event flow on the board and asks them to walk through it together, step by step.
+          </p>
+        </div>
+
+        <div class="lp-story-compare">
+          <div class="lp-story-compare-col before">
+            <div class="lp-story-compare-label">⏱ The old way — polite consensus, hidden conflict</div>
+            <ul class="lp-story-compare-list">
+              <li>Everyone nods along to a vague goal like "faster refunds"</li>
+              <li>Requirements gathered in separate 1:1 interviews — no shared context</li>
+              <li>Each department quietly assumes the process still favors them</li>
+              <li>Real objections surface only after the build starts</li>
+              <li>Political concerns never get named out loud — they get worked around</li>
+              <li>Six weeks in, someone finally says "wait, that's not what I meant"</li>
+            </ul>
+          </div>
+          <div class="lp-story-compare-col after">
+            <div class="lp-story-compare-label">⚡ With the flow on the board</div>
+            <ul class="lp-story-compare-list">
+              <li>Everyone looks at the same sequence of events at once</li>
+              <li>People react to a concrete step, not an abstract requirement</li>
+              <li>Disagreements happen live, in front of the group, on a specific event</li>
+              <li>What someone actually protects or wants becomes visible in real time</li>
+              <li>The board — not a memory of the conversation — records the tension and its resolution</li>
+              <li>The team leaves knowing what everyone truly needs, not just what they said</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="lp-story-steps-label">How Maren did it — step by step</div>
+        <div class="lp-story-steps">
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">1</div>
+            <div>
+              <div class="lp-story-step-title">Bring everyone with a stake into the same room</div>
+              <div class="lp-story-step-body">Not just the requester — Maren invites Sales (who wants happy customers), Support (who handles the angry ones), and Finance (who owns the risk). Each of them has a different, unstated definition of "faster." Getting all three in the room at once is the whole point.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">2</div>
+            <div>
+              <div class="lp-story-step-title">Start from events, not opinions</div>
+              <div class="lp-story-step-body">Maren doesn't ask "what do you need?" She puts the first event on the board — <em>RefundRequested</em> — and asks: <em>"What happens next, actually?"</em> People have to describe the real process, not the idealized one. The flow forces specificity that a requirements doc never does.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">3</div>
+            <div>
+              <div class="lp-story-step-title">Let the disagreement happen out loud</div>
+              <div class="lp-story-step-body">When Finance insists on a <em>RefundReviewRequired</em> event before anything is approved, Sales pushes back — that's the exact delay customers complain about. The conflict isn't hypothetical anymore. It's one specific event, sitting on the board, that both sides can point at.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">4</div>
+            <div>
+              <div class="lp-story-step-title">Model the flow until the real need shows through</div>
+              <div class="lp-story-step-body">As the timeline fills in, it becomes clear Finance doesn't actually need to review every refund — only ones above a threshold. That distinction was never in anyone's ticket. It only surfaced because the flow made someone defend a specific step in front of the people affected by it.</div>
+            </div>
+          </div>
+          <div class="lp-story-step">
+            <div class="lp-story-step-num">5</div>
+            <div>
+              <div class="lp-story-step-title">The board captures what people actually agreed to</div>
+              <div class="lp-story-step-body">By the end of the session, the timeline shows a conditional review step, not a blanket one. Everyone in the room saw the compromise happen — nobody has to take Maren's word for what was decided. The agenda that was hidden at the start of the meeting is now a visible rule on the board.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="lp-story-steps-label">What Maren discovered — once the flow forced honesty</div>
+        <div class="lp-story-insights">
+          <div class="lp-story-insight warning">
+            <div class="lp-story-insight-icon">🎭</div>
+            <div>
+              <div class="lp-story-insight-title">"Faster refunds" meant three different things</div>
+              <div class="lp-story-insight-body">Sales wanted fewer manual steps. Support wanted a way to explain delays to angry customers. Finance wanted to keep the review step but only for large amounts. None of that was in the original ask. It only came out once each person had to react to a concrete event on the board.</div>
+            </div>
+          </div>
+          <div class="lp-story-insight info">
+            <div class="lp-story-insight-icon">🗣️</div>
+            <div>
+              <div class="lp-story-insight-title">People argue with a flow more honestly than with a person</div>
+              <div class="lp-story-insight-body">Nobody wanted to say "I don't trust Sales to approve this." But someone was happy to say "this event shouldn't happen without a review." Modeling the process gave people a way to voice a real concern without it sounding like an accusation.</div>
+            </div>
+          </div>
+          <div class="lp-story-insight danger">
+            <div class="lp-story-insight-icon">🔍</div>
+            <div>
+              <div class="lp-story-insight-title">The real blocker had never been named in six months of email</div>
+              <div class="lp-story-insight-body">Finance had been quietly slow-walking every "faster refund" proposal for months, without ever explaining why. Once the review step was an explicit event on the board, they could finally say what they'd been protecting against — and the team could design around it instead of guessing.</div>
+            </div>
+          </div>
+        </div>
+
+        <p style="font-size:0.95rem;color:#6b6b76;line-height:1.75;font-style:italic;margin-bottom:32px;">
+          Ask people what they want and you get the polite version. Put the actual flow in front of them and ask them to walk through it together, and you get the real version — the agenda nobody wrote down, the concern nobody wanted to say out loud, the need that only shows up when someone has to react to a specific step. Modeling isn't just a way to design software. It's a way to make a room full of people finally say what they actually mean.
+        </p>
+
+        <div class="lp-story-cta-row">
+          <a href="https://app.eventmodelers.ai" class="lp-btn-primary" style="padding:13px 30px;font-size:0.95rem;">Try the Platform Free →</a>
+          <a href="https://app.eventmodelers.ai/documentation" class="lp-btn-outline" style="padding:12px 26px;font-size:0.9rem;">Read the Agent Docs</a>
+          <span class="lp-story-cta-note">Works best live — bring the stakeholders, not just the requirements</span>
         </div>
 
       </div>
