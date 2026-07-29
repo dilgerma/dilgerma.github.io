@@ -40,6 +40,23 @@ permalink: /agentic-engineer-course/
   </div>
 </section>
 
+<section class="cs-section" id="author" style="background:#fff;">
+  <div class="cs-section-inner">
+    <div class="cs-author-block">
+      <img class="cs-author-cover" src="{{ '/assets/images/book-cover.png' | relative_url }}" alt="Understanding Eventsourcing book cover" />
+      <div class="cs-author-text">
+        <span class="cs-eyebrow">From the Author</span>
+        <h2>From the Author of "Understanding Eventsourcing"</h2>
+        <p class="lp-section-sub" style="margin:0 0 0 0;">This program is taught by Martin Dilger, author of <a href="{{ '/eventmodeling-book/' | relative_url }}">Understanding Eventsourcing</a> - the comprehensive guide combining Event Modeling, Event Sourcing, and Vertical Slice Architecture into one practical, production-grade process.</p>
+        <div class="cs-author-stats">
+          <span class="cs-author-stat">🎓 Educating Engineers since 2010</span>
+          <span class="cs-author-stat">👥 1,400+ people trained</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="cs-section">
   <div class="cs-section-inner">
     <div class="cs-section-head">
@@ -223,23 +240,6 @@ permalink: /agentic-engineer-course/
     <p style="text-align:center; margin-top: 32px;">
       <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now - &euro;990 + VAT</a>
     </p>
-  </div>
-</section>
-
-<section class="cs-section" id="author" style="background:#fff;">
-  <div class="cs-section-inner">
-    <div class="cs-author-block">
-      <img class="cs-author-cover" src="{{ '/assets/images/book-cover.png' | relative_url }}" alt="Understanding Eventsourcing book cover" />
-      <div class="cs-author-text">
-        <span class="cs-eyebrow">From the Author</span>
-        <h2>From the Author of "Understanding Eventsourcing"</h2>
-        <p class="lp-section-sub" style="margin:0 0 0 0;">This program is taught by Martin Dilger, author of <a href="{{ '/eventmodeling-book/' | relative_url }}">Understanding Eventsourcing</a> - the comprehensive guide combining Event Modeling, Event Sourcing, and Vertical Slice Architecture into one practical, production-grade process.</p>
-        <div class="cs-author-stats">
-          <span class="cs-author-stat">🎓 Educating Engineers since 2010</span>
-          <span class="cs-author-stat">👥 1,400+ people trained</span>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
 
