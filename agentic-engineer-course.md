@@ -15,7 +15,7 @@ permalink: /agentic-engineer-course/
     <div class="lp-hero-ctas">
       <div class="lp-cta-option">
         <span class="lp-cta-option-label">For Individual Developers</span>
-        <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now - &euro;990 + VAT</a>
+        <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
       </div>
       <div class="lp-cta-option">
         <span class="lp-cta-option-label">For Teams &amp; Managers</span>
@@ -238,7 +238,7 @@ permalink: /agentic-engineer-course/
       </div>
     </div>
     <p style="text-align:center; margin-top: 32px;">
-      <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now - &euro;990 + VAT</a>
+      <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
     </p>
   </div>
 </section>
@@ -301,10 +301,6 @@ permalink: /agentic-engineer-course/
         <p>No. We start from the fundamentals and build up from there, using a real example from your own work as the running case throughout the program.</p>
       </details>
       <details class="lp-faq-item">
-        <summary>What if I can't make a live session?</summary>
-        <p>All live sessions are recorded and shared afterward, so you can catch up on your own schedule without falling behind.</p>
-      </details>
-      <details class="lp-faq-item">
         <summary>Is there a team or company option?</summary>
         <p>Yes. The program is also delivered as a tailor-made in-house workshop for your engineering team, calibrated to your own codebase and stack - <a href="https://tidycal.com/1gj56y6/15-minute-meeting">book a call</a> to discuss.</p>
       </details>
@@ -317,8 +313,8 @@ permalink: /agentic-engineer-course/
 <section class="cs-section" id="waitlist">
   <div class="cs-section-inner" style="text-align:center;">
     <h2>Ready to Join?</h2>
-    <p class="lp-section-sub">Starts 07.09.2026 - 12 seats available for the first cohort. &euro;990 + VAT.</p>
-    <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" style="display:inline-block;" target="_blank" rel="noopener noreferrer">Join Now - &euro;990 + VAT</a>
+    <p class="lp-section-sub">Starts 07.09.2026 - 12 seats available for the first cohort.</p>
+    <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" style="display:inline-block;" target="_blank" rel="noopener noreferrer">Join Now</a>
   </div>
 </section>
 
@@ -331,7 +327,7 @@ permalink: /agentic-engineer-course/
     <div class="lp-bottom-cta-btns">
       <div class="lp-cta-option">
         <span class="lp-cta-option-label">For Individual Developers</span>
-        <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now - &euro;990 + VAT</a>
+        <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
       </div>
       <div class="lp-cta-option">
         <span class="lp-cta-option-label">For Teams &amp; Managers</span>
