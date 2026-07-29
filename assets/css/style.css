@@ -2813,6 +2813,84 @@ body {
   margin-top: 8px;
 }
 
+/* Author feature block */
+.cs-author-block {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+}
+
+.cs-author-cover {
+  flex: 0 0 220px;
+  width: 220px;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+.cs-author-text {
+  flex: 1;
+}
+
+.cs-author-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 18px 0 24px;
+}
+
+.cs-author-stat {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #fff5ee;
+  border: 1px solid #ffd8bd;
+  color: #c2410c;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 6px 14px;
+  border-radius: 999px;
+}
+
+@media (max-width: 768px) {
+  .cs-author-block {
+    flex-direction: column;
+    text-align: center;
+  }
+  .cs-author-stats {
+    justify-content: center;
+  }
+}
+
+/* Quote grid (testimonials) */
+.cs-quote-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+.cs-quote-card {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-left: 4px solid #ff5d17;
+  border-radius: 10px;
+  padding: 24px;
+  margin: 0;
+}
+
+.cs-quote-card p {
+  font-size: 0.98rem;
+  color: #2f2f38;
+  line-height: 1.7;
+  margin: 0 0 14px;
+}
+
+.cs-quote-card cite {
+  display: block;
+  font-style: normal;
+  font-size: 0.85rem;
+  color: #9ca3af;
+}
+
 /* Elements */
 .cs-elements-grid {
   display: grid;

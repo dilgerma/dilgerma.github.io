@@ -16,7 +16,7 @@ permalink: /agentic-engineer-course/
       <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
       <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
     </div>
-    <p class="cs-hero-pdf-hint">Planned Start Sep. 07, 2026.</p>
+    <p class="cs-hero-pdf-hint">Starts 07.09.2026 - 12 seats available for the first cohort.</p>
     <p class="cs-hero-pdf-hint">Delivered by <a href="https://www.nebulit.de" target="_blank" rel="noopener noreferrer">Nebulit</a>.</p>
   </div>
 </section>
@@ -159,10 +159,51 @@ permalink: /agentic-engineer-course/
   </div>
 </section>
 
+<section class="cs-section" id="author">
+  <div class="cs-section-inner">
+    <div class="cs-author-block">
+      <img class="cs-author-cover" src="{{ '/assets/images/book-cover.png' | relative_url }}" alt="Understanding Eventsourcing book cover" />
+      <div class="cs-author-text">
+        <span class="cs-eyebrow">From the Author</span>
+        <h2>From the Author of "Understanding Eventsourcing"</h2>
+        <p class="lp-section-sub" style="margin:0 0 0 0;">This program is taught by Martin Dilger, author of <a href="{{ '/eventmodeling-book/' | relative_url }}">Understanding Eventsourcing</a> - the comprehensive guide combining Event Modeling, Event Sourcing, and Vertical Slice Architecture into one practical, production-grade process.</p>
+        <div class="cs-author-stats">
+          <span class="cs-author-stat">🎓 Educating Engineers since 2010</span>
+          <span class="cs-author-stat">👥 1,400+ people trained</span>
+        </div>
+        <a href="{{ '/eventmodeling-book/' | relative_url }}" class="lp-btn-outline">Read the Book →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cs-section" id="testimonials">
+  <div class="cs-section-inner">
+    <div class="cs-section-head">
+      <span class="cs-eyebrow">Workshop Feedback</span>
+      <h2>What Participants of Our Workshops Say</h2>
+    </div>
+    <div class="cs-quote-grid">
+      <blockquote class="cs-quote-card">
+        <p>"Modeling some flows in the workshop and getting your feedback in real time was like turning on the defogger for the windscreen in my car. I'm able to see my way forward better now."</p>
+        <cite>- Workshop Participant, October 2026</cite>
+      </blockquote>
+      <blockquote class="cs-quote-card">
+        <p>"The workshop was great - insightful and at the same time very down to earth. The example use cases were realistic, not simplistic. I liked that we started with simpler use cases and worked our way to more complex ones."</p>
+        <cite>- Workshop Participant, October 2026</cite>
+      </blockquote>
+      <blockquote class="cs-quote-card">
+        <p>"It's evident that Martin has extensive hands-on experience with Event Modelling, and the workshop reflects this through its practical, experience-based approach rather than focusing solely on theory."</p>
+        <cite>- Workshop Participant, October 2026</cite>
+      </blockquote>
+    </div>
+  </div>
+</section>
+
 <section class="cs-section" id="waitlist">
   <div class="cs-section-inner" style="text-align:center;">
     <h2>Ready to Join?</h2>
-    <p class="lp-section-sub">Planned Start Sep. 07, 2026.</p>
+    <p class="lp-section-sub">Starts 07.09.2026 - 12 seats available for the first cohort.</p>
     <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" style="display:inline-block;" target="_blank" rel="noopener noreferrer">Join Now</a>
   </div>
 </section>
@@ -172,7 +213,7 @@ permalink: /agentic-engineer-course/
 <section class="lp-bottom-cta">
   <div class="lp-bottom-cta-inner">
     <h2>Interested in the Agentic Engineer Program?</h2>
-    <p>Planned Start Sep. 07, 2026. Book a call to talk through format, dates, and pricing for your team.</p>
+    <p>Starts 07.09.2026 - 12 seats available for the first cohort. Book a call to talk through format, dates, and pricing for your team.</p>
     <div class="lp-bottom-cta-btns">
       <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" target="_blank" rel="noopener noreferrer">Join Now</a>
       <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
