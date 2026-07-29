@@ -80,137 +80,54 @@ permalink: /agentic-engineer-course/
   <div class="cs-section-inner">
     <div class="cs-section-head">
       <span class="cs-eyebrow">The Curriculum</span>
-      <h2>Day by Day</h2>
-      <p class="lp-section-sub" style="margin-bottom:0;">Five days a week, each building on the last, working the whole time against one running example you bring from your own work.</p>
+      <h2>Week by Week</h2>
+      <p class="lp-section-sub" style="margin-bottom:0;">Each week builds toward a concrete deliverable, working the whole time against one running example you bring from your own work.</p>
     </div>
-
-    <h3 style="margin-top:8px;">Week 1 - Event Modeling</h3>
 
     <details class="cs-workshop-item" open>
       <summary>
         <span class="cs-workshop-num">1</span>
-        <span class="cs-workshop-title">Motivation &amp; the 4 Building Blocks</span>
-        <span class="cs-workshop-goal">Mon</span>
+        <span class="cs-workshop-title">Week 1 - Event Modeling</span>
       </summary>
-      <div class="cs-workshop-body">Name the 4 building blocks (Events, Commands, Read Models, external systems) and the 4 core patterns, and point them out on an example model. Critique a flawed model in pairs; sketch the first 3 events of your own running example.</div>
+      <div class="cs-workshop-body">
+        <ul>
+          <li>Name the 4 building blocks (Events, Commands, Read Models, external systems) and the 4 core patterns; critique a flawed model in pairs.</li>
+          <li>Build a chronological timeline for your example and extend it into a full user journey.</li>
+          <li>Storyboard screens for every event/command, and translate the model into your team's existing process vocabulary (Scrum, BPMN, UML).</li>
+          <li>Extract Given-When-Then scenarios from a "hidden business rule" transcript, then slice the model into delivery-sized units.</li>
+          <li>Group exercise: model a new feature live from a messy, stakeholder-interview-style description ("model as you speak"), then present and peer-review.</li>
+        </ul>
+      </div>
     </details>
     <details class="cs-workshop-item">
       <summary>
         <span class="cs-workshop-num">2</span>
-        <span class="cs-workshop-title">Timeline &amp; Strategic Event Modeling</span>
-        <span class="cs-workshop-goal">Tue</span>
+        <span class="cs-workshop-title">Week 2 - Event Sourcing &amp; Slices</span>
       </summary>
-      <div class="cs-workshop-body">Build a chronological timeline for your example and check you're solving the right problem, not just the how. Extend the running example into a full user journey.</div>
+      <div class="cs-workshop-body">
+        <ul>
+          <li>Explain Event Sourcing as "the simplest thing that could work," and separate a command path from a query path for one slice.</li>
+          <li>Scaffold one slice end-to-end - command handler, event, read model - from a template.</li>
+          <li>Enforce the slice's entity invariant correctly, and decide whether your own example needs a process manager.</li>
+          <li>Convert Week 1 scenarios into executable Given-When-Then tests, then build and verify the read-model projection.</li>
+          <li>Group exercise: finish and demo your slice end-to-end, and weigh event store vs. Kafka (or both) for your own context.</li>
+        </ul>
+      </div>
     </details>
     <details class="cs-workshop-item">
       <summary>
         <span class="cs-workshop-num">3</span>
-        <span class="cs-workshop-title">Screens, Storyboards &amp; Mapping</span>
-        <span class="cs-workshop-goal">Wed</span>
+        <span class="cs-workshop-title">Week 3 - AI Engineering</span>
       </summary>
-      <div class="cs-workshop-body">Give every event/command on the timeline a wireframe or external trigger, and translate the model into your team's existing process vocabulary (Scrum, BPMN, UML). Storyboard 3 screens for the running example.</div>
-    </details>
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">4</span>
-        <span class="cs-workshop-title">Business Rules, Scenarios &amp; Slicing</span>
-        <span class="cs-workshop-goal">Thu</span>
-      </summary>
-      <div class="cs-workshop-body">Extract Given-When-Then scenarios from a "hidden business rule" transcript, then slice the running example into delivery-sized units.</div>
-    </details>
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">5</span>
-        <span class="cs-workshop-title">Group Exercise - Model a Feature End-to-End</span>
-        <span class="cs-workshop-goal">Fri</span>
-      </summary>
-      <div class="cs-workshop-body">Model a new feature live as a group, from a messy, stakeholder-interview-style verbal description ("model as you speak"). Present and peer-review each other's models.</div>
-    </details>
-
-    <h3 style="margin-top:32px;">Week 2 - Event Sourcing and Slices</h3>
-
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">1</span>
-        <span class="cs-workshop-title">Event Sourcing Fundamentals &amp; CQRS</span>
-        <span class="cs-workshop-goal">Mon</span>
-      </summary>
-      <div class="cs-workshop-body">Explain Event Sourcing as "the simplest thing that could work," and correctly separate a command path from a query path for one slice. Clone and run a minimal working example.</div>
-    </details>
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">2</span>
-        <span class="cs-workshop-title">The Slice as the Unit of Delivery</span>
-        <span class="cs-workshop-goal">Tue</span>
-      </summary>
-      <div class="cs-workshop-body">Scaffold one slice end-to-end - command handler, event, read model - even if empty. Wire the command and event handler skeletons from a template.</div>
-    </details>
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">3</span>
-        <span class="cs-workshop-title">Entities, Aggregates &amp; Process Managers</span>
-        <span class="cs-workshop-goal">Wed</span>
-      </summary>
-      <div class="cs-workshop-body">Enforce the slice's entity invariant correctly, and decide whether your own example needs a process manager - and why most don't.</div>
-    </details>
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">4</span>
-        <span class="cs-workshop-title">Tests, Projections &amp; Schema Versioning</span>
-        <span class="cs-workshop-goal">Thu</span>
-      </summary>
-      <div class="cs-workshop-body">Convert Week 1 scenarios into executable Given-When-Then tests, then build the read-model projection and confirm it updates correctly.</div>
-    </details>
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">5</span>
-        <span class="cs-workshop-title">Event Store vs. Kafka &amp; Group Exercise</span>
-        <span class="cs-workshop-goal">Fri</span>
-      </summary>
-      <div class="cs-workshop-body">Finish and demo your slice end-to-end, and fill out a decision matrix for event store vs. Kafka (or both) in your own context.</div>
-    </details>
-
-    <h3 style="margin-top:32px;">Week 3 - AI Engineering</h3>
-
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">1</span>
-        <span class="cs-workshop-title">Spec-Driven Development &amp; the Agent Loop</span>
-        <span class="cs-workshop-goal">Mon</span>
-      </summary>
-      <div class="cs-workshop-body">Run the same feature through a vague prompt and a full spec, and compare the diff. Understand why a complete spec - not a prompt - is what makes agent-generated code production-grade, and how the RALPH loop works.</div>
-    </details>
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">2</span>
-        <span class="cs-workshop-title">Setting Up the Harness</span>
-        <span class="cs-workshop-goal">Tue</span>
-      </summary>
-      <div class="cs-workshop-body">Wire up a harness where a slice's status change triggers an agent to pick it up. Dry-run with a trivial slice to confirm the loop fires end-to-end.</div>
-    </details>
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">3</span>
-        <span class="cs-workshop-title">Loop Engineering in Practice</span>
-        <span class="cs-workshop-goal">Wed</span>
-      </summary>
-      <div class="cs-workshop-body">Run a deliberately under-specified slice through the loop, watch it fail or get blocked, fix the spec - not the prompt - and re-run.</div>
-    </details>
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">4</span>
-        <span class="cs-workshop-title">Guardrails, Verification &amp; Engineering Trust</span>
-        <span class="cs-workshop-goal">Thu</span>
-      </summary>
-      <div class="cs-workshop-body">Add 2-3 guardrails to your harness and deliberately trigger one to confirm the loop respects it instead of arguing past it. Articulate what "trust the spec, not the prompt" means in practice.</div>
-    </details>
-    <details class="cs-workshop-item">
-      <summary>
-        <span class="cs-workshop-num">5</span>
-        <span class="cs-workshop-title">Group Exercise - Build the Model</span>
-        <span class="cs-workshop-goal">Fri</span>
-      </summary>
-      <div class="cs-workshop-body">Take a new feature from idea to a complete Event Model, hand it to the harness, and observe/report the result as a group - no manual prompting after kickoff.</div>
+      <div class="cs-workshop-body">
+        <ul>
+          <li>Run the same feature through a vague prompt and a full spec, compare the diff, and understand how the RALPH loop works.</li>
+          <li>Wire up a harness where a slice's status change triggers an agent to pick it up, and dry-run it end-to-end.</li>
+          <li>Run a deliberately under-specified slice through the loop, watch it fail or get blocked, fix the spec - not the prompt - and re-run.</li>
+          <li>Add guardrails to your harness and deliberately trigger one to confirm the loop respects it.</li>
+          <li>Group exercise: take a new feature from idea to a complete Event Model, hand it to the harness, and observe the result - no manual prompting after kickoff.</li>
+        </ul>
+      </div>
     </details>
   </div>
 </section>
@@ -261,5 +178,6 @@ permalink: /agentic-engineer-course/
       <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
       <a href="{{ '/workshops' | relative_url }}" class="lp-btn-secondary">See Event Modeling Workshops</a>
     </div>
+    <p class="lp-bottom-cta-hint" style="margin-top:20px; font-weight:600;">Also available as a tailor made workshop format for your engineering team - <a href="https://tidycal.com/1gj56y6/15-minute-meeting">book a call</a> to discuss.</p>
   </div>
 </section>
