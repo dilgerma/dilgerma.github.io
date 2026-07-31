@@ -1448,6 +1448,25 @@ body {
     font-size: 1rem;
 }
 
+/* Top Notification Bar */
+.top-notification {
+    background-color: var(--secondary-color);
+    text-align: center;
+    padding: 10px 16px;
+}
+
+.top-notification a {
+    color: var(--white);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0.01em;
+}
+
+.top-notification a:hover {
+    color: var(--primary-color);
+}
+
 /* Top Header Navigation */
 .top-header {
     background-color: #ffffff;
