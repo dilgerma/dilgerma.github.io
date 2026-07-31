@@ -9,6 +9,7 @@ permalink: /agentic-engineer-course/
 
 <section class="lp-hero">
   <div class="lp-hero-inner">
+    <p class="lp-hero-tagline">Turn your chaotic requirements into an organizational playbook</p>
     <span class="lp-badge">3-Week Program</span>
     <h1>The Agentic Engineer Program</h1>
     <p>Go from a messy idea to a shipped, event-sourced system - built with AI agents that work from a complete spec, not a vague prompt. Three weeks: Event Modeling, Event Sourcing &amp; Slices, and AI Engineering.</p>

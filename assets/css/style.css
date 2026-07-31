@@ -95,6 +95,14 @@
   }
 }
 
+.lp-hero-tagline {
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #ff5d17;
+  margin: 0 0 14px;
+}
+
 .lp-badge {
   display: inline-block;
   background: rgba(255,93,23,0.1);
