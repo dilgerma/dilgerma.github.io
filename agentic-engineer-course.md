@@ -263,6 +263,10 @@ permalink: /agentic-engineer-course/
         <p>"It's evident that Martin has extensive hands-on experience with Event Modelling, and the workshop reflects this through its practical, experience-based approach rather than focusing solely on theory."</p>
         <cite>- Workshop Participant, October 2025</cite>
       </blockquote>
+      <blockquote class="cs-quote-card">
+        <p>"Must say with the tooling you have, modeling and implementing is so enjoyable, the only thing holding me back is having enough Claude credits!"</p>
+        <cite>- William P., July 2026</cite>
+      </blockquote>
     </div>
   </div>
 </section>

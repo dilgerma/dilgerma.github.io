@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/event-modeling-ui-only-interactions-filtering' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/event-modeling-ui-only-interactions-filtering.png' | relative_url }}" alt="Event Modeling UI Only Interactions Example: Filtering">
+      </div>
+      <div class="blog-tile-content">
+        <h3>How to Model UI-Only Interactions - A Filtering Example</h3>
+        <p class="blog-tile-subtitle">Not every screen interaction needs a Command and an Event. Here's how to model filtering as a pure UI-only interaction using Multi-Screen Views.</p>
+        <p class="blog-tile-meta">July 31, 2026 • 6 min read • Event Modeling &amp; Process</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/triplet-architecture' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/triplet-architecture.png' | relative_url }}" alt="The Triplet Architecture - Building Flexible, Agent-Enabled Systems">
