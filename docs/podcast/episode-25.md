@@ -15,6 +15,7 @@ description: "How AI dramatically reduces the time needed to understand and mode
       <span>Event Modeling Podcast</span>
       <span>Episode 25</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

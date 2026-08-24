@@ -21,6 +21,7 @@ tags: [event-modeling, workshops, training, team-transformation, collaborative-l
       <span>November 27, 2025</span>
       <span>12 min read</span>
       <span>Event Modeling & Workshops</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 
@@ -157,6 +158,14 @@ Want to be part of the next Workshop? Just comment "Me" and I'll put you on the 
 Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
 [Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+</div>
+
+<div class="course-cta" markdown="1">
+### Book a Call Today
+
+Want to talk through how Event Modeling could work for your team or project? Let's have a quick, no-pressure conversation.
+
+[Book a Call Today →](https://tidycal.com/1gj56y6/15-minute-meeting){:.cta-button}
 </div>
 
 <section class="related-posts">

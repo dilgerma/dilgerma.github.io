@@ -15,6 +15,7 @@ description: "Why event modeling needs more than just book learning - workshops,
       <span>Event Modeling Podcast</span>
       <span>Episode 12</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

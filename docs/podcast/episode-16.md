@@ -15,6 +15,7 @@ description: "The critical challenge of replaying long event histories during de
       <span>Event Modeling Podcast</span>
       <span>Episode 16</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

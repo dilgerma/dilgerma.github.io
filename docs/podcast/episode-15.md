@@ -15,6 +15,7 @@ description: "Dealing with large projection replays and responding to criticisms
       <span>Event Modeling Podcast</span>
       <span>Episode 15</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

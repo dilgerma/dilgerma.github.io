@@ -15,6 +15,7 @@ description: "Martin and Adam discuss how AI agents can now pick up event model 
       <span>Event Modeling Podcast</span>
       <span>Episode 39</span>
       <span>Episode 39 • Live AI Coding, Event Model Tool & Slice Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

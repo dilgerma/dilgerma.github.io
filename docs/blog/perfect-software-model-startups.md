@@ -21,6 +21,7 @@ tags: [startups, software-architecture, agile, event-modeling, dynamic-business,
       <span>October 2023</span>
       <span>10 min read</span>
       <span>Software Architecture & Startups</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 
@@ -162,6 +163,14 @@ Want to know how this works? Book a [free call](https://outlook.office365.com/ow
 Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
 [Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+</div>
+
+<div class="course-cta" markdown="1">
+### Book a Call Today
+
+Want to talk through how Event Modeling could work for your team or project? Let's have a quick, no-pressure conversation.
+
+[Book a Call Today →](https://tidycal.com/1gj56y6/15-minute-meeting){:.cta-button}
 </div>
 
 <section class="related-posts">

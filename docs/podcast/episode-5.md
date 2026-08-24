@@ -15,6 +15,7 @@ description: "Key learnings from a hands-on workshop including the dangers of up
       <span>Event Modeling Podcast</span>
       <span>Episode 5</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

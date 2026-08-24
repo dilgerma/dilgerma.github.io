@@ -15,6 +15,7 @@ description: "Significant revisions to event modeling foundations, distinguishin
       <span>Event Modeling Podcast</span>
       <span>Episode 24</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

@@ -15,6 +15,7 @@ description: "Martin runs two AI agents modeling alongside him and unveils a ski
       <span>Event Modeling Podcast</span>
       <span>Episode 47</span>
       <span>Episode 47 • Agentic Modeling, Audit Trails & Fish Shell Resistance</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

@@ -15,6 +15,7 @@ description: "Martin and Adam discuss legacy system migration strategies, the sh
       <span>Event Modeling Podcast</span>
       <span>Episode 29</span>
       <span>Legacy Systems & Migration</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

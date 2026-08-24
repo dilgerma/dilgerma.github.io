@@ -15,6 +15,7 @@ description: "Plans for companion resources including missing chapters on advanc
       <span>Event Modeling Podcast</span>
       <span>Episode 2</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

@@ -12,6 +12,8 @@ tags: [event-sourcing, versioning, schema-evolution, backward-compatibility, eve
 
 # Versioning in Event Sourcing: The Elephant in the Room (And Why It's Not as Scary as You Think)
 
+*By Martin Dilger*
+
 A few days ago, there was a discussion here on LinkedIn about Versioning in Event Sourced Systems.. Also in workshops, this questions comes up again and again. It´s scary to people - and for good reason. It looks so complex, right? Let me show you why it seems complicated, and why it's actually just giving you options to handle complexity that exists everywhere.
 
 ## The Deceptively Simple Change
@@ -152,6 +154,14 @@ Want to apply the principles of Event Sourcing in practice? Read the Book and do
 Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
 [Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+</div>
+
+<div class="course-cta" markdown="1">
+### Book a Call Today
+
+Want to talk through how Event Modeling could work for your team or project? Let's have a quick, no-pressure conversation.
+
+[Book a Call Today →](https://tidycal.com/1gj56y6/15-minute-meeting){:.cta-button}
 </div>
 
 <section class="related-posts">

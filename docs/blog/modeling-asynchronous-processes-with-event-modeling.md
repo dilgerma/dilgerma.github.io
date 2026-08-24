@@ -14,7 +14,7 @@ tags: [event-modeling, asynchronous, background-processes, implementation, kotli
 
 **From theory to practice: modeling and implementing automated background processes**
 
-*October 2023 • 15 min read • Event Modeling & Implementation*
+*October 2023 • 15 min read • Event Modeling & Implementation • Martin Dilger*
 
 [&larr; Back to Blog]({{ '/docs/blog' | relative_url }})
 
@@ -175,6 +175,14 @@ In the next article, we'll look at integration with the UI and how the asynchron
 Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
 [Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+</div>
+
+<div class="course-cta" markdown="1">
+### Book a Call Today
+
+Want to talk through how Event Modeling could work for your team or project? Let's have a quick, no-pressure conversation.
+
+[Book a Call Today →](https://tidycal.com/1gj56y6/15-minute-meeting){:.cta-button}
 </div>
 
 <section class="related-posts">

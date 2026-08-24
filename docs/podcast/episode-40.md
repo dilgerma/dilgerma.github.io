@@ -15,6 +15,7 @@ description: "Martin and Adam reflect on a recent 4-day workshop, then explore t
       <span>Event Modeling Podcast</span>
       <span>Episode 40</span>
       <span>Episode 40 • Workshop, SQL Event Sourcing & Git as Event Store</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

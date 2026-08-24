@@ -15,6 +15,7 @@ description: "How AI tools like Claude and Cursor perform when generating code f
       <span>Event Modeling Podcast</span>
       <span>Episode 14</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

@@ -15,6 +15,7 @@ description: "Announcing a new companion course featuring practical exercises wi
       <span>Event Modeling Podcast</span>
       <span>Episode 6</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

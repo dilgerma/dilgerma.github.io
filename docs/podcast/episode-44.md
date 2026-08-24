@@ -15,6 +15,7 @@ description: "Martin and Adam return from Easter break to expose DDD's \"dungeon
       <span>Event Modeling Podcast</span>
       <span>Episode 44</span>
       <span>Episode 44 • Dungeon Masters, Killing the PM Layer & Branching Event Models</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

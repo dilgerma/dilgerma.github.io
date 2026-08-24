@@ -15,6 +15,7 @@ description: "Martin and Adam on AI as an impartial mirror for bad specs, mind r
       <span>Event Modeling Podcast</span>
       <span>Episode 45</span>
       <span>Episode 45 • Spec-Driven AI, Mind Reading & AI Eating SaaS</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

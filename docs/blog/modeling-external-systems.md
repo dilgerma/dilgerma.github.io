@@ -21,6 +21,7 @@ tags: [event-modeling, external-systems, api-modeling, black-box, information-fl
       <span>November 29, 2025</span>
       <span>8 min read</span>
       <span>Event Modeling & System Design</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 
@@ -135,6 +136,14 @@ Everything I know about Evenet Modeling & Event Sourcing in one course.
 Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
 [Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+</div>
+
+<div class="course-cta" markdown="1">
+### Book a Call Today
+
+Want to talk through how Event Modeling could work for your team or project? Let's have a quick, no-pressure conversation.
+
+[Book a Call Today →](https://tidycal.com/1gj56y6/15-minute-meeting){:.cta-button}
 </div>
 
 <section class="related-posts">

@@ -15,6 +15,7 @@ description: "Security modeling as a business-focused concern and new given-when
       <span>Event Modeling Podcast</span>
       <span>Episode 3</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

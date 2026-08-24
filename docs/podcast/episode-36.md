@@ -15,6 +15,7 @@ description: "Martin shares post-workshop breakthrough stories - people building
       <span>Event Modeling Podcast</span>
       <span>Episode 36</span>
       <span>OpenClaw, AI Automation, Industry Disruption & Event Modeling</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

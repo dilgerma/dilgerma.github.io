@@ -12,6 +12,8 @@ tags: [project-management, the-wall, workshops, facilitation, breakthrough, team
 
 # The Wall: The Simple Pattern That Kills 90% of Projects (And How to Break It)
 
+*By Martin Dilger*
+
 After facilitating so many Event Modeling workshops and consulting on dozens of software projects, I discovered a simple pattern that kills project success every single time. It shows up in almost all workshops I give.. I call it "The Wall." And once you see it, you'll recognize it everywhere - in your meetings, your projects, even in your personal goals. I even learned to embrace it, when it shows up... it´s a good sign!
 
 The crazy part? Most teams hit the Wall and don't even realize they're building their own prison.
@@ -169,6 +171,14 @@ https://outlook.office365.com/book/NebulitGmbH@nebulit.de/s/SchaAYI1q02_E0rbpW5X
 Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
 [Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+</div>
+
+<div class="course-cta" markdown="1">
+### Book a Call Today
+
+Want to talk through how Event Modeling could work for your team or project? Let's have a quick, no-pressure conversation.
+
+[Book a Call Today →](https://tidycal.com/1gj56y6/15-minute-meeting){:.cta-button}
 </div>
 
 <section class="related-posts">

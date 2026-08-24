@@ -15,6 +15,7 @@ description: "Martin and Adam close out 2025 discussing teaching kids programmin
       <span>Event Modeling Podcast</span>
       <span>Episode 32</span>
       <span>Year-End Special, AI & Kids, Maker Culture & 2026 Vision</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

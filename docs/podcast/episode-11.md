@@ -15,6 +15,7 @@ description: "The nuanced role of code reviews in event-sourced systems with pro
       <span>Event Modeling Podcast</span>
       <span>Episode 11</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

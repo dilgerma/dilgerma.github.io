@@ -15,6 +15,7 @@ description: "Martin ran Claude Code for 40 straight hours on a 1.2-million-line
       <span>Event Modeling Podcast</span>
       <span>Episode 41</span>
       <span>Episode 41 • Legacy Analysis, AI Browser Automation & Event Model Extraction</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

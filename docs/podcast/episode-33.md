@@ -15,6 +15,7 @@ description: "Martin and Adam kick off 2026 discussing community support, the li
       <span>Event Modeling Podcast</span>
       <span>Episode 33</span>
       <span>Vibe Coding, Coupling, AI Trading & Fearless Development</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

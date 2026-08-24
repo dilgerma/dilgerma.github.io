@@ -15,6 +15,7 @@ description: "Martin and Adam tackle crud forms, why upcaster functions hide cou
       <span>Event Modeling Podcast</span>
       <span>Episode 46</span>
       <span>Episode 46 • Crud Forms, Event Versioning & the Schema Migration Myth</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

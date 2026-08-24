@@ -15,6 +15,7 @@ description: "Martin and Adam mark 42 episodes by asking Claude to rank their be
       <span>Event Modeling Podcast</span>
       <span>Episode 43</span>
       <span>Episode 43 • AI Self-Review, Coupling & The Event Model Catalog</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

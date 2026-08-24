@@ -21,6 +21,7 @@ tags: [event-sourcing, architecture, auditability]
       <span>March 28, 2026</span>
       <span>6 min read</span>
       <span>Event Sourcing</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 
@@ -118,6 +119,14 @@ I help Software Teams design and build Systems that record decisions - starting 
 Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
 [Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+</div>
+
+<div class="course-cta" markdown="1">
+### Book a Call Today
+
+Want to talk through how Event Modeling could work for your team or project? Let's have a quick, no-pressure conversation.
+
+[Book a Call Today →](https://tidycal.com/1gj56y6/15-minute-meeting){:.cta-button}
 </div>
 
 <section class="related-posts">

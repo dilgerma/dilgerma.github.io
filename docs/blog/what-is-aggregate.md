@@ -21,6 +21,7 @@ tags: [aggregates, event-sourcing, ddd, consistency, use-cases, domain-driven-de
       <span>November 29, 2025</span>
       <span>9 min read</span>
       <span>Event Sourcing</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 
@@ -127,6 +128,14 @@ Find it here: https://youtu.be/6DqaNKxjvko
 Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
 [Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+</div>
+
+<div class="course-cta" markdown="1">
+### Book a Call Today
+
+Want to talk through how Event Modeling could work for your team or project? Let's have a quick, no-pressure conversation.
+
+[Book a Call Today →](https://tidycal.com/1gj56y6/15-minute-meeting){:.cta-button}
 </div>
 
 <section class="related-posts">

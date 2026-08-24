@@ -15,6 +15,7 @@ description: "Deep discussion on what defines a slice and why preventing couplin
       <span>Event Modeling Podcast</span>
       <span>Episode 13</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

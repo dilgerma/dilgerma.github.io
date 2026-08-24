@@ -15,6 +15,7 @@ description: "Martin and Adam explore coupling mechanics in event-sourced system
       <span>Event Modeling Podcast</span>
       <span>Episode 42</span>
       <span>Episode 42 • Coupling Theory, Event Sourcing Books & Event Storming vs Event Modeling</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

@@ -15,6 +15,7 @@ description: "How event slices became units of autonomous work that enable fixed
       <span>Event Modeling Podcast</span>
       <span>Episode 19</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

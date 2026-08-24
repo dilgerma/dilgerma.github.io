@@ -15,6 +15,7 @@ description: "Martin and Adam discuss teaching kids programming with AI, event m
       <span>Event Modeling Podcast</span>
       <span>Episode 31</span>
       <span>AI Programming, Git Issues & Project Scale</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

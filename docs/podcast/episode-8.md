@@ -15,6 +15,7 @@ description: "How given-when-then test patterns in event modeling enable AI tool
       <span>Event Modeling Podcast</span>
       <span>Episode 8</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

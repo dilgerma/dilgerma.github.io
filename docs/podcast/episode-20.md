@@ -15,6 +15,7 @@ description: "Addressing the misconception that GDPR compliance is harder with e
       <span>Event Modeling Podcast</span>
       <span>Episode 20</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

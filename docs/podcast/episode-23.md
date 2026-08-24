@@ -15,6 +15,7 @@ description: "Celebrating Season 2 with announcements about event modeling.ai pl
       <span>Event Modeling Podcast</span>
       <span>Episode 23</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

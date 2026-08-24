@@ -15,6 +15,7 @@ description: "Martin ships a legal platform with 100% private on-device AI, Adam
       <span>Event Modeling Podcast</span>
       <span>Episode 34</span>
       <span>On-Device AI, DCB, Distributed Systems 2026</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

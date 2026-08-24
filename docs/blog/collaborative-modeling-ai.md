@@ -21,6 +21,7 @@ tags: [ai, collaboration, modeling, event-modeling, team-building]
       <span>November 28, 2025</span>
       <span>12 min read</span>
       <span>AI & Collaboration</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 
@@ -158,6 +159,14 @@ P.S. If you're in Germany, I'm running a two-day Event Modeling Workshop on Sept
 Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
 
 [Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+</div>
+
+<div class="course-cta" markdown="1">
+### Book a Call Today
+
+Want to talk through how Event Modeling could work for your team or project? Let's have a quick, no-pressure conversation.
+
+[Book a Call Today →](https://tidycal.com/1gj56y6/15-minute-meeting){:.cta-button}
 </div>
 
 <section class="related-posts">

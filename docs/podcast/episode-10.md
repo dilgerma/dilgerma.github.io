@@ -15,6 +15,7 @@ description: "Proper design of to-do list processors for complex workflows and r
       <span>Event Modeling Podcast</span>
       <span>Episode 10</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

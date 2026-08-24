@@ -15,6 +15,7 @@ description: "Why AI hype is eating consulting budgets, the worst time to standa
       <span>Event Modeling Podcast</span>
       <span>Episode 38</span>
       <span>AI Budgets, DCB, Industry Disruption & BizTalk Horror Stories</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

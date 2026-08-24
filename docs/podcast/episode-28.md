@@ -15,6 +15,7 @@ description: "Martin and Adam discuss groundbreaking research from Cognizant AI 
       <span>Event Modeling Podcast</span>
       <span>Episode 28</span>
       <span>Event Sourcing & AI</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

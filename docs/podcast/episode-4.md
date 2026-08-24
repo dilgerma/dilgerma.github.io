@@ -15,6 +15,7 @@ description: "Why simple command-event-state patterns outperform complex orchest
       <span>Event Modeling Podcast</span>
       <span>Episode 4</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

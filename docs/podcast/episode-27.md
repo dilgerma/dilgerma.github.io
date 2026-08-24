@@ -15,6 +15,7 @@ description: "Adam introduces Leela, the event modeling wiener dog mascot, while
       <span>Event Modeling Podcast</span>
       <span>Episode 27</span>
       <span>AI, Tooling & Community</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

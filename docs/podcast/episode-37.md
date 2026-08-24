@@ -15,6 +15,7 @@ description: "Martin reveals his exact Ralph Loop implementation - index.json, p
       <span>Event Modeling Podcast</span>
       <span>Episode 37</span>
       <span>Ralph Loop, Node.js, AI Workflow &amp; Skill Files</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

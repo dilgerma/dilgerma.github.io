@@ -15,6 +15,7 @@ description: "Martin and Adam connect their shared passion for git and event sou
       <span>Event Modeling Podcast</span>
       <span>Episode 26</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

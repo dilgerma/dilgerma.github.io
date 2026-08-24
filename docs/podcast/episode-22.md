@@ -15,6 +15,7 @@ description: "How workshops reveal that most companies don't understand their ow
       <span>Event Modeling Podcast</span>
       <span>Episode 22</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

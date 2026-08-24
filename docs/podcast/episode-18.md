@@ -15,6 +15,7 @@ description: "Distinguishing between vibe coding and vibe modeling - collaborati
       <span>Event Modeling Podcast</span>
       <span>Episode 18</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

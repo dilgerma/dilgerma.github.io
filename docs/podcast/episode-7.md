@@ -15,6 +15,7 @@ description: "Recap of six major topics from a recent four-hour advanced worksho
       <span>Event Modeling Podcast</span>
       <span>Episode 7</span>
       <span>Event Sourcing & Architecture</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

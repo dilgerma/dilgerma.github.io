@@ -15,6 +15,7 @@ description: "Martin runs a groundbreaking 3-day implementation workshop with no
       <span>Event Modeling Podcast</span>
       <span>Episode 35</span>
       <span>Workshop, Implementation, Polyglot Architecture & Ralph Loop</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 

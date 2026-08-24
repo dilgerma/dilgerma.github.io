@@ -15,6 +15,7 @@ description: "Martin and Adam discuss recent workshop learnings, vibe coding exp
       <span>Event Modeling Podcast</span>
       <span>Episode 30</span>
       <span>Workshops, Pricing & Book Progress</span>
+      <span>By Martin Dilger</span>
     </div>
   </div>
 
