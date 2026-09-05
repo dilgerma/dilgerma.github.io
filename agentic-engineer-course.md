@@ -218,7 +218,7 @@ permalink: /agentic-engineer-course/
   <div class="cs-section-inner">
     <div class="cs-section-head">
       <span class="cs-eyebrow">Investment</span>
-      <h2>&euro;990 + VAT</h2>
+      <h2>&euro;1150 + VAT</h2>
       <p class="lp-section-sub" style="margin-bottom:0;">One-time payment for the full 3-week program. Risk-free - full money-back guarantee anytime before the program starts, no questions asked.</p>
       <p class="lp-section-sub" style="margin-bottom:0;color:#2f6b3a;font-weight:600;">Registration for the October 2026 cohort is now open.</p>
     </div>
