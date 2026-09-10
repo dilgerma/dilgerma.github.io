@@ -283,8 +283,16 @@ permalink: /agentic-engineer-course/
         <p>3 weeks, one week per module: Event Modeling, Event Sourcing &amp; Slices, and AI Engineering.</p>
       </details>
       <details class="lp-faq-item">
-        <summary>How much time do I need to spend per day?</summary>
-        <p>Minimum effort is about 30 minutes a day. You'll get plenty of materials to dig deeper though, so the more time you can put in, the more you'll get out of it.</p>
+        <summary>How much time do I need to invest?</summary>
+        <p>The program is specifically designed to be easily doable alongside a normal day job. You get daily tasks you work through on your own time, and at any point you have an expert on hand to answer your questions. Plan for roughly 30 minutes to 2 hours a day - or more if you have the time. The more time you invest, the more outcome you'll get, but the minimum is 30 minutes a day.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>What if I can't do something every day?</summary>
+        <p>It's completely up to you - you can do all the exercises in one sitting or spread them across the week. The only hard rule: you need to event model every single day, even if it's just 10 minutes.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>What's included?</summary>
+        <p>A 12-month license for the EM-Studio on <a href="https://app.eventmodelers.ai" target="_blank" rel="noopener noreferrer">app.eventmodelers.ai</a>, plus immediate access to the <a href="https://www.eventsourcingcourse.com" target="_blank" rel="noopener noreferrer">Understanding Eventsourcing course</a> and the <a href="https://www.eventsourcingbook.com" target="_blank" rel="noopener noreferrer">Understanding Eventsourcing book</a>.</p>
       </details>
       <details class="lp-faq-item">
         <summary>Do you offer money back?</summary>
@@ -296,7 +304,7 @@ permalink: /agentic-engineer-course/
       </details>
       <details class="lp-faq-item">
         <summary>Are live sessions planned?</summary>
-        <p>Yes. Besides the kickoff workshop, we run live sessions about once a week where we explain the material in detail and answer questions.</p>
+        <p>Yes. The program starts with a 3-hour live kickoff workshop, followed by one 60-minute live call per week where we explain the material in detail and answer questions.</p>
       </details>
       <details class="lp-faq-item">
         <summary>Which tools are used?</summary>
@@ -305,6 +313,10 @@ permalink: /agentic-engineer-course/
       <details class="lp-faq-item">
         <summary>Do I need prior experience with Event Sourcing?</summary>
         <p>No. We start from the fundamentals and build up from there, using a real example from your own work as the running case throughout the program.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>How many people are in one cohort?</summary>
+        <p>Max 16, to make sure everyone gets proper guidance and support.</p>
       </details>
       <details class="lp-faq-item">
         <summary>Is there a team or company option?</summary>
