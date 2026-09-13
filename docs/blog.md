@@ -15,6 +15,39 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/solving-event-modeling-enterprise-part-2' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/solving-event-modeling-enterprise-part-2.png' | relative_url }}" alt="Solving Event Modeling for the Enterprise - Part 2: Mapping Event Models to Tasks and Tickets">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Solving Event Modeling for the Enterprise, Part 2: Mapping Event Models to Tasks and Tickets</h3>
+        <p class="blog-tile-subtitle">Estimation is broken because engineers guess before they understand. Here's how slices replace the guess with something you can actually count.</p>
+        <p class="blog-tile-meta">September 13, 2026 • 8 min read • Event Modeling &amp; Planning</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/solving-event-modeling-enterprise-part-1' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/solving-event-modeling-enterprise-part-1.png' | relative_url }}" alt="Solving Event Modeling for the Enterprise - Part 1: How it all started">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Solving Event Modeling for the Enterprise, Part 1: How It All Started</h3>
+        <p class="blog-tile-subtitle">Event Modeling works beautifully as a planning tool - until the model grows and a whiteboard was never built to keep it alive.</p>
+        <p class="blog-tile-meta">September 12, 2026 • 6 min read • Event Modeling &amp; Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/agentic-ui-building-ui-from-event-models' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/agentic-ui-building-ui-from-event-models.png' | relative_url }}" alt="Agentic UI - building the UI from an Event Model">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Agentic UI - Building the UI from an Event Model</h3>
+        <p class="blog-tile-subtitle">The backend is a solved problem. The UI is more fun - here's how the first UI-Build-Kit turns your Event Model directly into a real, well-structured frontend.</p>
+        <p class="blog-tile-meta">September 6, 2026 • 5 min read • AI &amp; Event Modeling</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/event-modeling-ui-only-interactions-filtering' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/event-modeling-ui-only-interactions-filtering.png' | relative_url }}" alt="Event Modeling UI Only Interactions Example: Filtering">
