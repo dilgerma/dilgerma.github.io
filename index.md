@@ -113,6 +113,20 @@ featured_image: /assets/images/board_history.png
           <p>Built-in checks surface missing data and edge cases before you write a single line of code — catch gaps in design, not in production.</p>
         </div>
       </div>
+      <div class="lp-feature-row">
+        <span class="lp-feature-num">07</span>
+        <div class="lp-feature-content">
+          <h3>👥 Team Collaboration</h3>
+          <p>Add team members and see who's working on what, in real time — including your AI agents. One board, full visibility into every human and agent contribution.</p>
+        </div>
+      </div>
+      <div class="lp-feature-row">
+        <span class="lp-feature-num">08</span>
+        <div class="lp-feature-content">
+          <h3>🖼️ Prototype UX</h3>
+          <p>Design your screens with HTML and CSS, or link directly to your running system — right inside your event model, next to the flow they belong to.</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -417,7 +431,7 @@ featured_image: /assets/images/board_history.png
       <div class="lp-trust-item">
         <span class="lp-trust-icon">🔒</span>
         <h3>GDPR Compliant</h3>
-        <p>Hosted in the EU. Your models and team data stay in Europe and are never used to train AI models.</p>
+        <p>Your models and team data are never used to train AI models.</p>
       </div>
       <div class="lp-trust-item">
         <span class="lp-trust-icon">🔗</span>
