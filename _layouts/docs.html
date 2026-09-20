@@ -75,7 +75,7 @@
         "name": "{{ site.title }}",
         "logo": {
           "@type": "ImageObject",
-          "url": "{{ site.url }}/assets/images/logo.png"
+          "url": "{{ site.url }}{{ '/assets/images/nebulit.png' | relative_url }}"
         }
       },
       "datePublished": "{{ page.date | date_to_xmlschema }}",

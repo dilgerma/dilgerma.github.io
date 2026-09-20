@@ -29,6 +29,7 @@ featured_image: /assets/images/board_history.png
     <span class="lp-badge">AI-Enabled Software Design</span>
     <h1>Your Digital Place for Business, Engineering, and AI to <span class="lp-hero-highlight">Collaborate</span></h1>
     <p>Event Modeling aligns business, engineering, and AI agents on a single visual specification — from first discovery workshop to running production code.</p>
+    <p class="lp-hero-sovereign">100% free of foreign AI &mdash; 100% AI you control</p>
     <div class="lp-hero-ctas">
       <a href="https://app.eventmodelers.ai" class="lp-btn-primary">Start Modeling for Free</a>
       <a href="{{ '/workshops' | relative_url }}" class="lp-btn-secondary">Join a Workshop</a>
