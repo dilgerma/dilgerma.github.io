@@ -268,6 +268,10 @@ permalink: /agentic-engineer-course/
         <p>"Must say with the tooling you have, modeling and implementing is so enjoyable, the only thing holding me back is having enough Claude credits!"</p>
         <cite>- William P., July 2026</cite>
       </blockquote>
+      <blockquote class="cs-quote-card">
+        <p>"The course was truly enlightening. Beyond the solid, eye-opening content, having real, supervised practice with a true expert made all the difference."</p>
+        <cite>- Agustín Muñoz, September 2026</cite>
+      </blockquote>
     </div>
   </div>
 </section>
