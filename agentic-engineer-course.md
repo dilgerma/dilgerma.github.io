@@ -272,6 +272,11 @@ permalink: /agentic-engineer-course/
         <p>"The course was truly enlightening. Beyond the solid, eye-opening content, having real, supervised practice with a true expert made all the difference."</p>
         <cite>- Agustín Muñoz, September 2026</cite>
       </blockquote>
+      <blockquote class="cs-quote-card">
+        <p>"The course is very well structured and gives an overview on Event Modeling and how LLM can be used to support it and do the actual implementation. The connection between the model, the modeling tool, the translation from model to code using LLM and corresponding skills was very clearly explained. The schedule was intense so that you're really pushed to do new things and learn from them every day. I had to catch up on the weekend as I was busy on some weekdays.</p>
+        <p>I was very happy that Martin takes his time to answer all our questions (no question left unanswered). To have your questions answered during the Q&amp;A sessions was extremely useful. Also having a chat with the group was beneficial as we helped each other, and having shared boards was a great way to see what the others are approaching the tasks."</p>
+        <cite>- Adrian Mitev, September 2026</cite>
+      </blockquote>
     </div>
   </div>
 </section>
