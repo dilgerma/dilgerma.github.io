@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/inverse-event-modeling' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/inverse-event-modeling.png' | relative_url }}" alt="Inverse Event Modeling - building the Event Model from the code">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Inverse Event Modeling: Building the Model From the Code</h3>
+        <p class="blog-tile-subtitle">For teams with existing systems, the model gets built from the code - and AI keeps it true. Why detecting drift is nothing technical.</p>
+        <p class="blog-tile-meta">October 4, 2026 • 7 min read • AI &amp; Event Modeling</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/solving-event-modeling-enterprise-part-2' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/solving-event-modeling-enterprise-part-2.png' | relative_url }}" alt="Solving Event Modeling for the Enterprise - Part 2: Mapping Event Models to Tasks and Tickets">
