@@ -459,6 +459,22 @@ featured_image: /assets/images/board_history.png
         <summary>How does Event Modeling fit into our existing Agile process?</summary>
         <p>Event Modeling replaces user stories as the primary specification format. You run a short modeling session before a sprint, extract slices from the model as work items, and use the model to drive both development and QA. It integrates naturally with Scrum, Kanban, and Shape Up without requiring a process overhaul.</p>
       </details>
+      <details class="lp-faq-item">
+        <summary>Which AI is EM-Studio using?</summary>
+        <p>There is no built-in AI. You keep full control and use your trusted AI Agents.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>Does EM-Studio have access to our systems?</summary>
+        <p>No. There is no API or anything else. All data EM-Studio sees is the data you decide to provide. You keep full control at any point in time.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>Can EM-Studio take screenshots of our production systems?</summary>
+        <p>No. It has no built-in capability to do anything on its own. You can use it to capture user flows in your existing systems, but this all happens locally with your trusted AI Agents, using the agents' built-in capabilities. EM-Studio just visualizes the data you provide.</p>
+      </details>
+      <details class="lp-faq-item">
+        <summary>Are the build kits secure?</summary>
+        <p>We take great effort to make them secure and maintainable, but everything is open source. You can fork the build kits yourself and keep your own version of them. You don't have to trust the released packages.</p>
+      </details>
     </div>
     <p style="text-align:center; margin-top: 32px;">
       <a href="{{ '/docs/eventmodeling-faq' | relative_url }}" class="lp-btn-outline">See all FAQs →</a>

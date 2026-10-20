@@ -188,6 +188,24 @@ There are two types of reactions:
 
 The key insight: reactions to events can trigger new commands (automations) or update views (projections). Both are valid and serve different purposes.
 
+## EM-Studio
+
+### Which AI is EM-Studio using?
+
+There is no built-in AI. You keep full control and use your trusted AI Agents.
+
+### Does EM-Studio have access to our systems?
+
+No. There is no API or anything else. All data EM-Studio sees is the data you decide to provide. You keep full control at any point in time.
+
+### Can EM-Studio take screenshots of our production systems?
+
+No. It has no built-in capability to do anything on its own. You can use it to capture user flows in your existing systems, but this all happens locally with your trusted AI Agents, using the agents' built-in capabilities. EM-Studio just visualizes the data you provide.
+
+### Are the build kits secure?
+
+We take great effort to make them secure and maintainable, but everything is open source. You can fork the build kits yourself and keep your own version of them. You don't have to trust the released packages.
+
 </section>
 
 <div class="cta-section" style="margin: 3rem 0; padding: 2rem; background: #f5f5f5; border-radius: 8px; text-align: center;">
