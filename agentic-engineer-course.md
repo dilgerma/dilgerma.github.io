@@ -23,7 +23,7 @@ permalink: /agentic-engineer-course/
         <a href="https://tidycal.com/1gj56y6/15-minute-meeting" class="lp-btn-secondary">Book a Call</a>
       </div>
     </div>
-    <p class="cs-hero-pdf-hint">Registration for the October 2026 cohort is now open - <a href="https://copecart.com/products/cb22eaf1/checkout" target="_blank" rel="noopener noreferrer">secure your spot</a>.</p>
+    <p class="cs-hero-pdf-hint">Registration for the January 2027 cohort (starting January 11, 2027) is now open - <a href="https://copecart.com/products/cb22eaf1/checkout" target="_blank" rel="noopener noreferrer">secure your spot</a>.</p>
     <p class="cs-hero-pdf-hint">Delivered by <a href="https://www.nebulit.de" target="_blank" rel="noopener noreferrer">Nebulit</a>.</p>
   </div>
 </section>
@@ -220,7 +220,7 @@ permalink: /agentic-engineer-course/
       <span class="cs-eyebrow">Investment</span>
       <h2>&euro;1150 + VAT</h2>
       <p class="lp-section-sub" style="margin-bottom:0;">One-time payment for the full 3-week program. Risk-free - full money-back guarantee anytime before the program starts, no questions asked.</p>
-      <p class="lp-section-sub" style="margin-bottom:0;color:#2f6b3a;font-weight:600;">Registration for the October 2026 cohort is now open.</p>
+      <p class="lp-section-sub" style="margin-bottom:0;color:#2f6b3a;font-weight:600;">Registration for the January 2027 cohort (starting January 11, 2027) is now open.</p>
     </div>
     <div class="lp-benefits-grid">
       <div class="lp-benefit-card">
@@ -340,11 +340,11 @@ permalink: /agentic-engineer-course/
 <section class="cs-section" id="waitlist">
   <div class="cs-section-inner" style="text-align:center;">
     <h2>Ready to Join?</h2>
-    <p class="lp-section-sub">Registration for the October 2026 cohort is now open.</p>
+    <p class="lp-section-sub">Registration for the January 2027 cohort (starting January 11, 2027) is now open.</p>
     <div class="cs-notation-grid" style="grid-template-columns:1fr;max-width:480px;margin:0 auto;">
       <div class="cs-notation-card" style="text-align:center;">
         <h4 style="color:#2f6b3a;">&#9989; Registration Open</h4>
-        <p>Secure your seat in the October 2026 cohort now.</p>
+        <p>Secure your seat in the January 2027 cohort, starting January 11, 2027.</p>
         <a href="https://copecart.com/products/cb22eaf1/checkout" class="lp-btn-primary" style="display:inline-block;" target="_blank" rel="noopener noreferrer">Register Now</a>
       </div>
     </div>
@@ -356,7 +356,7 @@ permalink: /agentic-engineer-course/
 <section class="lp-bottom-cta">
   <div class="lp-bottom-cta-inner">
     <h2>Interested in the Agentic Engineer Program?</h2>
-    <p>Registration for the October 2026 cohort is now open. Secure your spot, or book a call to talk through format, dates, and pricing for your team.</p>
+    <p>Registration for the January 2027 cohort (starting January 11, 2027) is now open. Secure your spot, or book a call to talk through format, dates, and pricing for your team.</p>
     <div class="lp-bottom-cta-btns">
       <div class="lp-cta-option">
         <span class="lp-cta-option-label">For Individual Developers</span>
