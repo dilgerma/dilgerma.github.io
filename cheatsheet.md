@@ -114,7 +114,7 @@ permalink: /cheatsheet/
       </div>
       <div class="cs-diagram-v">
         <div class="cs-diagram-box screen-box">Screen</div>
-        <span class="cs-diagram-arrow-v">↓</span>
+        <span class="cs-diagram-arrow-v">↑</span>
         <div class="cs-diagram-box readmodel">Read Model</div>
         <span class="cs-diagram-arrow-v">↑</span>
         <div class="cs-diagram-box event">Event</div>
