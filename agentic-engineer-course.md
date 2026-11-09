@@ -12,7 +12,7 @@ permalink: /agentic-engineer-course/
     <p class="lp-hero-tagline">Turn your chaotic requirements into an organizational playbook</p>
     <span class="lp-badge">3-Week Program</span>
     <h1>The Agentic Engineer Program</h1>
-    <p>Go from a messy idea to a shipped, event-sourced system - built with AI agents that work from a complete spec, not a vague prompt. Three weeks: Event Modeling, Event Sourcing &amp; Slices, and AI Engineering.</p>
+    <p>Go from a messy idea to a shipped, event-sourced system - built with AI agents that work from a complete spec, not a vague prompt. Three weeks: Event Modeling, Event Sourcing &amp; Slices, and AI Engineering. Along the way you build - and keep - your own fully AI-enabled CRM.</p>
     <div class="lp-hero-ctas">
       <div class="lp-cta-option">
         <span class="lp-cta-option-label">For Individual Developers</span>
@@ -24,6 +24,7 @@ permalink: /agentic-engineer-course/
       </div>
     </div>
     <p class="cs-hero-pdf-hint">Registration for the January 2027 cohort (starting January 11, 2027) is now open - <a href="https://copecart.com/products/cb22eaf1/checkout" target="_blank" rel="noopener noreferrer">secure your spot</a>.</p>
+    <p class="cs-hero-pdf-hint"><strong>Only 15 seats</strong> for the January cohort. Use the code <strong>2027</strong> at checkout - valid for 2 days only.</p>
     <p class="cs-hero-pdf-hint">Delivered by <a href="https://www.nebulit.de" target="_blank" rel="noopener noreferrer">Nebulit</a>.</p>
   </div>
 </section>
@@ -100,12 +101,45 @@ permalink: /agentic-engineer-course/
   </div>
 </section>
 
+<section class="cs-section">
+  <div class="cs-section-inner">
+    <div class="cs-section-head">
+      <span class="cs-eyebrow">The Running Project</span>
+      <h2>Build Your Own AI-Enabled CRM</h2>
+      <p class="lp-section-sub" style="margin-bottom:0;">In the January 2027 cohort we rebuild the custom CRM that replaced our SaaS tool in a single day - modeled in the morning, built by four agents in the afternoon. Step by step, together.</p>
+    </div>
+    <div class="lp-benefits-grid">
+      <div class="lp-benefit-card">
+        <span class="lp-benefit-icon">🧩</span>
+        <h3>Model It, Then Build It</h3>
+        <p>Model the whole system as slices on the board, then hand them to agents working from the same shared model.</p>
+      </div>
+      <div class="lp-benefit-card">
+        <span class="lp-benefit-icon">🔌</span>
+        <h3>Fully AI Enabled</h3>
+        <p>MCP integration, authentication and authorization, S3-compatible blob storage, and a board attached to everything with an ID.</p>
+      </div>
+      <div class="lp-benefit-card">
+        <span class="lp-benefit-icon">🎁</span>
+        <h3>You Get Mine Too</h3>
+        <p>Besides building your own, you receive the finished CRM. Zero running costs - run it locally or on any cloud server.</p>
+      </div>
+    </div>
+    <p style="text-align:center; margin-top: 32px;">
+      <img src="{{ '/assets/images/blog/replaced-our-crm-in-one-day.png' | relative_url }}" alt="The custom Nebulit CRM with a board attached to a prospect and a local-model chat connected to the MCP" style="max-width:100%;border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,.15);" loading="lazy">
+    </p>
+    <p style="text-align:center; margin-top: 32px;">
+      <a href="{{ '/docs/blog/replaced-our-crm-in-one-day' | relative_url }}" class="lp-btn-secondary" style="display:inline-block;">Read How the CRM Was Built in One Day</a>
+    </p>
+  </div>
+</section>
+
 <section class="cs-section" id="curriculum">
   <div class="cs-section-inner">
     <div class="cs-section-head">
       <span class="cs-eyebrow">The Curriculum</span>
       <h2>Week by Week</h2>
-      <p class="lp-section-sub" style="margin-bottom:0;">Each week builds toward a concrete deliverable, working the whole time against one running example you bring from your own work.</p>
+      <p class="lp-section-sub" style="margin-bottom:0;">Each week builds toward a concrete deliverable, working the whole time against one running example - the CRM we build together - and applying it to a feature from your own work.</p>
     </div>
 
     <details class="cs-workshop-item" open>
@@ -237,6 +271,11 @@ permalink: /agentic-engineer-course/
         <span class="lp-benefit-icon">🛡️</span>
         <h3>Money-Back Guarantee</h3>
         <p>Cancel anytime before the program starts for a full refund, no questions asked.</p>
+      </div>
+      <div class="lp-benefit-card">
+        <span class="lp-benefit-icon">💼</span>
+        <h3>The Finished CRM</h3>
+        <p>You receive the complete AI-enabled CRM built in the program, with zero running costs. Run it locally or on any cloud server.</p>
       </div>
     </div>
     <p style="text-align:center; margin-top: 32px;">

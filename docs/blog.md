@@ -15,6 +15,17 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/replaced-our-crm-in-one-day' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/replaced-our-crm-in-one-day.png' | relative_url }}" alt="Replacing our CRM with a custom solution in one day">
+      </div>
+      <div class="blog-tile-content">
+        <h3>I Replaced Our CRM With a Custom Solution in One Day</h3>
+        <p class="blog-tile-subtitle">Modeled in the morning, built by four agents in the afternoon, running with all our data by evening - and why "build it yourself" suddenly makes sense.</p>
+        <p class="blog-tile-meta">November 8, 2026 • 6 min read • AI &amp; Event Modeling</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/inverse-event-modeling' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/inverse-event-modeling.png' | relative_url }}" alt="Inverse Event Modeling - building the Event Model from the code">
