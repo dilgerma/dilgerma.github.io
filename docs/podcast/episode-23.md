@@ -62,11 +62,9 @@ Season 2 represents the maturation of event modeling from niche practice to grow
 5. When adopting event modeling, you need to make a "10-step leap" not a "2-step" one - half measures leave you in a valley between the old and new approaches
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
   </div>

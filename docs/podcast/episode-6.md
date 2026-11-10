@@ -61,11 +61,9 @@ The new online course fills a critical gap by providing hands-on practice implem
 5. Initial brainstorming sessions should be chaotic by design, with 100-200 events generated without strict rules to encourage full participation and information gathering
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
   </div>

@@ -205,11 +205,9 @@ You will not only build your own fully AI-enabled CRM. You'll get mine as well. 
 - [Explore Real World Event Models](https://app.eventmodelers.ai/catalog)
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
 <div class="course-cta" markdown="1">

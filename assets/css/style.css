@@ -3903,3 +3903,33 @@ img.cs-fig {
   color: #ff5d17;
   font-weight: 700;
 }
+
+/* Hero-style secondary button / hint used inside light sections */
+.cs-section .lp-btn-secondary {
+  background: transparent;
+  color: #ff5d17;
+  border: 1.5px solid #ff5d17;
+}
+
+.cs-section .lp-btn-secondary:hover {
+  background: rgba(255,93,23,0.08);
+}
+
+.cs-section .cs-hero-pdf-hint {
+  color: #6b6b76;
+}
+
+/* Workshop banner on learning pages */
+.top-notification.workshop-banner {
+    background-color: var(--primary-color);
+    padding: 6px 16px;
+}
+
+.top-notification.workshop-banner a {
+    font-size: 0.85rem;
+}
+
+.top-notification.workshop-banner a:hover {
+    color: var(--white);
+    text-decoration: underline;
+}

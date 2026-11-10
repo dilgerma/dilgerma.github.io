@@ -62,11 +62,9 @@ The fundamental similarity between git and event sourcing - both built on immuta
 5. Slice-based development enables deep focus states where developers can complete many features in sequence without context switching or worrying about side effects
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
   </div>

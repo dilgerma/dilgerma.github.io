@@ -62,11 +62,9 @@ AI dramatically accelerates legacy code understanding by rapidly analyzing large
 5. Event modeling works as a programming language for AI because it provides structured, timeline-based specifications that AI can understand and execute
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
   </div>

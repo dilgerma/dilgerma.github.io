@@ -1,3 +1,11 @@
+{% assign u = page.url %}
+{% if u contains '/docs/blog' or u contains '/docs/podcast' or u contains '/docs/basic-modeling-topics/videos' or u contains '/case-studies' or u contains '/use-cases' or u contains '/cheatsheet' %}
+<div class="top-notification workshop-banner">
+  <a href="https://nebulit.de/en/hands-on-event-modeling" target="_blank" rel="noopener noreferrer">
+    Join the next Event Modeling Workshop in November 2026 →
+  </a>
+</div>
+{% endif %}
 <div class="top-notification">
   <a href="{{ '/agentic-engineer-course' | relative_url }}">
     🔥 Agentic Engineer Course — January 2027 cohort registration is now open →
@@ -85,7 +93,7 @@
                 <span class="nav-dropdown-tile-title">Cheat Sheet</span>
                 <span class="nav-dropdown-tile-desc">The 5 elements, 4 patterns, and 20 rules of Event Modeling on one page.</span>
               </a>
-              <a class="nav-dropdown-tile" href="{{ '/eventmodeling-conference-2027' | relative_url }}">
+              <a class="nav-dropdown-tile" href="https://eventmodeling-conference.com" target="_blank" rel="noopener noreferrer">
                 <span class="nav-dropdown-tile-icon">🎟️</span>
                 <span class="nav-dropdown-tile-title">Conference 2027</span>
                 <span class="nav-dropdown-tile-desc">Two days of Event Modeling &amp; Event Sourcing in Munich, June 24-25, plus a Workshop Day on June 23.</span>

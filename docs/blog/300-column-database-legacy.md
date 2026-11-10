@@ -303,11 +303,9 @@ Martin Dilger is the founder of [Nebulit](https://www.nebulit.de) and a recogniz
 **P.S.** Wondering if Event Modeling can work for your specific legacy nightmare? Send me your gnarliest table schema (just the column names, no data). I'll record a short video showing you which workflows are probably hiding in there. First 5 people only.
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
 <div class="course-cta" markdown="1">

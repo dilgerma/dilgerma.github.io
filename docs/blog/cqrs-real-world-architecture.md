@@ -174,11 +174,9 @@ This Skill is learnable - I can help. And I take care of one more thing:
 Only 2 Spots available in November 2025 → [Book your Discovery Call now](https://www.nebulit.de) - I can give you some details
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
 <div class="course-cta" markdown="1">

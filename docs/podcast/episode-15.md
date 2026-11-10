@@ -62,11 +62,9 @@ Event sourcing's complete history provides accountability and auditability that 
 5. Using separate processors for external API calls (one per API/cloud provider) keeps complexity manageable rather than having one processor reach out to multiple services
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
   </div>

@@ -61,11 +61,9 @@ Upcasters represent a tempting shortcut for event schema evolution but create lo
 5. Infrastructure code in event sourcing rarely changes and doesn't need frequent testing - focus testing on business logic
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
   </div>

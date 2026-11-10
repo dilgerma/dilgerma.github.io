@@ -153,11 +153,9 @@ And of course, we'll address some of the questions in the QA scheduled 14 days a
 Want to be part of the next Workshop? Just comment "Me" and I'll put you on the Wait List, so you'll be notified. The next Workshop is scheduled for North American Timezone, so your chance to get up at 2 a.m. if you are in Europe.
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
 <div class="course-cta" markdown="1">

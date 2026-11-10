@@ -273,11 +273,9 @@ Ready to stop fighting the async nature of Event Sourcing and start embracing it
 **Martin Dilger** is the founder of Nebulit and a recognized expert in Event Modeling and event-driven architectures. He helps teams modernize their systems using Event Sourcing and Event Modeling approaches.
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
 <div class="course-cta" markdown="1">

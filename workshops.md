@@ -10,6 +10,12 @@ redirect_from:
   - /workshop/
 ---
 
+<div class="course-cta" markdown="1">
+### Hands-On Event Modeling Workshop
+
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
+</div>
+
 <section class="lp-hero">
   <div class="lp-hero-inner">
     <span class="lp-badge">In-Person, Remote, or Public Cohort</span>

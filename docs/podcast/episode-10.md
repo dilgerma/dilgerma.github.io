@@ -62,11 +62,9 @@ To-do list processors provide a simple, powerful pattern for workflow automation
 5. Use Spring profiles or similar mechanisms to bootstrap event stores with fake events, enabling isolated slice testing and making each slice behave like an independent microservice
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
   </div>

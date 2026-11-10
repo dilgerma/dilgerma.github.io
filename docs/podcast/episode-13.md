@@ -62,11 +62,9 @@ Slice architecture prioritizes decoupling over code reuse, challenging the tradi
 5. Multi-tenancy differences should be modeled as separate slices only for the workflows that differ, not forcing all slices to accommodate all tenant variations
 
 <div class="course-cta" markdown="1">
-### Join the Agentic Engineer Program
+### Hands-On Event Modeling Workshop
 
-Apply Spec-Driven Development Hands-On - Event Modeling, Event Sourcing, and AI Engineering with autonomous agents.
-
-[Learn More →]({{ '/agentic-engineer-course' | relative_url }}){:.cta-button}
+[Learn More →](https://nebulit.de/en/hands-on-event-modeling){:.cta-button}
 </div>
 
   </div>
