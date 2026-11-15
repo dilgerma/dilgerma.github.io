@@ -42,6 +42,126 @@ featured_image: /assets/images/board_history.png
   </div>
 </section>
 
+<section class="lp-showcase">
+  <div class="lp-showcase-inner">
+    <span class="lp-badge">See It In Action</span>
+    <h2>EM-Studio: how the system works</h2>
+    <p class="lp-section-sub">One board where people and AI agents model, plan, validate and build together. Here is what that looks like in practice.</p>
+    <div class="lp-showcase-list">
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/board</span></div>
+          <img src="{{ '/assets/images/system/board-overview.png' | relative_url }}" alt="The Board: your whole system on one timeline" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>The Board: your whole system on one timeline</h3>
+          <p>Commands, events, read models and screens laid out as a single timeline, split into slices. Everyone — business, engineering and AI agents — reads the same picture.</p>
+        </figcaption>
+      </figure>
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/board/modeling</span></div>
+          <img src="{{ '/assets/images/system/agent-modeling.png' | relative_url }}" alt="AI agents model right next to you" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>AI agents model right next to you</h3>
+          <p>An agent works directly on the board, placing and editing elements in real time. You see exactly which cell it is working in.</p>
+        </figcaption>
+      </figure>
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/board/validation</span></div>
+          <img src="{{ '/assets/images/system/model-validation.png' | relative_url }}" alt="Completeness checks catch gaps early" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>Completeness checks catch gaps early</h3>
+          <p>Fields that don't exist upstream are flagged right on the model (here: an unknown field on an event), so you fix design gaps before any code is written.</p>
+        </figcaption>
+      </figure>
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/board/planning</span></div>
+          <img src="{{ '/assets/images/system/planning-board.png' | relative_url }}" alt="Slices become a plannable backlog" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>Slices become a plannable backlog</h3>
+          <p>Every slice of the model shows up on a planning board with its status — Created, Planned, InProgress, Blocked, Done. The model is the backlog.</p>
+        </figcaption>
+      </figure>
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/agents</span></div>
+          <img src="{{ '/assets/images/system/agent-cockpit.png' | relative_url }}" alt="Agent Cockpit: see what every agent is doing" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>Agent Cockpit: see what every agent is doing</h3>
+          <p>Which agent is connected, what it is editing right now, who changed what last, and the status of every slice — across all your boards.</p>
+        </figcaption>
+      </figure>
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/docs/building</span></div>
+          <img src="{{ '/assets/images/system/build-kits.png' | relative_url }}" alt="Build kits for your tech stack" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>Build kits for your tech stack</h3>
+          <p>Pick the stack your team already uses — Node.js, Axon + Java, Kurrent, Marten + .NET, Python and more. The agent implements slices with the matching kit.</p>
+        </figcaption>
+      </figure>
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/catalog</span></div>
+          <img src="{{ '/assets/images/system/catalog.png' | relative_url }}" alt="Catalog of real-world event models" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>Catalog of real-world event models</h3>
+          <p>Browse ready-to-use event models and load them into your board with one click — to learn from, or as a starting point.</p>
+        </figcaption>
+      </figure>
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/account/members</span></div>
+          <img src="{{ '/assets/images/system/invite.png' | relative_url }}" alt="Invite your team" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>Invite your team</h3>
+          <p>Invite colleagues to your organization by link and give them the User or Admin role.</p>
+        </figcaption>
+      </figure>
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/account/teams</span></div>
+          <img src="{{ '/assets/images/system/teams.png' | relative_url }}" alt="Organize people into teams" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>Organize people into teams</h3>
+          <p>Group members into teams and assign boards to them, so each team sees what it needs.</p>
+        </figcaption>
+      </figure>
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/board/storage</span></div>
+          <img src="{{ '/assets/images/system/storage-modes.png' | relative_url }}" alt="You decide where your data lives" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>You decide where your data lives</h3>
+          <p>Experimental playground, Local Only with exportable models, or Cloud with real-time team collaboration. Your model, your choice.</p>
+        </figcaption>
+      </figure>
+      <figure class="lp-showcase-item">
+        <div class="lp-browser">
+          <div class="lp-browser-bar"><span class="lp-browser-dots"><i></i><i></i><i></i></span><span class="lp-browser-url">app.eventmodelers.ai/board/history</span></div>
+          <img src="{{ '/assets/images/system/board-history.png' | relative_url }}" alt="Full board history, replay and restore" loading="lazy">
+        </div>
+        <figcaption>
+          <h3>Full board history, replay and restore</h3>
+          <p>Every change is recorded. Scrub through the timeline, inspect any event, restore an earlier state or create a backup from it.</p>
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
 <section class="lp-problems">
   <div class="lp-problems-inner">
     <span class="lp-badge">The Problem</span>

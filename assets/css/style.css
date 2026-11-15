@@ -3933,3 +3933,25 @@ img.cs-fig {
     color: var(--white);
     text-decoration: underline;
 }
+
+/* System showcase */
+.lp-showcase { background: #ffffff; padding: 80px 24px 96px; }
+.lp-showcase-inner { max-width: 1240px; margin: 0 auto; text-align: center; }
+.lp-showcase-inner h2 { font-size: 2.8rem; font-weight: 800; color: #1e2235; letter-spacing: -0.025em; margin-bottom: 16px; }
+.lp-showcase-inner h2::after { content: ''; display: block; width: 64px; height: 4px; background: var(--primary-color, #ff5d17); border-radius: 2px; margin: 16px auto 0; }
+.lp-showcase-list { display: flex; flex-direction: column; gap: 72px; margin-top: 16px; }
+.lp-showcase-item { margin: 0; text-align: left; }
+.lp-browser { border-radius: 12px; overflow: hidden; border: 1px solid #e0e0e6; background: #fff; box-shadow: 0 24px 60px rgba(30,34,53,0.20), 0 4px 14px rgba(30,34,53,0.10); }
+.lp-browser-bar { display: flex; align-items: center; gap: 14px; padding: 10px 14px; background: #f1f1f4; border-bottom: 1px solid #e0e0e6; }
+.lp-browser-dots { display: flex; gap: 6px; }
+.lp-browser-dots i { width: 10px; height: 10px; border-radius: 50%; background: #d0d0d8; display: block; }
+.lp-browser-url { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.8rem; color: #6b6b76; background: #fff; border-radius: 6px; padding: 3px 12px; }
+.lp-showcase-item img { display: block; width: 100%; height: auto; }
+.lp-showcase-item figcaption { margin-top: 28px; max-width: 720px; }
+.lp-showcase-item h3 { font-size: 1.4rem; font-weight: 700; color: #1e2235; margin-bottom: 8px; }
+.lp-showcase-item p { font-size: 1.05rem; color: #6b6b76; line-height: 1.65; margin: 0; }
+@media (max-width: 768px) {
+  .lp-showcase { padding: 64px 20px; }
+  .lp-showcase-inner h2 { font-size: 1.8rem; }
+  .lp-showcase-list { gap: 48px; }
+}
