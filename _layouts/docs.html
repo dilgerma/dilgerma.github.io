@@ -151,6 +151,16 @@
         </div>
     </div>
 
+    <script>
+    (function () {
+        var header = document.querySelector('.blog-post-header');
+        if (!header) return;
+        var note = document.createElement('div');
+        note.className = 'community-banner';
+        note.innerHTML = 'Have a question about EM-Studio? <a href="https://discord.gg/QzfgGk7qjv" target="_blank" rel="noopener noreferrer">Join the Community-Discord &rarr;</a>';
+        header.insertAdjacentElement('afterend', note);
+    })();
+    </script>
     <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
 </body>
 </html>

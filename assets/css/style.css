@@ -3955,3 +3955,25 @@ img.cs-fig {
   .lp-showcase-inner h2 { font-size: 1.8rem; }
   .lp-showcase-list { gap: 48px; }
 }
+
+/* Community Discord banner below article header */
+.community-banner {
+    background: rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    padding: 10px 16px;
+    margin: 0 0 28px;
+    font-size: 0.9rem;
+    color: #4b5563;
+    text-align: center;
+}
+
+.community-banner a {
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.community-banner a:hover {
+    text-decoration: underline;
+}

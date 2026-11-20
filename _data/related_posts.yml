@@ -287,3 +287,17 @@ triplet-architecture:
   - hold-my-beer-engineering
   - show-me-the-coupling
 
+experience-modeling-event-modeling-the-ui:
+  - event-modeling-ui-only-interactions-filtering
+  - agentic-ui-building-ui-from-event-models
+  - ai-event-modeling-enabler
+
+small-feature-enormous-blast-radius:
+  - inverse-event-modeling
+  - dont-rewrite-legacy-system
+  - ai-event-modeling-enabler
+
+future-of-event-modeling:
+  - inverse-event-modeling
+  - event-modeling-adoption
+  - ai-event-modeling-enabler

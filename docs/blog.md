@@ -15,6 +15,39 @@ author: Martin Dilger
 
 <section class="features">
   <div class="blog-tiles">
+    <a href="{{ '/docs/blog/experience-modeling-event-modeling-the-ui' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/experience-modeling-event-modeling-the-ui.png' | relative_url }}" alt="Experience Modeling - Event Modeling the UI">
+      </div>
+      <div class="blog-tile-content">
+        <h3>Experience Modeling - Event Modeling the UI</h3>
+        <p class="blog-tile-subtitle">"How do you model the UI?" For years my answer felt like a workaround. Turns out the answer was always in front of me - an Event Model, one level deeper.</p>
+        <p class="blog-tile-meta">November 20, 2026 • 8 min read • Event Modeling &amp; UX</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/small-feature-enormous-blast-radius' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/small-feature-enormous-blast-radius.png' | relative_url }}" alt="E.V.E - Event Modeling, Vertical Slices and Event Sourcing">
+      </div>
+      <div class="blog-tile-content">
+        <h3>E.V.E - Event Modeling, Vertical Slices and Event Sourcing ( with a real example )</h3>
+        <p class="blog-tile-subtitle">A parking garage built with BDD looks perfect - until management asks for online payments. Small feature, enormous blast radius - unless you slice it.</p>
+        <p class="blog-tile-meta">November 18, 2026 • 8 min read • Event Sourcing &amp; Architecture</p>
+      </div>
+    </a>
+
+    <a href="{{ '/docs/blog/future-of-event-modeling' | relative_url }}" class="blog-tile">
+      <div class="blog-tile-image">
+        <img src="{{ '/assets/images/blog/future-of-event-modeling.png' | relative_url }}" alt="The Future of Event Modeling - Event Modeling for the rest of us">
+      </div>
+      <div class="blog-tile-content">
+        <h3>The Future of Event Modeling ( Event Modeling for the rest of us )</h3>
+        <p class="blog-tile-subtitle">Not every team is ready for collaborative modeling as we teach it. Here's where I think Event Modeling is heading - personal opinions, nothing more.</p>
+        <p class="blog-tile-meta">November 15, 2026 • 8 min read • Event Modeling &amp; Adoption</p>
+      </div>
+    </a>
+
     <a href="{{ '/docs/blog/replaced-our-crm-in-one-day' | relative_url }}" class="blog-tile">
       <div class="blog-tile-image">
         <img src="{{ '/assets/images/blog/replaced-our-crm-in-one-day.png' | relative_url }}" alt="Replacing our CRM with a custom solution in one day">
