@@ -66,6 +66,86 @@ Learn how to build production-ready event-sourced Node.js applications using the
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UQKX88mEfPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## More from the YouTube Channel
+
+### Event Modeling for Beginners (pure Web, no Miro)
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WPzQP-NSv5w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Learn Eventmodeling on eventmodelers.ai - Part 1 - Walkthrough
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Pd1e4tuNOhw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### My Workflow with EM-Studio & Event Modeling
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XXKFBTEQQ4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### How Event Modeling simplifies your system design
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aGO3wTAHtyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Event Modeling - One Model, different Audiences
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tVuhlKi1p8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Expert Event Modeling is not what you think it is
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GYpmY2hJYy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Event Modeling in a Legacy-Codebase (non event-sourced)
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CFwScZ1gKgs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Collaboration between Agents and Humans (using Event Modeling)
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1k1F5x8vD4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Webinar - Solving the hard parts of Spec Driven Development
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nJcuvhqsHPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Tracking Agent-Cost per Feature using Event Modeling
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KitBgIzvtx8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Why Voice became my primary tool for Event Modeling
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zVoOy0ZQ-8M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Claude Clicked Through the UI… and Built the Event Model
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Qlywv3dROwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Versioning Event Models
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5v9rEOOr3Nc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Tutorial Videos
 
 ### Assigning Tickets to Slices

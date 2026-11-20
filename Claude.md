@@ -16,3 +16,20 @@ if it´s a blog entry - make these articles available on the blog page as well, 
 
 if it´s a podcast, make it available on the podcast page, match the structure of previous episodes
 
+
+## YouTube videos
+
+To add new videos from the YouTube channel (https://www.youtube.com/@nebulit/videos) to the videos page (`docs/basic-modeling-topics/videos.md`):
+
+1. Fetch https://www.youtube.com/@nebulit/videos with a browser User-Agent and parse the `ytInitialData` JSON from the HTML.
+   Videos are `lockupViewModel` entries with `contentType` `LOCKUP_CONTENT_TYPE_VIDEO` - `contentId` is the video id, the title is in `metadata.lockupMetadataViewModel.title.content`.
+2. Only add the important/relevant videos (core Event Modeling, EM-Studio, AI/agents topics). Skip videos that are already on the page (compare video ids) and German-titled ones unless asked.
+3. Add them under the "More from the YouTube Channel" section (before "Tutorial Videos"), one `### Title` per video, using the same embed block as the existing entries:
+
+```html
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+4. Don't invent descriptions - titles only, unless a description is provided.
