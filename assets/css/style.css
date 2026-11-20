@@ -2655,6 +2655,15 @@ body {
 }
 
 /* Course CTA Section */
+.course-cta a:not(.cta-button) {
+    color: #ff8a4c;
+    text-decoration: underline;
+}
+
+.course-cta a:not(.cta-button):hover {
+    color: #ffffff;
+}
+
 .course-cta {
     background: var(--secondary-color);
     color: white;
