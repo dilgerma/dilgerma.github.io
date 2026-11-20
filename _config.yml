@@ -1,6 +1,6 @@
 # Site settings
 title: nebulit | Event Modeling Toolkit
-description: Documentation for the Miro Event Modeling Toolkit - Build event-driven systems with visual modeling
+description: Documentation for the EM-Studio - Build event-driven systems with visual modeling
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.eventmodelers.ai" # the base hostname & protocol for your site
 

@@ -1,69 +1,17 @@
 ---
 layout: docs
 title: Videos
-description: "Watch these tutorial videos to learn how to use the Miro Event Modeling Toolkit effectively."
+description: "Watch these tutorial videos to learn how to use the EM-Studio effectively."
 ---
 
 # Videos
 
-Watch these tutorial videos to learn how to use the Miro Event Modeling Toolkit effectively.
+Watch these tutorial videos to learn how to use the EM-Studio effectively.
 
 <div class="course-cta" markdown="1">
 ### Always want the latest Videos?
 
 [Make sure to follow the YouTube Channel](https://www.youtube.com/channel/UCVuZ5UsWJqzO3Ui0IUdRSlw)
-</div>
-
-## Educational Videos
-
-### Building Production-Ready Event-Sourced Node Apps with Ralph Loop and AI
-
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/jdYwziAl8cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-Learn how to build production-ready event-sourced Node.js applications using the Ralph Loop technique combined with AI. This webinar demonstrates the complete process from event modeling to code generation, including static code generators, AI agents, and the Ralph Loop workflow. You'll see real-world event models, slice-based architecture in action, and how to structure systems that work perfectly with AI.
-
-### CRUD Systems are doomed to fail
-
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/aXmEsLY09nM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### Aggregateless Event Sourcing with DCB
-
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/iOOhaDrnrXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### What is an Aggregate
-
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/8n1eYaEodDk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### How Event Sourcing allows you to keep your UI components simple
-
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Hp0gC_FWP2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### The boring Tech Stack for our new Startup
-
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/iRuwzax_W-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### The Sane Way to Migrate Legacy Projects
-
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/aznGpTWXjN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### Event Sourcing Myths - Event Sourcing Takes Up Too Much Storage!
-
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/UQKX88mEfPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## More from the YouTube Channel
@@ -144,6 +92,58 @@ Learn how to build production-ready event-sourced Node.js applications using the
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5v9rEOOr3Nc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Educational Videos
+
+### Building Production-Ready Event-Sourced Node Apps with Ralph Loop and AI
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jdYwziAl8cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Learn how to build production-ready event-sourced Node.js applications using the Ralph Loop technique combined with AI. This webinar demonstrates the complete process from event modeling to code generation, including static code generators, AI agents, and the Ralph Loop workflow. You'll see real-world event models, slice-based architecture in action, and how to structure systems that work perfectly with AI.
+
+### CRUD Systems are doomed to fail
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aXmEsLY09nM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Aggregateless Event Sourcing with DCB
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iOOhaDrnrXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### What is an Aggregate
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8n1eYaEodDk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### How Event Sourcing allows you to keep your UI components simple
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Hp0gC_FWP2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### The boring Tech Stack for our new Startup
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iRuwzax_W-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### The Sane Way to Migrate Legacy Projects
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aznGpTWXjN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Event Sourcing Myths - Event Sourcing Takes Up Too Much Storage!
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UQKX88mEfPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Tutorial Videos

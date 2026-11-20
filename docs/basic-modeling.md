@@ -1,13 +1,13 @@
 ---
 layout: docs
 title: Basic Modeling
-description: "Learn how to navigate and use the core features of the Miro Event Modeling Toolkit. This guide covers the main interface tabs, views, and essential"
+description: "Learn how to navigate and use the core features of the EM-Studio. This guide covers the main interface tabs, views, and essential"
 ---
 
 # Event Modeling Toolkit
 
 <div class="topic-intro">
-<p>Learn how to navigate and use the core features of the Miro Event Modeling Toolkit. This guide covers the main interface tabs, views, and essential functionality you'll use every day.</p>
+<p>Learn how to navigate and use the core features of the EM-Studio. This guide covers the main interface tabs, views, and essential functionality you'll use every day.</p>
 </div>
 
 ## Tooling
@@ -36,7 +36,7 @@ description: "Learn how to navigate and use the core features of the Miro Event 
   <a href="/docs/basic-modeling-topics/videos/" class="topic-tile">
     <span class="topic-tile-icon">🎥</span>
     <h3>Videos</h3>
-    <p>Watch tutorial videos to learn how to use the Miro Event Modeling Toolkit effectively.</p>
+    <p>Watch tutorial videos to learn how to use the EM-Studio effectively.</p>
   </a>
 </div>
 

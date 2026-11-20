@@ -1,12 +1,12 @@
 ---
 layout: docs
 title: Setup
-description: "You can use the Miro Event Modeling Toolkit for free in the Community Edition."
+description: "You can use the EM-Studio for free in the Community Edition."
 ---
 
 # How to get a License
 
-You can use the Miro Event Modeling Toolkit for free in the Community Edition.
+You can use the EM-Studio for free in the Community Edition.
 This already allows to you take advantage of Modeling in a structured way.
 
 In the commercial Edition, you´ll find much more benefits like:

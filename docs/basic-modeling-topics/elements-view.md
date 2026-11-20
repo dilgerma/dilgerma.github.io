@@ -63,7 +63,7 @@ View the generated JSON that represents your model elements. This JSON can be di
 
 ## Supported Element Types
 
-The Miro Event Modeling Toolkit supports a comprehensive set of element types for modeling your domain:
+The EM-Studio supports a comprehensive set of element types for modeling your domain:
 
 ### Core Event Modeling Elements
 

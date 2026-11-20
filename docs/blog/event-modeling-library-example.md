@@ -117,7 +117,7 @@ We just model what happens, one step ( or better "Slice" ) after the other.
   <img src="{{ '/assets/images/blog/event-modeling-library-10.png' | relative_url }}" alt="Complete Library Model">
 </div>
 
-Want to see this model in action? In this Video you see how I use the RTP ( Real Time Prototyping ) in the Miro Event Modeling Toolkit to bring it to life.
+Want to see this model in action? In this Video you see how I use the RTP ( Real Time Prototyping ) in the EM-Studio to bring it to life.
 
 <div class="video-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojTCqd8pQD8?si=MfApJfpd8xPamQ6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

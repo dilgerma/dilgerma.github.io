@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Slice View
-description: "The Miro Event Modeling Toolkit allows you to export running Prototypes directly from your Model."
+description: "The EM-Studio allows you to export running Prototypes directly from your Model."
 ---
 
 <div class="info-box">
@@ -10,7 +10,7 @@ description: "The Miro Event Modeling Toolkit allows you to export running Proto
 
 # Real Time Prototyping
 
-The Miro Event Modeling Toolkit allows you to export running Prototypes directly from your Model. 
+The EM-Studio allows you to export running Prototypes directly from your Model. 
 This is first a pretty fun experience in a workshop, but also a great way to validate your assumptions by just playing with what was just modeled 2 minutes ago.
 
 <div class="video-container">

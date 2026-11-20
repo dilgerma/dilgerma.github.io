@@ -1,4 +1,4 @@
-# Miro Event Modeling Toolkit Documentation
+# EM-Studio Documentation
 
 ## Structure
 

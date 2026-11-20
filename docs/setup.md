@@ -1,18 +1,18 @@
 ---
 layout: docs
 title: Setup
-description: "Welcome to the Miro Event Modeling Toolkit setup guide. This page will walk you through the installation and initial configuration process."
+description: "Welcome to the EM-Studio setup guide. This page will walk you through the installation and initial configuration process."
 ---
 
-# Setting up the Miro Event Modeling Toolkit
+# Setting up the EM-Studio
 
-Welcome to the Miro Event Modeling Toolkit setup guide. This page will walk you through the installation and initial configuration process.
+Welcome to the EM-Studio setup guide. This page will walk you through the installation and initial configuration process.
 
 <div class="privacy" markdown="1">
 
 ## 🔒 Privacy First - Your Data Stays Yours
 
-**The Miro Event Modeling Toolkit is built with Privacy First principles:**
+**The EM-Studio is built with Privacy First principles:**
 
 - ✅ **No data is ever sent to any external system**
 - ✅ **We will never use your Intellectual Property (because we never see it)**
