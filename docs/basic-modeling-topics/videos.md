@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: Videos
-description: "Watch these tutorial videos to learn how to use the EM-Studio effectively."
+title: Event Modeling Videos - EM-Studio Tutorials and Talks
+description: "Watch Event Modeling video tutorials: learn how to model with the EM-Studio, work with AI agents and generate code from your event models."
 ---
 
 # Videos

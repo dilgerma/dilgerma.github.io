@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Basic Modeling
+title: Event Modeling Basics - Modeling with the EM-Studio
 description: "Learn how to navigate and use the core features of the EM-Studio. This guide covers the main interface tabs, views, and essential"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setup
+title: Event Modeling Setup - Install the EM-Studio
 description: "Welcome to the EM-Studio setup guide. This page will walk you through the installation and initial configuration process."
 ---
 

@@ -44,7 +44,7 @@ That's the question. And it's a good one, because the honest answer is: it depen
 
 ## Start With a Chapter
 
-You find all my articles and videos on [eventmodelers.ai](https://www.eventmodelers.ai). If you want to follow along, go to [app.eventmodelers.ai](https://app.eventmodelers.ai) - that's the easiest way to start modeling.
+You find all my articles and videos on [eventmodelers.ai](https://eventmodelers.ai). If you want to follow along, go to [app.eventmodelers.ai](https://app.eventmodelers.ai) - that's the easiest way to start modeling.
 
 You can also do this all using AI by connecting your agent with the new CLI to the platform. It takes only 15 seconds:
 

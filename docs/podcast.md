@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Event Modeling Podcast
+title: Event Modeling Podcast - with Adam Dymitruk and Martin Dilger
 description: "Join Adam Dymitruk ( the creator of Event Modeling ) and Martin Dilger as they discuss Event Modeling, Event Sourcing, software architecture, and practical"
 ---
 

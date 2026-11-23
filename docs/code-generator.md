@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Build Your Own Code Generator
+title: Event Modeling Code Generator - Build Your Own in 8 Days
 description: "Learn how to build your own code generator from Event Models in 8 days. Each day should take you only 10-15 minutes. You'll learn invaluable lessons that"
 ---
 

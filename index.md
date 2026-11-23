@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Make your Engineering Team AI Ready with Event Modeling - AI-Enabled Software Design
+title: Event Modeling - Make your Engineering Team AI Ready
 description: Build event-driven systems with visual Event Modeling - design, collaborate, and generate code from your event models with AI coding agents.
 keywords: event modeling, event-driven architecture, miro toolkit, event sourcing, visual modeling, software design, collaborative modeling, code generation, AI integration
 author: Martin Dilger

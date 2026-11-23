@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Use Cases - AI-Enabled Event Modeling
+title: Event Modeling Use Cases - AI-Enabled Software Design
 description: Real use cases showing how Event Modeling and AI agents solve concrete engineering problems — from UX discovery to domain modeling workshops.
 keywords: event modeling use cases, AI agents, UX documentation, domain discovery, Claude Code
 author: Martin Dilger

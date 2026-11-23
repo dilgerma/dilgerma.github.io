@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Understanding Event Modeling - The Comprehensive Guide
+title: Event Modeling Book - Understanding Event Modeling, The Comprehensive Guide
 description: The first comprehensive guide to Event Modeling - learn how to design and implement event-driven systems with visual collaboration and practical patterns.
 keywords: event modeling, event-driven architecture, software design, visual modeling, collaborative modeling, system design
 author: Martin Dilger

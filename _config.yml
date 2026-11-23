@@ -1,8 +1,8 @@
 # Site settings
-title: nebulit | Event Modeling Toolkit
-description: Documentation for the EM-Studio - Build event-driven systems with visual modeling
+title: Nebulit
+description: Event Modeling - learn, design and build event-driven systems with the EM-Studio. Tutorials, workshops, blog, podcast and AI code generation from your event models.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.eventmodelers.ai" # the base hostname & protocol for your site
+url: "https://eventmodelers.ai" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -13,6 +13,7 @@ permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # Exclude from processing
 exclude:

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setup
+title: Event Modeling Tool - Get a Free EM-Studio License
 description: "You can use the EM-Studio for free in the Community Edition."
 ---
 
