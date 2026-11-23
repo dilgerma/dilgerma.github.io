@@ -1,5 +1,5 @@
 # Site settings
-title: Nebulit
+title: Applying Event Modeling, Event Sourcing and Vertical Slices
 description: Event Modeling - learn, design and build event-driven systems with the EM-Studio. Tutorials, workshops, blog, podcast and AI code generation from your event models.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eventmodelers.ai" # the base hostname & protocol for your site
